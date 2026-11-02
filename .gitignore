@@ -44,3 +44,7 @@ Thumbs.db
 /team/reports/T037/16-reusable-bag-locking-ties-set-of-3/SUPPLIER-VIDEO-FEED.json
 /team/reports/T037/SUPPLIER-HTML-SAMPLE.html
 /team/reports/T037/WHATMORE-PRODUCT-10.json
+
+# Legacy nested-repository files flagged by credential-pattern review
+/open-dots/README.md
+/open-dots/server/tests/test_remote_computer_provider.py
