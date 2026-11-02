@@ -1,0 +1,5 @@
+{% doc %}
+Renders a decorative line icon for product information cards.
+@param {string} name - Icon name
+{% enddoc %}
+<svg class="bento-icon" viewBox="0 0 32 32" aria-hidden="true" focusable="false"><g fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">{% case name %}{% when 'sparkle' %}<path d="m12 3 3 9 8 3-8 3-3 9-3-9-7-3 7-3 3-9Zm12 0 1.5 4.5L30 9l-4.5 1.5L24 15l-1.5-4.5L18 9l4.5-1.5L24 3Z"/>{% when 'package' %}<rect x="6" y="4" width="20" height="25" rx="2"/><path d="M11 4v5h10V4M11 15h10M11 20h7M11 25h5"/>{% when 'shield' %}<path d="m16 3 11 5v9c0 6-6 10-11 13C11 27 5 23 5 17V8l11-5Z"/><path d="m11 16 4 4 7-8"/>{% when 'truck' %}<path d="M3 6h17v17H3V6Zm17 7h6l4 6v4H20"/><circle cx="9" cy="25" r="3"/><circle cx="25" cy="25" r="3"/><path d="M6 11h8M6 15h5"/>{% when 'returns' %}<path d="M6 10a12 12 0 1 1-2 13M6 3v8H0"/>{% when 'chat' %}<path d="M28 15a12 12 0 0 1-12 12 14 14 0 0 1-6-1L3 30l2-8a12 12 0 1 1 23-7Z"/><path d="M10 11h12M10 16h8"/>{% endcase %}</g></svg>

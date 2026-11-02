@@ -1,0 +1,206 @@
+{
+  "product": {
+    "id": 8427264246070,
+    "title": "Car Cleaning Duster Brush – Multi-Purpose for Home & Upholstery | Velvet Wipe",
+    "body_html": "<p>Achieve a pristine vehicle interior and sparkling home with the <strong>Car Cleaning Duster Brush</strong> by Velvet Wipe. This versatile, multi-purpose tool is expertly designed to tackle dust, dirt, and even stubborn pet hair from car seats, carpets, and various home surfaces. Its uniquely long, soft bristles ensure thorough cleaning without causing any damage to delicate fabrics or finishes, making it an essential addition to your cleaning arsenal. Experience effortless deep cleaning for your car upholstery and a tidy living space.</p><h2>Key features</h2><ul>\n<li>\n<strong>Deep &amp; Gentle Cleaning:</strong> Long, soft bristles effectively reach into crevices, lifting dust, dirt, and pet hair from delicate upholstery and carpets without damage.</li>\n<li>\n<strong>Ergonomic Comfort Grip:</strong> Designed with a comfortable, non-slip handle for extended cleaning sessions, ensuring ease of use and reducing hand fatigue.</li>\n<li>\n<strong>Smart Storage Solution:</strong> Features a convenient wall hanging hole, allowing for quick access and neat, space-saving storage in your garage or utility room.</li>\n<li>\n<strong>Truly Multi-Purpose:</strong> Ideal for car seats, floor mats, dashboards, and also perfect as a home cleaning brush for sofas, curtains, blinds, and other household surfaces.</li>\n<li>\n<strong>Durable Construction:</strong> Built with high-quality materials to withstand repeated use, providing reliable and long-lasting performance for all your cleaning needs.</li>\n</ul><h2>Materials &amp; care</h2><p>To clean your Car Cleaning Duster Brush, simply shake off loose debris or rinse the bristles under cool water. For deeper cleaning, use a mild soap solution, rinse thoroughly, and air dry. Ensure it's completely dry before storing to maintain its effectiveness.</p><h2>FAQ</h2><dl>\n<dt>Q1: Is this car cleaning duster brush safe for all car interior surfaces?</dt>\n<dd>A: Yes, the Velvet Wipe Car Cleaning Duster Brush features soft, long bristles designed to be gentle on delicate surfaces like leather, fabric upholstery, and plastic dashboards, while being highly effective on carpets and mats.</dd>\n<dt>Q2: Can I use this brush for home cleaning as well?</dt>\n<dd>A: Absolutely! This multi-purpose duster brush is perfect as a home cleaning brush for sofas, curtains, blinds, shelves, and other household surfaces, making it a truly versatile tool for your entire home.</dd>\n<dt>Q3: How effective is it at removing pet hair?</dt>\n<dd>A: The specially designed bristles are highly effective at lifting and trapping pet hair from car seats, carpets, and upholstery, making it an excellent pet hair remover for both your vehicle and home.</dd>\n<dt>Q4: How do I clean the duster brush itself?</dt>\n<dd>A: Simply shake off loose debris or rinse the bristles under cool water. For deeper cleaning, use a mild soap solution, rinse thoroughly, and air dry. Ensure it's completely dry before storing.</dd>\n</dl>",
+    "vendor": "Velvet Wipe",
+    "product_type": "Cleaning Duster Brush",
+    "created_at": "2023-06-14T21:33:02+05:30",
+    "handle": "car-cleaning-duster-brush-multi-purpose-home",
+    "updated_at": "2026-10-06T21:16:38+05:30",
+    "published_at": "2023-06-14T21:32:55+05:30",
+    "template_suffix": null,
+    "published_scope": "global",
+    "tags": "41 To 45 Afft, Automotive, c35, c37, Car, China, cleaning, cleaning product, Cleaning Supplies, g176, g777, Handpicked By Mukeem Khan, High Performing, Home Essentials, Household, HP, Industrial, Industrial & Scientific, Internal, Janitorial & Sanitation Supplies, KA, Loose, Motorbike, p5, Shop by Industry, Slow Moving Product, stock",
+    "variants": [
+      {
+        "id": 45513818734902,
+        "product_id": 8427264246070,
+        "title": "Default Title",
+        "price": "73.00",
+        "sku": "4864_cleaning_duster_brush",
+        "position": 1,
+        "compare_at_price": "149.00",
+        "fulfillment_service": "manual",
+        "inventory_management": "shopify",
+        "option1": "Default Title",
+        "option2": null,
+        "option3": null,
+        "created_at": "2023-06-14T21:33:02+05:30",
+        "updated_at": "2026-10-06T21:16:38+05:30",
+        "taxable": true,
+        "barcode": "629782265133",
+        "grams": 159,
+        "image_id": null,
+        "weight": 159,
+        "weight_unit": "g",
+        "requires_shipping": true,
+        "quantity_rule": {
+          "min": 1,
+          "max": null,
+          "increment": 1
+        },
+        "price_currency": "INR",
+        "compare_at_price_currency": "INR",
+        "quantity_price_breaks": []
+      }
+    ],
+    "options": [
+      {
+        "id": 10658971124022,
+        "product_id": 8427264246070,
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "id": 59687999799606,
+        "product_id": 8427264246070,
+        "position": 1,
+        "created_at": "2026-08-13T10:32:08+05:30",
+        "updated_at": "2026-08-13T10:32:09+05:30",
+        "alt": "A red and white handled brush with brown bristles rests on a light counter next to folded towels, with an inset showing it",
+        "width": 1254,
+        "height": 1254,
+        "src": "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/4864.png?v=1786597329",
+        "variant_ids": []
+      },
+      {
+        "id": 57004702662966,
+        "product_id": 8427264246070,
+        "position": 2,
+        "created_at": "2025-11-26T18:30:44+05:30",
+        "updated_at": "2025-11-26T18:31:40+05:30",
+        "alt": "A hand uses a red and white handled brush with brown bristles to clean crumbs off a gray sofa.",
+        "width": 1080,
+        "height": 1080,
+        "src": "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/20671.png?v=1764162100",
+        "variant_ids": []
+      },
+      {
+        "id": 57004702630198,
+        "product_id": 8427264246070,
+        "position": 3,
+        "created_at": "2025-11-26T18:30:43+05:30",
+        "updated_at": "2025-11-26T18:31:40+05:30",
+        "alt": "A four-panel image showing the brush being washed, cleaning a car interior, and a text bubble about its portability.",
+        "width": 1080,
+        "height": 1080,
+        "src": "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/20702.png?v=1764162100",
+        "variant_ids": []
+      },
+      {
+        "id": 41791401034038,
+        "product_id": 8427264246070,
+        "position": 4,
+        "created_at": "2023-06-14T21:33:02+05:30",
+        "updated_at": "2025-11-26T18:31:40+05:30",
+        "alt": "A red and white handled brush with brown bristles lies next to a gray dustpan, surrounded by green dried herbs.",
+        "width": 1500,
+        "height": 1500,
+        "src": "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/04_aa8d24dd-dc3e-42a5-8b99-02291ec5f4c0.jpg?v=1764162100",
+        "variant_ids": []
+      },
+      {
+        "id": 57004702826806,
+        "product_id": 8427264246070,
+        "position": 5,
+        "created_at": "2025-11-26T18:30:44+05:30",
+        "updated_at": "2025-11-26T18:31:40+05:30",
+        "alt": "A hand uses a red and white handled brush with brown bristles to scrub a soapy shower glass door.",
+        "width": 1080,
+        "height": 1080,
+        "src": "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/20704.png?v=1764162100",
+        "variant_ids": []
+      },
+      {
+        "id": 41791400968502,
+        "product_id": 8427264246070,
+        "position": 6,
+        "created_at": "2023-06-14T21:33:02+05:30",
+        "updated_at": "2025-11-26T18:31:40+05:30",
+        "alt": "A red and white handled brush with brown bristles rests inside a gray dustpan filled with pine needles and small red",
+        "width": 1500,
+        "height": 1500,
+        "src": "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/03_6f48a549-f94e-4e18-ba9b-3d9ef8e9b96a.jpg?v=1764162100",
+        "variant_ids": []
+      },
+      {
+        "id": 41791401066806,
+        "product_id": 8427264246070,
+        "position": 7,
+        "created_at": "2023-06-14T21:33:02+05:30",
+        "updated_at": "2025-11-26T18:31:40+05:30",
+        "alt": "A red and white handled brush with brown bristles is shown from the side on a plain white background.",
+        "width": 1500,
+        "height": 1500,
+        "src": "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/02_a5bf247a-f87b-49f8-b97a-931198cc95a2.jpg?v=1764162100",
+        "variant_ids": []
+      },
+      {
+        "id": 57004702695734,
+        "product_id": 8427264246070,
+        "position": 8,
+        "created_at": "2025-11-26T18:30:44+05:30",
+        "updated_at": "2025-11-26T18:31:40+05:30",
+        "alt": "A four-panel image showing the brush cleaning a sofa, a workshop table, and a computer keyboard.",
+        "width": 1080,
+        "height": 1080,
+        "src": "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/20703.png?v=1764162100",
+        "variant_ids": []
+      },
+      {
+        "id": 57004702728502,
+        "product_id": 8427264246070,
+        "position": 9,
+        "created_at": "2025-11-26T18:30:44+05:30",
+        "updated_at": "2025-11-26T18:31:40+05:30",
+        "alt": "A close-up of the red and white handled brush with brown bristles on a dark textured surface, with text about stiff bristles.",
+        "width": 1080,
+        "height": 1080,
+        "src": "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/20705.png?v=1764162100",
+        "variant_ids": []
+      },
+      {
+        "id": 41791401001270,
+        "product_id": 8427264246070,
+        "position": 10,
+        "created_at": "2023-06-14T21:33:02+05:30",
+        "updated_at": "2025-11-26T18:31:40+05:30",
+        "alt": "An extreme close-up of the brown bristles of the red and white handled brush, highlighting their texture.",
+        "width": 1500,
+        "height": 1500,
+        "src": "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/06_6d8e9d2c-9c09-4ae9-88d0-f14b0c33b364.jpg?v=1764162100",
+        "variant_ids": []
+      },
+      {
+        "id": 41791400935734,
+        "product_id": 8427264246070,
+        "position": 11,
+        "created_at": "2023-06-14T21:33:02+05:30",
+        "updated_at": "2025-11-26T18:31:40+05:30",
+        "alt": "Velvet Wipe duster brush designed for cleaning car seats, carpets, and mats.",
+        "width": 1500,
+        "height": 1500,
+        "src": "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/08_3071f61c-ba12-4938-b53b-b903ee2d9dbe.jpg?v=1764162100",
+        "variant_ids": []
+      }
+    ],
+    "image": {
+      "id": 59687999799606,
+      "product_id": 8427264246070,
+      "position": 1,
+      "created_at": "2026-08-13T10:32:08+05:30",
+      "updated_at": "2026-08-13T10:32:09+05:30",
+      "alt": "A red and white handled brush with brown bristles rests on a light counter next to folded towels, with an inset showing it",
+      "width": 1254,
+      "height": 1254,
+      "src": "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/4864.png?v=1786597329",
+      "variant_ids": []
+    }
+  }
+}

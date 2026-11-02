@@ -1,0 +1,9 @@
+{
+  "status": "PASS",
+  "checked_artifacts": 61,
+  "profiles": 22,
+  "tasks": 7,
+  "dependency_cycles": false,
+  "external_runtime": "NOT TESTED",
+  "errors": []
+}

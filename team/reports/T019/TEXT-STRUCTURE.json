@@ -1,0 +1,2426 @@
+[
+  {
+    "path": "AGENTS.md",
+    "lines": 16,
+    "heading_count": 1,
+    "json_valid": null
+  },
+  {
+    "path": "INDIA_DROPSHIPPING_OPERATIONS_MANUAL.md",
+    "lines": 128,
+    "heading_count": 14,
+    "json_valid": null
+  },
+  {
+    "path": "READ_ME_FIRST_ORCHESTRATOR.md",
+    "lines": 32,
+    "heading_count": 3,
+    "json_valid": null
+  },
+  {
+    "path": "ROZMISO-OPERATING-PLAN.md",
+    "lines": 167,
+    "heading_count": 15,
+    "json_valid": null
+  },
+  {
+    "path": "SHOPIFY_DEPLOYMENT_GUIDE.md",
+    "lines": 102,
+    "heading_count": 11,
+    "json_valid": null
+  },
+  {
+    "path": "TEAM_ROSTER_AND_RULES.md",
+    "lines": 113,
+    "heading_count": 11,
+    "json_valid": null
+  },
+  {
+    "path": "test_cdp.js",
+    "lines": 84,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": ".agents/agents/rozmiso-brand-designer.md",
+    "lines": 27,
+    "heading_count": 1,
+    "json_valid": null
+  },
+  {
+    "path": ".agents/agents/rozmiso-campaign-planner.md",
+    "lines": 27,
+    "heading_count": 1,
+    "json_valid": null
+  },
+  {
+    "path": ".agents/agents/rozmiso-catalog-specialist.md",
+    "lines": 27,
+    "heading_count": 1,
+    "json_valid": null
+  },
+  {
+    "path": ".agents/agents/rozmiso-content-producer.md",
+    "lines": 27,
+    "heading_count": 1,
+    "json_valid": null
+  },
+  {
+    "path": ".agents/agents/rozmiso-creative.md",
+    "lines": 36,
+    "heading_count": 4,
+    "json_valid": null
+  },
+  {
+    "path": ".agents/agents/rozmiso-director.md",
+    "lines": 25,
+    "heading_count": 1,
+    "json_valid": null
+  },
+  {
+    "path": ".agents/agents/rozmiso-evidence-auditor.md",
+    "lines": 27,
+    "heading_count": 1,
+    "json_valid": null
+  },
+  {
+    "path": ".agents/agents/rozmiso-finance.md",
+    "lines": 36,
+    "heading_count": 4,
+    "json_valid": null
+  },
+  {
+    "path": ".agents/agents/rozmiso-fulfillment-planner.md",
+    "lines": 27,
+    "heading_count": 1,
+    "json_valid": null
+  },
+  {
+    "path": ".agents/agents/rozmiso-growth-analyst.md",
+    "lines": 27,
+    "heading_count": 1,
+    "json_valid": null
+  },
+  {
+    "path": ".agents/agents/rozmiso-growth.md",
+    "lines": 36,
+    "heading_count": 4,
+    "json_valid": null
+  },
+  {
+    "path": ".agents/agents/rozmiso-hunter.md",
+    "lines": 36,
+    "heading_count": 4,
+    "json_valid": null
+  },
+  {
+    "path": ".agents/agents/rozmiso-launch-qa.md",
+    "lines": 27,
+    "heading_count": 1,
+    "json_valid": null
+  },
+  {
+    "path": ".agents/agents/rozmiso-margin-analyst.md",
+    "lines": 27,
+    "heading_count": 1,
+    "json_valid": null
+  },
+  {
+    "path": ".agents/agents/rozmiso-operations.md",
+    "lines": 36,
+    "heading_count": 4,
+    "json_valid": null
+  },
+  {
+    "path": ".agents/agents/rozmiso-product-verifier.md",
+    "lines": 27,
+    "heading_count": 1,
+    "json_valid": null
+  },
+  {
+    "path": ".agents/agents/rozmiso-settlement-analyst.md",
+    "lines": 27,
+    "heading_count": 1,
+    "json_valid": null
+  },
+  {
+    "path": ".agents/agents/rozmiso-shield.md",
+    "lines": 36,
+    "heading_count": 4,
+    "json_valid": null
+  },
+  {
+    "path": ".agents/agents/rozmiso-store.md",
+    "lines": 36,
+    "heading_count": 4,
+    "json_valid": null
+  },
+  {
+    "path": ".agents/agents/rozmiso-supplier-researcher.md",
+    "lines": 27,
+    "heading_count": 1,
+    "json_valid": null
+  },
+  {
+    "path": ".agents/agents/rozmiso-support-drafter.md",
+    "lines": 27,
+    "heading_count": 1,
+    "json_valid": null
+  },
+  {
+    "path": ".agents/agents/rozmiso-theme-developer.md",
+    "lines": 27,
+    "heading_count": 1,
+    "json_valid": null
+  },
+  {
+    "path": "automation/all_in_one_import_products.js",
+    "lines": 109,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "automation/auto_setup_shopify.js",
+    "lines": 80,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "automation/bot_upload_theme.js",
+    "lines": 99,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "automation/check_browser.js",
+    "lines": 38,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "automation/check_csv.js",
+    "lines": 37,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "automation/check_frames.js",
+    "lines": 35,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "automation/check_products_now.js",
+    "lines": 22,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "automation/click_import.js",
+    "lines": 106,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "automation/click_s_internal_button.js",
+    "lines": 125,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "automation/confirm_product_import.js",
+    "lines": 85,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "automation/connect_chrome.js",
+    "lines": 49,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "automation/debug_modal.js",
+    "lines": 45,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "automation/do_import_products.js",
+    "lines": 98,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "automation/do_themes_upload.js",
+    "lines": 54,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "automation/do_theme_upload.js",
+    "lines": 104,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "automation/execute_product_import.js",
+    "lines": 91,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "automation/execute_theme_upload.js",
+    "lines": 112,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "automation/find_import_button.js",
+    "lines": 30,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "automation/generate_valid_csv.js",
+    "lines": 297,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "automation/inspect_and_click.js",
+    "lines": 111,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "automation/inspect_shopify.js",
+    "lines": 30,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "automation/launch_store_setup.js",
+    "lines": 31,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "automation/list_all_tabs.js",
+    "lines": 23,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "automation/open_and_deploy_theme.js",
+    "lines": 170,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "automation/package-lock.json",
+    "lines": 303,
+    "heading_count": 0,
+    "json_valid": true
+  },
+  {
+    "path": "automation/package.json",
+    "lines": 6,
+    "heading_count": 0,
+    "json_valid": true
+  },
+  {
+    "path": "automation/publish_and_import_products.js",
+    "lines": 134,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "automation/publish_theme.js",
+    "lines": 78,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "automation/retry_import.js",
+    "lines": 120,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "automation/shopify_bot.js",
+    "lines": 69,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "automation/submit_product_import.js",
+    "lines": 69,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "automation/test_ws.js",
+    "lines": 37,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "automation/upload_and_publish_new_theme.js",
+    "lines": 180,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "automation/upload_theme_success.js",
+    "lines": 124,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "automation/validate_all_theme_files.js",
+    "lines": 27,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "gideon/config.py",
+    "lines": 40,
+    "heading_count": 1,
+    "json_valid": null
+  },
+  {
+    "path": "gideon/README.md",
+    "lines": 113,
+    "heading_count": 11,
+    "json_valid": null
+  },
+  {
+    "path": "gideon/run_gideon.py",
+    "lines": 31,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "gideon/test_kernel.py",
+    "lines": 107,
+    "heading_count": 2,
+    "json_valid": null
+  },
+  {
+    "path": "gideon/gideon/ipc.py",
+    "lines": 88,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "gideon/gideon/kernel.py",
+    "lines": 295,
+    "heading_count": 1,
+    "json_valid": null
+  },
+  {
+    "path": "gideon/gideon/memory.py",
+    "lines": 95,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "gideon/gideon/process.py",
+    "lines": 80,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "gideon/gideon/server.py",
+    "lines": 236,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "gideon/gideon/shell.py",
+    "lines": 178,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "gideon/gideon/__init__.py",
+    "lines": 8,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "gideon/gideon/drivers/base.py",
+    "lines": 22,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "gideon/gideon/drivers/fs_driver.py",
+    "lines": 51,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "gideon/gideon/drivers/llm_driver.py",
+    "lines": 70,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "gideon/gideon/drivers/tool_driver.py",
+    "lines": 80,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "gideon/gideon/drivers/__init__.py",
+    "lines": 9,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "gideon/workspace/test_trace.txt",
+    "lines": 1,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "knowledge/BRAND_IDENTITY_AND_DOMAINS.md",
+    "lines": 87,
+    "heading_count": 8,
+    "json_valid": null
+  },
+  {
+    "path": "knowledge/cod_and_rto_playbook.md",
+    "lines": 55,
+    "heading_count": 7,
+    "json_valid": null
+  },
+  {
+    "path": "knowledge/domestic_suppliers_guide.md",
+    "lines": 55,
+    "heading_count": 8,
+    "json_valid": null
+  },
+  {
+    "path": "knowledge/hidden_costs_and_gst_playbook.md",
+    "lines": 142,
+    "heading_count": 14,
+    "json_valid": null
+  },
+  {
+    "path": "knowledge/indian_ecommerce_unit_economics.md",
+    "lines": 55,
+    "heading_count": 4,
+    "json_valid": null
+  },
+  {
+    "path": "knowledge/legal_gst_and_payments.md",
+    "lines": 49,
+    "heading_count": 6,
+    "json_valid": null
+  },
+  {
+    "path": "knowledge/MINISO_MEESHO_BRAND_NAMES.md",
+    "lines": 68,
+    "heading_count": 7,
+    "json_valid": null
+  },
+  {
+    "path": "knowledge/top_winning_products_india_2026.md",
+    "lines": 119,
+    "heading_count": 12,
+    "json_valid": null
+  },
+  {
+    "path": "knowledge/WINNING_PRODUCTS_AND_HIDDEN_COSTS_REPORT.md",
+    "lines": 155,
+    "heading_count": 14,
+    "json_valid": null
+  },
+  {
+    "path": "open-dots/README.md",
+    "lines": 148,
+    "heading_count": 12,
+    "json_valid": null
+  },
+  {
+    "path": "open-dots/seed_agents.py",
+    "lines": 218,
+    "heading_count": 2,
+    "json_valid": null
+  },
+  {
+    "path": "open-dots/verify_team.py",
+    "lines": 60,
+    "heading_count": 1,
+    "json_valid": null
+  },
+  {
+    "path": "open-dots/client/.eslintrc.json",
+    "lines": 3,
+    "heading_count": 0,
+    "json_valid": true
+  },
+  {
+    "path": "open-dots/client/jsconfig.json",
+    "lines": 8,
+    "heading_count": 0,
+    "json_valid": true
+  },
+  {
+    "path": "open-dots/client/next.config.mjs",
+    "lines": 6,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "open-dots/client/package-lock.json",
+    "lines": 7121,
+    "heading_count": 0,
+    "json_valid": true
+  },
+  {
+    "path": "open-dots/client/package.json",
+    "lines": 28,
+    "heading_count": 0,
+    "json_valid": true
+  },
+  {
+    "path": "open-dots/client/postcss.config.mjs",
+    "lines": 7,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "open-dots/client/tailwind.config.js",
+    "lines": 29,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "open-dots/client/app/globals.css",
+    "lines": 87,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "open-dots/client/app/layout.js",
+    "lines": 21,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "open-dots/client/app/not-found.js",
+    "lines": 21,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "open-dots/client/app/page.js",
+    "lines": 76,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "open-dots/client/app/alternatives/[competitor]/page.js",
+    "lines": 152,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "open-dots/client/app/app/layout.js",
+    "lines": 9,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "open-dots/client/app/app/page.js",
+    "lines": 7,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "open-dots/client/components/ApprovalCard.jsx",
+    "lines": 87,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "open-dots/client/components/AppSettingsDrawer.jsx",
+    "lines": 232,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "open-dots/client/components/AuditPanel.jsx",
+    "lines": 118,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "open-dots/client/components/AuthenticationGate.jsx",
+    "lines": 72,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "open-dots/client/components/ChatWindow.jsx",
+    "lines": 415,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "open-dots/client/components/ComputerPanel.jsx",
+    "lines": 321,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "open-dots/client/components/Dashboard.jsx",
+    "lines": 154,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "open-dots/client/components/Marketplace.jsx",
+    "lines": 334,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "open-dots/client/components/MascotAvatar.jsx",
+    "lines": 78,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "open-dots/client/components/MessageItem.jsx",
+    "lines": 99,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "open-dots/client/components/ModelPicker.jsx",
+    "lines": 270,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "open-dots/client/components/SettingsModal.jsx",
+    "lines": 176,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "open-dots/client/components/Sidebar.jsx",
+    "lines": 246,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "open-dots/client/lib/api.js",
+    "lines": 368,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "open-dots/runtime/driver.mjs",
+    "lines": 227,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "open-dots/runtime/package.json",
+    "lines": 8,
+    "heading_count": 0,
+    "json_valid": true
+  },
+  {
+    "path": "open-dots/server/requirements.txt",
+    "lines": 8,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "open-dots/server/run.py",
+    "lines": 10,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "open-dots/server/app/config.py",
+    "lines": 77,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "open-dots/server/app/main.py",
+    "lines": 86,
+    "heading_count": 1,
+    "json_valid": null
+  },
+  {
+    "path": "open-dots/server/app/__init__.py",
+    "lines": 1,
+    "heading_count": 1,
+    "json_valid": null
+  },
+  {
+    "path": "open-dots/server/app/routers/approvals.py",
+    "lines": 20,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "open-dots/server/app/routers/audit.py",
+    "lines": 11,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "open-dots/server/app/routers/auth.py",
+    "lines": 62,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "open-dots/server/app/routers/bots.py",
+    "lines": 78,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "open-dots/server/app/routers/chat.py",
+    "lines": 256,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "open-dots/server/app/routers/computers.py",
+    "lines": 178,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "open-dots/server/app/routers/connectors.py",
+    "lines": 177,
+    "heading_count": 3,
+    "json_valid": null
+  },
+  {
+    "path": "open-dots/server/app/routers/models.py",
+    "lines": 66,
+    "heading_count": 1,
+    "json_valid": null
+  },
+  {
+    "path": "open-dots/server/app/routers/settings.py",
+    "lines": 16,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "open-dots/server/app/routers/upload.py",
+    "lines": 59,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "open-dots/server/app/schemas/contracts.py",
+    "lines": 127,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "open-dots/server/app/services/action_gateway.py",
+    "lines": 431,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "open-dots/server/app/services/approval_broker.py",
+    "lines": 103,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "open-dots/server/app/services/auth_service.py",
+    "lines": 108,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "open-dots/server/app/services/composio_service.py",
+    "lines": 219,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "open-dots/server/app/services/computer_actions.py",
+    "lines": 225,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "open-dots/server/app/services/computer_provider.py",
+    "lines": 374,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "open-dots/server/app/services/connector_actions.py",
+    "lines": 151,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "open-dots/server/app/services/database.py",
+    "lines": 172,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "open-dots/server/app/services/docker_computer_provider.py",
+    "lines": 508,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "open-dots/server/app/services/endpoint_mapping.json",
+    "lines": 618,
+    "heading_count": 0,
+    "json_valid": true
+  },
+  {
+    "path": "open-dots/server/app/services/provider_service.py",
+    "lines": 287,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "open-dots/server/app/services/remote_computer_provider.py",
+    "lines": 475,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "open-dots/server/app/services/search_actions.py",
+    "lines": 67,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "open-dots/server/app/services/secret_store.py",
+    "lines": 44,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "open-dots/server/app/services/storage_service.py",
+    "lines": 453,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "open-dots/server/app/services/workspace_service.py",
+    "lines": 146,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "open-dots/server/app/services/youcom_service.py",
+    "lines": 180,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "open-dots/server/tests/test_action_gateway.py",
+    "lines": 302,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "open-dots/server/tests/test_auth.py",
+    "lines": 74,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "open-dots/server/tests/test_auth_security.py",
+    "lines": 148,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "open-dots/server/tests/test_bots.py",
+    "lines": 48,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "open-dots/server/tests/test_bot_deletion.py",
+    "lines": 104,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "open-dots/server/tests/test_computer_provider.py",
+    "lines": 270,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "open-dots/server/tests/test_connector_actions.py",
+    "lines": 217,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "open-dots/server/tests/test_docker_computer_provider.py",
+    "lines": 178,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "open-dots/server/tests/test_provider_settings.py",
+    "lines": 93,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "open-dots/server/tests/test_record_ids.py",
+    "lines": 99,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "open-dots/server/tests/test_remote_computer_provider.py",
+    "lines": 119,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "open-dots/server/tests/test_responses_provider.py",
+    "lines": 151,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "open-dots/server/tests/test_search_actions.py",
+    "lines": 248,
+    "heading_count": 2,
+    "json_valid": null
+  },
+  {
+    "path": "open-dots/server/tests/test_storage_service.py",
+    "lines": 187,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "open-dots/server/tests/test_workspace_service.py",
+    "lines": 70,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "operations/master_marketing_and_funnel_playbook.md",
+    "lines": 168,
+    "heading_count": 13,
+    "json_valid": null
+  },
+  {
+    "path": "operations/sample_winning_product_brief.md",
+    "lines": 120,
+    "heading_count": 15,
+    "json_valid": null
+  },
+  {
+    "path": "operations/winning_product_brief_astronaut_projector.md",
+    "lines": 118,
+    "heading_count": 14,
+    "json_valid": null
+  },
+  {
+    "path": "operations/winning_product_brief_electric_vegetable_chopper.md",
+    "lines": 117,
+    "heading_count": 14,
+    "json_valid": null
+  },
+  {
+    "path": "operations/winning_product_brief_ems_foot_massager.md",
+    "lines": 117,
+    "heading_count": 14,
+    "json_valid": null
+  },
+  {
+    "path": "operations/brand-2026-10-06/BRAND-GUIDE.md",
+    "lines": 35,
+    "heading_count": 6,
+    "json_valid": null
+  },
+  {
+    "path": "operations/brand-2026-10-06/make-icons.cjs",
+    "lines": 7,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "operations/brand-2026-10-06/prepare-brand.cjs",
+    "lines": 58,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "operations/brand-direction-2026-10-06/approved.css",
+    "lines": 13,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "operations/brand-direction-2026-10-06/build_brand.py",
+    "lines": 162,
+    "heading_count": 3,
+    "json_valid": null
+  },
+  {
+    "path": "operations/brand-direction-2026-10-06/CEO-PLAN.md",
+    "lines": 53,
+    "heading_count": 7,
+    "json_valid": null
+  },
+  {
+    "path": "operations/brand-direction-2026-10-06/close-review.cjs",
+    "lines": 20,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "operations/brand-direction-2026-10-06/finalize.cjs",
+    "lines": 55,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "operations/brand-direction-2026-10-06/implement.cjs",
+    "lines": 81,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "operations/brand-direction-2026-10-06/preview.cjs",
+    "lines": 24,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "operations/brand-direction-2026-10-06/render-kit.cjs",
+    "lines": 16,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "operations/brand-direction-2026-10-06/responsive.css",
+    "lines": 13,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "operations/brand-direction-2026-10-06/VALIDATION.json",
+    "lines": 9,
+    "heading_count": 0,
+    "json_valid": true
+  },
+  {
+    "path": "operations/brand-direction-2026-10-06/fonts/DM-Sans-OFL.txt",
+    "lines": 93,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "operations/brand-direction-2026-10-06/fonts/OFL.txt",
+    "lines": 93,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "operations/brand-direction-2026-10-06/review-kit/DM-SANS-FONT-LICENSE.txt",
+    "lines": 93,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "operations/brand-direction-2026-10-06/review-kit/FONT-LICENSE.txt",
+    "lines": 93,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "operations/brand-direction-2026-10-06/review-kit/README.md",
+    "lines": 27,
+    "heading_count": 4,
+    "json_valid": null
+  },
+  {
+    "path": "operations/catalog-expansion-2026-10-06/media/AI-PRESENTATION.md",
+    "lines": 13,
+    "heading_count": 1,
+    "json_valid": null
+  },
+  {
+    "path": "operations/catalog-expansion-2026-10-06/media/DEMO-SEARCH.md",
+    "lines": 24,
+    "heading_count": 2,
+    "json_valid": null
+  },
+  {
+    "path": "operations/catalog-expansion-2026-10-06/media/download-galleries.ps1",
+    "lines": 26,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "operations/catalog-expansion-2026-10-06/media/gallery.json",
+    "lines": 722,
+    "heading_count": 0,
+    "json_valid": true
+  },
+  {
+    "path": "operations/catalog-expansion-2026-10-06/media/IMAGE-VALIDATION.json",
+    "lines": 8,
+    "heading_count": 0,
+    "json_valid": true
+  },
+  {
+    "path": "operations/catalog-expansion-2026-10-06/media/video-manifest.json",
+    "lines": 142,
+    "heading_count": 0,
+    "json_valid": true
+  },
+  {
+    "path": "operations/catalog-expansion-2026-10-06/research/3-in-1-multifunctional-cleaning-brush.js.json",
+    "lines": 246,
+    "heading_count": 0,
+    "json_valid": true
+  },
+  {
+    "path": "operations/catalog-expansion-2026-10-06/research/3-in-1-multifunctional-cleaning-brush.json",
+    "lines": 182,
+    "heading_count": 0,
+    "json_valid": true
+  },
+  {
+    "path": "operations/catalog-expansion-2026-10-06/research/car-cleaning-duster-brush-multi-purpose-home.js.json",
+    "lines": 284,
+    "heading_count": 0,
+    "json_valid": true
+  },
+  {
+    "path": "operations/catalog-expansion-2026-10-06/research/car-cleaning-duster-brush-multi-purpose-home.json",
+    "lines": 206,
+    "heading_count": 0,
+    "json_valid": true
+  },
+  {
+    "path": "operations/catalog-expansion-2026-10-06/research/compact-plastic-cable-organizer-case-1-pc.js.json",
+    "lines": 225,
+    "heading_count": 0,
+    "json_valid": true
+  },
+  {
+    "path": "operations/catalog-expansion-2026-10-06/research/compact-plastic-cable-organizer-case-1-pc.json",
+    "lines": 170,
+    "heading_count": 0,
+    "json_valid": true
+  },
+  {
+    "path": "operations/catalog-expansion-2026-10-06/research/crevice-cleaning-brush-23cm-ultra-thin-tight.js.json",
+    "lines": 236,
+    "heading_count": 0,
+    "json_valid": true
+  },
+  {
+    "path": "operations/catalog-expansion-2026-10-06/research/crevice-cleaning-brush-23cm-ultra-thin-tight.json",
+    "lines": 170,
+    "heading_count": 0,
+    "json_valid": true
+  },
+  {
+    "path": "operations/catalog-expansion-2026-10-06/research/flexible-silicone-sink-strainer-drain-hair-catcher.js.json",
+    "lines": 228,
+    "heading_count": 0,
+    "json_valid": true
+  },
+  {
+    "path": "operations/catalog-expansion-2026-10-06/research/flexible-silicone-sink-strainer-drain-hair-catcher.json",
+    "lines": 170,
+    "heading_count": 0,
+    "json_valid": true
+  },
+  {
+    "path": "operations/catalog-expansion-2026-10-06/research/foldable-mesh-laundry-basket-clothes-storage-bag-1-pc-22754.js.json",
+    "lines": 254,
+    "heading_count": 0,
+    "json_valid": true
+  },
+  {
+    "path": "operations/catalog-expansion-2026-10-06/research/foldable-mesh-laundry-basket-clothes-storage-bag-1-pc-22754.json",
+    "lines": 194,
+    "heading_count": 0,
+    "json_valid": true
+  },
+  {
+    "path": "operations/catalog-expansion-2026-10-06/research/glass-cleaning-duster-cloth-set-for-kitchen-and-window-cleaning-3-pc-50x33-cm.js.json",
+    "lines": 239,
+    "heading_count": 0,
+    "json_valid": true
+  },
+  {
+    "path": "operations/catalog-expansion-2026-10-06/research/glass-cleaning-duster-cloth-set-for-kitchen-and-window-cleaning-3-pc-50x33-cm.json",
+    "lines": 182,
+    "heading_count": 0,
+    "json_valid": true
+  },
+  {
+    "path": "operations/catalog-expansion-2026-10-06/research/multipurpose-bottle-attachable-cleaning-brush-for-kitchen-and-bathroom-1-pc.js.json",
+    "lines": 279,
+    "heading_count": 0,
+    "json_valid": true
+  },
+  {
+    "path": "operations/catalog-expansion-2026-10-06/research/multipurpose-bottle-attachable-cleaning-brush-for-kitchen-and-bathroom-1-pc.json",
+    "lines": 206,
+    "heading_count": 0,
+    "json_valid": true
+  },
+  {
+    "path": "operations/catalog-expansion-2026-10-06/research/multipurpose-cleaning-cloth-towel-40x40cm-microfiber-duster-for-kitchen-home-1-pc.js.json",
+    "lines": 252,
+    "heading_count": 0,
+    "json_valid": true
+  },
+  {
+    "path": "operations/catalog-expansion-2026-10-06/research/multipurpose-cleaning-cloth-towel-40x40cm-microfiber-duster-for-kitchen-home-1-pc.json",
+    "lines": 182,
+    "heading_count": 0,
+    "json_valid": true
+  },
+  {
+    "path": "operations/catalog-expansion-2026-10-06/research/premium-extendable-round-cleaning-duster-83-5-cm-1-pc.js.json",
+    "lines": 261,
+    "heading_count": 0,
+    "json_valid": true
+  },
+  {
+    "path": "operations/catalog-expansion-2026-10-06/research/premium-extendable-round-cleaning-duster-83-5-cm-1-pc.json",
+    "lines": 194,
+    "heading_count": 0,
+    "json_valid": true
+  },
+  {
+    "path": "operations/catalog-expansion-2026-10-06/research/premium-foldable-travel-pouch-bag-hanging-toiletry-organiser-kit-1-pc.js.json",
+    "lines": 244,
+    "heading_count": 0,
+    "json_valid": true
+  },
+  {
+    "path": "operations/catalog-expansion-2026-10-06/research/premium-foldable-travel-pouch-bag-hanging-toiletry-organiser-kit-1-pc.json",
+    "lines": 182,
+    "heading_count": 0,
+    "json_valid": true
+  },
+  {
+    "path": "operations/catalog-expansion-2026-10-06/research/products.json",
+    "lines": 1124,
+    "heading_count": 0,
+    "json_valid": true
+  },
+  {
+    "path": "operations/catalog-expansion-2026-10-06/research/protective-mesh-underwear-laundry-wash-bag-with-zipper-for-machine-wash-1-pc.js.json",
+    "lines": 238,
+    "heading_count": 0,
+    "json_valid": true
+  },
+  {
+    "path": "operations/catalog-expansion-2026-10-06/research/protective-mesh-underwear-laundry-wash-bag-with-zipper-for-machine-wash-1-pc.json",
+    "lines": 182,
+    "heading_count": 0,
+    "json_valid": true
+  },
+  {
+    "path": "operations/catalog-expansion-2026-10-06/research/reusable-sticky-lint-roller-with-handle-1-set.js.json",
+    "lines": 219,
+    "heading_count": 0,
+    "json_valid": true
+  },
+  {
+    "path": "operations/catalog-expansion-2026-10-06/research/reusable-sticky-lint-roller-with-handle-1-set.json",
+    "lines": 170,
+    "heading_count": 0,
+    "json_valid": true
+  },
+  {
+    "path": "operations/catalog-expansion-2026-10-06/research/rozmiso-11-products-import.csv",
+    "lines": 12,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "operations/catalog-expansion-2026-10-06/research/self-adhesive-plastic-wire-cable-organizer-clips-for-home-and-office-20-pieces.js.json",
+    "lines": 244,
+    "heading_count": 0,
+    "json_valid": true
+  },
+  {
+    "path": "operations/catalog-expansion-2026-10-06/research/self-adhesive-plastic-wire-cable-organizer-clips-for-home-and-office-20-pieces.json",
+    "lines": 182,
+    "heading_count": 0,
+    "json_valid": true
+  },
+  {
+    "path": "operations/catalog-expansion-2026-10-06/research/silicone-food-bag-clips-reusable-sealing-lock.js.json",
+    "lines": 257,
+    "heading_count": 0,
+    "json_valid": true
+  },
+  {
+    "path": "operations/catalog-expansion-2026-10-06/research/silicone-food-bag-clips-reusable-sealing-lock.json",
+    "lines": 194,
+    "heading_count": 0,
+    "json_valid": true
+  },
+  {
+    "path": "operations/catalog-expansion-2026-10-06/research/window-groove-cleaning-brush-slim-crevice-cleaner.js.json",
+    "lines": 253,
+    "heading_count": 0,
+    "json_valid": true
+  },
+  {
+    "path": "operations/catalog-expansion-2026-10-06/research/window-groove-cleaning-brush-slim-crevice-cleaner.json",
+    "lines": 170,
+    "heading_count": 0,
+    "json_valid": true
+  },
+  {
+    "path": "operations/home-2026-10-06/home.css",
+    "lines": 4,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "operations/home-2026-10-06/redesign.cjs",
+    "lines": 34,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "operations/launch-2026-10-05/2-in-1-plastic-soap-dispenser-cleaning-brush-for-kitchen-and-bathroom-use-1-pc.json",
+    "lines": 239,
+    "heading_count": 0,
+    "json_valid": true
+  },
+  {
+    "path": "operations/launch-2026-10-05/5-in-1-electric-cleaning-brush-rechargeable-spin-scrubber-for-bathroom-1-set.json",
+    "lines": 244,
+    "heading_count": 0,
+    "json_valid": true
+  },
+  {
+    "path": "operations/launch-2026-10-05/astronaut-galaxy-star-projector-night-light-1-pc.json",
+    "lines": 241,
+    "heading_count": 0,
+    "json_valid": true
+  },
+  {
+    "path": "operations/launch-2026-10-05/build-ecommerce-features.cjs",
+    "lines": 48,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "operations/launch-2026-10-05/build-margins.mjs",
+    "lines": 50,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "operations/launch-2026-10-05/build-theme.cjs",
+    "lines": 53,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "operations/launch-2026-10-05/catalog.json",
+    "lines": 94,
+    "heading_count": 0,
+    "json_valid": true
+  },
+  {
+    "path": "operations/launch-2026-10-05/ecommerce-features.css",
+    "lines": 6,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "operations/launch-2026-10-05/ecommerce-features.js",
+    "lines": 107,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "operations/launch-2026-10-05/electric-lint-remover-with-brush-1-pc.json",
+    "lines": 251,
+    "heading_count": 0,
+    "json_valid": true
+  },
+  {
+    "path": "operations/launch-2026-10-05/feature-change-files.json",
+    "lines": 1,
+    "heading_count": 0,
+    "json_valid": true
+  },
+  {
+    "path": "operations/launch-2026-10-05/improve-shopping.cjs",
+    "lines": 26,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "operations/launch-2026-10-05/margin-results.json",
+    "lines": 26,
+    "heading_count": 0,
+    "json_valid": true
+  },
+  {
+    "path": "operations/launch-2026-10-05/multipurpose-travel-organizer-bag-lightweight-storage-pouch-for-travel-1-pc.json",
+    "lines": 245,
+    "heading_count": 0,
+    "json_valid": true
+  },
+  {
+    "path": "operations/launch-2026-10-05/prepare-catalog.cjs",
+    "lines": 10,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "operations/launch-2026-10-05/shopify-catalog-records.json",
+    "lines": 230,
+    "heading_count": 0,
+    "json_valid": true
+  },
+  {
+    "path": "operations/launch-2026-10-05/shopping-change-files.json",
+    "lines": 1,
+    "heading_count": 0,
+    "json_valid": true
+  },
+  {
+    "path": "operations/launch-2026-10-05/SHOPPING-UPDATE.md",
+    "lines": 17,
+    "heading_count": 1,
+    "json_valid": null
+  },
+  {
+    "path": "operations/launch-2026-10-05/travel-multi-pocket-toiletry-bag-hanging-cosmetic-makeup-organizer-pouch-1-pc.json",
+    "lines": 261,
+    "heading_count": 0,
+    "json_valid": true
+  },
+  {
+    "path": "operations/launch-2026-10-05/theme-tools/commerce-flow.test.cjs",
+    "lines": 35,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "operations/launch-2026-10-05/theme-tools/package-lock.json",
+    "lines": 1039,
+    "heading_count": 0,
+    "json_valid": true
+  },
+  {
+    "path": "operations/launch-2026-10-05/theme-tools/package.json",
+    "lines": 9,
+    "heading_count": 0,
+    "json_valid": true
+  },
+  {
+    "path": "operations/launch-2026-10-05/theme-tools/validate.mjs",
+    "lines": 25,
+    "heading_count": 1,
+    "json_valid": null
+  },
+  {
+    "path": "operations/launch-prep-2026-10-06/build-tracker.mjs",
+    "lines": 46,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "operations/launch-prep-2026-10-06/prepare-store.cjs",
+    "lines": 19,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "operations/product-media-2026-10-06/2-in-1-plastic-soap-dispenser-cleaning-brush-for-kitchen-and-bathroom-use-1-pc.json",
+    "lines": 239,
+    "heading_count": 0,
+    "json_valid": true
+  },
+  {
+    "path": "operations/product-media-2026-10-06/5-in-1-electric-cleaning-brush-rechargeable-spin-scrubber-for-bathroom-1-set.json",
+    "lines": 244,
+    "heading_count": 0,
+    "json_valid": true
+  },
+  {
+    "path": "operations/product-media-2026-10-06/AI-PROMPTS.md",
+    "lines": 27,
+    "heading_count": 6,
+    "json_valid": null
+  },
+  {
+    "path": "operations/product-media-2026-10-06/electric-lint-remover-with-brush-1-pc.json",
+    "lines": 251,
+    "heading_count": 0,
+    "json_valid": true
+  },
+  {
+    "path": "operations/product-media-2026-10-06/GALLERY-URLS.md",
+    "lines": 42,
+    "heading_count": 1,
+    "json_valid": null
+  },
+  {
+    "path": "operations/product-media-2026-10-06/media-manifest.json",
+    "lines": 614,
+    "heading_count": 0,
+    "json_valid": true
+  },
+  {
+    "path": "operations/product-media-2026-10-06/multipurpose-travel-organizer-bag-lightweight-storage-pouch-for-travel-1-pc.json",
+    "lines": 245,
+    "heading_count": 0,
+    "json_valid": true
+  },
+  {
+    "path": "operations/product-media-2026-10-06/prepare-theme.cjs",
+    "lines": 49,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "operations/product-media-2026-10-06/preview.cjs",
+    "lines": 25,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "operations/product-media-2026-10-06/SHIVA-MANUAL-HANDOFF.md",
+    "lines": 33,
+    "heading_count": 4,
+    "json_valid": null
+  },
+  {
+    "path": "operations/product-media-2026-10-06/SUPPLIER-ENQUIRY-READY.md",
+    "lines": 32,
+    "heading_count": 1,
+    "json_valid": null
+  },
+  {
+    "path": "operations/team-2026-10-06/finalize-team.cjs",
+    "lines": 20,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "operations/team-2026-10-06/MANIFEST.json",
+    "lines": 90,
+    "heading_count": 0,
+    "json_valid": true
+  },
+  {
+    "path": "operations/team-2026-10-06/prepare-native-run.cjs",
+    "lines": 8,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "operations/team-2026-10-06/SETUP-RESULTS.md",
+    "lines": 17,
+    "heading_count": 1,
+    "json_valid": null
+  },
+  {
+    "path": "operations/team-2026-10-06/setup-team.cjs",
+    "lines": 310,
+    "heading_count": 21,
+    "json_valid": null
+  },
+  {
+    "path": "operations/team-2026-10-06/validate-team.cjs",
+    "lines": 59,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "operations/team-2026-10-06/VALIDATION.json",
+    "lines": 9,
+    "heading_count": 0,
+    "json_valid": true
+  },
+  {
+    "path": "operations/team-2026-10-06/cli-setup/install-official.ps1",
+    "lines": 172,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "outputs/01a10c16-2853-7d31-beb1-8ba2ec9f15d6/BRAND-GUIDE.md",
+    "lines": 35,
+    "heading_count": 6,
+    "json_valid": null
+  },
+  {
+    "path": "outputs/01a10c16-2853-7d31-beb1-8ba2ec9f15d6/BRAND-REFRESH-VALIDATION.md",
+    "lines": 15,
+    "heading_count": 1,
+    "json_valid": null
+  },
+  {
+    "path": "outputs/01a10c16-2853-7d31-beb1-8ba2ec9f15d6/BUSINESS-DETAILS.md",
+    "lines": 25,
+    "heading_count": 1,
+    "json_valid": null
+  },
+  {
+    "path": "outputs/01a10c16-2853-7d31-beb1-8ba2ec9f15d6/CUSTOMER-POLICY-DRAFTS.md",
+    "lines": 36,
+    "heading_count": 6,
+    "json_valid": null
+  },
+  {
+    "path": "outputs/01a10c16-2853-7d31-beb1-8ba2ec9f15d6/ECOMMERCE-FEATURES.md",
+    "lines": 29,
+    "heading_count": 6,
+    "json_valid": null
+  },
+  {
+    "path": "outputs/01a10c16-2853-7d31-beb1-8ba2ec9f15d6/HOMEPAGE-REDESIGN.md",
+    "lines": 19,
+    "heading_count": 1,
+    "json_valid": null
+  },
+  {
+    "path": "outputs/01a10c16-2853-7d31-beb1-8ba2ec9f15d6/LAUNCH-PREP-RESULTS.md",
+    "lines": 23,
+    "heading_count": 4,
+    "json_valid": null
+  },
+  {
+    "path": "outputs/01a10c16-2853-7d31-beb1-8ba2ec9f15d6/LAUNCH-STATUS.md",
+    "lines": 57,
+    "heading_count": 6,
+    "json_valid": null
+  },
+  {
+    "path": "outputs/01a10c16-2853-7d31-beb1-8ba2ec9f15d6/MARKETING-AND-OPERATIONS.md",
+    "lines": 64,
+    "heading_count": 10,
+    "json_valid": null
+  },
+  {
+    "path": "outputs/01a10c16-2853-7d31-beb1-8ba2ec9f15d6/SALES-LAUNCH-PLAN.md",
+    "lines": 45,
+    "heading_count": 7,
+    "json_valid": null
+  },
+  {
+    "path": "outputs/01a10c16-2853-7d31-beb1-8ba2ec9f15d6/START-HERE.md",
+    "lines": 46,
+    "heading_count": 6,
+    "json_valid": null
+  },
+  {
+    "path": "outputs/01a10c16-2853-7d31-beb1-8ba2ec9f15d6/SUPPLIER-ENQUIRY.md",
+    "lines": 37,
+    "heading_count": 2,
+    "json_valid": null
+  },
+  {
+    "path": "rozmiso-studio-theme/assets/DM-Sans-OFL.txt",
+    "lines": 93,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "rozmiso-studio-theme/assets/Manrope-OFL.txt",
+    "lines": 93,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "rozmiso-studio-theme/assets/studio.css",
+    "lines": 37,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "rozmiso-studio-theme/assets/studio.js",
+    "lines": 114,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "rozmiso-studio-theme/config/settings_data.json",
+    "lines": 6,
+    "heading_count": 0,
+    "json_valid": true
+  },
+  {
+    "path": "rozmiso-studio-theme/config/settings_schema.json",
+    "lines": 33,
+    "heading_count": 0,
+    "json_valid": true
+  },
+  {
+    "path": "rozmiso-studio-theme/layout/theme.liquid",
+    "lines": 13,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "rozmiso-studio-theme/locales/en.default.json",
+    "lines": 142,
+    "heading_count": 0,
+    "json_valid": true
+  },
+  {
+    "path": "rozmiso-studio-theme/sections/studio-collection.liquid",
+    "lines": 13,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "rozmiso-studio-theme/sections/studio-edit.liquid",
+    "lines": 5,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "rozmiso-studio-theme/sections/studio-faq.liquid",
+    "lines": 4,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "rozmiso-studio-theme/sections/studio-footer.liquid",
+    "lines": 4,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "rozmiso-studio-theme/sections/studio-header.liquid",
+    "lines": 4,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "rozmiso-studio-theme/sections/studio-hero.liquid",
+    "lines": 19,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "rozmiso-studio-theme/sections/studio-product.liquid",
+    "lines": 10,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "rozmiso-studio-theme/sections/studio-story.liquid",
+    "lines": 4,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "rozmiso-studio-theme/snippets/studio-card.liquid",
+    "lines": 5,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "rozmiso-studio-theme/snippets/studio-icon.liquid",
+    "lines": 5,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "rozmiso-studio-theme/snippets/studio-logo.liquid",
+    "lines": 6,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "rozmiso-studio-theme/snippets/studio-product-videos.liquid",
+    "lines": 11,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "rozmiso-studio-theme/templates/404.liquid",
+    "lines": 1,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "rozmiso-studio-theme/templates/cart.liquid",
+    "lines": 1,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "rozmiso-studio-theme/templates/collection.json",
+    "lines": 11,
+    "heading_count": 0,
+    "json_valid": true
+  },
+  {
+    "path": "rozmiso-studio-theme/templates/index.json",
+    "lines": 128,
+    "heading_count": 0,
+    "json_valid": true
+  },
+  {
+    "path": "rozmiso-studio-theme/templates/list-collections.liquid",
+    "lines": 1,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "rozmiso-studio-theme/templates/page.contact.liquid",
+    "lines": 1,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "rozmiso-studio-theme/templates/page.liquid",
+    "lines": 1,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "rozmiso-studio-theme/templates/product.json",
+    "lines": 11,
+    "heading_count": 0,
+    "json_valid": true
+  },
+  {
+    "path": "rozmiso-studio-theme/templates/search.liquid",
+    "lines": 1,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "team/01_director_dot.md",
+    "lines": 12,
+    "heading_count": 1,
+    "json_valid": null
+  },
+  {
+    "path": "team/02_hunter_dot.md",
+    "lines": 23,
+    "heading_count": 4,
+    "json_valid": null
+  },
+  {
+    "path": "team/03_creative_dot.md",
+    "lines": 23,
+    "heading_count": 4,
+    "json_valid": null
+  },
+  {
+    "path": "team/04_store_dot.md",
+    "lines": 23,
+    "heading_count": 4,
+    "json_valid": null
+  },
+  {
+    "path": "team/05_shield_dot.md",
+    "lines": 23,
+    "heading_count": 4,
+    "json_valid": null
+  },
+  {
+    "path": "team/06_growth_dot.md",
+    "lines": 23,
+    "heading_count": 4,
+    "json_valid": null
+  },
+  {
+    "path": "team/07_finance_dot.md",
+    "lines": 23,
+    "heading_count": 4,
+    "json_valid": null
+  },
+  {
+    "path": "team/08_operations_dot.md",
+    "lines": 23,
+    "heading_count": 4,
+    "json_valid": null
+  },
+  {
+    "path": "team/ANTIGRAVITY-SETUP.md",
+    "lines": 42,
+    "heading_count": 6,
+    "json_valid": null
+  },
+  {
+    "path": "team/TASK-BOARD.json",
+    "lines": 786,
+    "heading_count": 0,
+    "json_valid": true
+  },
+  {
+    "path": "team/prompts/ANTIGRAVITY-A.md",
+    "lines": 17,
+    "heading_count": 1,
+    "json_valid": null
+  },
+  {
+    "path": "team/prompts/ANTIGRAVITY-B.md",
+    "lines": 17,
+    "heading_count": 1,
+    "json_valid": null
+  },
+  {
+    "path": "team/reports/register_current_tasks.py",
+    "lines": 12,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "team/reports/T001/CLI-DIAGNOSTICS.txt",
+    "lines": 0,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "team/reports/T001/NATIVE-RESULT.json",
+    "lines": 82,
+    "heading_count": 0,
+    "json_valid": true
+  },
+  {
+    "path": "team/reports/T001/README.md",
+    "lines": 5,
+    "heading_count": 1,
+    "json_valid": null
+  },
+  {
+    "path": "team/reports/T001/WORK-REPORT.md",
+    "lines": 81,
+    "heading_count": 9,
+    "json_valid": null
+  },
+  {
+    "path": "team/reports/T002/README.md",
+    "lines": 5,
+    "heading_count": 1,
+    "json_valid": null
+  },
+  {
+    "path": "team/reports/T002/SUPPLIER-COMPARISON.md",
+    "lines": 82,
+    "heading_count": 9,
+    "json_valid": null
+  },
+  {
+    "path": "team/reports/T002/WORK-REPORT.md",
+    "lines": 52,
+    "heading_count": 8,
+    "json_valid": null
+  },
+  {
+    "path": "team/reports/T003/README.md",
+    "lines": 5,
+    "heading_count": 1,
+    "json_valid": null
+  },
+  {
+    "path": "team/reports/T004/OWNER-HANDOFF.md",
+    "lines": 79,
+    "heading_count": 8,
+    "json_valid": null
+  },
+  {
+    "path": "team/reports/T004/README.md",
+    "lines": 5,
+    "heading_count": 1,
+    "json_valid": null
+  },
+  {
+    "path": "team/reports/T004/WORK-REPORT.md",
+    "lines": 51,
+    "heading_count": 8,
+    "json_valid": null
+  },
+  {
+    "path": "team/reports/T005/README.md",
+    "lines": 5,
+    "heading_count": 1,
+    "json_valid": null
+  },
+  {
+    "path": "team/reports/T006/README.md",
+    "lines": 5,
+    "heading_count": 1,
+    "json_valid": null
+  },
+  {
+    "path": "team/reports/T007/README.md",
+    "lines": 5,
+    "heading_count": 1,
+    "json_valid": null
+  },
+  {
+    "path": "team/reports/T008/CLI-FINDINGS.md",
+    "lines": 35,
+    "heading_count": 5,
+    "json_valid": null
+  },
+  {
+    "path": "team/reports/T008/CLI-RUNTIME-RESULTS.md",
+    "lines": 19,
+    "heading_count": 1,
+    "json_valid": null
+  },
+  {
+    "path": "team/reports/T009/BRAND-AUDIT.md",
+    "lines": 118,
+    "heading_count": 13,
+    "json_valid": null
+  },
+  {
+    "path": "team/reports/T010/ANTIGRAVITY-REVIEW.md",
+    "lines": 9,
+    "heading_count": 1,
+    "json_valid": null
+  },
+  {
+    "path": "team/reports/T011/IMPLEMENTATION-REVIEW.md",
+    "lines": 60,
+    "heading_count": 6,
+    "json_valid": null
+  },
+  {
+    "path": "team/reports/T011/LIVE-VIEWPORT-CHECKS.json",
+    "lines": 37,
+    "heading_count": 0,
+    "json_valid": true
+  },
+  {
+    "path": "team/reports/T011/LIVE-VISUAL-REVIEW.md",
+    "lines": 58,
+    "heading_count": 5,
+    "json_valid": null
+  },
+  {
+    "path": "team/reports/T011/LOCAL-VIEWPORT-CHECKS.json",
+    "lines": 32,
+    "heading_count": 0,
+    "json_valid": true
+  },
+  {
+    "path": "team/reports/T011/REGRESSION-CONSTRAINTS.md",
+    "lines": 84,
+    "heading_count": 9,
+    "json_valid": null
+  },
+  {
+    "path": "team/reports/T011/VALIDATION-RAW.txt",
+    "lines": 1,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "team/reports/T011/VIEWPORT-EDGE-CHECKS.json",
+    "lines": 23,
+    "heading_count": 0,
+    "json_valid": true
+  },
+  {
+    "path": "team/reports/T011/WORK-REPORT.md",
+    "lines": 44,
+    "heading_count": 6,
+    "json_valid": null
+  },
+  {
+    "path": "team/reports/T012/WORK-REPORT.md",
+    "lines": 57,
+    "heading_count": 8,
+    "json_valid": null
+  },
+  {
+    "path": "team/reports/T013/DIRECT-SUPPLIER-DECISION.md",
+    "lines": 66,
+    "heading_count": 8,
+    "json_valid": null
+  },
+  {
+    "path": "team/reports/T013/WORK-REPORT.md",
+    "lines": 45,
+    "heading_count": 8,
+    "json_valid": null
+  },
+  {
+    "path": "team/reports/T014/MEDIA-MANIFEST.md",
+    "lines": 57,
+    "heading_count": 7,
+    "json_valid": null
+  },
+  {
+    "path": "team/reports/T014/WORK-REPORT.md",
+    "lines": 44,
+    "heading_count": 8,
+    "json_valid": null
+  },
+  {
+    "path": "team/reports/T015/saved-source-check.json",
+    "lines": 26,
+    "heading_count": 0,
+    "json_valid": true
+  },
+  {
+    "path": "team/reports/T015/SOURCE-REVIEW.md",
+    "lines": 73,
+    "heading_count": 8,
+    "json_valid": null
+  },
+  {
+    "path": "team/reports/T015/VISUAL-REVIEW.md",
+    "lines": 23,
+    "heading_count": 5,
+    "json_valid": null
+  },
+  {
+    "path": "team/reports/T015/WORK-REPORT.md",
+    "lines": 41,
+    "heading_count": 8,
+    "json_valid": null
+  },
+  {
+    "path": "team/reports/T016/WORK-REPORT.md",
+    "lines": 67,
+    "heading_count": 9,
+    "json_valid": null
+  },
+  {
+    "path": "team/reports/T017/WORK-REPORT.md",
+    "lines": 44,
+    "heading_count": 8,
+    "json_valid": null
+  },
+  {
+    "path": "team/reports/T018/INDEPENDENT-REVIEW.md",
+    "lines": 48,
+    "heading_count": 5,
+    "json_valid": null
+  },
+  {
+    "path": "team/reports/T018/live-gallery-audit.json",
+    "lines": 107,
+    "heading_count": 0,
+    "json_valid": true
+  },
+  {
+    "path": "team/reports/T018/WORK-REPORT.md",
+    "lines": 68,
+    "heading_count": 8,
+    "json_valid": null
+  },
+  {
+    "path": "team/reports/T020/analyze_inputs.py",
+    "lines": 71,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "team/reports/T020/chat-archive-validation.json",
+    "lines": 23,
+    "heading_count": 0,
+    "json_valid": true
+  },
+  {
+    "path": "team/reports/T020/demo-source-lossless.csv",
+    "lines": 99,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "team/reports/T020/INPUT-ANALYSIS.md",
+    "lines": 52,
+    "heading_count": 5,
+    "json_valid": null
+  },
+  {
+    "path": "team/reports/T020/TASK.md",
+    "lines": 6,
+    "heading_count": 1,
+    "json_valid": null
+  },
+  {
+    "path": "team/reports/T020/validation.json",
+    "lines": 243,
+    "heading_count": 0,
+    "json_valid": true
+  },
+  {
+    "path": "team/reports/T020/WORK-REPORT.md",
+    "lines": 36,
+    "heading_count": 8,
+    "json_valid": null
+  },
+  {
+    "path": "team/reports/T020/workbook-rows.json",
+    "lines": 3635,
+    "heading_count": 0,
+    "json_valid": true
+  },
+  {
+    "path": "team/reports/T021/demo-reviewed-draft.csv",
+    "lines": 99,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "team/reports/T021/import-changes.json",
+    "lines": 152,
+    "heading_count": 0,
+    "json_valid": true
+  },
+  {
+    "path": "team/reports/T021/INPUT-INDEPENDENT-REVIEW.md",
+    "lines": 19,
+    "heading_count": 1,
+    "json_valid": null
+  },
+  {
+    "path": "team/reports/T021/prepare_import.py",
+    "lines": 32,
+    "heading_count": 1,
+    "json_valid": null
+  },
+  {
+    "path": "team/reports/T021/TASK.md",
+    "lines": 2,
+    "heading_count": 1,
+    "json_valid": null
+  },
+  {
+    "path": "team/scripts/run-antigravity-task.cjs",
+    "lines": 68,
+    "heading_count": 0,
+    "json_valid": null
+  },
+  {
+    "path": "team/templates/TASK.json",
+    "lines": 18,
+    "heading_count": 0,
+    "json_valid": true
+  },
+  {
+    "path": "team/templates/WORK-REPORT.md",
+    "lines": 36,
+    "heading_count": 8,
+    "json_valid": null
+  },
+  {
+    "path": "team/workers/brand-designer.md",
+    "lines": 14,
+    "heading_count": 1,
+    "json_valid": null
+  },
+  {
+    "path": "team/workers/campaign-planner.md",
+    "lines": 14,
+    "heading_count": 1,
+    "json_valid": null
+  },
+  {
+    "path": "team/workers/catalog-specialist.md",
+    "lines": 14,
+    "heading_count": 1,
+    "json_valid": null
+  },
+  {
+    "path": "team/workers/content-producer.md",
+    "lines": 14,
+    "heading_count": 1,
+    "json_valid": null
+  },
+  {
+    "path": "team/workers/evidence-auditor.md",
+    "lines": 14,
+    "heading_count": 1,
+    "json_valid": null
+  },
+  {
+    "path": "team/workers/fulfillment-planner.md",
+    "lines": 14,
+    "heading_count": 1,
+    "json_valid": null
+  },
+  {
+    "path": "team/workers/growth-analyst.md",
+    "lines": 14,
+    "heading_count": 1,
+    "json_valid": null
+  },
+  {
+    "path": "team/workers/launch-qa.md",
+    "lines": 14,
+    "heading_count": 1,
+    "json_valid": null
+  },
+  {
+    "path": "team/workers/margin-analyst.md",
+    "lines": 14,
+    "heading_count": 1,
+    "json_valid": null
+  },
+  {
+    "path": "team/workers/product-verifier.md",
+    "lines": 14,
+    "heading_count": 1,
+    "json_valid": null
+  },
+  {
+    "path": "team/workers/settlement-analyst.md",
+    "lines": 14,
+    "heading_count": 1,
+    "json_valid": null
+  },
+  {
+    "path": "team/workers/supplier-researcher.md",
+    "lines": 14,
+    "heading_count": 1,
+    "json_valid": null
+  },
+  {
+    "path": "team/workers/support-drafter.md",
+    "lines": 14,
+    "heading_count": 1,
+    "json_valid": null
+  },
+  {
+    "path": "team/workers/theme-developer.md",
+    "lines": 14,
+    "heading_count": 1,
+    "json_valid": null
+  }
+]

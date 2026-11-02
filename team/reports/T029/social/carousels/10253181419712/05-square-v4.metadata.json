@@ -1,0 +1,12 @@
+{
+  "date": "2026-10-14",
+  "tool": "builtin imagegen",
+  "id": "10253181419712",
+  "order": 5,
+  "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253181419712\\05-slide.png",
+  "output": "F:/Dropshipping/team/reports/T029/social/carousels/10253181419712/05-square-v4.png",
+  "generatedSource": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a11a24-fa90-7301-83f3-7aea32cd5e82\\exec-51026005-7799-4738-aed0-422ec910292c.png",
+  "prompt": "Reformat this existing premium Rozmiso Care guidance graphic as an exact SQUARE 1:1 image for an Instagram carousel. Preserve the ENTIRE existing image: exact product shape, geometry, colors, number, material, use action, all headings, feature/care text, icons and brand elements. Do not crop any top/bottom content. Uniformly shrink/reposition the existing complete layout to fit square and seamlessly extend its warm ivory/background to the sides; no conspicuous borders. Preserve the same forest-green serif typography, clean supporting text, premium photographic style and ivory botanical brand theme. Correct any misspelled Instagram handle to exact '@rozmiso.in'. No AI wording, collection preview, orders-closed language, new specs or props. Keep all original genuine product features and existing care/prop notes. Output ONE finished premium SQUARE 1:1 graphic; do not return a portrait.",
+  "status": "ROOT_VISUAL_PASS",
+  "independentReview": "team/reports/T029/final-pack-qa/WORK-REPORT.md"
+}

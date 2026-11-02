@@ -1,0 +1,91 @@
+{
+  "productId": "10253181026496",
+  "title": "Microfiber Cleaning Cloth",
+  "productUrl": "https://rozmiso.in/products/microfiber-cleaning-cloth-40x40",
+  "replacesPost": null,
+  "status": "ASSETS_COMPLETE_CROP_REVIEW_PENDING",
+  "slides": [
+    {
+      "order": 1,
+      "role": "Cover and features",
+      "path": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253181026496\\01-slide.png",
+      "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253181026496\\01-square-v4.png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "sha256": "ddd3bb1b14a9ff74f1bb393e77f32e6907d8ff466b9b32785670e4335e1cb148",
+      "altText": "Microfiber Cleaning Cloth: cover and features. Context props are not included."
+    },
+    {
+      "order": 2,
+      "role": "Product detail",
+      "path": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253181026496\\02-slide.png",
+      "source": "F:\\Dropshipping\\team\\reports\\T028\\generated\\10253181026496\\02-detail.png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "sha256": "675bd846a0c88a361c63808ba04e19c8b45d0fd5205b81d55a2d2cbed2edb52b",
+      "altText": "Microfiber Cleaning Cloth: product detail. Context props are not included."
+    },
+    {
+      "order": 3,
+      "role": "Primary use",
+      "path": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253181026496\\03-slide.png",
+      "source": "F:\\Dropshipping\\team\\reports\\T028\\generated\\10253181026496\\03-usecase.png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "sha256": "7fb98e649930a9b7e0eefdf6656ec2ca6f43400533f6e0997fdde94cf9fe7ae8",
+      "altText": "Microfiber Cleaning Cloth: primary use. Context props are not included."
+    },
+    {
+      "order": 4,
+      "role": "Second context",
+      "path": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253181026496\\04-slide.png",
+      "source": "F:\\Dropshipping\\team\\reports\\T028\\generated\\10253181026496\\04-use-context.png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "sha256": "ee919654f57517dd5b418c4653879f247def1ad0d184c95053611083a3f95eba",
+      "altText": "Microfiber Cleaning Cloth: second context. Context props are not included."
+    },
+    {
+      "order": 5,
+      "role": "Care guidance",
+      "path": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253181026496\\05-slide.png",
+      "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253181026496\\05-care-v4.png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "sha256": "340b4a14968e3774871187f759f08fafbd7e296376e5199cb2cce5bec8e358b0",
+      "altText": "Microfiber Cleaning Cloth: care guidance. Context props are not included."
+    },
+    {
+      "order": 6,
+      "role": "Product link",
+      "path": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253181026496\\06-slide.png",
+      "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\shared\\06-product-link-in.png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "sha256": "23e858c33b087c1d637c4489fc6bb1297dfc4b08f75755f670185d79e9d0127a",
+      "altText": "Microfiber Cleaning Cloth: product link. Context props are not included."
+    }
+  ],
+  "missing": [],
+  "mixedAspectRatios": false,
+  "caption": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253181026496\\caption.txt",
+  "aiLabel": false,
+  "facebookPersonalCrosspost": false,
+  "facebookPageCrosspostRequired": true,
+  "facebookPageId": "61595107991994",
+  "livePublished": false,
+  "publishedVersionMayDiffer": false,
+  "theme": "Rozmiso Everyday Edit / ivory and forest green"
+}

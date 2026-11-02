@@ -1,0 +1,12 @@
+{
+  "id": "10252037324992",
+  "slot": "01-studio",
+  "path": "F:/Dropshipping/team/reports/T028/generated/10252037324992/10252037324992-studio.png",
+  "mode": "reused-T028-builtin",
+  "qa": "PASS_local_visual_root_review_pending",
+  "referencePaths": [
+    "F:\\Dropshipping\\team\\reports\\T028\\reference-review\\10252037324992\\reference-1.jpg",
+    "F:\\Dropshipping\\team\\reports\\T028\\reference-review\\10252037324992\\reference-2.jpg"
+  ],
+  "metadataPath": "F:/Dropshipping/team/reports/T029/lane-a/10252037324992-01-studio.json"
+}

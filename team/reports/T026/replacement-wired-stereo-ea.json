@@ -1,0 +1,170 @@
+{
+  "product": {
+    "id": 10401109508406,
+    "title": "Wired Stereo Earphones with Microphone – Clear Sound & Comfortable Fit",
+    "body_html": "<p>Experience superior audio quality with these <strong>wired stereo earphones</strong> featuring a 3.5mm jack and built-in microphone. Designed for clear sound and all-day comfort, these earphones are ideal for smartphones, laptops, and audio devices.</p>\n<h2>Key features</h2>\n<ul>\n<li>High-quality stereo sound with powerful bass and crisp treble for immersive listening.</li>\n<li>Universal 3.5mm jack compatible with most smartphones, laptops, tablets, and MP3 players.</li>\n<li>Built-in microphone enables hands-free calling and voice assistant commands.</li>\n<li>In-line button control for easy play, pause, and call management.</li>\n<li>Soft silicone earbuds provide a secure and comfortable noise-isolating fit.</li>\n<li>Tangle-free 1.2m durable cable enhances portability and everyday usability.</li>\n<li>Lightweight and compact design perfect for travel, workouts, gaming, or long listening sessions.</li>\n<li>Suitable for music, online meetings, gaming, and casual or professional use.</li>\n</ul>\n<h2>Materials &amp; care</h2>\n<p>Made with durable plastic and soft silicone earbuds, these earphones require no special care other than gentle wiping to keep clean.</p>\n<h2>FAQ</h2>\n<dl>\n<dt>Q1: Are these wired stereo earphones compatible with all devices?</dt>\n<dd>A: Yes, they feature a universal 3.5mm jack compatible with most smartphones, laptops, tablets, and audio players.</dd>\n<dt>Q2: Can I use the built-in microphone for online calls?</dt>\n<dd>A: Absolutely, the inbuilt microphone supports clear hands-free calling and voice assistant use.</dd>\n<dt>Q3: How long is the cable?</dt>\n<dd>A: The earphones come with a 1.2-meter tangle-free cable for comfortable and portable use.</dd>\n<dt>Q4: Are the earbuds comfortable for long use?</dt>\n<dd>A: Yes, the soft silicone earbuds provide a secure and comfortable noise-isolating fit for extended wear.</dd>\n<dt>Q5: Is there a button for music control?</dt>\n<dd>A: Yes, an in-line button allows you to play, pause, and manage calls easily.</dd>\n</dl>",
+    "vendor": "DeoDap",
+    "product_type": "Mobile Accessories",
+    "created_at": "2025-11-04T18:11:17+05:30",
+    "handle": "wired-stereo-earphones-with-3-5mm-jack-1-pc-1-2m-cable",
+    "updated_at": "2026-10-08T12:45:26+05:30",
+    "published_at": "2025-11-07T18:20:56+05:30",
+    "template_suffix": "",
+    "published_scope": "global",
+    "tags": "51 To 60 Afft, c96, Card Packing, China, Computer Accessories, Computer and laptop acce, Computers, Earphone, External, g407, High Performing, Influencer Essentials, Mobiles Computers, p8, Travel",
+    "variants": [
+      {
+        "id": 53235493470518,
+        "product_id": 10401109508406,
+        "title": "Default Title",
+        "price": "45.00",
+        "sku": "whl172_14863_wired_stereo_earphones_1pc",
+        "position": 1,
+        "compare_at_price": "149.00",
+        "fulfillment_service": "manual",
+        "inventory_management": "shopify",
+        "option1": "Default Title",
+        "option2": null,
+        "option3": null,
+        "created_at": "2025-11-04T18:11:18+05:30",
+        "updated_at": "2026-10-08T12:45:26+05:30",
+        "taxable": true,
+        "barcode": "629783017786",
+        "grams": 96,
+        "image_id": null,
+        "weight": 96.0,
+        "weight_unit": "g",
+        "requires_shipping": true,
+        "quantity_rule": {
+          "min": 1,
+          "max": null,
+          "increment": 1
+        },
+        "price_currency": "INR",
+        "compare_at_price_currency": "INR",
+        "quantity_price_breaks": []
+      }
+    ],
+    "options": [
+      {
+        "id": 13043661275446,
+        "product_id": 10401109508406,
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "id": 56874005561654,
+        "product_id": 10401109508406,
+        "position": 1,
+        "created_at": "2025-11-05T10:20:01+05:30",
+        "updated_at": "2025-11-05T10:21:41+05:30",
+        "alt": "Wired stereo earphones with 3.5mm jack and microphone for mobile devices",
+        "width": 1500,
+        "height": 1500,
+        "src": "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/02_earphone.jpg?v=1762318301",
+        "variant_ids": []
+      },
+      {
+        "id": 56864707674422,
+        "product_id": 10401109508406,
+        "position": 2,
+        "created_at": "2025-11-04T18:02:20+05:30",
+        "updated_at": "2025-11-05T10:21:41+05:30",
+        "alt": "Close-up of in-ear wired stereo earphones with built-in microphone",
+        "width": 1500,
+        "height": 1500,
+        "src": "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/9e0b8097-72d0-4451-beca-c29815ab2b51.jpg?v=1762318301",
+        "variant_ids": []
+      },
+      {
+        "id": 56874005463350,
+        "product_id": 10401109508406,
+        "position": 3,
+        "created_at": "2025-11-05T10:20:01+05:30",
+        "updated_at": "2025-11-05T10:21:41+05:30",
+        "alt": "Black wired headset with 3.5mm jack suitable for laptops and smartphones",
+        "width": 1500,
+        "height": 1500,
+        "src": "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/06_earphone.jpg?v=1762318301",
+        "variant_ids": []
+      },
+      {
+        "id": 56874005496118,
+        "product_id": 10401109508406,
+        "position": 4,
+        "created_at": "2025-11-05T10:20:01+05:30",
+        "updated_at": "2025-11-05T10:21:41+05:30",
+        "alt": "Wired earphones with comfortable silicone earbuds and 1.2m tangle-free cable",
+        "width": 1500,
+        "height": 1500,
+        "src": "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/07_earphone.jpg?v=1762318301",
+        "variant_ids": []
+      },
+      {
+        "id": 56874005430582,
+        "product_id": 10401109508406,
+        "position": 5,
+        "created_at": "2025-11-05T10:20:01+05:30",
+        "updated_at": "2025-11-05T10:21:41+05:30",
+        "alt": "Soft silicone wired earbuds with built-in mic and easy control button",
+        "width": 1500,
+        "height": 1500,
+        "src": "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/05_earphone.jpg?v=1762318301",
+        "variant_ids": []
+      },
+      {
+        "id": 56874005594422,
+        "product_id": 10401109508406,
+        "position": 6,
+        "created_at": "2025-11-05T10:20:01+05:30",
+        "updated_at": "2025-11-05T10:21:41+05:30",
+        "alt": "Stereo earphones showing 3.5mm audio jack connection",
+        "width": 1500,
+        "height": 1500,
+        "src": "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/03_earphone.jpg?v=1762318301",
+        "variant_ids": []
+      },
+      {
+        "id": 56874005627190,
+        "product_id": 10401109508406,
+        "position": 7,
+        "created_at": "2025-11-05T10:20:01+05:30",
+        "updated_at": "2025-11-05T10:21:41+05:30",
+        "alt": "Durable wired stereo earphones with microphone and play/pause button",
+        "width": 1500,
+        "height": 1500,
+        "src": "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/04_earphone.jpg?v=1762318301",
+        "variant_ids": []
+      },
+      {
+        "id": 56874005528886,
+        "product_id": 10401109508406,
+        "position": 8,
+        "created_at": "2025-11-05T10:20:01+05:30",
+        "updated_at": "2025-11-05T10:21:41+05:30",
+        "alt": "Compact and lightweight wired stereo earphones for daily use",
+        "width": 1500,
+        "height": 1500,
+        "src": "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/08_87c9cf62-bf1f-44a3-8598-13c6d219d12e.jpg?v=1762318301",
+        "variant_ids": []
+      }
+    ],
+    "image": {
+      "id": 56874005561654,
+      "product_id": 10401109508406,
+      "position": 1,
+      "created_at": "2025-11-05T10:20:01+05:30",
+      "updated_at": "2025-11-05T10:21:41+05:30",
+      "alt": "Wired stereo earphones with 3.5mm jack and microphone for mobile devices",
+      "width": 1500,
+      "height": 1500,
+      "src": "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/02_earphone.jpg?v=1762318301",
+      "variant_ids": []
+    }
+  }
+}

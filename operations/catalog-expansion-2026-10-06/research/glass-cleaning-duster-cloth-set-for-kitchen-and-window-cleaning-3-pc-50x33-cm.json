@@ -1,0 +1,182 @@
+{
+  "product": {
+    "id": 10845150937398,
+    "title": "Glass Duster Cloth Set for Kitchen and Window Cleaning, 3 Pc",
+    "body_html": "<h4 style=\"font-size:14px; font-weight:700; margin:0 0 10px;\">Glass Cleaning Duster Cloth Set with Soft Terry Weave, Textured Loops and Reinforced Edges for Everyday Kitchen and Household Glass Wiping</h4><p style=\"font-weight:700; margin:0 0 6px;\">Description :-</p><p>Keep everyday glass and kitchen wiping tasks organised with this glass cleaning duster cloth set. The soft terry weave features textured loops, a woven reverse and reinforced edges for practical household use. Fold a cloth for comfortable handling when wiping accessible glass panels, kitchen counters or suitable tabletops. The absorbent, washable and reusable fabric makes the three-piece set a useful addition to routine home cleaning supplies.</p><p style=\"font-weight:700; margin:10px 0 6px;\">Key Features :-</p><ul>\n<li>Soft terry weave provides a flexible cloth for everyday glass and kitchen wiping.</li>\n<li>Textured loops give the wiping side a towel-like surface for routine cleaning.</li>\n<li>Absorbent fabric helps handle everyday splashes on suitable household surfaces.</li>\n<li>Reinforced edges provide a finished border for repeated handling.</li>\n<li>Washable and reusable construction allows the cloths to be cleaned between tasks.</li>\n<li>Three separate cloths help organise glass and kitchen cleaning routines.</li>\n<li>Flexible rectangular cloths fold comfortably in the hand during wiping.</li>\n<li>Striped and floral detailing gives the cloths a distinctive patterned finish.</li>\n</ul><p style=\"font-weight:700; margin:10px 0 6px;\">Ideal For :-</p><ul>\n<li>Wiping household glass cabinet panels.</li>\n<li>Cleaning accessible window glass.</li>\n<li>Routine kitchen countertop wiping.</li>\n<li>Wiping suitable glass tabletops.</li>\n<li>Everyday kitchen surface cleaning.</li>\n<li>Keeping separate cloths for different household tasks.</li>\n</ul><p style=\"font-weight:700; margin:10px 0 6px;\">Specifications :-</p><ul>\n<li>Product Type: Glass Cleaning Duster Cloth Set</li>\n<li>Material: Terry-Weave Fabric</li>\n<li>Shape: Rectangular</li>\n<li>Surface: Textured Loops with Woven Reverse</li>\n<li>Edge Finish: Reinforced Edges</li>\n<li>Package Contents: 3 x Glass Cleaning Duster Cloths</li>\n</ul>",
+    "vendor": "DeoDap",
+    "product_type": "Home & Kitchen",
+    "created_at": "2026-09-12T13:56:32+05:30",
+    "handle": "glass-cleaning-duster-cloth-set-for-kitchen-and-window-cleaning-3-pc-50x33-cm",
+    "updated_at": "2026-10-06T21:16:13+05:30",
+    "published_at": "2026-09-16T12:37:23+05:30",
+    "template_suffix": null,
+    "published_scope": "global",
+    "tags": "46 To 50 Afft, Absorbent Cloth, c44, China, Cleaning Cloth, g171, Glass Cleaning, Household Cleaning, Internal, Kitchen Cleaning, p12, p5, Plastic packing, Reusable Cloth, Terry Weave, Window Cleaning",
+    "variants": [
+      {
+        "id": 54547253952822,
+        "product_id": 10845150937398,
+        "title": "Default Title",
+        "price": "69.00",
+        "sku": "22402_glass_cleaning_duster_cloth_3pc",
+        "position": 1,
+        "compare_at_price": "299.00",
+        "fulfillment_service": "manual",
+        "inventory_management": "shopify",
+        "option1": "Default Title",
+        "option2": null,
+        "option3": null,
+        "created_at": "2026-09-12T13:56:32+05:30",
+        "updated_at": "2026-10-06T21:16:13+05:30",
+        "taxable": true,
+        "barcode": null,
+        "grams": 460,
+        "image_id": null,
+        "weight": 460,
+        "weight_unit": "g",
+        "requires_shipping": true,
+        "quantity_rule": {
+          "min": 1,
+          "max": null,
+          "increment": 1
+        },
+        "price_currency": "INR",
+        "compare_at_price_currency": "INR",
+        "quantity_price_breaks": []
+      }
+    ],
+    "options": [
+      {
+        "id": 13551078605110,
+        "product_id": 10845150937398,
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "id": 59984021422390,
+        "product_id": 10845150937398,
+        "position": 1,
+        "created_at": "2026-09-12T13:55:08+05:30",
+        "updated_at": "2026-09-12T13:55:09+05:30",
+        "alt": "Glass cleaning duster cloth set 3pc",
+        "width": 1500,
+        "height": 1500,
+        "src": "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/22402-glass-cloth-01.jpg?v=1789201509",
+        "variant_ids": []
+      },
+      {
+        "id": 59984022274358,
+        "product_id": 10845150937398,
+        "position": 2,
+        "created_at": "2026-09-12T13:55:14+05:30",
+        "updated_at": "2026-09-12T13:55:15+05:30",
+        "alt": "Glass cleaning cloth pack",
+        "width": 1500,
+        "height": 1500,
+        "src": "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/22402-glass-cloth-22402.jpg?v=1789201515",
+        "variant_ids": []
+      },
+      {
+        "id": 59984022667574,
+        "product_id": 10845150937398,
+        "position": 3,
+        "created_at": "2026-09-12T13:55:20+05:30",
+        "updated_at": "2026-09-12T13:55:22+05:30",
+        "alt": "Microfiber cloth kitchen window",
+        "width": 1500,
+        "height": 1500,
+        "src": "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/22402-glass-cloth-03.jpg?v=1789201522",
+        "variant_ids": []
+      },
+      {
+        "id": 59984023257398,
+        "product_id": 10845150937398,
+        "position": 4,
+        "created_at": "2026-09-12T13:55:26+05:30",
+        "updated_at": "2026-09-12T13:55:28+05:30",
+        "alt": "Cleaning cloth texture detail",
+        "width": 1500,
+        "height": 1500,
+        "src": "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/22402-glass-cloth-04.jpg?v=1789201528",
+        "variant_ids": []
+      },
+      {
+        "id": 59984025092406,
+        "product_id": 10845150937398,
+        "position": 5,
+        "created_at": "2026-09-12T13:55:42+05:30",
+        "updated_at": "2026-09-12T13:55:43+05:30",
+        "alt": "Cleaning cloth design view",
+        "width": 1500,
+        "height": 1500,
+        "src": "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/22402-glass-cloth-07.jpg?v=1789201543",
+        "variant_ids": []
+      },
+      {
+        "id": 59984025387318,
+        "product_id": 10845150937398,
+        "position": 6,
+        "created_at": "2026-09-12T13:55:47+05:30",
+        "updated_at": "2026-09-12T13:55:49+05:30",
+        "alt": "Cleaning cloth size 50x33cm",
+        "width": 1500,
+        "height": 1500,
+        "src": "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/22402-glass-cloth-06.jpg?v=1789201549",
+        "variant_ids": []
+      },
+      {
+        "id": 59984026370358,
+        "product_id": 10845150937398,
+        "position": 7,
+        "created_at": "2026-09-12T13:55:52+05:30",
+        "updated_at": "2026-09-12T13:55:54+05:30",
+        "alt": "Cleaning cloth colors view",
+        "width": 1500,
+        "height": 1500,
+        "src": "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/22402-glass-cloth-02.jpg?v=1789201554",
+        "variant_ids": []
+      },
+      {
+        "id": 59984026992950,
+        "product_id": 10845150937398,
+        "position": 8,
+        "created_at": "2026-09-12T13:55:58+05:30",
+        "updated_at": "2026-09-12T13:55:59+05:30",
+        "alt": "Glass cleaning cloth white bg",
+        "width": 1500,
+        "height": 1500,
+        "src": "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/22402-glass-cloth-05.jpg?v=1789201559",
+        "variant_ids": []
+      },
+      {
+        "id": 59984027975990,
+        "product_id": 10845150937398,
+        "position": 9,
+        "created_at": "2026-09-12T13:56:04+05:30",
+        "updated_at": "2026-09-12T13:56:06+05:30",
+        "alt": "Glass cleaning cloth wiping use",
+        "width": 1500,
+        "height": 1500,
+        "src": "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/22402-glass-cloth-08.jpg?v=1789201566",
+        "variant_ids": []
+      }
+    ],
+    "image": {
+      "id": 59984021422390,
+      "product_id": 10845150937398,
+      "position": 1,
+      "created_at": "2026-09-12T13:55:08+05:30",
+      "updated_at": "2026-09-12T13:55:09+05:30",
+      "alt": "Glass cleaning duster cloth set 3pc",
+      "width": 1500,
+      "height": 1500,
+      "src": "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/22402-glass-cloth-01.jpg?v=1789201509",
+      "variant_ids": []
+    }
+  }
+}

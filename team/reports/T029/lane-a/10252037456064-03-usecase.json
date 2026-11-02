@@ -1,0 +1,14 @@
+{
+  "id": "10252037456064",
+  "slot": "03-usecase",
+  "prompt": "Use case: photorealistic-natural. ONE square premium ecommerce authentic use photograph, reference exact product authority. ONE pink bear-face palm-size soap dispensing brush with round ears, printed eyes/face/blush and belly oval, white side fill cap, dense gray bristles, original molded shape. A naturally posed hand in neutral cream cleaning glove grasps the pink body and pushes gray bristles across white ceramic sink basin with modest soap foam. Match correct contact of bristles against sink, brush is manual. Preserve compact appliance proportions. No spray bottle, no pump/nozzle, no motor or exaggerated cleaning effect. Soft daylight in refined ivory bathroom, blurred neutral towels, product and action sharp. No text, claims, watermark or logo.",
+  "referencePaths": [
+    "F:/Dropshipping/team/reports/T028/reference-review/10252037456064/reference-1.jpg",
+    "F:/Dropshipping/team/reports/T028/generated/10252037456064/01-studio.png"
+  ],
+  "sourcePath": "C:/Users/Abhinand/.codex/generated_images/01a13435-490b-7431-997e-e0d931fa0e75/exec-6829b023-2083-4fa7-8491-c1410830e2f6.png",
+  "path": "F:/Dropshipping/team/reports/T028/generated/10252037456064/03-usecase.png",
+  "mode": "built-in imagegen",
+  "qa": "PASS_local_visual_root_review_pending",
+  "date": "2026-10-13"
+}

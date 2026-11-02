@@ -1,0 +1,86 @@
+{
+  "accessDate": "2026-10-08",
+  "checks": [
+    {
+      "url": "https://askmemart.com/products/2792-coffee-mug-and-warmer-for-having-coffee-along-with-the-warmer-that-keeps-it-hot.json",
+      "httpStatus": 200,
+      "title": "Coffee Mug with Warmer",
+      "handle": "2792-coffee-mug-and-warmer-for-having-coffee-along-with-the-warmer-that-keeps-it-hot",
+      "skus": [
+        "2792_coffee_mug_and_warmer"
+      ],
+      "images": []
+    },
+    {
+      "url": "https://askmemart.com/products/2792-coffee-mug-and-warmer-for-having-coffee-along-with-the-warmer-that-keeps-it-hot.js",
+      "httpStatus": 200,
+      "title": "Coffee Mug with Warmer",
+      "handle": "2792-coffee-mug-and-warmer-for-having-coffee-along-with-the-warmer-that-keeps-it-hot",
+      "skus": [
+        "2792_coffee_mug_and_warmer"
+      ],
+      "images": []
+    },
+    {
+      "url": "https://askmemart.com/products/7271-phone-earphones-with-microphone.json",
+      "httpStatus": 200,
+      "title": "Wired Earphones with Microphone",
+      "handle": "7271-phone-earphones-with-microphone",
+      "skus": [
+        "7271_cnh_sport_earphone_no1"
+      ],
+      "images": []
+    },
+    {
+      "url": "https://askmemart.com/products/7271-phone-earphones-with-microphone.js",
+      "httpStatus": 200,
+      "title": "Wired Earphones with Microphone",
+      "handle": "7271-phone-earphones-with-microphone",
+      "skus": [
+        "7271_cnh_sport_earphone_no1"
+      ],
+      "images": []
+    },
+    {
+      "url": "https://naviora.online/products/2792-coffee-mug-and-warmer-for-having-coffee-along-with-the-warmer-that-keeps-it-hot.json",
+      "httpStatus": 200,
+      "title": "2792 Coffee Mug And Warmer For Having Coffee Along With The Warmer That Keeps It Hot.",
+      "handle": "2792-coffee-mug-and-warmer-for-having-coffee-along-with-the-warmer-that-keeps-it-hot",
+      "skus": [
+        "2792_coffee_mug_and_warmer"
+      ],
+      "images": []
+    },
+    {
+      "url": "https://naviora.online/products/2792-coffee-mug-and-warmer-for-having-coffee-along-with-the-warmer-that-keeps-it-hot.js",
+      "httpStatus": 200,
+      "title": "2792 Coffee Mug And Warmer For Having Coffee Along With The Warmer That Keeps It Hot.",
+      "handle": "2792-coffee-mug-and-warmer-for-having-coffee-along-with-the-warmer-that-keeps-it-hot",
+      "skus": [
+        "2792_coffee_mug_and_warmer"
+      ],
+      "images": []
+    },
+    {
+      "url": "https://naviora.online/products/7271-phone-earphones-with-microphone.json",
+      "httpStatus": 200,
+      "title": "7271 Phone Earphones with Microphone",
+      "handle": "7271-phone-earphones-with-microphone",
+      "skus": [
+        "7271_cnh_sport_earphone_no1"
+      ],
+      "images": []
+    },
+    {
+      "url": "https://naviora.online/products/7271-phone-earphones-with-microphone.js",
+      "httpStatus": 200,
+      "title": "7271 Phone Earphones with Microphone",
+      "handle": "7271-phone-earphones-with-microphone",
+      "skus": [
+        "7271_cnh_sport_earphone_no1"
+      ],
+      "images": []
+    }
+  ],
+  "conclusion": "No verified exact-product replacement gallery if images empty; domains restricted to supplied AskMeMart and search-confirmed Naviora.online."
+}

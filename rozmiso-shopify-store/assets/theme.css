@@ -1,0 +1,1436 @@
+/* ==========================================================================
+   Rozmiso Flipkart-Style Enterprise Theme Stylesheet
+   Modern, Sleek, High-Conversion Indian E-Commerce Design System
+   ========================================================================== */
+
+:root {
+  /* Brand Palette - Deep Royal Sapphire & Midnight Slate */
+  --fk-blue: #2874f0;
+  --fk-blue-dark: #1e5fc9;
+  --fk-blue-light: #f0f5ff;
+  --fk-navy: #172337;
+  --fk-header-bg: #2874f0;
+  --fk-canvas: #f1f3f6;
+  --fk-card-bg: #ffffff;
+  
+  /* High-Converting Action Accents (Flipkart DNA) */
+  --fk-yellow: #ff9f00;
+  --fk-yellow-hover: #f39700;
+  --fk-orange: #fb641b;
+  --fk-orange-hover: #e8530a;
+  --fk-green: #388e3c;
+  --fk-green-light: #e8f5e9;
+  --fk-green-dark: #2e7d32;
+  --fk-red: #d32f2f;
+
+  /* Typography & Neutrals */
+  --fk-text-primary: #212121;
+  --fk-text-secondary: #878787;
+  --fk-text-muted: #9e9e9e;
+  --fk-border: #f0f0f0;
+  --fk-border-dark: #e0e0e0;
+  
+  /* Shadows */
+  --fk-shadow-card: 0 1px 3px rgba(0, 0, 0, 0.08), 0 1px 2px rgba(0, 0, 0, 0.04);
+  --fk-shadow-hover: 0 8px 24px rgba(0, 0, 0, 0.12);
+  --fk-shadow-header: 0 2px 8px rgba(0, 0, 0, 0.1);
+  --fk-radius-sm: 4px;
+  --fk-radius-md: 8px;
+  --fk-radius-lg: 12px;
+  --fk-radius-pill: 9999px;
+  
+  /* Layout */
+  --fk-max-width: 1240px;
+}
+
+/* Base Reset */
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  -webkit-tap-highlight-color: transparent;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+  background-color: var(--fk-canvas);
+  color: var(--fk-text-primary);
+  line-height: 1.4;
+  -webkit-font-smoothing: antialiased;
+  padding-bottom: 70px;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+button {
+  font-family: inherit;
+  border: none;
+  background: none;
+  cursor: pointer;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+.fk-container {
+  max-width: var(--fk-max-width);
+  margin: 0 auto;
+  padding: 0 16px;
+}
+
+/* ==========================================================================
+   Top Announcement Ribbon
+   ========================================================================== */
+.fk-top-ribbon {
+  background: #172337;
+  color: #ffffff;
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.3px;
+  padding: 6px 16px;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 12px;
+}
+
+.fk-top-ribbon span.tag {
+  background: var(--fk-yellow);
+  color: #000;
+  padding: 2px 6px;
+  border-radius: 3px;
+  font-weight: 700;
+  font-size: 10px;
+  text-transform: uppercase;
+}
+
+/* ==========================================================================
+   Main Flipkart-Style Header
+   ========================================================================== */
+.fk-header {
+  background-color: var(--fk-header-bg);
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  box-shadow: var(--fk-shadow-header);
+}
+
+.fk-header-inner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 64px;
+  gap: 20px;
+}
+
+/* Brand Logo */
+.fk-brand {
+  display: flex;
+  flex-direction: column;
+  text-decoration: none;
+  flex-shrink: 0;
+}
+
+.fk-brand-logo {
+  font-size: 22px;
+  font-weight: 800;
+  font-style: italic;
+  color: #ffffff;
+  letter-spacing: -0.5px;
+  line-height: 1;
+}
+
+.fk-brand-sub {
+  font-size: 11px;
+  font-weight: 600;
+  font-style: italic;
+  color: #ffe500;
+  display: flex;
+  align-items: center;
+  gap: 3px;
+  margin-top: 2px;
+}
+
+.fk-brand-sub .plus-badge {
+  color: #ffe500;
+  font-weight: 800;
+}
+
+/* Search Bar */
+.fk-search-wrap {
+  flex: 1;
+  max-width: 580px;
+  position: relative;
+}
+
+.fk-search-form {
+  display: flex;
+  background: #ffffff;
+  border-radius: var(--fk-radius-sm);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+  height: 40px;
+}
+
+.fk-search-input {
+  flex: 1;
+  border: none;
+  outline: none;
+  padding: 0 16px;
+  font-size: 14px;
+  color: var(--fk-text-primary);
+}
+
+.fk-search-input::placeholder {
+  color: var(--fk-text-secondary);
+}
+
+.fk-search-btn {
+  background: #ffffff;
+  padding: 0 14px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--fk-blue);
+  cursor: pointer;
+}
+
+.fk-search-btn svg {
+  width: 18px;
+  height: 18px;
+  fill: currentColor;
+}
+
+/* Header Actions */
+.fk-header-actions {
+  display: flex;
+  align-items: center;
+  gap: 24px;
+  flex-shrink: 0;
+}
+
+.fk-action-item {
+  color: #ffffff;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 14px;
+  font-weight: 600;
+  position: relative;
+  cursor: pointer;
+  transition: opacity 0.15s ease;
+}
+
+.fk-action-item:hover {
+  opacity: 0.9;
+}
+
+.fk-action-item.cart-btn {
+  background: rgba(255, 255, 255, 0.15);
+  padding: 8px 14px;
+  border-radius: var(--fk-radius-sm);
+  border: 1px solid rgba(255, 255, 255, 0.25);
+}
+
+.fk-action-item.cart-btn:hover {
+  background: rgba(255, 255, 255, 0.25);
+}
+
+.fk-cart-count {
+  background: var(--fk-orange);
+  color: #ffffff;
+  font-size: 11px;
+  font-weight: 700;
+  padding: 2px 6px;
+  border-radius: var(--fk-radius-pill);
+  min-width: 18px;
+  text-align: center;
+  line-height: 1;
+}
+
+/* Category Nav Sub-Bar */
+.fk-cat-nav {
+  background: #ffffff;
+  border-bottom: 1px solid var(--fk-border);
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);
+}
+
+.fk-cat-list {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  overflow-x: auto;
+  scrollbar-width: none;
+  padding: 10px 0;
+  gap: 16px;
+}
+
+.fk-cat-list::-webkit-scrollbar {
+  display: none;
+}
+
+.fk-cat-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 6px;
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--fk-text-primary);
+  white-space: nowrap;
+  padding: 4px 10px;
+  border-radius: var(--fk-radius-sm);
+  transition: color 0.15s ease;
+}
+
+.fk-cat-item:hover {
+  color: var(--fk-blue);
+}
+
+.fk-cat-item .cat-icon {
+  font-size: 22px;
+}
+
+/* ==========================================================================
+   Hero Slider / Promotional Banners
+   ========================================================================== */
+.fk-hero-section {
+  padding: 12px 0;
+}
+
+.fk-hero-slider {
+  position: relative;
+  border-radius: var(--fk-radius-md);
+  overflow: hidden;
+  box-shadow: var(--fk-shadow-card);
+  background: #ffffff;
+}
+
+.fk-slide {
+  display: none;
+  grid-template-columns: 1.2fr 0.8fr;
+  align-items: center;
+  min-height: 280px;
+  padding: 32px 48px;
+  background: linear-gradient(135deg, #1e3a8a 0%, #2563eb 60%, #3b82f6 100%);
+  color: #ffffff;
+  position: relative;
+  overflow: hidden;
+}
+
+.fk-slide.active {
+  display: grid;
+}
+
+.fk-slide::after {
+  content: '';
+  position: absolute;
+  top: -50%;
+  right: -20%;
+  width: 500px;
+  height: 500px;
+  background: radial-gradient(circle, rgba(255,255,255,0.12) 0%, transparent 70%);
+  border-radius: 50%;
+  pointer-events: none;
+}
+
+.fk-slide-content {
+  z-index: 2;
+}
+
+.fk-slide-tag {
+  display: inline-block;
+  background: var(--fk-yellow);
+  color: #000000;
+  font-size: 12px;
+  font-weight: 800;
+  padding: 4px 10px;
+  border-radius: var(--fk-radius-sm);
+  text-transform: uppercase;
+  margin-bottom: 12px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.15);
+}
+
+.fk-slide-title {
+  font-size: 32px;
+  font-weight: 800;
+  line-height: 1.15;
+  margin-bottom: 10px;
+}
+
+.fk-slide-desc {
+  font-size: 15px;
+  color: rgba(255, 255, 255, 0.9);
+  margin-bottom: 20px;
+  max-width: 440px;
+}
+
+.fk-slide-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  background: #ffffff;
+  color: var(--fk-blue);
+  font-size: 14px;
+  font-weight: 700;
+  padding: 12px 28px;
+  border-radius: var(--fk-radius-sm);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  transition: transform 0.15s ease, background 0.15s ease;
+}
+
+.fk-slide-btn:hover {
+  transform: translateY(-2px);
+  background: #f8fafc;
+}
+
+.fk-slide-media {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 2;
+}
+
+.fk-slide-media img {
+  max-height: 240px;
+  object-fit: contain;
+  filter: drop-shadow(0 10px 20px rgba(0, 0, 0, 0.25));
+  border-radius: var(--fk-radius-md);
+}
+
+/* Slider Controls */
+.fk-slider-nav {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  background: rgba(255, 255, 255, 0.9);
+  color: #212121;
+  width: 40px;
+  height: 80px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 20px;
+  cursor: pointer;
+  z-index: 10;
+  transition: background 0.2s ease;
+}
+
+.fk-slider-nav:hover {
+  background: #ffffff;
+}
+
+.fk-slider-nav.prev {
+  left: 0;
+  border-radius: 0 var(--fk-radius-sm) var(--fk-radius-sm) 0;
+}
+
+.fk-slider-nav.next {
+  right: 0;
+  border-radius: var(--fk-radius-sm) 0 0 var(--fk-radius-sm);
+}
+
+/* ==========================================================================
+   Deal Strip & Countdown
+   ========================================================================== */
+.fk-deal-header {
+  background: #ffffff;
+  padding: 16px 20px;
+  border-radius: var(--fk-radius-md) var(--fk-radius-md) 0 0;
+  border-bottom: 1px solid var(--fk-border);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 12px;
+}
+
+.fk-deal-title-wrap {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+
+.fk-deal-title {
+  font-size: 20px;
+  font-weight: 700;
+  color: var(--fk-text-primary);
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.fk-deal-timer {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--fk-text-secondary);
+}
+
+.fk-deal-timer .timer-box {
+  background: #212121;
+  color: #ffffff;
+  padding: 3px 6px;
+  border-radius: 3px;
+  font-weight: 700;
+  font-size: 12px;
+}
+
+.fk-view-all-btn {
+  background: var(--fk-blue);
+  color: #ffffff;
+  font-size: 13px;
+  font-weight: 700;
+  padding: 8px 18px;
+  border-radius: var(--fk-radius-sm);
+  box-shadow: 0 2px 4px rgba(40, 116, 240, 0.2);
+}
+
+/* ==========================================================================
+   Flipkart-Style Product Grid & Cards
+   ========================================================================== */
+.fk-products-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 12px;
+  background: #ffffff;
+  padding: 16px;
+  border-radius: 0 0 var(--fk-radius-md) var(--fk-radius-md);
+  box-shadow: var(--fk-shadow-card);
+  margin-bottom: 20px;
+}
+
+.fk-product-card {
+  background: #ffffff;
+  border: 1px solid var(--fk-border);
+  border-radius: var(--fk-radius-sm);
+  padding: 14px;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.fk-product-card:hover {
+  box-shadow: var(--fk-shadow-hover);
+  transform: translateY(-2px);
+  border-color: var(--fk-border-dark);
+}
+
+/* Wishlist Heart */
+.fk-wishlist-icon {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  width: 28px;
+  height: 28px;
+  background: #ffffff;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.12);
+  cursor: pointer;
+  z-index: 5;
+  color: #c2c2c2;
+  transition: color 0.15s ease;
+}
+
+.fk-wishlist-icon:hover {
+  color: #e53935;
+}
+
+/* Product Image */
+.fk-product-img-wrap {
+  width: 100%;
+  height: 180px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  margin-bottom: 12px;
+}
+
+.fk-product-img-wrap img {
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: contain;
+  transition: transform 0.3s ease;
+}
+
+.fk-product-card:hover .fk-product-img-wrap img {
+  transform: scale(1.05);
+}
+
+/* Rozmiso Assured Badge */
+.fk-assured-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  background: linear-gradient(135deg, #0b63e5 0%, #1e40af 100%);
+  color: #ffffff;
+  font-size: 10px;
+  font-weight: 800;
+  font-style: italic;
+  padding: 2px 6px;
+  border-radius: 3px;
+  width: fit-content;
+  margin-bottom: 6px;
+  letter-spacing: 0.2px;
+}
+
+.fk-assured-badge span.check {
+  color: #ffe500;
+}
+
+/* Product Info */
+.fk-product-title {
+  font-size: 14px;
+  font-weight: 500;
+  color: var(--fk-text-primary);
+  line-height: 1.35;
+  margin-bottom: 6px;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  line-clamp: 2;
+  overflow: hidden;
+  height: 38px;
+}
+
+.fk-product-title:hover {
+  color: var(--fk-blue);
+}
+
+/* Rating Pill */
+.fk-rating-row {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  margin-bottom: 8px;
+}
+
+.fk-rating-pill {
+  background: var(--fk-green);
+  color: #ffffff;
+  font-size: 11px;
+  font-weight: 700;
+  padding: 2px 6px;
+  border-radius: 3px;
+  display: inline-flex;
+  align-items: center;
+  gap: 2px;
+  line-height: 1;
+}
+
+.fk-rating-count {
+  font-size: 12px;
+  color: var(--fk-text-secondary);
+}
+
+/* Price Row */
+.fk-price-row {
+  display: flex;
+  align-items: baseline;
+  gap: 8px;
+  flex-wrap: wrap;
+  margin-bottom: 6px;
+}
+
+.fk-price-current {
+  font-size: 18px;
+  font-weight: 700;
+  color: var(--fk-text-primary);
+}
+
+.fk-price-original {
+  font-size: 13px;
+  color: var(--fk-text-secondary);
+  text-decoration: line-through;
+}
+
+.fk-price-discount {
+  font-size: 13px;
+  font-weight: 700;
+  color: var(--fk-green);
+}
+
+/* Extra Tags */
+.fk-delivery-tag {
+  font-size: 12px;
+  color: var(--fk-text-primary);
+  font-weight: 500;
+  margin-bottom: 12px;
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.fk-delivery-tag span.free {
+  color: var(--fk-green);
+  font-weight: 700;
+}
+
+/* Action CTA on Card */
+.fk-card-actions {
+  margin-top: auto;
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 6px;
+}
+
+.fk-btn-card {
+  width: 100%;
+  padding: 9px 0;
+  border-radius: var(--fk-radius-sm);
+  font-size: 12px;
+  font-weight: 700;
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 0.3px;
+  cursor: pointer;
+  transition: background 0.15s ease;
+  display: block;
+}
+
+.fk-btn-cart {
+  background: var(--fk-yellow);
+  color: #000000;
+}
+
+.fk-btn-cart:hover {
+  background: var(--fk-yellow-hover);
+}
+
+.fk-btn-buy {
+  background: var(--fk-orange);
+  color: #ffffff;
+}
+
+.fk-btn-buy:hover {
+  background: var(--fk-orange-hover);
+}
+
+/* ==========================================================================
+   Trust Guarantee Strip (Flipkart Assurance)
+   ========================================================================== */
+.fk-trust-strip {
+  background: #ffffff;
+  padding: 24px;
+  border-radius: var(--fk-radius-md);
+  box-shadow: var(--fk-shadow-card);
+  margin-bottom: 20px;
+}
+
+.fk-trust-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 20px;
+}
+
+.fk-trust-item {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+}
+
+.fk-trust-icon {
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  background: var(--fk-blue-light);
+  color: var(--fk-blue);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 22px;
+  flex-shrink: 0;
+}
+
+.fk-trust-text h4 {
+  font-size: 14px;
+  font-weight: 700;
+  color: var(--fk-text-primary);
+  margin-bottom: 2px;
+}
+
+.fk-trust-text p {
+  font-size: 12px;
+  color: var(--fk-text-secondary);
+}
+
+/* ==========================================================================
+   Product Detail Page (Flipkart 2-Column Desktop / Stacked Mobile)
+   ========================================================================== */
+.fk-pdp-layout {
+  display: grid;
+  grid-template-columns: 460px 1fr;
+  gap: 24px;
+  background: #ffffff;
+  padding: 24px;
+  border-radius: var(--fk-radius-md);
+  box-shadow: var(--fk-shadow-card);
+  margin-top: 16px;
+  margin-bottom: 24px;
+}
+
+/* Left Column: Gallery & Sticky CTAs */
+.fk-pdp-gallery-col {
+  position: sticky;
+  top: 80px;
+  align-self: start;
+}
+
+.fk-pdp-main-img-box {
+  border: 1px solid var(--fk-border);
+  border-radius: var(--fk-radius-sm);
+  height: 400px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  position: relative;
+  background: #ffffff;
+}
+
+.fk-pdp-main-img-box img {
+  max-height: 100%;
+  max-width: 100%;
+  object-fit: contain;
+}
+
+.fk-pdp-cta-row {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 12px;
+  margin-top: 16px;
+}
+
+.fk-btn-pdp-cart {
+  background: var(--fk-yellow);
+  color: #ffffff;
+  font-size: 15px;
+  font-weight: 700;
+  text-transform: uppercase;
+  padding: 16px;
+  border-radius: var(--fk-radius-sm);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.15);
+  cursor: pointer;
+}
+
+.fk-btn-pdp-cart:hover {
+  background: var(--fk-yellow-hover);
+}
+
+.fk-btn-pdp-buy {
+  background: var(--fk-orange);
+  color: #ffffff;
+  font-size: 15px;
+  font-weight: 700;
+  text-transform: uppercase;
+  padding: 16px;
+  border-radius: var(--fk-radius-sm);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.15);
+  cursor: pointer;
+}
+
+.fk-btn-pdp-buy:hover {
+  background: var(--fk-orange-hover);
+}
+
+/* Right Column: Details & Offers */
+.fk-pdp-details-col {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.fk-breadcrumb {
+  font-size: 12px;
+  color: var(--fk-text-secondary);
+}
+
+.fk-breadcrumb a:hover {
+  color: var(--fk-blue);
+}
+
+.fk-pdp-title {
+  font-size: 20px;
+  font-weight: 600;
+  color: var(--fk-text-primary);
+  line-height: 1.35;
+}
+
+.fk-pdp-rating-strip {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.fk-special-price-tag {
+  font-size: 12px;
+  font-weight: 700;
+  color: var(--fk-green);
+  text-transform: uppercase;
+}
+
+.fk-pdp-price-box {
+  display: flex;
+  align-items: baseline;
+  gap: 12px;
+  margin-top: 4px;
+}
+
+.fk-pdp-price-current {
+  font-size: 28px;
+  font-weight: 700;
+  color: var(--fk-text-primary);
+}
+
+.fk-pdp-price-mrp {
+  font-size: 16px;
+  color: var(--fk-text-secondary);
+  text-decoration: line-through;
+}
+
+.fk-pdp-discount-rate {
+  font-size: 16px;
+  font-weight: 700;
+  color: var(--fk-green);
+}
+
+/* Available Offers Box */
+.fk-offers-card {
+  border: 1px dashed var(--fk-border-dark);
+  background: #fafafa;
+  border-radius: var(--fk-radius-sm);
+  padding: 14px 16px;
+}
+
+.fk-offers-header {
+  font-size: 13px;
+  font-weight: 700;
+  color: var(--fk-text-primary);
+  margin-bottom: 8px;
+  text-transform: uppercase;
+  letter-spacing: 0.3px;
+}
+
+.fk-offer-item {
+  display: flex;
+  align-items: flex-start;
+  gap: 8px;
+  font-size: 13px;
+  color: var(--fk-text-primary);
+  margin-bottom: 6px;
+  line-height: 1.4;
+}
+
+.fk-offer-item .offer-tag-badge {
+  font-weight: 700;
+  color: var(--fk-green);
+  flex-shrink: 0;
+}
+
+/* Delivery Pincode Checker */
+.fk-delivery-box {
+  padding: 16px 0;
+  border-top: 1px solid var(--fk-border);
+  border-bottom: 1px solid var(--fk-border);
+}
+
+.fk-delivery-title {
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--fk-text-secondary);
+  margin-bottom: 8px;
+}
+
+.fk-pincode-form {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  max-width: 320px;
+}
+
+.fk-pincode-input-wrap {
+  position: relative;
+  flex: 1;
+}
+
+.fk-pincode-input {
+  width: 100%;
+  border: none;
+  border-bottom: 2px solid var(--fk-blue);
+  padding: 6px 0;
+  font-size: 14px;
+  font-weight: 600;
+  outline: none;
+  color: var(--fk-text-primary);
+}
+
+.fk-pincode-btn {
+  color: var(--fk-blue);
+  font-size: 13px;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.fk-pincode-status {
+  font-size: 12px;
+  font-weight: 600;
+  margin-top: 8px;
+}
+
+/* Bundle Tier Selector (High Converting) */
+.fk-bundles-box {
+  background: var(--fk-blue-light);
+  border: 1px solid rgba(40, 116, 240, 0.2);
+  border-radius: var(--fk-radius-sm);
+  padding: 14px 16px;
+}
+
+.fk-bundles-title {
+  font-size: 13px;
+  font-weight: 700;
+  color: var(--fk-blue-dark);
+  text-transform: uppercase;
+  margin-bottom: 10px;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.fk-bundle-options {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.fk-bundle-option {
+  background: #ffffff;
+  border: 1px solid var(--fk-border-dark);
+  border-radius: var(--fk-radius-sm);
+  padding: 10px 14px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  cursor: pointer;
+  transition: border-color 0.15s ease, background 0.15s ease;
+}
+
+.fk-bundle-option.selected {
+  border-color: var(--fk-blue);
+  background: #f8fbff;
+  box-shadow: 0 0 0 1px var(--fk-blue);
+}
+
+.fk-bundle-label {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-size: 13px;
+  font-weight: 600;
+}
+
+.fk-bundle-price {
+  font-size: 14px;
+  font-weight: 700;
+  color: var(--fk-text-primary);
+}
+
+.fk-bundle-badge {
+  background: var(--fk-green);
+  color: #ffffff;
+  font-size: 10px;
+  font-weight: 700;
+  padding: 2px 6px;
+  border-radius: 3px;
+}
+
+/* Product Highlights */
+.fk-highlights-box {
+  padding-top: 8px;
+}
+
+.fk-highlights-title {
+  font-size: 14px;
+  font-weight: 700;
+  color: var(--fk-text-primary);
+  margin-bottom: 8px;
+}
+
+.fk-highlights-list {
+  list-style: none;
+  font-size: 13px;
+  line-height: 1.8;
+  color: var(--fk-text-primary);
+}
+
+.fk-highlights-list li {
+  position: relative;
+  padding-left: 18px;
+}
+
+.fk-highlights-list li::before {
+  content: '•';
+  position: absolute;
+  left: 4px;
+  color: var(--fk-text-secondary);
+  font-size: 16px;
+}
+
+/* ==========================================================================
+   Reviews & Ratings Section (Flipkart Verified Style)
+   ========================================================================== */
+.fk-reviews-section {
+  background: #ffffff;
+  padding: 24px;
+  border-radius: var(--fk-radius-md);
+  box-shadow: var(--fk-shadow-card);
+  margin-bottom: 24px;
+}
+
+.fk-reviews-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-bottom: 1px solid var(--fk-border);
+  padding-bottom: 16px;
+  margin-bottom: 20px;
+}
+
+.fk-ratings-breakdown {
+  display: grid;
+  grid-template-columns: 200px 1fr;
+  gap: 32px;
+  align-items: center;
+  margin-bottom: 24px;
+}
+
+.fk-big-score {
+  text-align: center;
+}
+
+.fk-big-score h2 {
+  font-size: 48px;
+  font-weight: 700;
+  color: var(--fk-text-primary);
+  line-height: 1;
+}
+
+.fk-big-score span.star {
+  color: var(--fk-green);
+}
+
+.fk-big-score p {
+  font-size: 13px;
+  color: var(--fk-text-secondary);
+  margin-top: 6px;
+}
+
+.fk-bars-list {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.fk-bar-row {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-size: 12px;
+  color: var(--fk-text-secondary);
+}
+
+.fk-bar-track {
+  flex: 1;
+  height: 6px;
+  background: #f0f0f0;
+  border-radius: 3px;
+  overflow: hidden;
+}
+
+.fk-bar-fill {
+  height: 100%;
+  background: var(--fk-green);
+  border-radius: 3px;
+}
+
+/* Review Cards */
+.fk-review-card {
+  border-bottom: 1px solid var(--fk-border);
+  padding: 16px 0;
+}
+
+.fk-review-card:last-child {
+  border-bottom: none;
+}
+
+.fk-review-top {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 6px;
+}
+
+.fk-review-headline {
+  font-size: 14px;
+  font-weight: 700;
+  color: var(--fk-text-primary);
+}
+
+.fk-review-body {
+  font-size: 13px;
+  color: var(--fk-text-primary);
+  line-height: 1.5;
+  margin-bottom: 8px;
+}
+
+.fk-review-meta {
+  font-size: 11px;
+  color: var(--fk-text-secondary);
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.fk-review-meta .certified {
+  color: var(--fk-green);
+  font-weight: 700;
+  display: flex;
+  align-items: center;
+  gap: 2px;
+}
+
+/* ==========================================================================
+   Flipkart Enterprise Mega Footer
+   ========================================================================== */
+.fk-footer {
+  background: var(--fk-navy);
+  color: #ffffff;
+  padding: 40px 0 20px;
+  font-size: 12px;
+  margin-top: 40px;
+}
+
+.fk-footer-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 32px;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+  padding-bottom: 32px;
+}
+
+.fk-footer-col h4 {
+  color: #878787;
+  font-size: 12px;
+  font-weight: 700;
+  text-transform: uppercase;
+  margin-bottom: 14px;
+  letter-spacing: 0.5px;
+}
+
+.fk-footer-col ul {
+  list-style: none;
+  line-height: 2.2;
+}
+
+.fk-footer-col ul a {
+  color: #ffffff;
+  transition: color 0.15s ease;
+}
+
+.fk-footer-col ul a:hover {
+  text-decoration: underline;
+}
+
+.fk-footer-col p {
+  color: #ffffff;
+  line-height: 1.8;
+}
+
+.fk-footer-bottom {
+  padding-top: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 16px;
+  color: #878787;
+}
+
+.fk-payment-badges {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.fk-payment-tag {
+  background: rgba(255, 255, 255, 0.1);
+  padding: 4px 8px;
+  border-radius: 3px;
+  font-size: 11px;
+  font-weight: 700;
+  color: #ffffff;
+}
+
+/* ==========================================================================
+   Mobile Bottom Bar & Navigation (App-like Flipkart Experience)
+   ========================================================================== */
+.fk-mobile-bottom-bar {
+  display: none;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: #ffffff;
+  box-shadow: 0 -2px 10px rgba(0, 0, 0, 0.1);
+  z-index: 9999;
+  padding: 8px 12px;
+}
+
+.fk-mobile-cta-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 8px;
+}
+
+.fk-mobile-nav-bar {
+  display: none;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: #ffffff;
+  box-shadow: 0 -2px 10px rgba(0, 0, 0, 0.1);
+  z-index: 9998;
+  padding: 6px 0;
+  justify-content: space-around;
+}
+
+.fk-mob-nav-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: 10px;
+  font-weight: 600;
+  color: var(--fk-text-secondary);
+  gap: 2px;
+}
+
+.fk-mob-nav-item.active {
+  color: var(--fk-blue);
+}
+
+/* ==========================================================================
+   Responsive Breakpoints
+   ========================================================================== */
+@media (max-width: 900px) {
+  .fk-pdp-layout {
+    grid-template-columns: 1fr;
+    padding: 16px;
+  }
+  
+  .fk-pdp-gallery-col {
+    position: static;
+  }
+  
+  .fk-pdp-main-img-box {
+    height: 300px;
+  }
+  
+  .fk-slide {
+    grid-template-columns: 1fr;
+    padding: 24px;
+    text-align: center;
+  }
+  
+  .fk-slide-title {
+    font-size: 24px;
+  }
+  
+  .fk-slide-desc {
+    margin: 0 auto 16px;
+  }
+  
+  .fk-slide-media {
+    display: none;
+  }
+  
+  .fk-ratings-breakdown {
+    grid-template-columns: 1fr;
+    gap: 16px;
+  }
+}
+
+@media (max-width: 600px) {
+  .fk-header-inner {
+    height: auto;
+    flex-wrap: wrap;
+    padding: 10px 0;
+    gap: 10px;
+  }
+  
+  .fk-search-wrap {
+    order: 3;
+    max-width: 100%;
+    width: 100%;
+  }
+  
+  .fk-products-grid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 8px;
+    padding: 8px;
+  }
+  
+  .fk-product-card {
+    padding: 8px;
+  }
+  
+  .fk-product-img-wrap {
+    height: 130px;
+  }
+  
+  .fk-product-title {
+    font-size: 12px;
+    height: 32px;
+  }
+  
+  .fk-price-current {
+    font-size: 15px;
+  }
+  
+  .fk-price-original {
+    font-size: 11px;
+  }
+  
+  .fk-price-discount {
+    font-size: 11px;
+  }
+  
+  .fk-mobile-bottom-bar {
+    display: block;
+  }
+  
+  .fk-pdp-cta-row {
+    display: none; /* Replaced by sticky mobile bottom bar on mobile PDP */
+  }
+}

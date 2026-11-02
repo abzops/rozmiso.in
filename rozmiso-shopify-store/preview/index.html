@@ -1,0 +1,992 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>Rozmiso — Smart Living, Badi Bachat (Official Store)</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --brand-primary: #ff3366;
+            --brand-hover: #e02456;
+            --brand-dark: #0f172a;
+            --brand-light: #fff5f7;
+            --badge-green: #10b981;
+            --badge-bg: #ecfdf5;
+            --border-color: #f1f5f9;
+            --text-main: #1e293b;
+            --text-muted: #64748b;
+            --shadow-sm: 0 1px 3px rgba(0,0,0,0.06);
+            --shadow-md: 0 4px 12px rgba(0,0,0,0.08);
+            --shadow-lg: 0 10px 25px -5px rgba(255, 51, 102, 0.2);
+        }
+
+        * { box-sizing: border-box; margin: 0; padding: 0; font-family: 'Plus Jakarta Sans', sans-serif; -webkit-tap-highlight-color: transparent; }
+        body { background: #f8fafc; color: var(--text-main); line-height: 1.5; padding-bottom: 70px; }
+
+        /* Announcement Bar */
+        .announcement {
+            background: linear-gradient(90deg, #ff3366, #ff6b8b);
+            color: #fff;
+            text-align: center;
+            font-size: 12px;
+            font-weight: 700;
+            padding: 8px 12px;
+            letter-spacing: 0.3px;
+        }
+
+        /* Header */
+        header {
+            background: #fff;
+            position: sticky;
+            top: 0;
+            z-index: 100;
+            box-shadow: 0 1px 4px rgba(0,0,0,0.05);
+            padding: 12px 16px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        .logo-wrap {
+            display: flex;
+            align-items: center;
+            gap: 6px;
+            text-decoration: none;
+        }
+        .logo-badge {
+            background: var(--brand-primary);
+            color: #fff;
+            font-weight: 800;
+            font-size: 18px;
+            padding: 4px 10px;
+            border-radius: 8px;
+            letter-spacing: -0.5px;
+        }
+        .logo-text {
+            font-size: 20px;
+            font-weight: 800;
+            color: var(--brand-dark);
+            letter-spacing: -0.5px;
+        }
+        .logo-sub {
+            font-size: 10px;
+            font-weight: 700;
+            color: var(--brand-primary);
+            display: block;
+            margin-top: -3px;
+        }
+        .header-actions {
+            display: flex;
+            align-items: center;
+            gap: 16px;
+        }
+        .cart-icon-btn {
+            position: relative;
+            background: none;
+            border: none;
+            cursor: pointer;
+            font-size: 22px;
+        }
+        .cart-badge {
+            position: absolute;
+            top: -4px;
+            right: -6px;
+            background: var(--brand-primary);
+            color: #fff;
+            font-size: 10px;
+            font-weight: 800;
+            width: 18px;
+            height: 18px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        /* Hero Banner */
+        .hero {
+            background: linear-gradient(135deg, #fff0f3 0%, #ffffff 100%);
+            padding: 24px 16px;
+            border-bottom: 1px solid #fee2e2;
+        }
+        .hero-tag {
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+            background: #ffe4e6;
+            color: #e11d48;
+            font-size: 11px;
+            font-weight: 800;
+            padding: 4px 10px;
+            border-radius: 20px;
+            margin-bottom: 10px;
+            text-transform: uppercase;
+        }
+        .hero h1 {
+            font-size: 24px;
+            font-weight: 800;
+            color: var(--brand-dark);
+            line-height: 1.25;
+            margin-bottom: 8px;
+        }
+        .hero p {
+            font-size: 13px;
+            color: var(--text-muted);
+            margin-bottom: 16px;
+        }
+        .trust-strip {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 8px;
+            background: #fff;
+            padding: 10px;
+            border-radius: 12px;
+            box-shadow: var(--shadow-sm);
+            border: 1px solid #f1f5f9;
+        }
+        .trust-item {
+            text-align: center;
+        }
+        .trust-item span {
+            font-size: 18px;
+            display: block;
+            margin-bottom: 2px;
+        }
+        .trust-item strong {
+            font-size: 11px;
+            color: var(--brand-dark);
+            display: block;
+        }
+        .trust-item small {
+            font-size: 9px;
+            color: var(--text-muted);
+        }
+
+        /* Category Filter Tabs */
+        .categories-bar {
+            display: flex;
+            gap: 8px;
+            overflow-x: auto;
+            padding: 14px 16px;
+            background: #fff;
+            scrollbar-width: none;
+        }
+        .categories-bar::-webkit-scrollbar { display: none; }
+        .cat-pill {
+            background: #f1f5f9;
+            color: var(--text-main);
+            border: none;
+            padding: 8px 16px;
+            border-radius: 25px;
+            font-size: 12px;
+            font-weight: 700;
+            white-space: nowrap;
+            cursor: pointer;
+            transition: 0.2s;
+        }
+        .cat-pill.active {
+            background: var(--brand-primary);
+            color: #fff;
+            box-shadow: 0 2px 8px rgba(255, 51, 102, 0.3);
+        }
+
+        /* Products Grid */
+        .section-header {
+            padding: 18px 16px 10px;
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-end;
+        }
+        .section-header h2 {
+            font-size: 18px;
+            font-weight: 800;
+            color: var(--brand-dark);
+        }
+        .section-header p {
+            font-size: 12px;
+            color: var(--text-muted);
+        }
+
+        .products-grid {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 12px;
+            padding: 0 14px;
+            margin-bottom: 28px;
+        }
+        @media(min-width: 768px) {
+            .products-grid { grid-template-columns: repeat(3, 1fr); max-width: 1000px; margin: 0 auto 30px; }
+            .hero { text-align: center; padding: 40px 20px; }
+            .hero h1 { font-size: 32px; }
+            .trust-strip { max-width: 600px; margin: 0 auto; }
+        }
+
+        .product-card {
+            background: #fff;
+            border-radius: 14px;
+            overflow: hidden;
+            border: 1px solid var(--border-color);
+            box-shadow: var(--shadow-sm);
+            display: flex;
+            flex-direction: column;
+            position: relative;
+            cursor: pointer;
+            transition: transform 0.15s ease;
+        }
+        .product-card:active { transform: scale(0.98); }
+        .product-badge-discount {
+            position: absolute;
+            top: 8px;
+            left: 8px;
+            background: #dc2626;
+            color: #fff;
+            font-size: 10px;
+            font-weight: 800;
+            padding: 3px 7px;
+            border-radius: 6px;
+            z-index: 2;
+        }
+        .product-badge-cod {
+            position: absolute;
+            top: 8px;
+            right: 8px;
+            background: #10b981;
+            color: #fff;
+            font-size: 9px;
+            font-weight: 800;
+            padding: 3px 6px;
+            border-radius: 6px;
+            z-index: 2;
+        }
+        .card-img-wrap {
+            position: relative;
+            width: 100%;
+            padding-top: 100%;
+            background: #f8fafc;
+            overflow: hidden;
+        }
+        .card-img-wrap img {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+        .card-info {
+            padding: 12px;
+            display: flex;
+            flex-direction: column;
+            flex-grow: 1;
+        }
+        .card-rating {
+            font-size: 11px;
+            color: #f59e0b;
+            font-weight: 700;
+            margin-bottom: 4px;
+            display: flex;
+            align-items: center;
+            gap: 4px;
+        }
+        .card-rating span { color: var(--text-muted); font-size: 10px; font-weight: 500; }
+        .card-title {
+            font-size: 13px;
+            font-weight: 700;
+            color: var(--brand-dark);
+            line-height: 1.35;
+            margin-bottom: 8px;
+            display: -webkit-box;
+            -webkit-line-clamp: 2;
+            -webkit-box-orient: vertical;
+            overflow: hidden;
+            height: 35px;
+        }
+        .price-wrap {
+            display: flex;
+            align-items: baseline;
+            gap: 6px;
+            margin-top: auto;
+            margin-bottom: 10px;
+        }
+        .current-price {
+            font-size: 17px;
+            font-weight: 800;
+            color: var(--brand-primary);
+        }
+        .mrp-price {
+            font-size: 12px;
+            color: var(--text-muted);
+            text-decoration: line-through;
+        }
+        .btn-order-cod {
+            background: #0f172a;
+            color: #fff;
+            border: none;
+            padding: 9px 8px;
+            border-radius: 8px;
+            font-size: 12px;
+            font-weight: 700;
+            width: 100%;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 4px;
+            transition: 0.2s;
+        }
+        .btn-order-cod:hover { background: #1e293b; }
+
+        /* Product Detail Modal */
+        .modal-overlay {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0,0,0,0.6);
+            backdrop-filter: blur(4px);
+            z-index: 200;
+            display: none;
+            align-items: flex-end;
+            justify-content: center;
+        }
+        .modal-overlay.active { display: flex; }
+        .modal-content {
+            background: #fff;
+            width: 100%;
+            max-width: 600px;
+            max-height: 90vh;
+            border-radius: 20px 20px 0 0;
+            overflow-y: auto;
+            padding: 20px 16px 90px;
+            position: relative;
+            animation: slideUp 0.3s ease;
+        }
+        @keyframes slideUp {
+            from { transform: translateY(100%); }
+            to { transform: translateY(0); }
+        }
+        .modal-close {
+            position: absolute;
+            top: 14px;
+            right: 16px;
+            background: #f1f5f9;
+            border: none;
+            width: 32px;
+            height: 32px;
+            border-radius: 50%;
+            font-size: 16px;
+            font-weight: 700;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .modal-img {
+            width: 100%;
+            height: 240px;
+            object-fit: cover;
+            border-radius: 12px;
+            margin-bottom: 14px;
+        }
+        .modal-title {
+            font-size: 18px;
+            font-weight: 800;
+            margin-bottom: 8px;
+            line-height: 1.3;
+        }
+        .bundle-box {
+            background: #f8fafc;
+            border: 2px solid #e2e8f0;
+            border-radius: 12px;
+            padding: 12px;
+            margin: 14px 0;
+        }
+        .bundle-title {
+            font-size: 13px;
+            font-weight: 800;
+            text-transform: uppercase;
+            color: var(--brand-primary);
+            margin-bottom: 8px;
+            display: flex;
+            justify-content: space-between;
+        }
+        .bundle-option {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            background: #fff;
+            border: 2px solid #cbd5e1;
+            padding: 10px 12px;
+            border-radius: 8px;
+            margin-bottom: 8px;
+            cursor: pointer;
+            transition: 0.2s;
+        }
+        .bundle-option.selected {
+            border-color: var(--brand-primary);
+            background: #fff5f7;
+        }
+        .bundle-option input { margin-right: 8px; accent-color: var(--brand-primary); }
+        .bundle-badge {
+            background: #fef08a;
+            color: #854d0e;
+            font-size: 10px;
+            font-weight: 800;
+            padding: 2px 6px;
+            border-radius: 4px;
+            margin-left: 6px;
+        }
+
+        /* Pincode Checker */
+        .pincode-card {
+            background: #f0fdf4;
+            border: 1px dashed #86efac;
+            padding: 10px 12px;
+            border-radius: 8px;
+            margin: 14px 0;
+            display: flex;
+            gap: 8px;
+            align-items: center;
+        }
+        .pincode-input {
+            border: 1px solid #bbf7d0;
+            padding: 6px 10px;
+            border-radius: 6px;
+            font-size: 13px;
+            width: 120px;
+            background: #fff;
+        }
+        .btn-check-pin {
+            background: #15803d;
+            color: #fff;
+            border: none;
+            padding: 6px 12px;
+            border-radius: 6px;
+            font-size: 12px;
+            font-weight: 700;
+            cursor: pointer;
+        }
+
+        /* Sticky Bottom Bar */
+        .sticky-bottom-bar {
+            position: fixed;
+            bottom: 0;
+            left: 0;
+            width: 100%;
+            background: #fff;
+            border-top: 1px solid #e2e8f0;
+            padding: 10px 16px;
+            box-shadow: 0 -4px 16px rgba(0,0,0,0.08);
+            z-index: 150;
+            display: flex;
+            gap: 10px;
+            align-items: center;
+        }
+        .sticky-price-box {
+            display: flex;
+            flex-direction: column;
+        }
+        .sticky-price-box span { font-size: 10px; color: var(--text-muted); font-weight: 600; text-transform: uppercase; }
+        .sticky-price-box strong { font-size: 18px; font-weight: 800; color: var(--brand-primary); }
+        .btn-buy-cod {
+            background: linear-gradient(135deg, #ff3366, #e11d48);
+            color: #fff;
+            border: none;
+            padding: 14px 18px;
+            border-radius: 12px;
+            font-size: 15px;
+            font-weight: 800;
+            flex-grow: 1;
+            cursor: pointer;
+            box-shadow: var(--shadow-lg);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 6px;
+        }
+
+        /* Order Form Modal */
+        .form-row { margin-bottom: 12px; }
+        .form-row label { display: block; font-size: 12px; font-weight: 700; color: var(--brand-dark); margin-bottom: 4px; }
+        .form-input {
+            width: 100%;
+            padding: 10px 12px;
+            border: 1.5px solid #cbd5e1;
+            border-radius: 8px;
+            font-size: 14px;
+        }
+        .form-input:focus { outline: none; border-color: var(--brand-primary); }
+        .upi-discount-banner {
+            background: #fefce8;
+            border: 1.5px solid #fde047;
+            padding: 10px;
+            border-radius: 8px;
+            margin: 14px 0;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            cursor: pointer;
+        }
+        .upi-discount-banner input { accent-color: #ca8a04; width: 18px; height: 18px; }
+        .upi-discount-banner label { font-size: 12px; font-weight: 700; color: #854d0e; cursor: pointer; }
+
+        /* Floating WhatsApp Button */
+        .whatsapp-float {
+            position: fixed;
+            bottom: 75px;
+            right: 16px;
+            background: #25d366;
+            color: #fff;
+            width: 50px;
+            height: 50px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 26px;
+            box-shadow: 0 4px 12px rgba(37, 211, 102, 0.4);
+            z-index: 90;
+            text-decoration: none;
+        }
+
+        /* Footer */
+        footer {
+            background: #0f172a;
+            color: #94a3b8;
+            padding: 30px 16px 90px;
+            font-size: 12px;
+            text-align: center;
+        }
+        footer a { color: #cbd5e1; text-decoration: none; margin: 0 8px; }
+    </style>
+</head>
+<body>
+
+    <!-- Announcement Bar -->
+    <div class="announcement">
+        ⚡ FESTIVE SALE: 100% Cash On Delivery Available Pan-India + Extra ₹50 Off on UPI Orders!
+    </div>
+
+    <!-- Header -->
+    <header>
+        <a href="#" class="logo-wrap">
+            <span class="logo-badge">ROZ</span>
+            <div>
+                <span class="logo-text">ROZMISO</span>
+                <span class="logo-sub">Smart Living, Badi Bachat</span>
+            </div>
+        </a>
+        <div class="header-actions">
+            <button class="cart-icon-btn" onclick="openCart()">
+                🛒
+                <span class="cart-badge" id="cartCount">1</span>
+            </button>
+        </div>
+    </header>
+
+    <!-- Hero Banner -->
+    <div class="hero">
+        <div class="hero-tag">🔥 Trending Viral Gadgets 2026</div>
+        <h1>Daily Smart Gadgets at Honest Indian Prices.</h1>
+        <p>Verified domestic warehouse delivery in 3–5 days across all Indian PIN codes.</p>
+        
+        <div class="trust-strip">
+            <div class="trust-item">
+                <span>💵</span>
+                <strong>100% COD</strong>
+                <small>Pay at Doorstep</small>
+            </div>
+            <div class="trust-item">
+                <span>🚚</span>
+                <strong>Free Delivery</strong>
+                <small>All Indian Pincodes</small>
+            </div>
+            <div class="trust-item">
+                <span>🔄</span>
+                <strong>7-Day Returns</strong>
+                <small>Instant Replacement</small>
+            </div>
+        </div>
+    </div>
+
+    <!-- Category Filter Bar -->
+    <div class="categories-bar">
+        <button class="cat-pill active" onclick="filterCat('all', this)">🔥 All Bestsellers</button>
+        <button class="cat-pill" onclick="filterCat('car', this)">🚗 Car Gadgets</button>
+        <button class="cat-pill" onclick="filterCat('home', this)">🏠 Home & Kitchen</button>
+        <button class="cat-pill" onclick="filterCat('health', this)">🌿 Health & Wellness</button>
+        <button class="cat-pill" onclick="filterCat('electronics', this)">⚡ Smart Tech</button>
+    </div>
+
+    <!-- Section Title -->
+    <div class="section-header">
+        <div>
+            <h2>Popular Deals of the Day</h2>
+            <p>Over 40,000+ happy customers across India</p>
+        </div>
+    </div>
+
+    <!-- Products Grid -->
+    <div class="products-grid" id="productGrid">
+        <!-- Rendered by JavaScript -->
+    </div>
+
+    <!-- Product Detail Modal -->
+    <div class="modal-overlay" id="productModal">
+        <div class="modal-content">
+            <button class="modal-close" onclick="closeModal()">✕</button>
+            <img src="" id="modalImg" class="modal-img" alt="Product">
+            <div class="card-rating" id="modalRating">★★★★★ <span>(4.9 • 840+ Reviews)</span></div>
+            <h2 class="modal-title" id="modalTitle">Product Title</h2>
+            <div class="price-wrap">
+                <span class="current-price" id="modalPrice">₹999</span>
+                <span class="mrp-price" id="modalMrp">₹1,499</span>
+                <span class="product-badge-discount" id="modalDiscount">Save 35%</span>
+            </div>
+
+            <!-- PIN Code Check -->
+            <div class="pincode-card">
+                <span>📍</span>
+                <input type="text" class="pincode-input" id="pinInput" placeholder="Enter PIN code" maxlength="6">
+                <button class="btn-check-pin" onclick="checkPin()">Check Delivery</button>
+                <small id="pinStatus" style="font-size: 11px; color: #15803d; font-weight: 700;"></small>
+            </div>
+
+            <!-- Bundle Architecture -->
+            <div class="bundle-box">
+                <div class="bundle-title">
+                    <span>⚡ Choose Bundle & Save Extra</span>
+                    <small style="color: #10b981;">Free Fast Shipping</small>
+                </div>
+                <div class="bundle-option selected" onclick="selectBundle(1, this)">
+                    <div style="display:flex; align-items:center;">
+                        <input type="radio" name="bundle" checked>
+                        <div>
+                            <strong style="font-size: 13px;">Buy 1 Unit (Standard)</strong>
+                        </div>
+                    </div>
+                    <strong style="color: var(--brand-dark);" id="bundlePrice1">₹999</strong>
+                </div>
+
+                <div class="bundle-option" onclick="selectBundle(2, this)">
+                    <div style="display:flex; align-items:center;">
+                        <input type="radio" name="bundle">
+                        <div>
+                            <strong style="font-size: 13px;">Buy 2 Units (Car + Home)</strong>
+                            <span class="bundle-badge">SAVE ₹300!</span>
+                        </div>
+                    </div>
+                    <strong style="color: var(--brand-primary);" id="bundlePrice2">₹1,699</strong>
+                </div>
+
+                <div class="bundle-option" onclick="selectBundle(3, this)">
+                    <div style="display:flex; align-items:center;">
+                        <input type="radio" name="bundle">
+                        <div>
+                            <strong style="font-size: 13px;">Buy 3 Units (Family Pack)</strong>
+                            <span class="bundle-badge">SAVE ₹700!</span>
+                        </div>
+                    </div>
+                    <strong style="color: var(--brand-primary);" id="bundlePrice3">₹2,299</strong>
+                </div>
+            </div>
+
+            <!-- Product Description Bullet points -->
+            <div style="font-size: 13px; line-height: 1.6; margin-top: 14px;" id="modalDesc">
+                <!-- Bullets -->
+            </div>
+
+            <!-- Checkout Order Form -->
+            <div style="margin-top: 20px; border-top: 1px solid #e2e8f0; padding-top: 16px;">
+                <h3 style="font-size: 15px; font-weight: 800; margin-bottom: 12px; color: var(--brand-dark);">
+                    📦 Cash on Delivery Quick Checkout
+                </h3>
+                <div class="form-row">
+                    <label>Full Name *</label>
+                    <input type="text" class="form-input" id="orderName" placeholder="e.g. Rahul Sharma">
+                </div>
+                <div class="form-row">
+                    <label>Mobile Number (For WhatsApp Delivery Updates) *</label>
+                    <input type="tel" class="form-input" id="orderPhone" placeholder="10-digit mobile number" maxlength="10">
+                </div>
+                <div class="form-row">
+                    <label>Complete House / Flat No. & Street *</label>
+                    <input type="text" class="form-input" id="orderAddress" placeholder="House/Flat No., Building name, Road">
+                </div>
+                <div class="form-row">
+                    <label>Nearest Landmark & City *</label>
+                    <input type="text" class="form-input" id="orderLandmark" placeholder="e.g. Near Shiv Mandir, Pune">
+                </div>
+
+                <!-- UPI Discount Toggle -->
+                <div class="upi-discount-banner" onclick="toggleUpi()">
+                    <input type="checkbox" id="upiCheck">
+                    <label for="upiCheck">
+                        ⚡ <b>Pay Online via UPI (GPay / PhonePe / Paytm)</b> and get <b>Flat ₹50 Instant Discount</b>!
+                    </label>
+                </div>
+
+                <button class="btn-buy-cod" style="width: 100%; font-size: 16px; padding: 16px;" onclick="placeOrder()">
+                    💵 PLACE ORDER WITH CASH ON DELIVERY (<span id="checkoutTotal">₹999</span>)
+                </button>
+                <p style="text-align:center; font-size: 11px; color: var(--text-muted); margin-top: 8px;">
+                    🔒 Safe 256-Bit SSL Encrypted • Zero Advance Payment Required
+                </p>
+            </div>
+        </div>
+    </div>
+
+    <!-- Floating WhatsApp Help Button -->
+    <a href="https://wa.me/919999999999?text=Hi%20Rozmiso%20Team!%20I%20have%20a%20question%20about%20my%20order." class="whatsapp-float" target="_blank" title="WhatsApp Support">
+        💬
+    </a>
+
+    <!-- Sticky Mobile Buy Bar -->
+    <div class="sticky-bottom-bar" id="stickyBar">
+        <div class="sticky-price-box">
+            <span>Special Deal</span>
+            <strong id="stickyPrice">₹999</strong>
+        </div>
+        <button class="btn-buy-cod" onclick="openProductModal(0)">
+            💵 BUY WITH CASH ON DELIVERY
+        </button>
+    </div>
+
+    <!-- Footer -->
+    <footer>
+        <h3 style="color: #fff; margin-bottom: 8px;">ROZMISO INDIA</h3>
+        <p style="margin-bottom: 14px;">Smart living gadgets at honest prices for every Indian household.</p>
+        <div style="margin-bottom: 14px;">
+            <a href="#">Track Order</a> |
+            <a href="#">Contact Support</a> |
+            <a href="#">Privacy Policy</a> |
+            <a href="#">7-Day Replacement Policy</a>
+        </div>
+        <p style="font-size: 10px; color: #64748b;">© 2026 Rozmiso (rozmiso.com). All rights reserved. Powered by Shopify Dev.</p>
+    </footer>
+
+    <script>
+        const products = [
+            {
+                id: 1,
+                cat: "car",
+                title: "2-in-1 Cordless High-Power Car Vacuum & Air Duster",
+                price: 999,
+                mrp: 1499,
+                bundle2: 1699,
+                bundle3: 2299,
+                img: "https://images.unsplash.com/photo-1558981403-c5f9899a28bc?auto=format&fit=crop&w=800&q=80",
+                rating: "4.9",
+                reviews: "840+",
+                desc: [
+                    "<b>High-Power Cyclone Suction:</b> Cleans biscuits, crumbs, dirt, and hair in a single sweep.",
+                    "<b>2-in-1 Dual Function:</b> Powerful vacuum on one side, reverse high-pressure air blower on the other.",
+                    "<b>USB Type-C Fast Charging:</b> 45-minute battery backup, charges easily from car port.",
+                    "<b>Washable HEPA Filter:</b> Eco-friendly, reusable, easy to clean."
+                ]
+            },
+            {
+                id: 2,
+                cat: "health",
+                title: "EMS Bio-Electric Acupoint Foot Massager Therapy Mat",
+                price: 799,
+                mrp: 1299,
+                bundle2: 1399,
+                bundle3: 1999,
+                img: "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?auto=format&fit=crop&w=800&q=80",
+                rating: "4.8",
+                reviews: "1,220+",
+                desc: [
+                    "<b>Relieves Leg Pain & Swelling:</b> Stimulates nerve acupressure points to improve blood circulation.",
+                    "<b>8 Massage Modes & 19 Intensity Levels:</b> Customize from gentle relaxation to deep muscle therapy.",
+                    "<b>Rollable & Ultra-Lightweight:</b> Carry in bag, use at office or bedroom while watching TV.",
+                    "<b>Rechargeable Battery:</b> Lasts for up to 15 days on standard daily usage."
+                ]
+            },
+            {
+                id: 3,
+                cat: "electronics",
+                title: "Mini Portable Bluetooth Inkless Pocket Thermal Printer",
+                price: 1499,
+                mrp: 2199,
+                bundle2: 1899, // Includes paper pack
+                bundle3: 2499,
+                img: "https://images.unsplash.com/photo-1612815154858-60aa4c59eaa6?auto=format&fit=crop&w=800&q=80",
+                rating: "4.9",
+                reviews: "610+",
+                desc: [
+                    "<b>Zero Ink Technology:</b> Never buy messy ink or expensive cartridges again.",
+                    "<b>Bluetooth Instant Connect:</b> Prints photos, study diagrams, and shipping labels directly from phone in 2 seconds.",
+                    "<b>Pocket-Sized:</b> Lightweight (180g) and compact for school, college, or home office."
+                ]
+            },
+            {
+                id: 4,
+                cat: "home",
+                title: "USB Rechargeable Electric Fabric Shaver & Lint Remover",
+                price: 799,
+                mrp: 1299,
+                bundle2: 1399,
+                bundle3: 1899,
+                img: "https://images.unsplash.com/photo-1582735689369-4fe89db7114c?auto=format&fit=crop&w=800&q=80",
+                rating: "4.7",
+                reviews: "930+",
+                desc: [
+                    "<b>Revives Old Clothes:</b> Shaves lint fuzz off woolen sweaters, shawls, and sofas in 30 seconds.",
+                    "<b>Honeycomb Stainless Steel Mesh:</b> Protects delicate fabrics from damage.",
+                    "<b>Transparent Fuzz Storage:</b> Easy twist-to-clean container."
+                ]
+            },
+            {
+                id: 5,
+                cat: "home",
+                title: "Astronaut 360° Rotating Galaxy Nebula Night Projector",
+                price: 1099,
+                mrp: 1799,
+                bundle2: 1899,
+                bundle3: 2699,
+                img: "https://images.unsplash.com/photo-1506703719100-a0f3a48c0f86?auto=format&fit=crop&w=800&q=80",
+                rating: "4.9",
+                reviews: "1,540+",
+                desc: [
+                    "<b>8 Mesmerizing Nebula Colors:</b> Dynamic starry sky projection with green laser stars.",
+                    "<b>360° Magnetic Head:</b> Rotate the astronaut head in any direction.",
+                    "<b>Remote Control with Timer:</b> Set auto shut-off while falling asleep."
+                ]
+            }
+        ];
+
+        let activeProduct = products[0];
+        let selectedQty = 1;
+        let isUpi = false;
+
+        function renderProducts(items) {
+            const grid = document.getElementById('productGrid');
+            grid.innerHTML = items.map((p, idx) => `
+                <div class="product-card" onclick="openProductModal(${p.id - 1})">
+                    <span class="product-badge-discount">SAVE ${Math.round(((p.mrp - p.price) / p.mrp) * 100)}%</span>
+                    <span class="product-badge-cod">💵 COD FREE</span>
+                    <div class="card-img-wrap">
+                        <img src="${p.img}" alt="${p.title}" loading="lazy">
+                    </div>
+                    <div class="card-info">
+                        <div class="card-rating">★★★★★ <span>(${p.rating})</span></div>
+                        <h3 class="card-title">${p.title}</h3>
+                        <div class="price-wrap">
+                            <span class="current-price">₹${p.price}</span>
+                            <span class="mrp-price">₹${p.mrp}</span>
+                        </div>
+                        <button class="btn-order-cod">
+                            💵 Order with COD
+                        </button>
+                    </div>
+                </div>
+            `).join('');
+        }
+
+        function filterCat(cat, btn) {
+            document.querySelectorAll('.cat-pill').forEach(b => b.classList.remove('active'));
+            btn.classList.add('active');
+            if (cat === 'all') {
+                renderProducts(products);
+            } else {
+                renderProducts(products.filter(p => p.cat === cat));
+            }
+        }
+
+        function openProductModal(index) {
+            activeProduct = products[index];
+            selectedQty = 1;
+            isUpi = false;
+            document.getElementById('upiCheck').checked = false;
+
+            document.getElementById('modalImg').src = activeProduct.img;
+            document.getElementById('modalTitle').innerText = activeProduct.title;
+            document.getElementById('modalPrice').innerText = '₹' + activeProduct.price;
+            document.getElementById('modalMrp').innerText = '₹' + activeProduct.mrp;
+            document.getElementById('stickyPrice').innerText = '₹' + activeProduct.price;
+            document.getElementById('modalDiscount').innerText = `Save ${Math.round(((activeProduct.mrp - activeProduct.price) / activeProduct.mrp) * 100)}%`;
+
+            document.getElementById('bundlePrice1').innerText = '₹' + activeProduct.price;
+            document.getElementById('bundlePrice2').innerText = '₹' + activeProduct.bundle2;
+            document.getElementById('bundlePrice3').innerText = '₹' + activeProduct.bundle3;
+
+            document.getElementById('modalDesc').innerHTML = `
+                <ul style="padding-left: 18px;">
+                    ${activeProduct.desc.map(d => `<li style="margin-bottom: 6px;">${d}</li>`).join('')}
+                </ul>
+            `;
+
+            updateTotal();
+            document.getElementById('productModal').classList.add('active');
+        }
+
+        function closeModal() {
+            document.getElementById('productModal').classList.remove('active');
+        }
+
+        function selectBundle(qty, el) {
+            selectedQty = qty;
+            document.querySelectorAll('.bundle-option').forEach(b => {
+                b.classList.remove('selected');
+                b.querySelector('input').checked = false;
+            });
+            el.classList.add('selected');
+            el.querySelector('input').checked = true;
+            updateTotal();
+        }
+
+        function toggleUpi() {
+            const check = document.getElementById('upiCheck');
+            isUpi = check.checked;
+            updateTotal();
+        }
+
+        function updateTotal() {
+            let base = activeProduct.price;
+            if (selectedQty === 2) base = activeProduct.bundle2;
+            if (selectedQty === 3) base = activeProduct.bundle3;
+
+            let finalAmount = isUpi ? (base - 50) : base;
+            document.getElementById('checkoutTotal').innerText = '₹' + finalAmount;
+        }
+
+        function checkPin() {
+            const val = document.getElementById('pinInput').value.trim();
+            const status = document.getElementById('pinStatus');
+            if (val.length === 6 && /^\d+$/.test(val)) {
+                status.innerText = '✓ COD Available (3–5 Days Delivery via Delhivery)';
+                status.style.color = '#15803d';
+            } else {
+                status.innerText = '✗ Please enter valid 6-digit PIN';
+                status.style.color = '#dc2626';
+            }
+        }
+
+        function placeOrder() {
+            const name = document.getElementById('orderName').value.trim();
+            const phone = document.getElementById('orderPhone').value.trim();
+            const address = document.getElementById('orderAddress').value.trim();
+
+            if (!name || phone.length !== 10 || !address) {
+                alert('Please enter your Name, 10-digit Phone, and Complete Address to confirm delivery!');
+                return;
+            }
+
+            alert(`🎉 Shukriya ${name}! Aapka order for "${activeProduct.title}" (Qty: ${selectedQty}) receive ho gaya hai.\n\nTotal: ${document.getElementById('checkoutTotal').innerText} (Cash on Delivery)\n\nWhatsApp par order confirmation message bhej diya gaya hai!`);
+            closeModal();
+        }
+
+        function openCart() {
+            openProductModal(0);
+        }
+
+        // Initial Render
+        renderProducts(products);
+    </script>
+</body>
+</html>

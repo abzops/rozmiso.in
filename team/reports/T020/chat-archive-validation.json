@@ -1,0 +1,23 @@
+{
+  "source": "F:\\Dropshipping\\Files\\Drop shipping Committee.zip",
+  "sha256": "41e3dff9a5fbb90ecd94798f05ef0bd95b471809d836acfacbbedaa4ba99a064",
+  "members": [
+    {
+      "name": "chat.txt",
+      "bytes": 2609,
+      "compressed_bytes": 2609
+    },
+    {
+      "name": "chat.md",
+      "bytes": 2361,
+      "compressed_bytes": 2361
+    }
+  ],
+  "all_chat_text_read": [
+    "chat.txt",
+    "chat.md"
+  ],
+  "attachments_included": false,
+  "chat_txt_lines": 29,
+  "chat_md_lines": 63
+}

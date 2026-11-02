@@ -1,0 +1,326 @@
+{
+  "task": "T029",
+  "phase": "CAROUSEL_SOURCE_REVIEW",
+  "reviewer": "premium_catalog_b",
+  "date": "2026-10-13",
+  "boundary": "Read-only original/A assets; B previously produced assets not independent QA. No live/board/log actions.",
+  "aCrossReview": [
+    {
+      "id": "10252037390528",
+      "files": [
+        "01-studio-v2.png",
+        "02-detail-v2.png",
+        "03-usecase.png",
+        "04-use-context.png",
+        "05-title-features.png",
+        "06-care-v2.png"
+      ],
+      "result": "PASS",
+      "note": "Corrected top-lid strap verified; old01 rejected sidewall strap, exclude. Patterns approximate AI illustration; props excluded.",
+      "perFile": [
+        {
+          "path": "F:/Dropshipping/team/reports/T028/generated/10252037390528/01-studio-v2.png",
+          "result": "PASS"
+        },
+        {
+          "path": "F:/Dropshipping/team/reports/T028/generated/10252037390528/02-detail-v2.png",
+          "result": "PASS"
+        },
+        {
+          "path": "F:/Dropshipping/team/reports/T028/generated/10252037390528/03-usecase.png",
+          "result": "PASS"
+        },
+        {
+          "path": "F:/Dropshipping/team/reports/T028/generated/10252037390528/04-use-context.png",
+          "result": "PASS"
+        },
+        {
+          "path": "F:/Dropshipping/team/reports/T028/generated/10252037390528/05-title-features.png",
+          "result": "PASS"
+        },
+        {
+          "path": "F:/Dropshipping/team/reports/T028/generated/10252037390528/06-care-v2.png",
+          "result": "PASS"
+        }
+      ]
+    },
+    {
+      "id": "10252037456064",
+      "files": [
+        "01-studio.png",
+        "02-detail.png",
+        "03-usecase-v2.png",
+        "04-use-context-v2.png",
+        "05-title-features.png",
+        "06-care.png"
+      ],
+      "result": "PASS",
+      "note": "Pink bear/cap/bristles preserved, no dispensing nozzle invented. Rear bristle array inferred; no count claim.",
+      "perFile": [
+        {
+          "path": "F:/Dropshipping/team/reports/T028/generated/10252037456064/01-studio.png",
+          "result": "PASS"
+        },
+        {
+          "path": "F:/Dropshipping/team/reports/T028/generated/10252037456064/02-detail.png",
+          "result": "PASS"
+        },
+        {
+          "path": "F:/Dropshipping/team/reports/T028/generated/10252037456064/03-usecase-v2.png",
+          "result": "PASS"
+        },
+        {
+          "path": "F:/Dropshipping/team/reports/T028/generated/10252037456064/04-use-context-v2.png",
+          "result": "PASS"
+        },
+        {
+          "path": "F:/Dropshipping/team/reports/T028/generated/10252037456064/05-title-features.png",
+          "result": "PASS"
+        },
+        {
+          "path": "F:/Dropshipping/team/reports/T028/generated/10252037456064/06-care.png",
+          "result": "PASS"
+        }
+      ]
+    },
+    {
+      "id": "10253181026496",
+      "files": [
+        "01-studio.png",
+        "02-detail.png",
+        "03-usecase.png",
+        "04-use-context.png",
+        "05-title-features.png",
+        "06-care.png"
+      ],
+      "result": "PASS",
+      "note": "One rustorange terry square, bound black edges/loop, distinct macro/action/hanging, commonpremium.",
+      "perFile": [
+        {
+          "path": "F:/Dropshipping/team/reports/T028/generated/10253181026496/01-studio.png",
+          "result": "PASS"
+        },
+        {
+          "path": "F:/Dropshipping/team/reports/T028/generated/10253181026496/02-detail.png",
+          "result": "PASS"
+        },
+        {
+          "path": "F:/Dropshipping/team/reports/T028/generated/10253181026496/03-usecase.png",
+          "result": "PASS"
+        },
+        {
+          "path": "F:/Dropshipping/team/reports/T028/generated/10253181026496/04-use-context.png",
+          "result": "PASS"
+        },
+        {
+          "path": "F:/Dropshipping/team/reports/T028/generated/10253181026496/05-title-features.png",
+          "result": "PASS"
+        },
+        {
+          "path": "F:/Dropshipping/team/reports/T028/generated/10253181026496/06-care.png",
+          "result": "PASS"
+        }
+      ]
+    },
+    {
+      "id": "10253181092032",
+      "files": [
+        "01-studio.png",
+        "02-detail.png",
+        "03-usecase.png",
+        "04-use-context.png",
+        "05-title-features.png",
+        "06-care.png"
+      ],
+      "result": "PASS",
+      "note": "Three correct colorpairs, one tie macro deliberatecrop, bread/cookieprops; no airtightclaim.",
+      "perFile": [
+        {
+          "path": "F:/Dropshipping/team/reports/T028/generated/10253181092032/01-studio.png",
+          "result": "PASS"
+        },
+        {
+          "path": "F:/Dropshipping/team/reports/T028/generated/10253181092032/02-detail.png",
+          "result": "PASS"
+        },
+        {
+          "path": "F:/Dropshipping/team/reports/T028/generated/10253181092032/03-usecase.png",
+          "result": "PASS"
+        },
+        {
+          "path": "F:/Dropshipping/team/reports/T028/generated/10253181092032/04-use-context.png",
+          "result": "PASS"
+        },
+        {
+          "path": "F:/Dropshipping/team/reports/T028/generated/10253181092032/05-title-features.png",
+          "result": "PASS"
+        },
+        {
+          "path": "F:/Dropshipping/team/reports/T028/generated/10253181092032/06-care.png",
+          "result": "PASS"
+        }
+      ]
+    },
+    {
+      "id": "10253181255872",
+      "files": [
+        "01-studio.png",
+        "02-detail-v2.png",
+        "03-usecase.png",
+        "04-use-context.png",
+        "05-title-features-v2.png",
+        "06-care.png"
+      ],
+      "result": "PASS",
+      "note": "Exact splitbluehub clamshell; v2macro distinct; corrected registeredmark excluded. Cable separateprop.",
+      "perFile": [
+        {
+          "path": "F:/Dropshipping/team/reports/T028/generated/10253181255872/01-studio.png",
+          "result": "PASS"
+        },
+        {
+          "path": "F:/Dropshipping/team/reports/T028/generated/10253181255872/02-detail-v2.png",
+          "result": "PASS"
+        },
+        {
+          "path": "F:/Dropshipping/team/reports/T028/generated/10253181255872/03-usecase.png",
+          "result": "PASS"
+        },
+        {
+          "path": "F:/Dropshipping/team/reports/T028/generated/10253181255872/04-use-context.png",
+          "result": "PASS"
+        },
+        {
+          "path": "F:/Dropshipping/team/reports/T028/generated/10253181255872/05-title-features-v2.png",
+          "result": "PASS"
+        },
+        {
+          "path": "F:/Dropshipping/team/reports/T028/generated/10253181255872/06-care.png",
+          "result": "PASS"
+        }
+      ]
+    },
+    {
+      "id": "10252037324992",
+      "files": [
+        "10252037324992-studio.png",
+        "02-detail.png",
+        "03-usecase.png",
+        "04-use-context.png",
+        "05-premium-instagram.png",
+        "06-care.png"
+      ],
+      "result": "CHANGES_REQUIRED",
+      "note": "PhysicalPASS all, premiumcoverPASS. 06-care legacy largeblack sans graphic lackscommonpremiumstyling; legacy05-title-features alsoexcluded. Detail/usecase angles similarbut contexts/pack contents distinct.",
+      "perFile": [
+        {
+          "path": "F:/Dropshipping/team/reports/T028/generated/10252037324992/10252037324992-studio.png",
+          "result": "PASS"
+        },
+        {
+          "path": "F:/Dropshipping/team/reports/T028/generated/10252037324992/02-detail.png",
+          "result": "PASS"
+        },
+        {
+          "path": "F:/Dropshipping/team/reports/T028/generated/10252037324992/03-usecase.png",
+          "result": "PASS"
+        },
+        {
+          "path": "F:/Dropshipping/team/reports/T028/generated/10252037324992/04-use-context.png",
+          "result": "PASS"
+        },
+        {
+          "path": "F:/Dropshipping/team/reports/T028/generated/10252037324992/05-premium-instagram.png",
+          "result": "PASS"
+        },
+        {
+          "path": "F:/Dropshipping/team/reports/T028/generated/10252037324992/06-care.png",
+          "result": "CHANGES_REQUIRED_STYLE"
+        }
+      ]
+    },
+    {
+      "id": "10252037357760",
+      "files": [
+        "01-studio-no-cable.png",
+        "02-macro-detail.png",
+        "03-usecase-no-cable.png",
+        "04-use-context.png",
+        "05-premium-poster.png",
+        "06-care-no-cable.png"
+      ],
+      "result": "CHANGES_REQUIRED",
+      "note": "PhysicalPASS selected cablefree sources; macro/action distinct. 06-care-no-cable legacyblacksans lackscommonpremiumstyling. Usecase03 is bathroomplacement, context04actualtileaction; order actionbeforeplacement forcarousel.",
+      "perFile": [
+        {
+          "path": "F:/Dropshipping/team/reports/T028/generated/10252037357760/01-studio-no-cable.png",
+          "result": "PASS"
+        },
+        {
+          "path": "F:/Dropshipping/team/reports/T028/generated/10252037357760/02-macro-detail.png",
+          "result": "PASS"
+        },
+        {
+          "path": "F:/Dropshipping/team/reports/T028/generated/10252037357760/03-usecase-no-cable.png",
+          "result": "PASS"
+        },
+        {
+          "path": "F:/Dropshipping/team/reports/T028/generated/10252037357760/04-use-context.png",
+          "result": "PASS"
+        },
+        {
+          "path": "F:/Dropshipping/team/reports/T028/generated/10252037357760/05-premium-poster.png",
+          "result": "PASS"
+        },
+        {
+          "path": "F:/Dropshipping/team/reports/T028/generated/10252037357760/06-care-no-cable.png",
+          "result": "CHANGES_REQUIRED_STYLE"
+        }
+      ]
+    }
+  ],
+  "priorityCarousel": [
+    {
+      "id": "10257843355840",
+      "sourceFiles": {
+        "cover": "team/reports/T029/social/juicer-premium-poster.png",
+        "details": "details.png",
+        "primary": "usecase.png",
+        "secondary": "context.png",
+        "care": "care.png"
+      },
+      "result": "CHANGES_REQUIRED_STYLE_ONLY",
+      "note": "Details/use/context exactredwhitegeometry and distincttopdown/orange/lime scenes; care factual butlegacyblacklargefont. No exactactive squeezing action in sources; these are preparation contexts and captions should say so."
+    },
+    {
+      "id": "10252037357760",
+      "sourceFiles": {
+        "cover": "05-premium-poster.png",
+        "details": "02-macro-detail.png",
+        "primary": "04-use-context.png",
+        "secondary": "03-usecase-no-cable.png",
+        "care": "06-care-no-cable.png"
+      },
+      "result": "CHANGES_REQUIRED_STYLE_ONLY",
+      "note": "Action04 before bathroomplacement03. CoverandphysicalPASS; care factuallegacyblackgraphic. SharedCTA stillroot/Adependency."
+    }
+  ],
+  "excludedFiles": [
+    {
+      "id": "10252037390528",
+      "file": "01-studio.png",
+      "reason": "Wrong tanstrap on frontsidewall; use01-studio-v2."
+    },
+    {
+      "id": "10253181255872",
+      "file": "02-detail.png",
+      "reason": "Nearhero; usemacro02-detail-v2."
+    },
+    {
+      "id": "10253181255872",
+      "file": "05-title-features.png",
+      "reason": "Unsupportedregisteredmark oldvariant; usev2."
+    }
+  ],
+  "next": "Inspect assembledcarousel margins/aspect/title and CTA beforelive. Never stretch portrait to square or cropfooter. Root can restylecare usingfactualcaretext andacceptedproductphoto if authorized without newgeneration."
+}

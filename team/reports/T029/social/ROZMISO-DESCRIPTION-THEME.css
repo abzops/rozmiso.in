@@ -1,0 +1,21 @@
+/* Local style proposal for the shared Rozmiso creative theme. Not deployed. */
+.rozmiso-product-copy {
+  color: #173e33;
+  font-family: 'DM Sans', Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.65;
+}
+.rozmiso-product-copy h3 {
+  margin: 1.4em 0 .45em;
+  color: #173e33;
+  font-family: Georgia, 'Times New Roman', serif;
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 1.2;
+}
+.rozmiso-product-copy p { margin: 0 0 .8em; }
+.rozmiso-product-copy a {
+  color: #173e33;
+  text-decoration: underline;
+  text-underline-offset: .18em;
+}

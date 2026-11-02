@@ -1,0 +1,158 @@
+{
+  "data": {
+    "nodes": [
+      {
+        "id": "gid://shopify/Product/10257843060928",
+        "seo": {
+          "title": null,
+          "description": null
+        },
+        "variants": {
+          "nodes": [
+            {
+              "id": "gid://shopify/ProductVariant/50443620843712",
+              "compareAtPrice": "199.00"
+            }
+          ],
+          "pageInfo": {
+            "hasNextPage": false,
+            "endCursor": "eyJsYXN0X2lkIjo1MDQ0MzYyMDg0MzcxMiwibGFzdF92YWx1ZSI6MX0="
+          }
+        }
+      },
+      {
+        "id": "gid://shopify/Product/10257843159232",
+        "seo": {
+          "title": null,
+          "description": null
+        },
+        "variants": {
+          "nodes": [
+            {
+              "id": "gid://shopify/ProductVariant/50443620909248",
+              "compareAtPrice": "1199.00"
+            }
+          ],
+          "pageInfo": {
+            "hasNextPage": false,
+            "endCursor": "eyJsYXN0X2lkIjo1MDQ0MzYyMDkwOTI0OCwibGFzdF92YWx1ZSI6MX0="
+          }
+        }
+      },
+      {
+        "id": "gid://shopify/Product/10257843224768",
+        "seo": {
+          "title": null,
+          "description": null
+        },
+        "variants": {
+          "nodes": [
+            {
+              "id": "gid://shopify/ProductVariant/50443621761216",
+              "compareAtPrice": "3999.00"
+            }
+          ],
+          "pageInfo": {
+            "hasNextPage": false,
+            "endCursor": "eyJsYXN0X2lkIjo1MDQ0MzYyMTc2MTIxNiwibGFzdF92YWx1ZSI6MX0="
+          }
+        }
+      },
+      {
+        "id": "gid://shopify/Product/10257843257536",
+        "seo": {
+          "title": null,
+          "description": null
+        },
+        "variants": {
+          "nodes": [
+            {
+              "id": "gid://shopify/ProductVariant/50443621793984",
+              "compareAtPrice": "999.00"
+            }
+          ],
+          "pageInfo": {
+            "hasNextPage": false,
+            "endCursor": "eyJsYXN0X2lkIjo1MDQ0MzYyMTc5Mzk4NCwibGFzdF92YWx1ZSI6MX0="
+          }
+        }
+      },
+      {
+        "id": "gid://shopify/Product/10257843355840",
+        "seo": {
+          "title": null,
+          "description": null
+        },
+        "variants": {
+          "nodes": [
+            {
+              "id": "gid://shopify/ProductVariant/50443621859520",
+              "compareAtPrice": "299.00"
+            }
+          ],
+          "pageInfo": {
+            "hasNextPage": false,
+            "endCursor": "eyJsYXN0X2lkIjo1MDQ0MzYyMTg1OTUyMCwibGFzdF92YWx1ZSI6MX0="
+          }
+        }
+      },
+      {
+        "id": "gid://shopify/Product/10257843421376",
+        "seo": {
+          "title": null,
+          "description": null
+        },
+        "variants": {
+          "nodes": [
+            {
+              "id": "gid://shopify/ProductVariant/50443621957824",
+              "compareAtPrice": "399.00"
+            }
+          ],
+          "pageInfo": {
+            "hasNextPage": false,
+            "endCursor": "eyJsYXN0X2lkIjo1MDQ0MzYyMTk1NzgyNCwibGFzdF92YWx1ZSI6MX0="
+          }
+        }
+      },
+      {
+        "id": "gid://shopify/Product/10257843454144",
+        "seo": {
+          "title": null,
+          "description": null
+        },
+        "variants": {
+          "nodes": [
+            {
+              "id": "gid://shopify/ProductVariant/50443621990592",
+              "compareAtPrice": "799.00"
+            }
+          ],
+          "pageInfo": {
+            "hasNextPage": false,
+            "endCursor": "eyJsYXN0X2lkIjo1MDQ0MzYyMTk5MDU5MiwibGFzdF92YWx1ZSI6MX0="
+          }
+        }
+      },
+      {
+        "id": "gid://shopify/Product/10257843519680",
+        "seo": {
+          "title": null,
+          "description": null
+        },
+        "variants": {
+          "nodes": [
+            {
+              "id": "gid://shopify/ProductVariant/50443622056128",
+              "compareAtPrice": "2999.00"
+            }
+          ],
+          "pageInfo": {
+            "hasNextPage": false,
+            "endCursor": "eyJsYXN0X2lkIjo1MDQ0MzYyMjA1NjEyOCwibGFzdF92YWx1ZSI6MX0="
+          }
+        }
+      }
+    ]
+  }
+}

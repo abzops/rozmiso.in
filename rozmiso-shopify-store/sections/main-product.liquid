@@ -1,0 +1,187 @@
+<section class="fk-container">
+  <div class="fk-pdp-layout">
+    
+    <!-- Left Column: Gallery & Action Buttons -->
+    <div class="fk-pdp-gallery-col">
+      <div class="fk-pdp-main-img-box">
+        {% if product.featured_image %}
+          <img 
+            id="fk-main-image"
+            src="{{ product.featured_image | image_url: width: 600 }}" 
+            alt="{{ product.title | escape }}" 
+            width="600" 
+            height="600" 
+            loading="eager"
+          >
+        {% else %}
+          {{ 'product-1' | placeholder_svg_tag }}
+        {% endif %}
+      </div>
+
+      <!-- Desktop Action CTA Row -->
+      <div class="fk-pdp-cta-row">
+        <button type="button" class="fk-btn-pdp-cart" onclick="document.getElementById('fk-pdp-form').submit();">
+          🛒 ADD TO CART
+        </button>
+        <button type="button" class="fk-btn-pdp-buy" onclick="const f = document.getElementById('fk-pdp-form'); const inpt = document.createElement('input'); inpt.type='hidden'; inpt.name='return_to'; inpt.value='/checkout'; f.appendChild(inpt); f.submit();">
+          ⚡ BUY NOW (COD)
+        </button>
+      </div>
+    </div>
+
+    <!-- Right Column: Product Info & Indian CRO Blocks -->
+    <div class="fk-pdp-details-col">
+      <!-- Breadcrumb -->
+      <nav class="fk-breadcrumb" aria-label="Breadcrumb">
+        <a href="{{ routes.root_url }}">Home</a> &gt; 
+        <a href="{{ routes.all_products_collection_url }}">Products</a> &gt; 
+        <span>{{ product.title }}</span>
+      </nav>
+
+      <!-- Title -->
+      <h1 class="fk-pdp-title">{{ product.title }}</h1>
+
+      <!-- Rating & Assured Strip -->
+      <div class="fk-pdp-rating-strip">
+        <span class="fk-rating-pill" style="font-size: 13px; padding: 3px 8px;">★ 4.8</span>
+        <span class="fk-rating-count" style="font-size: 13px; font-weight: 600;">(2,420 Ratings & 480 Reviews)</span>
+        <div class="fk-assured-badge" style="margin-bottom: 0;">
+          <span>Rozmiso</span>
+          <span class="check">Assured ★</span>
+        </div>
+      </div>
+
+      <!-- Pricing -->
+      <div>
+        <span class="fk-special-price-tag">Special Price</span>
+        <div class="fk-pdp-price-box">
+          <span class="fk-pdp-price-current">{{ product.price | money }}</span>
+          {% if product.compare_at_price > product.price %}
+            <span class="fk-pdp-price-mrp">{{ product.compare_at_price | money }}</span>
+            <span class="fk-pdp-discount-rate">
+              {{ product.compare_at_price | minus: product.price | times: 100 | divided_by: product.compare_at_price }}% off
+            </span>
+          {% endif %}
+        </div>
+      </div>
+
+      <!-- Available Offers Card (Flipkart Style) -->
+      <div class="fk-offers-card">
+        <div class="fk-offers-header">🏷️ Available Offers</div>
+        <div class="fk-offer-item">
+          <span class="offer-tag-badge">Bank Offer</span>
+          <span>Extra <b>₹50 Flat Instant Discount</b> on all UPI Prepaid payments (Code: <b>PREPAID50</b>).</span>
+        </div>
+        <div class="fk-offer-item">
+          <span class="offer-tag-badge">Special Price</span>
+          <span>Buy 2 Save ₹300 | Buy 3 Save ₹700 (Automatic Combo Discount Applied Below).</span>
+        </div>
+        <div class="fk-offer-item">
+          <span class="offer-tag-badge">COD Offer</span>
+          <span>100% <b>Cash On Delivery Available</b> with zero advance booking charges.</span>
+        </div>
+        <div class="fk-offer-item">
+          <span class="offer-tag-badge">Delivery</span>
+          <span><b>Free Express Doorstep Shipping</b> across all 19,000+ Indian pincodes.</span>
+        </div>
+      </div>
+
+      <!-- Pincode Delivery Checker -->
+      <div class="fk-delivery-box">
+        <div class="fk-delivery-title">Delivery & COD Availability Check:</div>
+        <div class="fk-pincode-form">
+          <div class="fk-pincode-input-wrap">
+            <input 
+              type="text" 
+              class="fk-pincode-input" 
+              placeholder="Enter 6-digit Pincode" 
+              maxlength="6"
+              inputmode="numeric"
+            >
+          </div>
+          <button type="button" class="fk-pincode-btn">Check</button>
+        </div>
+        <div class="fk-pincode-status"></div>
+      </div>
+
+      <!-- Real Form for Cart Submission -->
+      <form action="{{ routes.cart_add_url }}" method="post" id="fk-pdp-form">
+        <select name="id" style="display: none;">
+          {% for variant in product.variants %}
+            <option value="{{ variant.id }}" {% if variant == product.selected_or_first_available_variant %}selected{% endif %}>
+              {{ variant.title }}
+            </option>
+          {% endfor %}
+        </select>
+        <input type="hidden" name="quantity" value="1">
+      </form>
+
+      <!-- Tiered Quantity Bundle Selector -->
+      {% if product.variants.size > 1 %}
+        <div class="fk-bundles-box">
+          <div class="fk-bundles-title">
+            <span>🔥 Select Package Bundle & Save Extra</span>
+          </div>
+          <div class="fk-bundle-options">
+            {% for variant in product.variants %}
+              {% assign is_selected = false %}
+              {% if forloop.first %}{% assign is_selected = true %}{% endif %}
+              <div 
+                class="fk-bundle-option {% if is_selected %}selected{% endif %}"
+                data-variant-id="{{ variant.id }}"
+                data-price="{{ variant.price | money }}"
+                data-mrp="{% if variant.compare_at_price > variant.price %}{{ variant.compare_at_price | money }}{% endif %}"
+                data-discount="{% if variant.compare_at_price > variant.price %}{{ variant.compare_at_price | minus: variant.price | times: 100 | divided_by: variant.compare_at_price }}% off{% endif %}"
+              >
+                <div class="fk-bundle-label">
+                  <span>{{ variant.title }}</span>
+                  {% if forloop.index == 2 %}
+                    <span class="fk-bundle-badge">MOST POPULAR</span>
+                  {% elsif forloop.index == 3 %}
+                    <span class="fk-bundle-badge" style="background: #2563eb;">BEST VALUE</span>
+                  {% endif %}
+                </div>
+                <div class="fk-bundle-price">
+                  {{ variant.price | money }}
+                </div>
+              </div>
+            {% endfor %}
+          </div>
+        </div>
+      {% endif %}
+
+      <!-- Product Description & Highlights -->
+      <div class="fk-highlights-box">
+        <h3 class="fk-highlights-title">Product Details & Highlights</h3>
+        <div style="font-size: 13px; line-height: 1.7; color: #333;">
+          {{ product.description }}
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<!-- Mobile Sticky Bottom Bar (Flipkart Style) -->
+<div class="fk-mobile-bottom-bar">
+  <div class="fk-mobile-cta-grid">
+    <button type="button" class="fk-btn-card fk-btn-cart" onclick="document.getElementById('fk-pdp-form').submit();">
+      🛒 ADD TO CART
+    </button>
+    <button type="button" class="fk-btn-card fk-btn-buy" onclick="const f = document.getElementById('fk-pdp-form'); const inpt = document.createElement('input'); inpt.type='hidden'; inpt.name='return_to'; inpt.value='/checkout'; f.appendChild(inpt); f.submit();">
+      ⚡ BUY NOW (COD)
+    </button>
+  </div>
+</div>
+
+{% schema %}
+{
+  "name": "Product Details",
+  "settings": [],
+  "presets": [
+    {
+      "name": "Product Details"
+    }
+  ]
+}
+{% endschema %}

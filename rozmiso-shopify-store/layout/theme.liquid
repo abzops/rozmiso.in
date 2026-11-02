@@ -1,0 +1,51 @@
+<!doctype html>
+<html class="no-js" lang="{{ request.locale.iso_code }}">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no">
+    <link rel="canonical" href="{{ canonical_url }}">
+    <link rel="preconnect" href="https://cdn.shopify.com" crossorigin>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+
+    {%- if page_title -%}
+      <title>{{ page_title }} &ndash; Rozmiso</title>
+    {%- else -%}
+      <title>Rozmiso &ndash; Smart Living, Badi Bachat (Official Store)</title>
+    {%- endif -%}
+
+    {%- if page_description -%}
+      <meta name="description" content="{{ page_description | escape }}">
+    {%- endif -%}
+
+    {{ content_for_header }}
+
+    {{ 'theme.css' | asset_url | stylesheet_tag }}
+  </head>
+
+  <body>
+    {% section 'announcement-bar' %}
+    {% section 'header' %}
+
+    <main id="MainContent" role="main">
+      {{ content_for_layout }}
+    </main>
+
+    {% section 'footer' %}
+
+    <!-- WhatsApp Support Floating Button -->
+    {% if settings.whatsapp_number != blank %}
+      <a href="https://wa.me/{{ settings.whatsapp_number }}?text=Hi%20Rozmiso%2C%20I%20have%20a%20question%20about%20an%20order" 
+         class="whatsapp-float" 
+         target="_blank" 
+         rel="noopener" 
+         aria-label="WhatsApp Support">
+        💬
+      </a>
+    {% endif %}
+
+    <script src="{{ 'theme.js' | asset_url }}" defer="defer"></script>
+  </body>
+</html>

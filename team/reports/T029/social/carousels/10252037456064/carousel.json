@@ -1,0 +1,91 @@
+{
+  "productId": "10252037456064",
+  "title": "2-in-1 Soap Dispensing Cleaning Brush",
+  "productUrl": "https://rozmiso.in/products/2-in-1-soap-dispensing-cleaning-brush",
+  "replacesPost": null,
+  "status": "ASSETS_COMPLETE_CROP_REVIEW_PENDING",
+  "slides": [
+    {
+      "order": 1,
+      "role": "Cover and features",
+      "path": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10252037456064\\01-slide.png",
+      "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10252037456064\\01-square-v4.png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "sha256": "73ef09320ee5a39675465bad8853da4ff30b80e773d3874eb572938c8b58f269",
+      "altText": "2-in-1 Soap Dispensing Cleaning Brush: cover and features. Context props are not included."
+    },
+    {
+      "order": 2,
+      "role": "Product detail",
+      "path": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10252037456064\\02-slide.png",
+      "source": "F:\\Dropshipping\\team\\reports\\T028\\generated\\10252037456064\\02-detail.png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "sha256": "ba64f06e18ec04768009045afe4f52f38590f0c59a62d15f654df43fd1f8c8d0",
+      "altText": "2-in-1 Soap Dispensing Cleaning Brush: product detail. Context props are not included."
+    },
+    {
+      "order": 3,
+      "role": "Primary use",
+      "path": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10252037456064\\03-slide.png",
+      "source": "F:\\Dropshipping\\team\\reports\\T028\\generated\\10252037456064\\03-usecase-v2.png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "sha256": "8e7cb3f031c48aa59e7c3576fd655ba658f064ed03c0f4add5f0fd105eef6ba4",
+      "altText": "2-in-1 Soap Dispensing Cleaning Brush: primary use. Context props are not included."
+    },
+    {
+      "order": 4,
+      "role": "Second context",
+      "path": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10252037456064\\04-slide.png",
+      "source": "F:\\Dropshipping\\team\\reports\\T028\\generated\\10252037456064\\04-use-context-v2.png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "sha256": "13dd5f2bcd8116a8a250b64c590003f770bad5650f0da86abb1393ba2292d527",
+      "altText": "2-in-1 Soap Dispensing Cleaning Brush: second context. Context props are not included."
+    },
+    {
+      "order": 5,
+      "role": "Care guidance",
+      "path": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10252037456064\\05-slide.png",
+      "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10252037456064\\05-care-v4.png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "sha256": "2e45b08e7cad584e7bddd3d4dfebf41214c67f95ef65bf804972cd12918e57fb",
+      "altText": "2-in-1 Soap Dispensing Cleaning Brush: care guidance. Context props are not included."
+    },
+    {
+      "order": 6,
+      "role": "Product link",
+      "path": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10252037456064\\06-slide.png",
+      "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\shared\\06-product-link-in.png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "sha256": "23e858c33b087c1d637c4489fc6bb1297dfc4b08f75755f670185d79e9d0127a",
+      "altText": "2-in-1 Soap Dispensing Cleaning Brush: product link. Context props are not included."
+    }
+  ],
+  "missing": [],
+  "mixedAspectRatios": false,
+  "caption": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10252037456064\\caption.txt",
+  "aiLabel": false,
+  "facebookPersonalCrosspost": false,
+  "facebookPageCrosspostRequired": true,
+  "facebookPageId": "61595107991994",
+  "livePublished": false,
+  "publishedVersionMayDiffer": false,
+  "theme": "Rozmiso Everyday Edit / ivory and forest green"
+}

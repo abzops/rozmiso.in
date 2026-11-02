@@ -1,0 +1,191 @@
+{
+  "task": "T028",
+  "lane": "B",
+  "generator": "builtin image_gen",
+  "assets": [
+    {
+      "id": "gid://shopify/Product/10253181681856",
+      "title": "3-in-1 Bottle Lid Cleaning Tool",
+      "kind": "studio",
+      "prompt": "Generate ONE separate square 1024x1024 photorealistic catalog studio photograph of exactly the reference tool: one compact orange rounded rectangular foldable bottle-lid cleaner. Preserve the orange two-sided body with small circular raised bumps and its teardrop hanging cutout, green rectangular bristle brush projecting from left end, white narrow crevice hook folding up from right pivot, silver wire oval loop with white narrow bristles projecting to right. Reproduce exact physical geometry and three cleaning features, no extra brushes or attachments. Same open configuration as reference. Three-quarter view on warm ivory seamless surface, entire tool in frame with generous margin, soft daylight, realistic contact shadow. No leaves or props, no advertising text, supplier number, labels, collage, watermark or branding. Exact design from reference, not a generic scrubber.",
+      "sourcePath": "F:/Dropshipping/team/reports/T028/reference-review/10253181681856/reference-2.jpg",
+      "generatedPath": "F:/Dropshipping/team/reports/T028/generated/10253181681856/studio.png",
+      "status": "GENERATED_ROOT_REVIEW_PENDING",
+      "generatorOutputPath": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a11a26-4db4-7ac3-8772-a48334ced97b\\exec-efc75231-4f0e-4019-9078-ab38022d24fa.png"
+    },
+    {
+      "id": "gid://shopify/Product/10253181681856",
+      "title": "3-in-1 Bottle Lid Cleaning Tool",
+      "kind": "usecase",
+      "prompt": "One separate square 1024x1024 realistic product lifestyle photograph. Reproduce exactly the provided orange foldable bottle-lid cleaning tool: rounded two-sided orange handle with raised circular bumps and teardrop cutout, green bristles on left end, white fold-out crevice hook at right pivot, oval silver wire loop brush with white bristles at right. Preserve these three tools and actual proportions, no added attachment. Place the exact open tool prominently on a dry pale kitchen counter next to a plain drinking bottle and its removed lid. No hand, no action result, no sterilization implication. Bottle is separate background scene prop, tool only product. Soft daylight, whole tool unobstructed and in frame. No collage, supplier codes, claims, lettering, branding or watermark.",
+      "sourcePath": "F:/Dropshipping/team/reports/T028/reference-review/10253181681856/reference-2.jpg",
+      "generatedPath": "F:/Dropshipping/team/reports/T028/generated/10253181681856/usecase.png",
+      "status": "GENERATED_ROOT_REVIEW_PENDING",
+      "generatorOutputPath": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a11a26-4db4-7ac3-8772-a48334ced97b\\exec-89824598-ba7f-4846-9f54-15ca78386711.png"
+    },
+    {
+      "id": "gid://shopify/Product/10253181845696",
+      "title": "Adhesive Cable Organizer Clips — Set of 20",
+      "kind": "studio",
+      "prompt": "One separate square photorealistic studio catalog photograph. Reproduce exactly ONE cable organizer STRIP from reference: long pale peach/cream rounded rectangular horizontal base, decorative rounded embossed flowers at both ends, exactly FIVE evenly spaced protruding flower-shaped slitted cable retainers attached along front. Same proportions, glossy material and subtle color. Show a single representative strip, not twenty loose generic clips. No cables, connectors or electronics. Front three-quarter view on warm ivory seamless surface, soft daylight shadow, whole object with margin. Remove original setting and all supplier/inset/collage/text. No branding, watermark, packaging or claims. Keep geometry exactly reference.",
+      "sourcePath": "F:/Dropshipping/team/reports/T028/reference-review/10253181845696/reference-2.jpg",
+      "generatedPath": "F:/Dropshipping/team/reports/T028/generated/10253181845696/studio.png",
+      "status": "GENERATED_ROOT_REVIEW_PENDING",
+      "generatorOutputPath": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a11a26-4db4-7ac3-8772-a48334ced97b\\exec-c880360f-bac4-426c-84cc-32d7a8216887.png"
+    },
+    {
+      "id": "gid://shopify/Product/10253181845696",
+      "title": "Adhesive Cable Organizer Clips — Set of 20",
+      "kind": "usecase",
+      "prompt": "One separate square photorealistic lifestyle photograph. Reproduce exactly ONE cable organizer strip from reference, pale peach long horizontal rounded rectangular base with flower embossing at both ends and exactly FIVE protruding flower-shaped slitted retainers, same spacing and proportions. It is attached to the smooth white vertical side of a tidy desk and holds two lightweight plain cables in two of its existing slots; three slots empty. Show cable lengths naturally hanging down, connectors secondary props only. Product fills central frame, visible unobstructed, warm daylight, subtly blurred desk setting. No loose individual clips, extra retainers, magnetic device, charging action, text, watermark, collage or claims. Preserve actual reference geometry and cream color.",
+      "sourcePath": "F:/Dropshipping/team/reports/T028/reference-review/10253181845696/reference-2.jpg",
+      "generatedPath": "F:/Dropshipping/team/reports/T028/generated/10253181845696/usecase.png",
+      "status": "GENERATED_ROOT_REVIEW_PENDING",
+      "generatorOutputPath": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a11a26-4db4-7ac3-8772-a48334ced97b\\exec-ce2b9437-1f0c-48ea-8429-82d3d967cb8e.png"
+    },
+    {
+      "id": "gid://shopify/Product/10253181944000",
+      "title": "Household Wiping Cloths — Set of 3",
+      "kind": "studio",
+      "prompt": "One separate square photorealistic studio catalog photograph of exactly THREE rectangular woven wiping cloths as pictured in reference inset: two pink/red/white striped cloths with beige brown floral lower bands, and one yellow/green/white striped cloth with beige brown floral lower bands. Preserve striped/floral pattern, white finished edges and textured woven terry-like appearance. Arrange three separate neatly folded cloths partially fanned so each distinguishable; no fourth cloth, no hand or mirror. Soft daylight on warm ivory seamless surface with natural shadows, whole arrangement in frame. No advertising numbers, dimensions, labels, collage, border, watermark or claims. Product design entirely based on reference, not plain generic microfiber towels.",
+      "sourcePath": "F:/Dropshipping/team/reports/T028/reference-review/10253181944000/reference-2.jpg",
+      "generatedPath": "F:/Dropshipping/team/reports/T028/generated/10253181944000/studio.png",
+      "status": "GENERATED_ROOT_REVIEW_PENDING",
+      "generatorOutputPath": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a11a26-4db4-7ac3-8772-a48334ced97b\\exec-fa2e0def-e1a6-414d-8354-3a3c1a4f23fc.png"
+    },
+    {
+      "id": "gid://shopify/Product/10253181944000",
+      "title": "Household Wiping Cloths — Set of 3",
+      "kind": "usecase",
+      "prompt": "Generate one separate square photorealistic product photograph, 1024x1024. Use the supplied exact-product reference as the sole authority for the product design. Preserve its physical shape, proportions, material appearance, colors, pattern, attachments and item count. Remove advertising text, supplier codes, watermarks and collage layout. Do not add branding, specifications, capabilities, attachments or design features. No before/after panels, rating stars, performance symbols or claim text. Realistic restrained home setting with the product prominent. One exact cloth lies on a kitchen counter beside the other two folded cloths. Any context props are background illustration, not package contents. Exactly three cloths; preserve textures, borders and the selected reference colors; no antibacterial or streak-free effect.",
+      "sourcePath": null,
+      "generatedPath": null,
+      "status": "WAITING_REFERENCE_MANIFEST"
+    },
+    {
+      "id": "gid://shopify/Product/10253182009536",
+      "title": "Structured Mesh Laundry Wash Bag",
+      "kind": "studio",
+      "prompt": "Generate one separate square photorealistic product photograph, 1024x1024. Use the supplied exact-product reference as the sole authority for the product design. Preserve its physical shape, proportions, material appearance, colors, pattern, attachments and item count. Remove advertising text, supplier codes, watermarks and collage layout. Do not add branding, specifications, capabilities, attachments or design features. No before/after panels, rating stars, performance symbols or claim text. Studio hero on a pale warm-gray seamless surface with soft daylight and subtle realistic contact shadow. Product clearly readable in three-quarter view. Show exactly one product unit. Only include packaged attachments whose presence is proven by the verified reference; keep the reference configuration. No lifestyle props. One bag; preserve cylindrical structure, mesh panels, reinforcement and actual zip; no unsupported garment-safety demonstration.",
+      "sourcePath": null,
+      "generatedPath": null,
+      "status": "WAITING_REFERENCE_MANIFEST"
+    },
+    {
+      "id": "gid://shopify/Product/10253182009536",
+      "title": "Structured Mesh Laundry Wash Bag",
+      "kind": "usecase",
+      "prompt": "Generate one separate square photorealistic product photograph, 1024x1024. Use the supplied exact-product reference as the sole authority for the product design. Preserve its physical shape, proportions, material appearance, colors, pattern, attachments and item count. Remove advertising text, supplier codes, watermarks and collage layout. Do not add branding, specifications, capabilities, attachments or design features. No before/after panels, rating stars, performance symbols or claim text. Realistic restrained home setting with the product prominent. The exact cylindrical zip mesh bag rests beside a closed washing machine with a few small plain garments inside. Any context props are background illustration, not package contents. One bag; preserve cylindrical structure, mesh panels, reinforcement and actual zip; no unsupported garment-safety demonstration.",
+      "sourcePath": null,
+      "generatedPath": null,
+      "status": "WAITING_REFERENCE_MANIFEST"
+    },
+    {
+      "id": "gid://shopify/Product/10257843060928",
+      "title": "Keyboard Cover",
+      "kind": "studio",
+      "prompt": "Generate one separate square photorealistic product photograph, 1024x1024. Use the supplied exact-product reference as the sole authority for the product design. Preserve its physical shape, proportions, material appearance, colors, pattern, attachments and item count. Remove advertising text, supplier codes, watermarks and collage layout. Do not add branding, specifications, capabilities, attachments or design features. No before/after panels, rating stars, performance symbols or claim text. Studio hero on a pale warm-gray seamless surface with soft daylight and subtle realistic contact shadow. Product clearly readable in three-quarter view. Show exactly one product unit. Only include packaged attachments whose presence is proven by the verified reference; keep the reference configuration. No lifestyle props. Preserve exact cover/key openings and contour; do not replace with a generic keyboard mat or invent wrist rest.",
+      "sourcePath": null,
+      "generatedPath": null,
+      "status": "WAITING_REFERENCE_MANIFEST"
+    },
+    {
+      "id": "gid://shopify/Product/10257843060928",
+      "title": "Keyboard Cover",
+      "kind": "usecase",
+      "prompt": "Generate one separate square photorealistic product photograph, 1024x1024. Use the supplied exact-product reference as the sole authority for the product design. Preserve its physical shape, proportions, material appearance, colors, pattern, attachments and item count. Remove advertising text, supplier codes, watermarks and collage layout. Do not add branding, specifications, capabilities, attachments or design features. No before/after panels, rating stars, performance symbols or claim text. Realistic restrained home setting with the product prominent. The exact cover rests over a plain compatible keyboard whose key layout matches the reference. Any context props are background illustration, not package contents. Preserve exact cover/key openings and contour; do not replace with a generic keyboard mat or invent wrist rest.",
+      "sourcePath": null,
+      "generatedPath": null,
+      "status": "WAITING_REFERENCE_MANIFEST"
+    },
+    {
+      "id": "gid://shopify/Product/10257843159232",
+      "title": "Two-Tier Kitchen Storage Rack",
+      "kind": "studio",
+      "prompt": "Generate one separate square photorealistic product photograph, 1024x1024. Use the supplied exact-product reference as the sole authority for the product design. Preserve its physical shape, proportions, material appearance, colors, pattern, attachments and item count. Remove advertising text, supplier codes, watermarks and collage layout. Do not add branding, specifications, capabilities, attachments or design features. No before/after panels, rating stars, performance symbols or claim text. Studio hero on a pale warm-gray seamless surface with soft daylight and subtle realistic contact shadow. Product clearly readable in three-quarter view. Show exactly one product unit. Only include packaged attachments whose presence is proven by the verified reference; keep the reference configuration. No lifestyle props. Preserve both shelves, leg geometry, joints, color and actual hooks only if shown; no wall-mount conversion or load claim.",
+      "sourcePath": null,
+      "generatedPath": null,
+      "status": "WAITING_REFERENCE_MANIFEST"
+    },
+    {
+      "id": "gid://shopify/Product/10257843159232",
+      "title": "Two-Tier Kitchen Storage Rack",
+      "kind": "usecase",
+      "prompt": "Generate one separate square photorealistic product photograph, 1024x1024. Use the supplied exact-product reference as the sole authority for the product design. Preserve its physical shape, proportions, material appearance, colors, pattern, attachments and item count. Remove advertising text, supplier codes, watermarks and collage layout. Do not add branding, specifications, capabilities, attachments or design features. No before/after panels, rating stars, performance symbols or claim text. Realistic restrained home setting with the product prominent. The exact freestanding two-tier rack stands on a level kitchen worktop with a few plain lightweight jars evenly spaced. Any context props are background illustration, not package contents. Preserve both shelves, leg geometry, joints, color and actual hooks only if shown; no wall-mount conversion or load claim.",
+      "sourcePath": null,
+      "generatedPath": null,
+      "status": "WAITING_REFERENCE_MANIFEST"
+    },
+    {
+      "id": "gid://shopify/Product/10257843224768",
+      "title": "Electric Hair Straightening Brush",
+      "kind": "studio",
+      "prompt": "Generate one separate square photorealistic product photograph, 1024x1024. Use the supplied exact-product reference as the sole authority for the product design. Preserve its physical shape, proportions, material appearance, colors, pattern, attachments and item count. Remove advertising text, supplier codes, watermarks and collage layout. Do not add branding, specifications, capabilities, attachments or design features. No before/after panels, rating stars, performance symbols or claim text. Studio hero on a pale warm-gray seamless surface with soft daylight and subtle realistic contact shadow. Product clearly readable in three-quarter view. Show exactly one product unit. Only include packaged attachments whose presence is proven by the verified reference; keep the reference configuration. No lifestyle props. Preserve bristle head, temperature buttons, display, cord and plug; avoid hair transformation, invented live readout or heating effect.",
+      "sourcePath": null,
+      "generatedPath": null,
+      "status": "WAITING_REFERENCE_MANIFEST"
+    },
+    {
+      "id": "gid://shopify/Product/10257843224768",
+      "title": "Electric Hair Straightening Brush",
+      "kind": "usecase",
+      "prompt": "Generate one separate square photorealistic product photograph, 1024x1024. Use the supplied exact-product reference as the sole authority for the product design. Preserve its physical shape, proportions, material appearance, colors, pattern, attachments and item count. Remove advertising text, supplier codes, watermarks and collage layout. Do not add branding, specifications, capabilities, attachments or design features. No before/after panels, rating stars, performance symbols or claim text. Realistic restrained home setting with the product prominent. The exact brush rests switched off on a dry dressing table beside a plain hair comb and folded towel. Any context props are background illustration, not package contents. Preserve bristle head, temperature buttons, display, cord and plug; avoid hair transformation, invented live readout or heating effect.",
+      "sourcePath": null,
+      "generatedPath": null,
+      "status": "WAITING_REFERENCE_MANIFEST"
+    },
+    {
+      "id": "gid://shopify/Product/10257843257536",
+      "title": "Stainless Steel Water Bottle — Approx. 360 ml",
+      "kind": "studio",
+      "prompt": "Generate one separate square photorealistic product photograph, 1024x1024. Use the supplied exact-product reference as the sole authority for the product design. Preserve its physical shape, proportions, material appearance, colors, pattern, attachments and item count. Remove advertising text, supplier codes, watermarks and collage layout. Do not add branding, specifications, capabilities, attachments or design features. No before/after panels, rating stars, performance symbols or claim text. Studio hero on a pale warm-gray seamless surface with soft daylight and subtle realistic contact shadow. Product clearly readable in three-quarter view. Show exactly one product unit. Only include packaged attachments whose presence is proven by the verified reference; keep the reference configuration. No lifestyle props. Preserve cylinder silhouette, lid, opening and finish; no invented thermal layers, leakproof drops or capacity markings.",
+      "sourcePath": null,
+      "generatedPath": null,
+      "status": "WAITING_REFERENCE_MANIFEST"
+    },
+    {
+      "id": "gid://shopify/Product/10257843257536",
+      "title": "Stainless Steel Water Bottle — Approx. 360 ml",
+      "kind": "usecase",
+      "prompt": "Generate one separate square photorealistic product photograph, 1024x1024. Use the supplied exact-product reference as the sole authority for the product design. Preserve its physical shape, proportions, material appearance, colors, pattern, attachments and item count. Remove advertising text, supplier codes, watermarks and collage layout. Do not add branding, specifications, capabilities, attachments or design features. No before/after panels, rating stars, performance symbols or claim text. Realistic restrained home setting with the product prominent. The exact closed bottle stands beside a plain unbranded bag on a desk. Any context props are background illustration, not package contents. Preserve cylinder silhouette, lid, opening and finish; no invented thermal layers, leakproof drops or capacity markings.",
+      "sourcePath": null,
+      "generatedPath": null,
+      "status": "WAITING_REFERENCE_MANIFEST"
+    },
+    {
+      "id": "gid://shopify/Product/10257843355840",
+      "title": "Manual Citrus Juicer with Strainer",
+      "kind": "usecase",
+      "prompt": "Generate one separate square photorealistic product photograph, 1024x1024. Use the supplied exact-product reference as the sole authority for the product design. Preserve its physical shape, proportions, material appearance, colors, pattern, attachments and item count. Remove advertising text, supplier codes, watermarks and collage layout. Do not add branding, specifications, capabilities, attachments or design features. No before/after panels, rating stars, performance symbols or claim text. Realistic restrained home setting with the product prominent. The exact juicer sits on a kitchen worktop with one halved citrus fruit gently placed on its existing reamer; a second half lies nearby. Any context props are background illustration, not package contents. Preserve bowl, side handle, pouring spout, detachable strainer and conical reamer, their exact colors and proportions; no electric motor or added pressing lever.",
+      "sourcePath": "F:/Dropshipping/team/reports/T028/pilot/juicer-reference.jpg",
+      "generatedPath": "F:/Dropshipping/team/reports/T028/generated/10257843355840/usecase.png",
+      "status": "GENERATED_VISUALLY_CHECKED_ROOT_REVIEW_PENDING",
+      "generatorOutputPath": "C:/Users/Abhinand/.codex/generated_images/01a11a26-4db4-7ac3-8772-a48334ced97b/exec-b08bd889-bdee-4abd-a2cd-9a61cc0a4432.png",
+      "visualNotes": "Preserves red bowl, white strainer, red reamer, left handle/right spout. Citrus props separate. No text, flags or claims."
+    },
+    {
+      "id": "gid://shopify/Product/10257843454144",
+      "title": "Foldable Canvas Laundry and Storage Bag",
+      "kind": "studio",
+      "prompt": "Generate one separate square photorealistic product photograph, 1024x1024. Use the supplied exact-product reference as the sole authority for the product design. Preserve its physical shape, proportions, material appearance, colors, pattern, attachments and item count. Remove advertising text, supplier codes, watermarks and collage layout. Do not add branding, specifications, capabilities, attachments or design features. No before/after panels, rating stars, performance symbols or claim text. Studio hero on a pale warm-gray seamless surface with soft daylight and subtle realistic contact shadow. Product clearly readable in three-quarter view. Show exactly one product unit. Only include packaged attachments whose presence is proven by the verified reference; keep the reference configuration. No lifestyle props. Preserve cylindrical fabric shape, pattern, handle count, zip and reinforcement; do not substitute a rigid basket or invent tested size/capacity.",
+      "sourcePath": null,
+      "generatedPath": null,
+      "status": "WAITING_REFERENCE_MANIFEST"
+    },
+    {
+      "id": "gid://shopify/Product/10257843454144",
+      "title": "Foldable Canvas Laundry and Storage Bag",
+      "kind": "usecase",
+      "prompt": "Generate one separate square photorealistic product photograph, 1024x1024. Use the supplied exact-product reference as the sole authority for the product design. Preserve its physical shape, proportions, material appearance, colors, pattern, attachments and item count. Remove advertising text, supplier codes, watermarks and collage layout. Do not add branding, specifications, capabilities, attachments or design features. No before/after panels, rating stars, performance symbols or claim text. Realistic restrained home setting with the product prominent. The exact canvas bag stands upright beside a washing machine with a few ordinary garments visible beneath its existing zip opening. Any context props are background illustration, not package contents. Preserve cylindrical fabric shape, pattern, handle count, zip and reinforcement; do not substitute a rigid basket or invent tested size/capacity.",
+      "sourcePath": null,
+      "generatedPath": null,
+      "status": "WAITING_REFERENCE_MANIFEST"
+    }
+  ],
+  "independentJuicerStudioReview": {
+    "sourcePath": "F:/Dropshipping/team/reports/T028/pilot/juicer-reference.jpg",
+    "generatedPath": "F:/Dropshipping/team/reports/T028/generated/10257843355840/studio.png",
+    "status": "PASS_VISUAL_IDENTITY",
+    "notes": "Compared red bowl, broad left handle, small right spout, white radial-slotted strainer and red ridged conical reamer. No text, code or watermark; slot counts/manufacturing tolerances not measured."
+  }
+}

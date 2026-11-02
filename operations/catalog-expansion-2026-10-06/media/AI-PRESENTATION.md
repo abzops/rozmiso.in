@@ -1,0 +1,13 @@
+# Shaver AI studio presentation
+
+Generated 6 October 2026 with the built-in imagegen tool, not CLI/API. Project file: `shaver-ai-studio-presentation-v1.png`, 1254×1254 PNG. Reference: `F:/Dropshipping/operations/brand-direction-2026-10-06/review-kit/photos/fabric-shaver.jpg`, supplier catalog-associated reference for 23469. User explicitly authorized this generation in T017; this does not establish supplier rights to reference-derived commercial presentation.
+
+Required customer-facing caption/alt: **AI studio presentation of the fabric shaver. Product appearance is illustrative; see supplier images for details.**
+
+Generated presentation is separate from supplier photos and genuine demonstration. It shows no operating result, before/after, accessories, customer experience or performance claim. Visual comparison preserves the broad forest-green round body, black lower head rim, elongated rounded diagonal handle and copper button broadly. Geometry and finish are approximate illustration, not a measured/sample-verified reproduction; do not substitute it for the exact identification/kit image or genuine demo. No watermark removed.
+
+Prompt used:
+
+> Create one original professional studio product presentation image based on the exact dark green fabric shaver in the reference. Use case product-mockup, square secondary Shopify gallery photograph-style illustration. Preserve the actual visible design faithfully: broad flattened circular dark forest green head/body with black lower rim, long rounded oblong green handle rising diagonally from head, exact single round copper colored power button with power symbol near base of handle. Match proportions and green plastic finish. Rest the device flat on a simple warm cream studio surface, camera three-quarter elevated angle matching the main reference product view with head face downward; do not show unobserved internals, charging details, new front panel, spare parts or different reverse view. Soft daylight-like studio light and restrained grounded shadow, ample breathing room. No hands, people, demonstration action, sweater, lint, before/after or results, inset collage, cables, accessories, packaging, logos, reviews, labels, text or watermarks. This is an AI studio presentation, not a real product test or proof; product design must remain as reference. Do not turn it into a conventional bulky pistol shaver.
+
+Default generated file retained at `C:/Users/Abhinand/.codex/generated_images/01a111c6-183a-78b3-ad10-53dafdf26ef7/exec-82fa8a0f-2179-44b6-ad99-f576d8066413.png`; copied into project, original not deleted. Codex decides integration after independent review. No Shopify changes performed by media worker.

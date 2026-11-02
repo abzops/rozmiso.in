@@ -1,0 +1,54 @@
+{
+  "uploads": [
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/rozmiso-10253181583552-ai-studio.png?v=1791445225",
+      "fileId": "gid://shopify/MediaImage/48571833778368",
+      "filename": "rozmiso-10253181583552-ai-studio.png",
+      "alt": "AI-generated studio illustration of Flexible Flower-Shaped Drain Catcher"
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/rozmiso-10253181583552-ai-usecase.png?v=1791445245",
+      "fileId": "gid://shopify/MediaImage/48571850850496",
+      "filename": "rozmiso-10253181583552-ai-usecase.png",
+      "alt": "AI-generated usecase illustration of Flexible Flower-Shaped Drain Catcher; background props not included"
+    }
+  ],
+  "updated": {
+    "id": "gid://shopify/Product/10253181583552",
+    "title": "Flexible Flower-Shaped Drain Catcher",
+    "vendor": "DeoDap",
+    "status": "ACTIVE",
+    "productType": "Kitchen essentials",
+    "descriptionHtml": "<p>A flexible flower-shaped silicone drain cover with perforations and a centre lifting knob. Designed to collect loose hair or scraps over a compatible drain.</p><h3>What is included</h3><p>1 drain catcher. Sink and cleaning props are not included.</p><h3>Care and checks</h3><p>Measure the drain and surrounding surface before use. Empty and rinse regularly. This is a debris catcher, not a watertight plug or a guarantee against plumbing blockages.</p><p>Supplier images are illustrative. Confirm the exact colour and packed contents before ordering. Ordering is not available yet while supplier fulfilment and samples are verified.</p>",
+    "tags": [
+      "prelaunch",
+      "rozmiso-catalog",
+      "supplier-confirmation-pending"
+    ],
+    "totalInventory": 0,
+    "featuredImageUrl": "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/rozmiso-10253181583552-ai-studio.png?v=1791445225",
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/rozmiso-10253181583552-ai-studio.png?v=1791445225",
+        "altText": "AI-generated studio illustration of Flexible Flower-Shaped Drain Catcher",
+        "mediaId": "gid://shopify/MediaImage/48571833778368"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/rozmiso-10253181583552-ai-usecase.png?v=1791445245",
+        "altText": "AI-generated usecase illustration of Flexible Flower-Shaped Drain Catcher; background props not included",
+        "mediaId": "gid://shopify/MediaImage/48571850850496"
+      }
+    ],
+    "totalVariants": 1,
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/50427735834816",
+        "title": "Default Title",
+        "sku": "10624_flower_shape_kitchen_sink_strainer",
+        "price": "149.00",
+        "inventoryQuantity": 0
+      }
+    ],
+    "currencyCode": "INR"
+  }
+}

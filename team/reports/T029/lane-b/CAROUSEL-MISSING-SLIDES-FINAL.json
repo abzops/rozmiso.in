@@ -1,0 +1,154 @@
+{
+  "date": "2026-10-13",
+  "tool": "builtin image_gen.imagegen",
+  "status": "SUBMITTED",
+  "currentError": null,
+  "historicalFailedAttempt": "First call failed: image generation failed: connection failed: error sending request. Root confirmed recovery; all eight final slides were then generated and viewed.",
+  "sourceAuthority": "Original references inspected for both products; current premium covers reused by root",
+  "styleReference": "F:/Dropshipping/team/reports/T029/social/juicer-premium-poster.png",
+  "assets": [
+    {
+      "productId": "10253181419712",
+      "plannedOutput": "F:/Dropshipping/team/reports/T029/social/carousels/10253181419712/02-details.png",
+      "prompt": "Generate ONE premium portrait 4:5 Instagram carousel slide. Both references are exact product authority; typography style is premium ivory and forest green. Ivory background, forest-green serif heading, polished macro photo, restrained fine-line callouts, footer @rozmiso.in. Burgundy long narrow handheld upholstery brush, cream end cap with hole, dense straight dark brown bristles underneath. Close diagonal detail photo of bristle roots and handle, preserve exact shape. Verbatim text: \"Designed for everyday upkeep.\" \"Handheld Upholstery Cleaning Brush\" \"Long brush head\" \"Dark bristles\" \"Hanging hole\" Footer \"AI-generated illustration\". Do not invent dimensions, removable parts, powered mechanisms, performance promises. Photograph distinct from cover.",
+      "status": "AUTHOR_QA_PASS_FOOTER_CLEAN",
+      "references": [
+        "F:/Dropshipping/team/reports/T028/reference-review/10253181419712/reference-1.png",
+        "F:/Dropshipping/team/reports/T028/reference-review/10253181419712/reference-2.png"
+      ],
+      "generatedOutput": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a1362d-b1be-7f72-bf46-56386b3bea8c\\exec-7bb9f136-72bb-4108-a467-d7d6378f3a24.png",
+      "footerEdit": {
+        "prompt": "Edit ONLY the footer wording on this existing poster: remove the words 'AI-generated illustration' and any bullet/separator immediately following them. Preserve all product geometry, headings, body text, photograph, colors and @rozmiso.in branding unchanged. Preserve remaining 'Styling props not included' or 'Contents not included' text if present. If the removed words leave a blank space, use the existing background texture seamlessly. No other changes. Do not add replacement disclosure or new content.",
+        "reference": "F:/Dropshipping/team/reports/T029/social/carousels/10253181419712/02-details.png",
+        "before": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a1362d-b1be-7f72-bf46-56386b3bea8c\\exec-9519f775-1f38-4add-aecc-e734ffd86b65.png",
+        "generatedOutput": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a1362d-b1be-7f72-bf46-56386b3bea8c\\exec-7bb9f136-72bb-4108-a467-d7d6378f3a24.png"
+      }
+    },
+    {
+      "productId": "10253181419712",
+      "plannedOutput": "F:/Dropshipping/team/reports/T029/social/carousels/10253181419712/03-usecase.png",
+      "prompt": "Use case: ads-marketing. ONE portrait 4:5 Instagram carousel slide, AI generated only. Exact product reference is authority, juicer poster is visual style only. Premium ivory, forest-green serif heading, clear short sans-serif body, accurate photorealistic product, restrained layout. Footer @rozmiso.in and AI-generated illustration. No dimensions, invented technical specs, discounts, stock or performance claims. Props are not included. Exact product: long narrow burgundy brush head and sculpted burgundy handle, cream end cap with hanging hole, dense straight dark-brown bristles beneath head. Preserve shape and color. Scene: hand holding handle to gently brush gray woven sofa cushion; bristles contact fabric, entire brush visible. Text verbatim: \"A simple sofa-care routine.\" \"Brush gently along the fabric.\" \"Test a discreet area first.\" Footer \"AI-generated illustration • Styling props not included\". No exaggerated dust cloud or before/after.",
+      "status": "AUTHOR_QA_PASS_FOOTER_CLEAN",
+      "references": [
+        "F:/Dropshipping/team/reports/T028/reference-review/10253181419712/reference-1.png",
+        "F:/Dropshipping/team/reports/T028/reference-review/10253181419712/reference-2.png"
+      ],
+      "generatedOutput": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a1362d-b1be-7f72-bf46-56386b3bea8c\\exec-59dc960a-e751-4c7d-ad56-a136c27e053c.png",
+      "footerEdit": {
+        "prompt": "Edit ONLY the footer wording on this existing poster: remove the words 'AI-generated illustration' and any bullet/separator immediately following them. Preserve all product geometry, headings, body text, photograph, colors and @rozmiso.in branding unchanged. Preserve remaining 'Styling props not included' or 'Contents not included' text if present. If the removed words leave a blank space, use the existing background texture seamlessly. No other changes. Do not add replacement disclosure or new content.",
+        "reference": "F:/Dropshipping/team/reports/T029/social/carousels/10253181419712/03-usecase.png",
+        "before": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a1362d-b1be-7f72-bf46-56386b3bea8c\\exec-1ed66f45-d19c-4b28-b781-295c308ddf25.png",
+        "generatedOutput": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a1362d-b1be-7f72-bf46-56386b3bea8c\\exec-59dc960a-e751-4c7d-ad56-a136c27e053c.png"
+      }
+    },
+    {
+      "productId": "10253181419712",
+      "plannedOutput": "F:/Dropshipping/team/reports/T029/social/carousels/10253181419712/04-context.png",
+      "prompt": "Use case: ads-marketing. ONE portrait 4:5 Instagram carousel slide, AI generated only. Exact product references are authority. Premium ivory, forest-green serif heading, clear short sans-serif body, accurate photorealistic product, restrained layout. Footer @rozmiso.in and AI-generated illustration. No dimensions, invented technical specs, discounts, stock or performance claims. Props are not included. Exact product: long narrow burgundy brush head and sculpted burgundy handle, cream end cap with hanging hole, dense straight dark-brown bristles beneath head. Preserve shape and color. Scene: brush placed beside folded cream upholstery throw in tidy sunlit home-care corner; show entire product from alternate side angle, bristle contact with worktop. Text verbatim: \"Ready for the next tidy-up.\" \"Keep with your home-care essentials.\" Footer \"AI-generated illustration • Styling props not included\".",
+      "status": "AUTHOR_QA_PASS_FOOTER_CLEAN",
+      "references": [
+        "F:/Dropshipping/team/reports/T028/reference-review/10253181419712/reference-1.png",
+        "F:/Dropshipping/team/reports/T028/reference-review/10253181419712/reference-2.png"
+      ],
+      "generatedOutput": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a1362d-b1be-7f72-bf46-56386b3bea8c\\exec-95a11d32-95ef-42cc-a795-83b99d15599c.png",
+      "footerEdit": {
+        "prompt": "Edit ONLY the footer wording on this existing poster: remove the words 'AI-generated illustration' and any bullet/separator immediately following them. Preserve all product geometry, headings, body text, photograph, colors and @rozmiso.in branding unchanged. Preserve remaining 'Styling props not included' or 'Contents not included' text if present. If the removed words leave a blank space, use the existing background texture seamlessly. No other changes. Do not add replacement disclosure or new content.",
+        "reference": "F:/Dropshipping/team/reports/T029/social/carousels/10253181419712/04-context.png",
+        "before": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a1362d-b1be-7f72-bf46-56386b3bea8c\\exec-e735fb8b-6685-4720-816c-ee77d4900395.png",
+        "generatedOutput": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a1362d-b1be-7f72-bf46-56386b3bea8c\\exec-95a11d32-95ef-42cc-a795-83b99d15599c.png"
+      }
+    },
+    {
+      "productId": "10253181419712",
+      "plannedOutput": "F:/Dropshipping/team/reports/T029/social/carousels/10253181419712/05-care.png",
+      "prompt": "Use case: ads-marketing. ONE portrait 4:5 Instagram carousel slide, AI generated only. Exact product references are authority. Premium ivory, forest-green serif heading, clear short sans-serif body, accurate photorealistic product, restrained layout. Footer @rozmiso.in and AI-generated illustration. No dimensions, invented technical specs, discounts, stock or performance claims. Props are not included. Exact product: long narrow burgundy brush head and sculpted burgundy handle, cream end cap with hanging hole, dense straight dark-brown bristles beneath head. Preserve shape and color. Scene: accurate isolated brush, restrained care icons and spacious typography. Text verbatim: \"Care, kept simple.\" \"Remove trapped debris after use.\" \"Store clean and dry.\" \"Follow the fabric's care guidance.\" Footer \"AI-generated illustration\". No washing, chemicals or unsupported compatibility claims.",
+      "status": "AUTHOR_QA_PASS_FOOTER_CLEAN",
+      "references": [
+        "F:/Dropshipping/team/reports/T028/reference-review/10253181419712/reference-1.png",
+        "F:/Dropshipping/team/reports/T028/reference-review/10253181419712/reference-2.png"
+      ],
+      "generatedOutput": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a1362d-b1be-7f72-bf46-56386b3bea8c\\exec-0d0a9880-ede2-4a8c-830c-8f5c4cb5f7bb.png",
+      "footerEdit": {
+        "prompt": "Edit ONLY the footer wording on this existing poster: remove the words 'AI-generated illustration' and any bullet/separator immediately following them. Preserve all product geometry, headings, body text, photograph, colors and @rozmiso.in branding unchanged. Preserve remaining 'Styling props not included' or 'Contents not included' text if present. If the removed words leave a blank space, use the existing background texture seamlessly. No other changes. Do not add replacement disclosure or new content.",
+        "reference": "F:/Dropshipping/team/reports/T029/social/carousels/10253181419712/05-care.png",
+        "before": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a1362d-b1be-7f72-bf46-56386b3bea8c\\exec-25e8b1ce-1d31-4daf-aaa9-4e99b6c5aaf7.png",
+        "generatedOutput": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a1362d-b1be-7f72-bf46-56386b3bea8c\\exec-0d0a9880-ede2-4a8c-830c-8f5c4cb5f7bb.png"
+      }
+    },
+    {
+      "productId": "10253181518016",
+      "plannedOutput": "F:/Dropshipping/team/reports/T029/social/carousels/10253181518016/02-details.png",
+      "prompt": "Use case: ads-marketing. ONE portrait 4:5 Instagram carousel slide, AI generated only. Exact product references are authority. Premium ivory, forest-green serif heading, clear short sans-serif body, accurate photorealistic product, restrained layout. Footer @rozmiso.in and AI-generated illustration. No dimensions, invented technical specs, discounts, stock or performance claims. Props are not included. Exact beige foldable hanging organizer: white S-hook held by short central top fabric loop; two rectangular hook-and-loop patches on top; one clear upper zip compartment; narrow mesh middle pocket; large rounded zip mesh lower compartment; bottom fold flap with rectangular hook-and-loop patch. Do not add straps or compartments. Front view open organizer on ivory studio background. Sparse callout lines to actual components. Text verbatim: \"Everything has a place.\" \"Foldable Hanging Travel Organizer\" \"Clear upper pocket\" \"Mesh compartments\" \"White hanging hook\" Footer \"AI-generated illustration • Contents not included\". Use few unbranded toiletry props, no medicines.",
+      "status": "AUTHOR_QA_PASS_FOOTER_CLEAN",
+      "references": [
+        "F:/Dropshipping/team/reports/T028/reference-review/10253181518016/reference-1.jpg",
+        "F:/Dropshipping/team/reports/T028/reference-review/10253181518016/reference-2.jpg"
+      ],
+      "generatedOutput": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a1362d-b1be-7f72-bf46-56386b3bea8c\\exec-05ae489f-69c0-47b3-b44a-82a4f3d6d8f1.png",
+      "footerEdit": {
+        "prompt": "Edit ONLY the footer wording on this existing poster: remove the words 'AI-generated illustration' and any bullet/separator immediately following them. Preserve all product geometry, headings, body text, photograph, colors and @rozmiso.in branding unchanged. Preserve remaining 'Styling props not included' or 'Contents not included' text if present. If the removed words leave a blank space, use the existing background texture seamlessly. No other changes. Do not add replacement disclosure or new content.",
+        "reference": "F:/Dropshipping/team/reports/T029/social/carousels/10253181518016/02-details.png",
+        "before": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a1362d-b1be-7f72-bf46-56386b3bea8c\\exec-1682dbd3-16a7-4003-acd2-3320f4c76ade.png",
+        "generatedOutput": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a1362d-b1be-7f72-bf46-56386b3bea8c\\exec-05ae489f-69c0-47b3-b44a-82a4f3d6d8f1.png"
+      }
+    },
+    {
+      "productId": "10253181518016",
+      "plannedOutput": "F:/Dropshipping/team/reports/T029/social/carousels/10253181518016/03-usecase.png",
+      "prompt": "Use case: ads-marketing. ONE portrait 4:5 Instagram carousel slide, AI generated only. Exact product references are authority. Premium ivory, forest-green serif heading, clear short sans-serif body, accurate photorealistic product, restrained layout. Footer @rozmiso.in and AI-generated illustration. No dimensions, invented technical specs, discounts, stock or performance claims. Props are not included. Exact beige foldable hanging organizer: white S-hook held by short central top fabric loop; two rectangular hook-and-loop patches on top; one clear upper zip compartment; narrow mesh middle pocket; large rounded zip mesh lower compartment; bottom fold flap with rectangular hook-and-loop patch. Do not add straps or compartments. Front view open organizer in premium bathroom, WHITE S-HOOK TOP CURVE WRAPS OVER A THIN HORIZONTAL WALL RAIL; hook bottom curve holds organizer's short top loop. No separate invented suspension strap, don't hang through a solid wall. Show exact three-pocket layout with sparse unbranded toiletries. Text: \"Unfold. Hang. Organize.\" \"Keep daily essentials within reach.\" Footer \"AI-generated illustration • Contents not included\".",
+      "status": "AUTHOR_QA_PASS_FOOTER_CLEAN",
+      "references": [
+        "F:/Dropshipping/team/reports/T028/reference-review/10253181518016/reference-1.jpg",
+        "F:/Dropshipping/team/reports/T028/reference-review/10253181518016/reference-2.jpg"
+      ],
+      "generatedOutput": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a1362d-b1be-7f72-bf46-56386b3bea8c\\exec-4888023f-aaf9-432d-bab8-1f46502dab92.png",
+      "correctionPrompt": "Edit first image only: organizer erroneously has TWO white S hooks, one over rail plus one lying on bag. Replace these with exactly ONE white S-shaped hook. Its upper curve wraps physically over gold horizontal rail; its lower curve goes through the short beige fabric loop at top center of bag. Remove the lower duplicate hook against bag completely. Keep accurate beige three compartment bag, all headings, fonts and other layout unchanged. No extra connector, no strap. Also remove medicine blister from upper clear pocket, leaving toiletries only. Second reference shows correct product geometry.",
+      "rejectedOutput": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a1362d-b1be-7f72-bf46-56386b3bea8c\\exec-750bceac-ce2d-4982-9858-68dbe4de2beb.png",
+      "footerEdit": {
+        "prompt": "Edit ONLY the footer wording on this existing poster: remove the words 'AI-generated illustration' and any bullet/separator immediately following them. Preserve all product geometry, headings, body text, photograph, colors and @rozmiso.in branding unchanged. Preserve remaining 'Styling props not included' or 'Contents not included' text if present. If the removed words leave a blank space, use the existing background texture seamlessly. No other changes. Do not add replacement disclosure or new content.",
+        "reference": "F:/Dropshipping/team/reports/T029/social/carousels/10253181518016/03-usecase.png",
+        "before": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a1362d-b1be-7f72-bf46-56386b3bea8c\\exec-37a605c7-6f62-4b7d-a592-1a46d7b772b8.png",
+        "generatedOutput": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a1362d-b1be-7f72-bf46-56386b3bea8c\\exec-4888023f-aaf9-432d-bab8-1f46502dab92.png"
+      }
+    },
+    {
+      "productId": "10253181518016",
+      "plannedOutput": "F:/Dropshipping/team/reports/T029/social/carousels/10253181518016/04-context.png",
+      "prompt": "Use case: ads-marketing. ONE portrait 4:5 Instagram carousel slide, AI generated only. Exact product references are authority. Premium ivory, forest-green serif heading, clear short sans-serif body, accurate photorealistic product, restrained layout. Footer @rozmiso.in and AI-generated illustration. No dimensions, invented technical specs, discounts, stock or performance claims. Props are not included. Exact beige foldable hanging organizer: white S-hook held by short central top fabric loop; two rectangular hook-and-loop patches on top; one clear upper zip compartment; narrow mesh middle pocket; large rounded zip mesh lower compartment; bottom fold flap with rectangular hook-and-loop patch. Do not add straps or compartments. Product CLOSED matching original closed reference: square soft beige rounded front flap, stitched border, short top carry handle, no extra exterior zipped pockets. Place closed organizer next to open suitcase on hotel bench, distinct context. Text: \"Pack for the next stay.\" \"Fold the organizer for travel.\" Footer \"AI-generated illustration • Styling props not included\".",
+      "status": "AUTHOR_QA_PASS_FOOTER_CLEAN",
+      "references": [
+        "F:/Dropshipping/team/reports/T028/reference-review/10253181518016/reference-1.jpg",
+        "F:/Dropshipping/team/reports/T028/reference-review/10253181518016/reference-2.jpg"
+      ],
+      "generatedOutput": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a1362d-b1be-7f72-bf46-56386b3bea8c\\exec-8014ab5e-9ce7-48a6-9c8a-74ac4075b980.png",
+      "correctionPrompt": "Edit first image only: remove the large OPEN organizer on right entirely, leaving ONLY the correctly CLOSED beige square organizer with top handle in lower left. Reposition that single CLOSED organizer centered prominently on hotel bench, slightly larger. Preserve heading Pack for the next stay, body Fold the organizer for travel, footer handle and AI props disclosure, premium palette and suitcase context. No second organizer, no medicines, no extra exterior pockets. Second image reference establishes accurate closed geometry.",
+      "rejectedOutput": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a1362d-b1be-7f72-bf46-56386b3bea8c\\exec-ba3991a9-506b-447b-96f3-47246b6c7b9c.png",
+      "footerEdit": {
+        "prompt": "Edit ONLY the footer wording on this existing poster: remove the words 'AI-generated illustration' and any bullet/separator immediately following them. Preserve all product geometry, headings, body text, photograph, colors and @rozmiso.in branding unchanged. Preserve remaining 'Styling props not included' or 'Contents not included' text if present. If the removed words leave a blank space, use the existing background texture seamlessly. No other changes. Do not add replacement disclosure or new content.",
+        "reference": "F:/Dropshipping/team/reports/T029/social/carousels/10253181518016/04-context.png",
+        "before": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a1362d-b1be-7f72-bf46-56386b3bea8c\\exec-c84f6d67-b36f-4a23-9c70-1172f8ee43d5.png",
+        "generatedOutput": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a1362d-b1be-7f72-bf46-56386b3bea8c\\exec-8014ab5e-9ce7-48a6-9c8a-74ac4075b980.png"
+      }
+    },
+    {
+      "productId": "10253181518016",
+      "plannedOutput": "F:/Dropshipping/team/reports/T029/social/carousels/10253181518016/05-care.png",
+      "prompt": "Use case: ads-marketing. ONE portrait 4:5 Instagram carousel slide, AI generated only. Exact product references are authority. Premium ivory, forest-green serif heading, clear short sans-serif body, accurate photorealistic product, restrained layout. Footer @rozmiso.in and AI-generated illustration. No dimensions, invented technical specs, discounts, stock or performance claims. Props are not included. Exact beige foldable hanging organizer: white S-hook held by short central top fabric loop; two rectangular hook-and-loop patches on top; one clear upper zip compartment; narrow mesh middle pocket; large rounded zip mesh lower compartment; bottom fold flap with rectangular hook-and-loop patch. Do not add straps or compartments. Open empty organizer on clean ivory backdrop, exact pocket layout. Text verbatim: \"A little care goes a long way.\" \"Empty pockets before cleaning.\" \"Wipe gently and let it dry.\" \"Avoid overfilling.\" Footer \"AI-generated illustration\". No waterproof/machine wash/material/dimension claims.",
+      "status": "AUTHOR_QA_PASS_FOOTER_CLEAN",
+      "references": [
+        "F:/Dropshipping/team/reports/T028/reference-review/10253181518016/reference-1.jpg",
+        "F:/Dropshipping/team/reports/T028/reference-review/10253181518016/reference-2.jpg"
+      ],
+      "generatedOutput": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a1362d-b1be-7f72-bf46-56386b3bea8c\\exec-52889324-af01-4f36-8987-1bc9d776dea2.png",
+      "correctionPrompt": "Edit first image only: remove both thin vertical divider seams from the NARROW MIDDLE MESH POCKET, the one just below clear upper pocket and above large rounded lower pouch. Make it one uninterrupted mesh compartment matching original reference. Preserve exact rest of bag, heading/care copy, footer, color and graphic layout. No extra seams or compartments. Second reference authoritative.",
+      "rejectedOutput": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a1362d-b1be-7f72-bf46-56386b3bea8c\\exec-facca9ba-9818-4d11-88be-191801ee1d8b.png",
+      "footerEdit": {
+        "prompt": "Edit ONLY the footer wording on this existing poster: remove the words 'AI-generated illustration' and any bullet/separator immediately following them. Preserve all product geometry, headings, body text, photograph, colors and @rozmiso.in branding unchanged. Preserve remaining 'Styling props not included' or 'Contents not included' text if present. If the removed words leave a blank space, use the existing background texture seamlessly. No other changes. Do not add replacement disclosure or new content.",
+        "reference": "F:/Dropshipping/team/reports/T029/social/carousels/10253181518016/05-care.png",
+        "before": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a1362d-b1be-7f72-bf46-56386b3bea8c\\exec-3a08ace2-2ac5-49c6-b18d-a32076b80629.png",
+        "generatedOutput": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a1362d-b1be-7f72-bf46-56386b3bea8c\\exec-52889324-af01-4f36-8987-1bc9d776dea2.png"
+      }
+    }
+  ],
+  "latestInstruction": "Final public presentation, no preview/order-closed or AI wording inside final graphics; actual AI origin preserved in internal evidence."
+}

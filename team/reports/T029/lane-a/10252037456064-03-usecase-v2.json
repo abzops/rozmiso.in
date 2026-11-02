@@ -1,0 +1,13 @@
+{
+  "id": "10252037456064",
+  "slot": "03-usecase",
+  "prompt": "One square premium realistic usecase photo, exact product is pink bear-face soap brush in reference image. CRITICAL PHYSICAL ORIENTATION: the broad flat bear-face FRONT is parallel to broad BRISTLE BACK; dense gray bristles grow perpendicular from BACK, NOT from feet/bottom edge. Show brush lying FACE-UP nearly HORIZONTAL over white ceramic sink basin. Adult cream-gloved hand wraps across upper pink bear-face body pressing down; broad gray BRISTLE BACK is DOWN against sink. Observe original reference sink action angle precisely. Head toward upperleft, feet toward lower right in image, pink bear face points upwards at camera tilted slightly, white side cap visible left edge, gray bristles visible thin plane beneath BACK and contacting sink. No bristles from bottom/feet. Exact two ears, printed eyes/face/blush, darkpink belly oval. Modest soap suds, ivory daylight bathroom, natural correct finger anatomy. No pump/nozzle/spray, no text/performance claims. Do not reuse upright vertical brush orientation from generated action.",
+  "referencePaths": [
+    "F:/Dropshipping/team/reports/T028/reference-review/10252037456064/reference-1.jpg"
+  ],
+  "sourcePath": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a13435-490b-7431-997e-e0d931fa0e75\\exec-60a95972-e632-4c52-9f96-aeac10bf223f.png",
+  "path": "F:/Dropshipping/team/reports/T028/generated/10252037456064/03-usecase-v2.png",
+  "qa": "PASS_local_visual_root_review_pending",
+  "mode": "built-in imagegen",
+  "date": "2026-10-13"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "10252037390528",
+  "slot": "02-detail",
+  "prompt": "Use case: product-mockup. ONE square professional macro detail photograph of the EXACT CLOSED pouch in original inset. Blue-gray soft rectangular animal cartoon print with orange/yellow accents, black perimeter zipper and piping, tan broad lid horizontal webbing handle. Extreme closeup of ONE CORNER of closed pouch showing real woven tan handle stitched attachment, black zip teeth and sliders, printed fabric weave. Crop product partially deliberately, no entire pouch hero, no lunchbox, no props, no invented shoulder straps or electronics. Ivory backdrop, exquisite premium product detail, photoreal texture, soft side light, shallow depth of field but stitching sharp. Original reference authority for colors/construction, no text or logos.",
+  "referencePaths": [
+    "F:/Dropshipping/team/reports/T028/reference-review/10252037390528/reference-1.jpg"
+  ],
+  "sourcePath": "C:/Users/Abhinand/.codex/generated_images/01a13435-490b-7431-997e-e0d931fa0e75/exec-147bdca1-170f-415a-95e1-da3a739cdc69.png",
+  "path": "F:/Dropshipping/team/reports/T028/generated/10252037390528/02-detail-v2.png",
+  "mode": "built-in imagegen",
+  "qa": "PASS_local_visual_root_review_pending",
+  "date": "2026-10-13"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "10252037456064",
+  "slot": "02-detail",
+  "prompt": "Use case: product-mockup. ONE square premium ecommerce MACRO DETAIL photograph of exact pink bear-face soap brush. Reference1 physical authority, reference2 generated studio identity continuity. Detail crop focuses white circular fill cap on side plus molded pink rim and gray dense bristle roots in same partial-product frame. This is a close crop of one brush, not full hero. Retain pink smooth plastic, original ribbed edge, white circular cap, bristle pattern and pink ears/body proportions where visible. Do not remove cap, do not invent detached parts, nozzle or pump. Pale ivory background, photoreal fine material detail, soft raking light, clean premium editorial catalog aesthetic. No text, hands, spray bottle, packaging, arrows or performance claims.",
+  "referencePaths": [
+    "F:/Dropshipping/team/reports/T028/reference-review/10252037456064/reference-1.jpg",
+    "F:/Dropshipping/team/reports/T028/generated/10252037456064/01-studio.png"
+  ],
+  "sourcePath": "C:/Users/Abhinand/.codex/generated_images/01a13435-490b-7431-997e-e0d931fa0e75/exec-b5b51539-fd01-483e-a637-0e7ed4261be9.png",
+  "path": "F:/Dropshipping/team/reports/T028/generated/10252037456064/02-detail.png",
+  "mode": "built-in imagegen",
+  "qa": "PASS_local_visual_root_review_pending",
+  "date": "2026-10-13"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "10252037390528",
+  "slot": "01-studio",
+  "prompt": "Create one separate square premium ecommerce image 1024x1024. Reference images are exact product design authority, not layout. Preserve geometry, colors, pattern, material appearance, count and visible parts. Rectangular soft zippered pouch, blue-gray cartoon animal print with yellow/orange accents, black piping/zipper, tan horizontal webbing handle, silver reflective grid lining. One pouch. Constraints: Pink lunchbox inside is a prop, not an included product. Keep bag design and lining; avoid converting it into a hard lunchbox. Use one consistent color/configuration across all frames. No supplier codes, watermarks, advertising claims, dimensions, technical ratings, invented capabilities or logos.\nUse case: product-mockup. Studio hero, three-quarter view on warm neutral seamless surface with subtle contact shadow. Product only; one sale unit/set according to listed pack count. No context props. No text.",
+  "referencePaths": [
+    "F:\\Dropshipping\\team\\reports\\T028\\reference-review\\10252037390528\\reference-1.jpg",
+    "F:\\Dropshipping\\team\\reports\\T028\\reference-review\\10252037390528\\reference-2.jpg"
+  ],
+  "output_hint": "Generated images are saved to C:\\Users\\Abhinand\\.codex\\generated_images\\01a11a26-34a3-7170-8b8d-982910619d33 as C:\\Users\\Abhinand\\.codex\\generated_images\\01a11a26-34a3-7170-8b8d-982910619d33\\exec-2898fb41-4e9f-484a-bb3c-fb057c2e8fd8.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+  "sourcePath": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a11a26-34a3-7170-8b8d-982910619d33\\exec-2898fb41-4e9f-484a-bb3c-fb057c2e8fd8.png",
+  "path": "F:/Dropshipping/team/reports/T028/generated/10252037390528/01-studio.png",
+  "metadataPath": "F:/Dropshipping/team/reports/T029/lane-a/10252037390528-01-studio.json",
+  "mode": "built-in imagegen",
+  "qa": "GENERATED_LOCAL_VISUAL_PENDING",
+  "date": "2026-10-13"
+}

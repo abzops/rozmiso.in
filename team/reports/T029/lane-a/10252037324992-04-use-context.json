@@ -1,0 +1,16 @@
+{
+  "id": "10252037324992",
+  "slot": "04-use-context",
+  "prompt": "Use case: photorealistic-natural. Create a separate square 1024x1024 realistic close-up photograph of an adult hand gently holding the same exact dark-green fabric shaver against flat gray woven upholstery, as seen in the reference. Preserve round black head with silver grille, elongated green handle with copper circular button, white cable. Modest clean home context, accurate hand grip, light pressure. No exaggerated lint clouds, no before/after, no text, no extra appliance or features.",
+  "referencePaths": [
+    "F:\\Dropshipping\\team\\reports\\T028\\reference-review\\10252037324992\\reference-1.jpg",
+    "F:\\Dropshipping\\team\\reports\\T028\\reference-review\\10252037324992\\reference-2.jpg"
+  ],
+  "output_hint": "Generated images are saved to C:\\Users\\Abhinand\\.codex\\generated_images\\01a11a26-34a3-7170-8b8d-982910619d33 as C:\\Users\\Abhinand\\.codex\\generated_images\\01a11a26-34a3-7170-8b8d-982910619d33\\exec-734b4bb2-10bf-4d63-acd9-bd8ed500dad2.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+  "sourcePath": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a11a26-34a3-7170-8b8d-982910619d33\\exec-734b4bb2-10bf-4d63-acd9-bd8ed500dad2.png",
+  "path": "F:/Dropshipping/team/reports/T028/generated/10252037324992/04-use-context.png",
+  "mode": "built-in imagegen",
+  "qa": "PASS_local_visual_root_review_pending",
+  "date": "2026-10-13",
+  "metadataPath": "F:/Dropshipping/team/reports/T029/lane-a/10252037324992-04-use-context.json"
+}

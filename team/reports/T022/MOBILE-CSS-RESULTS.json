@@ -1,0 +1,18 @@
+{
+  "prepared_at_utc": "2026-10-08T06:41:48.522366+00:00",
+  "changed_path": "assets/studio.css",
+  "source_sha256": "41ba922bc87e1f431567fa834bfaefe28f93ba48ce25b17bf572c1e04796f0d4",
+  "candidate_sha256": "8f70eb5ee689ccecaa1e985773f1146b750bdb7784221f92b77d9e04fceb5ad9",
+  "prior_eight_candidate_files_unchanged": true,
+  "prior_eight_integrated_files_unchanged": true,
+  "source_css_unchanged": true,
+  "new_candidate_declarations": ".pdp > *{min-width:0}.pdp .thumbs{min-width:0;max-width:100%}",
+  "live_qa_evidence_reported_by_codex": {
+    "client_width": 375,
+    "pdp_child_width": 726,
+    "scroll_width": 746,
+    "screenshot": "team/reports/T024/theme-product-mobile.png"
+  },
+  "layout_result": "Pending Codex actual browser390px verification",
+  "integration": "Not integrated"
+}

@@ -1,0 +1,29 @@
+{
+  "general": {
+    "search": "Search Rozmiso smart products...",
+    "cart": "Cart",
+    "continue_shopping": "Continue Shopping",
+    "currency_symbol": "₹"
+  },
+  "products": {
+    "product": {
+      "add_to_cart": "Add to Cart",
+      "order_cod": "⚡ Cash On Delivery (COD) - Pay at Doorstep",
+      "pay_online": "Pay Online & Save ₹50",
+      "sold_out": "Sold Out",
+      "in_stock": "In Stock - Ready to Dispatch",
+      "hurry_only_left": "Hurry! Only {{ count }} units left at this special introductory price!",
+      "verified_buyers": "25,000+ Verified Buyers across India",
+      "check_delivery": "Check Delivery Date & COD Availability",
+      "enter_pincode": "Enter 6-digit PIN code (e.g. 110001, 560001)"
+    }
+  },
+  "sections": {
+    "header": {
+      "title": "Rozmiso"
+    },
+    "footer": {
+      "copyright": "© 2026 Rozmiso Lifestyle India. All Rights Reserved."
+    }
+  }
+}

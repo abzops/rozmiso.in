@@ -1,0 +1,1172 @@
+{
+  "schema_version": 1,
+  "updated": "2026-11-01",
+  "orchestrator": "Codex",
+  "board_writer": "Codex only",
+  "coordination": "Codex dispatches supported CLI tasks and collects reports; shared-file fallback remains available",
+  "runtime_status": "Antigravity CLI 1.3.0: cached headless connection and bounded text review verified; second account and native tool profiles unverified",
+  "tasks": [
+    {
+      "id": "T001",
+      "goal": "Audit the current Rozmiso brand and theme source; recommend a prioritized professional storefront improvement list.",
+      "department": "Store + Creative",
+      "owner_lane": "A",
+      "reviewer": "Codex / Shield evidence auditor",
+      "status": "CHANGES_REQUIRED",
+      "inputs": [
+        "rozmiso-studio-theme",
+        "outputs/01a10c16-2853-7d31-beb1-8ba2ec9f15d6/BRAND-GUIDE.md",
+        "outputs/01a10c16-2853-7d31-beb1-8ba2ec9f15d6/BRAND-REFRESH-VALIDATION.md"
+      ],
+      "depends_on": [],
+      "allowed_actions": [
+        "Read source and current brand evidence; no live browsing is required to begin.",
+        "If authorized preview access exists, inspect it and label observations as preview/live with timestamp.",
+        "Write audit report only; propose changes without implementing them."
+      ],
+      "allowed_write_paths": [
+        "team/reports/T001/**"
+      ],
+      "acceptance_criteria": [
+        "Assess homepage, navbar, product pages, mobile usability, accessibility and brand consistency with file references.",
+        "Inspect favicon declarations, asset paths and fallback coverage; distinguish source inspection from browser observation.",
+        "Identify five prioritized improvements with impact, evidence and effort; no fabricated storefront claims."
+      ],
+      "deliverables": [
+        "team/reports/T001/WORK-REPORT.md"
+      ],
+      "execution_evidence": {
+        "started_at": "2026-10-06T07:25:24.085Z",
+        "runtime": "Antigravity CLI",
+        "account_selection": "Current cached sign-in; identity/Pro entitlement not verified",
+        "agent": "Bounded evidence auditor role; supplied text snapshots",
+        "source_files": [
+          "rozmiso-studio-theme/assets/studio.css",
+          "rozmiso-studio-theme/sections/studio-header.liquid",
+          "rozmiso-studio-theme/sections/studio-hero.liquid",
+          "rozmiso-studio-theme/snippets/studio-card.liquid",
+          "rozmiso-studio-theme/layout/theme.liquid",
+          "outputs/01a10c16-2853-7d31-beb1-8ba2ec9f15d6/BRAND-GUIDE.md"
+        ],
+        "finished_at": "2026-10-06T07:26:42.337Z",
+        "result_path": "team/reports/T001/NATIVE-RESULT.json"
+      },
+      "blockers": [
+        "Full requested audit omitted product/collection/cart templates, JavaScript and prior validation input; native accessibility/performance assertions need correction."
+      ],
+      "accepted_at": null,
+      "dependency_condition": "ALL_ACCEPTED",
+      "dispatch_history": [
+        {
+          "date": "2026-10-06T07:25:24.028Z",
+          "result": "Local spawn ENAMETOOLONG; no worker started. Replaced argument payload with documented stdin JSON transport."
+        }
+      ],
+      "human_accountable_owner": "Abhinand"
+    },
+    {
+      "id": "T002",
+      "goal": "Find currently operating Indian suppliers suitable for the existing four-product assortment and compare exact fulfillment capabilities.",
+      "department": "Hunter",
+      "owner_lane": "B",
+      "reviewer": "Codex / Shield evidence auditor",
+      "status": "ACCEPTED",
+      "inputs": [
+        "outputs/01a10c16-2853-7d31-beb1-8ba2ec9f15d6/SUPPLIER-ENQUIRY.md",
+        "outputs/01a10c16-2853-7d31-beb1-8ba2ec9f15d6/LAUNCH-PREP-RESULTS.md"
+      ],
+      "depends_on": [],
+      "allowed_actions": [
+        "Research current primary supplier sources with available web tools.",
+        "Prepare a shortlist and quote-request draft; do not send it or contact a supplier."
+      ],
+      "allowed_write_paths": [
+        "team/reports/T002/**"
+      ],
+      "acceptance_criteria": [
+        "Compare up to three currently operating candidates; if fewer can be evidenced, say so.",
+        "For each exact product record URL/date, listed price and stock evidence or unknown, shipping/COD/returns/RTO terms and quote questions.",
+        "Explain which costs or fulfillment terms require written confirmation. Do not calculate a confirmed margin from an unconfirmed supplier listing."
+      ],
+      "deliverables": [
+        "team/reports/T002/WORK-REPORT.md",
+        "team/reports/T002/SUPPLIER-COMPARISON.md"
+      ],
+      "execution_evidence": {
+        "started_at": "2026-10-06T15:03:59.4727683Z",
+        "runtime": "Codex Hunter worker",
+        "author": "team_governance_review",
+        "reviewer": "Codex",
+        "scope": "Current primary-source comparison only; no messages, commitments or purchases.",
+        "evidence_paths": [
+          "team/reports/T002/SUPPLIER-COMPARISON.md",
+          "team/reports/T002/WORK-REPORT.md"
+        ],
+        "review": "Codex PASS public-source comparison; shaver/brush/FAQ reopened independently. No connection, confirmed margin or purchase."
+      },
+      "blockers": [],
+      "accepted_at": "2026-10-06T15:10:20.6674997Z",
+      "dependency_condition": "ALL_ACCEPTED",
+      "human_accountable_owner": "Shiva Shankar"
+    },
+    {
+      "id": "T003",
+      "goal": "Prepare pricing and downside contribution scenarios using supplier evidence.",
+      "department": "Finance",
+      "owner_lane": "B",
+      "reviewer": "Codex / Shield evidence auditor",
+      "status": "READY",
+      "inputs": [
+        "team/reports/T002/SUPPLIER-COMPARISON.md",
+        "outputs/01a10c16-2853-7d31-beb1-8ba2ec9f15d6/Rozmiso-Sales-Tracker.xlsx"
+      ],
+      "depends_on": [
+        "T002"
+      ],
+      "allowed_actions": [
+        "Draft economics with clearly marked assumptions and missing costs."
+      ],
+      "allowed_write_paths": [
+        "team/reports/T003/**"
+      ],
+      "acceptance_criteria": [
+        "Separate prepaid/COD and delivered/RTO/refund scenarios.",
+        "Include acquisition and cash requirements; no fixed markup profitability shortcut.",
+        "A confirmed margin remains blocked until exact supplier and payment costs are verified."
+      ],
+      "deliverables": [
+        "team/reports/T003/WORK-REPORT.md",
+        "team/reports/T003/MARGIN-SCENARIOS.md"
+      ],
+      "execution_evidence": null,
+      "blockers": [
+        "Confirmed margins require exact quoted SKU/tax/packing/outbound/COD/RTO/payment/acquisition costs; draft scenarios may proceed with explicit unknowns."
+      ],
+      "accepted_at": null,
+      "dependency_condition": "ALL_ACCEPTED",
+      "human_accountable_owner": "Abhinand"
+    },
+    {
+      "id": "T004",
+      "goal": "Prepare a beginner-friendly owner handoff for seller details, supplier samples, payment onboarding and credential rotation.",
+      "department": "Operations + Shield",
+      "owner_lane": "B",
+      "reviewer": "Codex / Shield evidence auditor",
+      "status": "ACCEPTED",
+      "inputs": [
+        "outputs/01a10c16-2853-7d31-beb1-8ba2ec9f15d6/START-HERE.md",
+        "outputs/01a10c16-2853-7d31-beb1-8ba2ec9f15d6/BUSINESS-DETAILS.md",
+        "READ_ME_FIRST_ORCHESTRATOR.md"
+      ],
+      "depends_on": [],
+      "allowed_actions": [
+        "Read existing preparation and turn owner-only steps into an ordered guide; draft only."
+      ],
+      "allowed_write_paths": [
+        "team/reports/T004/**"
+      ],
+      "acceptance_criteria": [
+        "Explain what is needed, why, where the owner performs it and what evidence to return.",
+        "No invented identity/address/email, company registration mandate or legal conclusion.",
+        "Never request documents, passwords or bank details in chat."
+      ],
+      "deliverables": [
+        "team/reports/T004/WORK-REPORT.md",
+        "team/reports/T004/OWNER-HANDOFF.md"
+      ],
+      "execution_evidence": {
+        "author": "Codex governance worker",
+        "reviewer": "Codex",
+        "evidence": "team/reports/T004/OWNER-HANDOFF.md",
+        "date": "2026-10-06"
+      },
+      "blockers": [],
+      "accepted_at": "2026-10-06T14:49:26.164142Z",
+      "dependency_condition": "ALL_ACCEPTED",
+      "human_accountable_owner": "Abhinand"
+    },
+    {
+      "id": "T005",
+      "goal": "Prepare product-specific brand and content improvements from verified product evidence.",
+      "department": "Creative + Store",
+      "owner_lane": "A",
+      "reviewer": "Codex / independent Shield reviewer",
+      "status": "WAITING",
+      "inputs": [
+        "team/reports/T001/WORK-REPORT.md",
+        "team/reports/T002/SUPPLIER-COMPARISON.md",
+        "outputs/01a10c16-2853-7d31-beb1-8ba2ec9f15d6/BRAND-GUIDE.md"
+      ],
+      "depends_on": [
+        "T001",
+        "T002"
+      ],
+      "allowed_actions": [
+        "Draft copy and scoped local proposals after Codex assigns final scope."
+      ],
+      "allowed_write_paths": [
+        "team/reports/T005/**"
+      ],
+      "acceptance_criteria": [
+        "Source product claims and image rights; mark sample-dependent demonstrations as planned.",
+        "Do not turn shipping, COD, reviews, refunds or stock assumptions into storefront promises."
+      ],
+      "deliverables": [
+        "team/reports/T005/WORK-REPORT.md"
+      ],
+      "execution_evidence": null,
+      "blockers": [],
+      "accepted_at": null,
+      "dependency_condition": "ALL_ACCEPTED",
+      "human_accountable_owner": "Abhinand"
+    },
+    {
+      "id": "T006",
+      "goal": "Prepare a small measured acquisition experiment after economics and owner budget are available.",
+      "department": "Growth",
+      "owner_lane": "B",
+      "reviewer": "Codex / Finance reviewer",
+      "status": "WAITING",
+      "inputs": [
+        "team/reports/T003/MARGIN-SCENARIOS.md"
+      ],
+      "depends_on": [
+        "T003"
+      ],
+      "allowed_actions": [
+        "Draft organic and paid-test plans; no purchase, campaign launch or account changes."
+      ],
+      "allowed_write_paths": [
+        "team/reports/T006/**"
+      ],
+      "acceptance_criteria": [
+        "Hypothesis, audience, creative, event measurement and stop rule specified.",
+        "Separate draft tracking plan from configured tracking, and projected results from real sales."
+      ],
+      "deliverables": [
+        "team/reports/T006/WORK-REPORT.md"
+      ],
+      "execution_evidence": null,
+      "blockers": [
+        "Owner spending cap unset; product/sample and sales readiness not confirmed."
+      ],
+      "accepted_at": null,
+      "dependency_condition": "ALL_ACCEPTED",
+      "human_accountable_owner": "Roshan"
+    },
+    {
+      "id": "T007",
+      "goal": "Independently review first lane submissions and decide what can be integrated.",
+      "department": "Shield",
+      "owner_lane": "Codex",
+      "reviewer": "Separate Codex review worker, different from artifact author",
+      "status": "WAITING",
+      "inputs": [
+        "team/reports/T001/WORK-REPORT.md",
+        "team/reports/T002/WORK-REPORT.md"
+      ],
+      "depends_on": [
+        "T001",
+        "T002"
+      ],
+      "allowed_actions": [
+        "Review each submitted artifact independently; a blocked other lane does not prevent review. Return corrections or acceptance recommendation and record pending reports."
+      ],
+      "allowed_write_paths": [
+        "team/reports/T007/**"
+      ],
+      "acceptance_criteria": [
+        "Author and reviewer differ.",
+        "Resolve evidence gaps and label local vs live completion; no automatic business launch."
+      ],
+      "deliverables": [
+        "team/reports/T007/WORK-REPORT.md"
+      ],
+      "execution_evidence": null,
+      "blockers": [],
+      "accepted_at": null,
+      "dependency_condition": "ANY_SUBMITTED",
+      "human_accountable_owner": "Codex"
+    },
+    {
+      "id": "T008",
+      "goal": "Install and verify a supported Antigravity CLI connection and prepare bounded dispatch.",
+      "department": "Director / engineering",
+      "owner_lane": "Codex",
+      "reviewer": "Independent specialist plus Codex evidence review",
+      "status": "ACCEPTED",
+      "inputs": [],
+      "depends_on": [],
+      "dependency_condition": "ALL_ACCEPTED",
+      "allowed_actions": [
+        "Bounded local preparation/review only; no deployment, spending or external messages."
+      ],
+      "allowed_write_paths": [
+        "team/reports/T008/CLI-RUNTIME-RESULTS.md",
+        "team/scripts/run-antigravity-task.cjs"
+      ],
+      "acceptance_criteria": [
+        "Actual artifacts and observed results recorded; local and live status distinguished."
+      ],
+      "deliverables": [
+        "team/reports/T008/CLI-RUNTIME-RESULTS.md",
+        "team/scripts/run-antigravity-task.cjs"
+      ],
+      "execution_evidence": {
+        "date": "2026-10-06",
+        "runtime": "Codex + bounded Antigravity CLI where documented",
+        "evidence_paths": [
+          "team/reports/T008/CLI-RUNTIME-RESULTS.md",
+          "team/scripts/run-antigravity-task.cjs"
+        ]
+      },
+      "blockers": [],
+      "accepted_at": "2026-10-06T07:29:55.571Z",
+      "limitations": [
+        "Second account isolation/entitlement unverified; custom agent tools unverified."
+      ],
+      "human_accountable_owner": "Abhinand"
+    },
+    {
+      "id": "T009",
+      "goal": "Audit current brand assets and source/mobile composition.",
+      "department": "Creative / Shield",
+      "owner_lane": "Codex",
+      "reviewer": "Independent specialist plus Codex evidence review",
+      "status": "ACCEPTED",
+      "inputs": [],
+      "depends_on": [],
+      "dependency_condition": "ALL_ACCEPTED",
+      "allowed_actions": [
+        "Bounded local preparation/review only; no deployment, spending or external messages."
+      ],
+      "allowed_write_paths": [
+        "team/reports/T009/BRAND-AUDIT.md"
+      ],
+      "acceptance_criteria": [
+        "Actual artifacts and observed results recorded; local and live status distinguished."
+      ],
+      "deliverables": [
+        "team/reports/T009/BRAND-AUDIT.md"
+      ],
+      "execution_evidence": {
+        "date": "2026-10-06",
+        "author": "Codex brand review worker",
+        "reviewer": "Codex",
+        "evidence": "Source audit plus independent current 390px storefront observation by Codex"
+      },
+      "blockers": [],
+      "accepted_at": "2026-10-06T07:29:55.572Z",
+      "human_accountable_owner": "Abhinand"
+    },
+    {
+      "id": "T010",
+      "goal": "Prepare a coherent vector identity kit and mobile review concept.",
+      "department": "Creative / Store",
+      "owner_lane": "Codex",
+      "reviewer": "Independent specialist plus Codex evidence review",
+      "status": "ACCEPTED",
+      "inputs": [],
+      "depends_on": [],
+      "dependency_condition": "ALL_ACCEPTED",
+      "allowed_actions": [
+        "Bounded local preparation/review only; no deployment, spending or external messages."
+      ],
+      "allowed_write_paths": [
+        "operations/brand-direction-2026-10-06/review-kit/README.md",
+        "team/reports/T010/ANTIGRAVITY-REVIEW.md"
+      ],
+      "acceptance_criteria": [
+        "Actual artifacts and observed results recorded; local and live status distinguished."
+      ],
+      "deliverables": [
+        "operations/brand-direction-2026-10-06/review-kit/README.md",
+        "team/reports/T010/ANTIGRAVITY-REVIEW.md"
+      ],
+      "execution_evidence": {
+        "date": "2026-10-06",
+        "runtime": "Codex + bounded Antigravity CLI where documented",
+        "evidence_paths": [
+          "operations/brand-direction-2026-10-06/review-kit/README.md",
+          "team/reports/T010/ANTIGRAVITY-REVIEW.md"
+        ]
+      },
+      "blockers": [],
+      "accepted_at": "2026-10-06T07:29:55.572Z",
+      "owner_visual_review": "APPROVED",
+      "limitations": [
+        "Static review draft; no theme deployment; no commercial readiness claim."
+      ],
+      "human_accountable_owner": "Abhinand"
+    },
+    {
+      "id": "T011",
+      "goal": "Implement the reviewed mobile direction in an isolated Shopify theme copy, then verify against the concept.",
+      "department": "Store / Shield",
+      "owner_lane": "A role / current verified runtime until second account isolation is established",
+      "reviewer": "Independent specialist plus Codex evidence review",
+      "status": "ACCEPTED",
+      "inputs": [
+        "operations/brand-direction-2026-10-06/review-kit",
+        "rozmiso-studio-theme"
+      ],
+      "depends_on": [
+        "T010"
+      ],
+      "dependency_condition": "ALL_ACCEPTED",
+      "allowed_actions": [
+        "Implement the CEO-approved brand/mobile direction locally; validate and upload a draft theme; visually verify and deploy the authorized design. No commerce launch, inventory, payment, spending or identity changes."
+      ],
+      "allowed_write_paths": [
+        "operations/brand-direction-2026-10-06/theme-approved/**",
+        "rozmiso-studio-theme/**",
+        "team/reports/T011/**"
+      ],
+      "acceptance_criteria": [
+        "Actual artifacts and observed results recorded; local and live status distinguished."
+      ],
+      "deliverables": [
+        "team/reports/T011/WORK-REPORT.md"
+      ],
+      "execution_evidence": {
+        "started_at": "2026-10-06T07:44:49.588Z",
+        "author": "Codex",
+        "owner_approval": "All are approved.",
+        "rollback": "operations/brand-direction-2026-10-06/theme-before-approved",
+        "local_validation": "13 source checks passed; local mobile 320/360/390/430 and desktop 1440 verified; independent source review passed.",
+        "report": "team/reports/T011/WORK-REPORT.md",
+        "live_theme_id": "158950424768",
+        "rollback_theme_id": "158905270464",
+        "live_verification": "Live homepage at 320/360/390/430/1440; search/menu/empty bag/catalog/product zoom/enquiry prefill and CDN PNG32; independent visual PASS; ordering remains closed."
+      },
+      "blockers": [],
+      "accepted_at": "2026-10-06T15:03:59.4727683Z",
+      "human_accountable_owner": "Abhinand"
+    },
+    {
+      "id": "T012",
+      "goal": "Prepare a three-person departmental operating plan and prioritized task register for Abhinand, Shiva Shankar and Roshan.",
+      "department": "Director / Operations",
+      "owner_lane": "Codex governance worker",
+      "reviewer": "Codex",
+      "status": "ACCEPTED",
+      "inputs": [
+        "TEAM_ROSTER_AND_RULES.md",
+        "team/TASK-BOARD.json",
+        "team/reports/T004/OWNER-HANDOFF.md",
+        "team/reports/T011/WORK-REPORT.md"
+      ],
+      "depends_on": [],
+      "allowed_actions": [
+        "Draft the user-requested internal operating plan; no external messages, account changes, spending or legal assignments."
+      ],
+      "allowed_write_paths": [
+        "ROZMISO-OPERATING-PLAN.md",
+        "team/reports/T012/**"
+      ],
+      "acceptance_criteria": [
+        "Three human owners with clear departmental deliverables, decision boundaries and supporting AI roles.",
+        "Phases and specific prioritized task IDs with dependencies and honest current unknowns.",
+        "Practical daily/weekly cadence, supplier/order/support/finance handoffs and launch gates.",
+        "Keep Codex the single AI orchestrator; no claim that profile definitions mean continuously running workers."
+      ],
+      "deliverables": [
+        "ROZMISO-OPERATING-PLAN.md",
+        "team/reports/T012/WORK-REPORT.md"
+      ],
+      "execution_evidence": {
+        "started_at": "2026-10-06T14:49:26.186655Z",
+        "user_request": "Three-person team; Abhinand technical/creative, Shiva supply chain/distribution, assign Roshan responsibility and department-wise operational plan.",
+        "review": "Codex PASS: three human departments, shared finance,18 plan IDs, dependencies/cadence/handoffs and factual launch gates; charter integrated."
+      },
+      "blockers": [],
+      "accepted_at": "2026-10-06T15:03:59.4727683Z",
+      "human_accountable_owner": "Abhinand"
+    },
+    {
+      "depends_on": [
+        "T002"
+      ],
+      "accepted_at": "2026-10-06T15:31:54.8598971Z",
+      "deliverables": [
+        "team/reports/T013/WORK-REPORT.md",
+        "team/reports/T013/DIRECT-SUPPLIER-DECISION.md"
+      ],
+      "inputs": [
+        "team/reports/T002/SUPPLIER-COMPARISON.md",
+        "TEAM_ROSTER_AND_RULES.md"
+      ],
+      "status": "ACCEPTED",
+      "allowed_actions": [
+        "Read current primary supplier sources and public catalogs/terms; no messages, enrollments, payments or commerce state changes."
+      ],
+      "human_accountable_owner": "Shiva Shankar",
+      "allowed_write_paths": [
+        "team/reports/T013/**"
+      ],
+      "goal": "Select direct Indian dropshippers capable of individual customer fulfillment without unapproved stock commitment; verify current product/media offering.",
+      "execution_evidence": {
+        "started_at": "2026-10-06T15:12:45.4266107Z",
+        "runtime": "Codex worker",
+        "author": "Supplier research worker",
+        "reviewer": "Codex",
+        "review": "Codex PASS for bounded research/media preparation. Supplier fulfillment and media publication not accepted. Manual supplier contact per user; no enquiry sent."
+      },
+      "id": "T013",
+      "blockers": [],
+      "department": "Hunter / Operations",
+      "acceptance_criteria": [
+        "Compare DeoDap, Baapstore, DropshipIndia.live and IndiaMart where verifiable; distinguish marketplace sellers from direct fulfillment partners.",
+        "Record one-piece dispatch, fees/MOQs/deposits/COD/RTO/returns, stock and media-license evidence/unknowns with dates and sources.",
+        "Recommend evidence-based shortlist for low commitment, not risk-free or guaranteed profit."
+      ],
+      "reviewer": "Codex",
+      "owner_lane": "Supplier research worker"
+    },
+    {
+      "depends_on": [
+        "T002"
+      ],
+      "accepted_at": "2026-10-06T15:31:54.8681071Z",
+      "deliverables": [
+        "team/reports/T014/WORK-REPORT.md",
+        "team/reports/T014/MEDIA-MANIFEST.md"
+      ],
+      "inputs": [
+        "team/reports/T002/SUPPLIER-COMPARISON.md",
+        "rozmiso-studio-theme",
+        "operations/brand-direction-2026-10-06/review-kit/photos"
+      ],
+      "status": "ACCEPTED",
+      "allowed_actions": [
+        "Read public supplier/social media sources and rights terms; analyze local reference photos and propose or generate faithful image drafts with built-in imagegen after skill read; no external messages or publishing."
+      ],
+      "human_accountable_owner": "Abhinand",
+      "allowed_write_paths": [
+        "team/reports/T014/**",
+        "operations/product-media-2026-10-06/**"
+      ],
+      "goal": "Senior product-media specialist: analyze exact SKUs, discover genuine photos/demos/videos and reusable media, then prepare faithful AI image concepts and media manifest.",
+      "execution_evidence": {
+        "started_at": "2026-10-06T15:12:45.4475584Z",
+        "runtime": "Codex worker",
+        "author": "Senior product-media specialist",
+        "reviewer": "Codex",
+        "review": "Codex PASS for bounded research/media preparation. Supplier fulfillment and media publication not accepted. Manual supplier contact per user; no enquiry sent."
+      },
+      "id": "T014",
+      "blockers": [],
+      "department": "Creative / Product verification",
+      "acceptance_criteria": [
+        "Each media record binds exactSKU/model, source URL/date, genuine vs generated, rights and evidence limits.",
+        "No invented product internals/accessories/performance/customer proof; no watermark removal.",
+        "Real demos separated from generated presentation; report playable embed source or genuine absence, with faithful prompts and publish eligibility."
+      ],
+      "reviewer": "Codex",
+      "owner_lane": "Senior product-media specialist"
+    },
+    {
+      "depends_on": [
+        "T011"
+      ],
+      "accepted_at": "2026-10-06T15:32:30.9509433Z",
+      "deliverables": [
+        "team/reports/T015/WORK-REPORT.md"
+      ],
+      "inputs": [
+        "rozmiso-studio-theme",
+        "team/reports/T014/MEDIA-MANIFEST.md"
+      ],
+      "status": "ACCEPTED",
+      "allowed_actions": [
+        "Verify live product visibility/media; implement reversible product navigation/gallery/video/education support with accurate prelaunch state. User authorizes adding truthful product media and prior design deployment approval persists. No spending, inventory or unsupported commerce promises."
+      ],
+      "human_accountable_owner": "Abhinand",
+      "allowed_write_paths": [
+        "operations/product-media-2026-10-06/**",
+        "rozmiso-studio-theme/**",
+        "team/reports/T015/**"
+      ],
+      "goal": "Improve storefront product discoverability and product media support; integrate only reviewed eligible assets and verify actual Shopify state.",
+      "execution_evidence": {
+        "scope": "Live audit and local implementation begin; media integration waits for evidence.",
+        "author": "Codex",
+        "started_at": "2026-10-06T15:12:16.4664024Z",
+        "review": "Source PASS + corrected live screenshot visual PASS + Codex actual live UI and six persisted-file checks. Accepted technical findability/video support only; no additional media imported and no ordering launch."
+      },
+      "id": "T015",
+      "blockers": [
+        "New galleries and genuine demos await supplier written permission, original files and physical-model confirmation; manual contact assigned to Shiva."
+      ],
+      "department": "Store / Shield",
+      "acceptance_criteria": [
+        "Actual catalog and product media counts inspected; customers can find products quickly on mobile.",
+        "Eligible real media/genuine demos or faithful labelled AI presentation integrated only after review; native Shopify product-media objects supported.",
+        "Verify menu/search/PDP/gallery at mobile/desktop, source validation and actual saved/live deployment if completed; state remaining gaps truthfully."
+      ],
+      "reviewer": "Independent worker then Codex",
+      "owner_lane": "Codex"
+    },
+    {
+      "id": "T016",
+      "goal": "Expand to10-15 exact-SKU products with evidence-based demand/risk screening, public image galleries and truthful copy; no winning-ratio invention.",
+      "status": "ACCEPTED",
+      "owner_lane": "Supplier research worker",
+      "reviewer": "Codex",
+      "human_accountable_owner": "Shiva Shankar",
+      "depends_on": [
+        "T013"
+      ],
+      "inputs": [
+        "team/reports/T013/DIRECT-SUPPLIER-DECISION.md",
+        "TEAM_ROSTER_AND_RULES.md"
+      ],
+      "allowed_write_paths": [
+        "team/reports/T016/**",
+        "operations/catalog-expansion-2026-10-06/research/**"
+      ],
+      "allowed_actions": [
+        "Public primary-source catalog research and structured product records; no signup/spend/messages/browser/board edits."
+      ],
+      "acceptance_criteria": [
+        "6-11 exact new SKUs with current URLs, stock observations, unit price, 4+imageURL gallery, honest copy and sale-readiness limits.",
+        "Demand rationale is qualitative not fabricated probability; avoid regulated/health claim items."
+      ],
+      "deliverables": [
+        "team/reports/T016/WORK-REPORT.md",
+        "operations/catalog-expansion-2026-10-06/research/products.json"
+      ],
+      "execution_evidence": {
+        "started_at": "2026-10-06T15:42:49.6652001Z",
+        "review": "Codex accepted research/media preparation with stated provenance, exact-demo and commercial limitations; live integration evidence in T018."
+      },
+      "blockers": [],
+      "accepted_at": "2026-10-06T16:51:28.1125088Z"
+    },
+    {
+      "id": "T017",
+      "goal": "Expand galleries and discover exact-model public embeddable demo videos; generate faithful original product presentation assets.",
+      "status": "ACCEPTED",
+      "owner_lane": "Senior product-media specialist",
+      "reviewer": "Codex",
+      "human_accountable_owner": "Abhinand",
+      "depends_on": [
+        "T014"
+      ],
+      "inputs": [
+        "operations/product-media-2026-10-06/media-manifest.json",
+        "TEAM_ROSTER_AND_RULES.md"
+      ],
+      "allowed_write_paths": [
+        "team/reports/T017/**",
+        "operations/catalog-expansion-2026-10-06/media/**"
+      ],
+      "allowed_actions": [
+        "Public source media discovery, image downloads for website assets expressly requested by user; built-in imagegen original drafts from viewed exact reference. No browser/theme/board edits or external messages."
+      ],
+      "acceptance_criteria": [
+        "36 exact current gallery images mapped to native storehandles, no stock/kit/performance fiction.",
+        "Original presentation images labelledgenerated, real demos distinct and exact-model publiclyembeddablesourceorunknown.",
+        "Record source and rights uncertainty honestly; no watermarkremoval, creatorvideo rehosting or licensefiction."
+      ],
+      "deliverables": [
+        "team/reports/T017/WORK-REPORT.md",
+        "operations/catalog-expansion-2026-10-06/media/gallery.json"
+      ],
+      "execution_evidence": {
+        "user_override": "User explicitly requests copying all36publicsuppliergalleryassets and original generated presentation now, no repeatapproval. This is user authorization, not a supplier license.",
+        "started_at": "2026-10-06T15:42:49.6719563Z",
+        "review": "Codex accepted research/media preparation with stated provenance, exact-demo and commercial limitations; live integration evidence in T018."
+      },
+      "blockers": [],
+      "accepted_at": "2026-10-06T16:51:28.1241418Z"
+    },
+    {
+      "id": "T018",
+      "goal": "Integrate10-15exact-SKUcatalog/nativegalleriesandgeneratedpresentation, verifiedpublicdemos;verifyShopifysaved/live state.",
+      "status": "CHANGES_REQUIRED",
+      "owner_lane": "Codex",
+      "reviewer": "IndependentworkerthenCodex",
+      "human_accountable_owner": "Abhinand",
+      "depends_on": [
+        "T015"
+      ],
+      "inputs": [
+        "rozmiso-studio-theme",
+        "operations/catalog-expansion-2026-10-06"
+      ],
+      "allowed_write_paths": [
+        "operations/catalog-expansion-2026-10-06/**",
+        "team/reports/T018/**",
+        "rozmiso-studio-theme/**"
+      ],
+      "allowed_actions": [
+        "User specifically authorizesnewproductlisting,galleries,generatedpresentationandpublicdemoswithoutrepeatapproval;no spending,messages,identityfabrication orenabledunverifiedordering."
+      ],
+      "acceptance_criteria": [
+        "Actualsavedcatalogcount/imagecountsverified.",
+        "Exactmodelmapping/sourceuncertaintyandrealvsAIlabel,noinventedstock/results.",
+        "Mobiledesktopgalleries/catalogverified;remainingcommercegatesreported."
+      ],
+      "deliverables": [
+        "team/reports/T018/WORK-REPORT.md"
+      ],
+      "execution_evidence": {
+        "started_at": "2026-10-06T15:43:52.8971211Z",
+        "live_catalog": "15 products, 80 native gallery images; each new product 4, existing four 9 each; all 15 add buttons disabled. See team/reports/T018/live-gallery-audit.json.",
+        "independent_review": "PASS bounded catalog scope: team/reports/T018/INDEPENDENT-REVIEW.md; commercial launch and fresh mobile visual QA remain incomplete."
+      },
+      "blockers": [
+        "No exact-model demo verified; AI presentation is local only.",
+        "Supplier media permission, stock/fulfillment quotes and samples remain unverified.",
+        "Seller/support details, payments, policies and final commerce launch gates unresolved.",
+        "Expanded catalog fresh mobile visual review remains pending; viewport screenshot mismatch."
+      ],
+      "accepted_at": null
+    },
+    {
+      "id": "T019",
+      "goal": "Audit workspace files and operational evidence",
+      "owner_lane": "Codex worker A",
+      "reviewer": "Codex / independent workers",
+      "inputs": [
+        "team/reports/T019/TASK.md"
+      ],
+      "allowed_write_paths": [
+        "team/reports/T019/**"
+      ],
+      "depends_on": [],
+      "deliverables": [
+        "team/reports/T019/WORK-REPORT.md"
+      ],
+      "status": "ACCEPTED",
+      "accepted_at": "2026-10-08T12:17:10.748426+05:30",
+      "acceptance_scope": "Inventory and bounded text audit; metadata-only exclusions explicit."
+    },
+    {
+      "id": "T020",
+      "goal": "Analyze demo workbook and WhatsApp ZIP",
+      "owner_lane": "Codex worker B",
+      "reviewer": "Codex / independent workers",
+      "inputs": [
+        "team/reports/T020/TASK.md"
+      ],
+      "allowed_write_paths": [
+        "team/reports/T020/**"
+      ],
+      "depends_on": [],
+      "deliverables": [
+        "team/reports/T020/WORK-REPORT.md"
+      ],
+      "status": "ACCEPTED",
+      "accepted_at": "2026-10-08T12:17:10.748426+05:30",
+      "acceptance_scope": "Workbook and text-only chat ZIP analysis; source claims unverified."
+    },
+    {
+      "id": "T021",
+      "goal": "Import reviewed demo products as unpublished drafts and verify Shopify saved state",
+      "owner_lane": "Codex",
+      "reviewer": "Codex / independent workers",
+      "inputs": [
+        "team/reports/T021/TASK.md"
+      ],
+      "allowed_write_paths": [
+        "team/reports/T021/**"
+      ],
+      "depends_on": [],
+      "deliverables": [
+        "team/reports/T021/WORK-REPORT.md"
+      ],
+      "status": "ACCEPTED",
+      "accepted_at": "2026-10-08T12:17:10.748426+05:30",
+      "acceptance_scope": "Eight unpublished zero-stock tracked DENY products;55images saved,15dead sourceURLs."
+    },
+    {
+      "id": "T022",
+      "goal": "Prepare isolated theme fixes for prelaunch and catalog discovery",
+      "owner_lane": "Codex worker A",
+      "reviewer": "Codex / independent workers",
+      "inputs": [
+        "team/reports/T022/TASK.md"
+      ],
+      "allowed_write_paths": [
+        "team/reports/T022/**"
+      ],
+      "depends_on": [],
+      "deliverables": [
+        "team/reports/T022/WORK-REPORT.md"
+      ],
+      "status": "ACCEPTED",
+      "accepted_at": "2026-10-08T12:17:10.748426+05:30",
+      "acceptance_scope": "Nine reviewed source fixes integrated/backed up and saved to unpublished Shopify draft159016681664; no live publication."
+    },
+    {
+      "id": "T023",
+      "goal": "Review business inputs for Shopify settings",
+      "owner_lane": "Codex worker B",
+      "reviewer": "Codex / independent workers",
+      "inputs": [
+        "team/reports/T023/TASK.md"
+      ],
+      "allowed_write_paths": [
+        "team/reports/T023/**"
+      ],
+      "depends_on": [],
+      "deliverables": [
+        "team/reports/T023/WORK-REPORT.md"
+      ],
+      "status": "ACCEPTED",
+      "accepted_at": "2026-10-08T12:17:10.748426+05:30",
+      "acceptance_scope": "Sanitized settings input review and prioritized owner actions."
+    },
+    {
+      "id": "T024",
+      "goal": "Inspect all Shopify settings and complete supported changes",
+      "owner_lane": "Codex",
+      "reviewer": "Codex / independent workers",
+      "inputs": [
+        "team/reports/T024/TASK.md"
+      ],
+      "allowed_write_paths": [
+        "team/reports/T024/**"
+      ],
+      "depends_on": [],
+      "deliverables": [
+        "team/reports/T024/WORK-REPORT.md"
+      ],
+      "status": "BLOCKED",
+      "completed_scope": "20top-level category audit; selected subsettings; phoneRequired and factual SEO saved; drafttheme QA and checksum verification.",
+      "blockers": [
+        "Owner billing/payment activation",
+        "Approved legal seller and public support/address",
+        "Supplier stock/media/weights/shipping/returns evidence",
+        "Assessed tax treatment",
+        "Owner decision on reviewed theme publication and later sales launch"
+      ],
+      "evidence": [
+        "team/reports/T024/RESULTS.md",
+        "team/reports/T024/FINAL-INDEPENDENT-REVIEW.md",
+        "team/reports/T023/OWNER-ACTIONS.md"
+      ]
+    },
+    {
+      "id": "T025",
+      "goal": "Verify four DeoDap source products and prepare public copy",
+      "owner_lane": "A",
+      "reviewer": "Codex and independent lane",
+      "status": "ACCEPTED",
+      "inputs": [
+        "team/reports/T025/TASK.md"
+      ],
+      "allowed_write_paths": [
+        "team/reports/T025/**"
+      ],
+      "depends_on": [],
+      "deliverables": [
+        "team/reports/T025/WORK-REPORT.md"
+      ],
+      "authorization": "User8October2026 explicitly requests public copy/media and publication of8newproducts; preserve zero inventory/no selling launch.",
+      "acceptance_note": "Conservative four-product copy reviewed and saved; current supplier uncertainty documented."
+    },
+    {
+      "id": "T026",
+      "goal": "Verify four DeoDap source products and restore missing media",
+      "owner_lane": "B",
+      "reviewer": "Codex and independent lane",
+      "status": "ACCEPTED",
+      "inputs": [
+        "team/reports/T026/TASK.md"
+      ],
+      "allowed_write_paths": [
+        "team/reports/T026/**"
+      ],
+      "depends_on": [],
+      "deliverables": [
+        "team/reports/T026/WORK-REPORT.md"
+      ],
+      "authorization": "User8October2026 explicitly requests public copy/media and publication of8newproducts; preserve zero inventory/no selling launch.",
+      "acceptance_note": "Research accepted with two public-copy edits applied. Exact earphone/warmer photos unavailable; findings accepted, media restoration unresolved."
+    },
+    {
+      "id": "T027",
+      "goal": "Correct and publish eight new product listings with verified media",
+      "owner_lane": "Codex",
+      "reviewer": "Codex and independent lane",
+      "status": "BLOCKED",
+      "inputs": [
+        "team/reports/T027/TASK.md"
+      ],
+      "allowed_write_paths": [
+        "team/reports/T027/**"
+      ],
+      "depends_on": [],
+      "deliverables": [
+        "team/reports/T027/WORK-REPORT.md"
+      ],
+      "authorization": "User8October2026 explicitly requests public copy/media and publication of8newproducts; preserve zero inventory/no selling launch.",
+      "acceptance_note": "Eight titles/descriptions saved; six Online Store listings published and verified; two drafts await authentic photos or owner-selected replacement. Live mobile theme overflow recorded."
+    },
+    {
+      "id": "T028",
+      "goal": "Replace catalog galleries with reference-faithful AI studio and use-case images",
+      "owner_lane": "Codex with A reference audit and B creative QA",
+      "reviewer": "Codex independent QA",
+      "status": "IN_PROGRESS",
+      "inputs": [
+        "team/reports/T028/TASK.md"
+      ],
+      "allowed_write_paths": [
+        "team/reports/T028/**"
+      ],
+      "deliverables": [
+        "team/reports/T028/WORK-REPORT.md"
+      ]
+    },
+    {
+      "id": "T029",
+      "goal": "Six AI images per product and Instagram/Facebook Page setup",
+      "owner_lane": "Codex + A/B image lanes",
+      "reviewer": "Codex",
+      "status": "IN_PROGRESS",
+      "inputs": [
+        "team/reports/T029/TASK.md"
+      ],
+      "deliverables": [
+        "team/reports/T029/WORK-REPORT.md"
+      ],
+      "current_priority": "Social catalog complete; Facebook Page website link and Shopify galleries/descriptions remain",
+      "runtime": "21 current six-slide product carousels on each platform; oldfour versions removed; final126-slide local QA PASS.",
+      "instagram": {
+        "localProductPosters": 21,
+        "previouslyVerifiedPublished": 2,
+        "remainingUnpublished": 0,
+        "websiteField": "Mobile edit still needed; caption URLs are plain text",
+        "evidence": "team/reports/T029/social/carousels/manifest.json",
+        "sixSlideSetsStaged": 21,
+        "requestedAiLabel": "OFF per latest user instruction; brush composer verified OFF",
+        "replacementCarouselsPublished": 21,
+        "finalBio": "Verified .in live",
+        "oldPostsDeleted": 2,
+        "customerDomain": "rozmiso.in — owner will purchase/connect",
+        "supersededCarouselsDeleted": 4
+      },
+      "next_steps": [
+        "Update remaining Facebook Page website field to .in",
+        "Complete Shopify galleries/descriptions through T030; connector approval pending"
+      ],
+      "facebook": {
+        "pageName": "Rozmiso",
+        "profileId": "61595107991994",
+        "businessAssetId": "1342549002282339",
+        "pageUrl": "https://www.facebook.com/profile.php?id=61595107991994",
+        "instagramConnection": "Verified connected to @rozmiso.in",
+        "alwaysSharePolicy": "Required by user",
+        "businessSuiteDestinations": "Both selected by default and visually verified",
+        "instagramAutomaticSharing": "USER_CONFIRMED_ENABLED_FOR_ROZMISO_PAGE_POSTS_STORIES_REELS",
+        "mobileVerification": "Owner confirmed auto-sharing enabled; all21 product posts verified as paired Planner publications"
+      }
+    },
+    {
+      "id": "T030",
+      "goal": "Customer POV website audit, research, testing and verified fixes",
+      "owner_lane": "Codex + theme reviewer + research reviewer",
+      "reviewer": "Codex",
+      "status": "IN_PROGRESS",
+      "inputs": [
+        "team/reports/T030/TASK.md"
+      ],
+      "deliverables": [
+        "team/reports/T030/WORK-REPORT.md"
+      ],
+      "current_priority": "Theme 159259001024 LIVE via CLI; catalog API approval pending",
+      "runtime": "Theme Check clean; 11/11 regression tests PASS; 40-file remote integrity PASS; mobile customer checks completed",
+      "next_steps": [
+        "Obtain pending CLI Connector installation approval, then restart catalog authorization",
+        "Upload and verify 21 six-image galleries and themed descriptions",
+        "Verify genuine stock, fulfillment, policies and payment/order flow before purchase-readiness acceptance"
+      ]
+    },
+    {
+      "id": "T031",
+      "goal": "Reference-matched landing page rebuild",
+      "owner_lane": "Codex + landing_build + chrome_build",
+      "reviewer": "Codex",
+      "status": "ACCEPTED",
+      "inputs": [
+        "team/reports/T031/TASK.md",
+        "team/reports/T031/reference.png"
+      ],
+      "deliverables": [
+        "team/reports/T031/WORK-REPORT.md"
+      ],
+      "current_priority": "Reference landing published and visually reviewed; actual stock/payment unchanged",
+      "runtime": "Theme159552962752 live; clean Theme Check,14/14 fixtures, remote integrity; corrected soap identity PASS; tablet clipping fixed",
+      "evidence": [
+        "team/reports/T031/WORK-REPORT.md",
+        "team/reports/T031/REMOTE-INTEGRITY.json"
+      ]
+    },
+    {
+      "id": "T032",
+      "goal": "Capture and analyze product page;10 generated styles for owner approval",
+      "owner_lane": "Codex + pdp_styles_a/b",
+      "reviewer": "Codex",
+      "status": "ACCEPTED",
+      "inputs": [
+        "team/reports/T032/TASK.md"
+      ],
+      "deliverables": [
+        "team/reports/T032/WORK-REPORT.md",
+        "team/reports/T032/APPROVAL.html"
+      ],
+      "current_priority": "Ownerselected05ModernBento; implementationT033",
+      "runtime": "Clean fullpage screenshot +analysis;10 distinct generated1024x1536 concepts root visually reviewed; approval gallery and2 comparison sheets saved"
+    },
+    {
+      "id": "T033",
+      "goal": "Implementapproved05ModernBento productpages",
+      "owner_lane": "Codex +boundedengineer/reviewer",
+      "reviewer": "Codex",
+      "status": "WAITING",
+      "inputs": [
+        "team/reports/T033/TASK.md"
+      ],
+      "deliverables": [
+        "team/reports/T033/WORK-REPORT.md"
+      ],
+      "current_priority": "Product section and six corrected media retained; rejected stylesheet superseded by clean reconstruction T034",
+      "runtime": "15fixturesPASS,ThemeCheckclean,66remote filesmatched,6soapimagesidentityPASS; browserdisabled despiteenabledreply",
+      "next_steps": [
+        "Recheckbrowseravailability",
+        "Verifydesktop/mobile/tabletdraftandnativeflows",
+        "Publishapprovedstyleaftervisualchecks"
+      ]
+    },
+    {
+      "id": "T034",
+      "goal": "Clean reconstruction of selected 05 Modern Bento product-page styling",
+      "owner_lane": "Codex + bento_rebuild + bento_rebuild_review",
+      "reviewer": "Codex and independent reviewer",
+      "status": "WAITING",
+      "inputs": [
+        "team/reports/T034/TASK.md",
+        "team/reports/T032/concepts/05-modern-bento.png"
+      ],
+      "deliverables": [
+        "team/reports/T034/WORK-REPORT.md"
+      ],
+      "current_priority": "Clean stylesheet saved to existing unpublished draft; actual browser comparison remains required",
+      "runtime": "Official Theme Check clean; corrected product media and native commerce retained. Browser tool reports disabled after owner enabled reply and runtime reset.",
+      "next_steps": [
+        "Capture draft at desktop, tablet and phone sizes when browser tool is available",
+        "Compare with selected 05 including outer margins and column balance",
+        "Resolve visible findings, verify native flows, then publish"
+      ]
+    },
+    {
+      "id": "T035",
+      "goal": "Prepare launch and verify current customer ordering readiness",
+      "owner_lane": "Codex + launch_theme_review + launch_operations_review",
+      "reviewer": "Codex",
+      "status": "WAITING",
+      "inputs": [
+        "team/reports/T035/TASK.md"
+      ],
+      "deliverables": [
+        "team/reports/T035/WORK-REPORT.md"
+      ],
+      "current_priority": "Latest shipping correction:70INR flat per order; await genuine stock/payment/policy facts and Admin/browser access",
+      "runtime": "Public21products/0available;10native galleries below6;3policy404.126local image hashes verified; obsolete soap held with6corrected replacements. Draft SEO fix strict-check/pullback PASS. No launch claimed.",
+      "next_steps": [
+        "Configure flat70INR per order and verify single/multiple-item carts after Admin access",
+        "Obtain genuine supplier stock/shipping/returns/payment activation evidence",
+        "Rendered review and test ordering before launch acceptance"
+      ]
+    },
+    {
+      "id": "T036",
+      "goal": "Main product image swipe navigation for touch devices",
+      "owner_lane": "Codex + touch_review",
+      "reviewer": "Independent touch_review + Codex",
+      "status": "ACCEPTED",
+      "deliverables": [
+        "team/reports/T036/WORK-REPORT.md"
+      ],
+      "current_priority": "Scoped gallery JavaScript deployed to live159552962752 and draft159555977408; physical iPad Safari test remains unverified",
+      "runtime": "15gesture testsPASS; ThemeCheckclean; live asset pulledback matching; browser confirms touchAction and working thumbnails/zoom"
+    },
+    {
+      "id": "T037",
+      "goal": "Find/download exact-product professional social advertisement videos for21products",
+      "owner_lane": "Codex +21dedicated product workers batched3",
+      "reviewer": "Codex",
+      "status": "IN_PROGRESS",
+      "inputs": [
+        "team/reports/T037/TASK.md",
+        "team/reports/T037/PRODUCT-QUEUE.json"
+      ],
+      "deliverables": [
+        "Product Ad Videos/2026-10-29",
+        "team/reports/T037/WORK-REPORT.md"
+      ],
+      "current_priority": "Public social/supplier research and visible-product/licensing verification; no publishing",
+      "runtime": "Fresh catalog21;21isolated assignments; supplier feeds0embeddedvideos; first3workersrunning"
+    },
+    {
+      "id": "T038",
+      "goal": "Deliver Markdown brand theme/guidelines with portable logos",
+      "owner_lane": "Codex + brand_guide_review",
+      "reviewer": "brand_guide_review and Codex",
+      "status": "ACCEPTED",
+      "deliverables": [
+        "Brand Guidelines/ROZMISO-BRAND-GUIDELINES.md",
+        "team/reports/T038/ASSET-MANIFEST.json"
+      ],
+      "runtime": "Existing identity consolidated;11SVG/PNG pairs verified; all local links resolve; no live changes"
+    },
+    {
+      "id": "T039",
+      "goal": "Review five final-v5 videos, add matching products and prepare accurate Instagram/Facebook publication",
+      "owner_lane": "Codex + final_v5_video_review + final_v5_catalog_research",
+      "reviewer": "Codex",
+      "status": "IN_PROGRESS",
+      "inputs": [
+        "team/reports/T039/TASK.md"
+      ],
+      "deliverables": [
+        "team/reports/T039/WORK-REPORT.md"
+      ],
+      "current_priority": "Public publication completed:5Shopifyproducts and5pairedsocialreels verified;17galleryimages still needed for previous6perproduct requirement. No background workers.",
+      "blockers": [
+        "Six gallery images per product incomplete:13now,17additionaldistinctimagesneeded",
+        "Orderreadiness:zeroallocatedstock/noactivepaymentprovider/rozmiso.inDNSNXDOMAIN"
+      ],
+      "runtime": "ACTIVE/publicHTTP200 x5;13images;MetaPublishedCrosspostedx5;originalhashesunchanged;all6variants0/DENY;CODabsent"
+    },
+    {
+      "id": "T040",
+      "goal": "Five exactDeoDapbased publiclistings with25newAIimages,completefactualcopy,discoverabilityandcorrectedcaptions",
+      "owner_lane": "Codex + creative-a(final_v5_video_review) + creative-b(final_v5_catalog_research)",
+      "reviewer": "Codex + crosslanequalityreview",
+      "status": "IN_PROGRESS",
+      "inputs": [
+        "team/reports/T040/TASK.md"
+      ],
+      "deliverables": [
+        "team/reports/T040/WORK-REPORT.md"
+      ],
+      "current_priority": "25builtinreferenceimagegenerationsrunning;rootfixingproductplacementandMetaedits",
+      "blockers": [
+        "Stockallocationunverified;nocheckoutorder-readinessclaim",
+        "CurrentCODpaymentconfigurationneedsfreshverificationagainstlatestownerconfirmation"
+      ]
+    }
+  ],
+  "human_department_owners": {
+    "brand_creative_technology": "Abhinand",
+    "supply_chain_distribution": "Shiva Shankar",
+    "growth_sales_support": "Roshan",
+    "finance_approval": "Abhinand",
+    "ai_orchestration": "Codex"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "10252037390528",
+  "slot": "05-title-features",
+  "prompt": "Use case: ads-marketing. ONE portrait 4:5 premium Rozmiso ecommerce feature poster. Image1 exact pouch physical authority, Image2 STYLE ONLY premium juicer poster. Replace juicer with ONE CLOSED soft blue-gray cartoon animal printed zip pouch matching image1 inset: black piping/zipper, tan horizontal broad lid webbing handle, orange/yellow animal accents. Do not include lunchbox. Warm ivory, rich forestgreen, refined moderate serif heading, generous margins, delicate separators, natural daylight product photography, tiny rounded R brand mark at footer matching STYLE. Compose uncluttered hero closed pouch centered lower half, modest ivory travel tote edge in background if useful. Exactly readable text: top 'ROZMISO / THE EVERYDAY EDIT'; heading 'Packed for the everyday.'; subheading 'Travel Organizer Pouch'; three small labels 'Zip closure' / 'Carry handle' / 'Patterned fabric'; footer 'Explore the collection' and '@rozmiso.in'; small disclosure 'AI-generated illustration • Context props not included'. No discounts, stock, ratings, thermal or waterproof claims; no specifications dimensions; exact physical shape and material appearance preserved. Cohesive sophisticated layout, not giant black words or cheap collage.",
+  "referencePaths": [
+    "F:/Dropshipping/team/reports/T028/reference-review/10252037390528/reference-1.jpg",
+    "F:/Dropshipping/team/reports/T029/social/juicer-premium-poster.png"
+  ],
+  "sourcePath": "C:/Users/Abhinand/.codex/generated_images/01a13435-490b-7431-997e-e0d931fa0e75/exec-d40f84a5-5b02-4635-8abf-1a1c5eafd9a7.png",
+  "path": "F:/Dropshipping/team/reports/T028/generated/10252037390528/05-title-features.png",
+  "mode": "built-in imagegen",
+  "qa": "PASS_local_visual_root_review_pending",
+  "date": "2026-10-13"
+}

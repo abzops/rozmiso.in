@@ -1,0 +1,120 @@
+{
+  "before": {
+    "id": "gid://shopify/Product/10257843355840",
+    "title": "Manual Citrus Juicer with Strainer",
+    "vendor": "ediscountshops.com",
+    "status": "ACTIVE",
+    "productType": "Kitchen",
+    "descriptionHtml": "<p>Juice citrus fruit by hand with this compact bowl-style juicer. The central reamer presses the fruit, while the removable strainer separates seeds and larger pieces of pulp.</p><ul>\n<li>Manual operation, with no electrical connection.</li>\n<li>Plastic bowl with a pouring spout and side handle.</li>\n<li>Removable strainer for access when cleaning.</li>\n</ul><p>Rinse the removable parts after use and allow them to dry before storing.</p>",
+    "tags": [
+      "Kitchen  Tools"
+    ],
+    "totalInventory": 0,
+    "featuredImageUrl": "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/rozmiso-manual-citrus-juicer-ai-studio_1b464d70-00ff-4406-9d3d-f7fb662d6aff.png?v=1791444824",
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/rozmiso-manual-citrus-juicer-ai-studio_1b464d70-00ff-4406-9d3d-f7fb662d6aff.png?v=1791444824",
+        "altText": "AI-generated studio view of manual citrus juicer",
+        "mediaId": "gid://shopify/MediaImage/48571533066432"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/rozmiso-manual-citrus-juicer-ai-usecase_d887ae0c-7e41-4b76-854e-5d2e86916db0.png?v=1791444824",
+        "altText": "AI-generated kitchen use-case illustration; citrus props not included",
+        "mediaId": "gid://shopify/MediaImage/48571533099200"
+      }
+    ],
+    "totalVariants": 1,
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/50443621859520",
+        "title": "Default Title",
+        "sku": "2793_manual_hand_juicer",
+        "price": "46.00",
+        "inventoryQuantity": 0
+      }
+    ],
+    "currencyCode": "INR"
+  },
+  "uploads": [
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/rozmiso-juicer-ai-details.png?v=1791871904",
+      "fileId": "gid://shopify/MediaImage/48780790857920",
+      "filename": "rozmiso-juicer-ai-details.png",
+      "alt": "AI-generated details view of manual citrus juicer; props not included"
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/rozmiso-juicer-ai-context.png?v=1791871912",
+      "fileId": "gid://shopify/MediaImage/48780792725696",
+      "filename": "rozmiso-juicer-ai-context.png",
+      "alt": "AI-generated context view of manual citrus juicer; props not included"
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/rozmiso-juicer-ai-features.png?v=1791871920",
+      "fileId": "gid://shopify/MediaImage/48780793807040",
+      "filename": "rozmiso-juicer-ai-features.png",
+      "alt": "AI-generated features view of manual citrus juicer; props not included"
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/rozmiso-juicer-ai-care.png?v=1791871927",
+      "fileId": "gid://shopify/MediaImage/48780795510976",
+      "filename": "rozmiso-juicer-ai-care.png",
+      "alt": "AI-generated care view of manual citrus juicer; props not included"
+    }
+  ],
+  "after": {
+    "id": "gid://shopify/Product/10257843355840",
+    "title": "Manual Citrus Juicer with Strainer",
+    "vendor": "ediscountshops.com",
+    "status": "ACTIVE",
+    "productType": "Kitchen",
+    "descriptionHtml": "<p>Juice citrus fruit by hand with this compact bowl-style juicer. The central reamer presses the fruit, while the removable strainer separates seeds and larger pieces of pulp.</p><ul>\n<li>Manual operation, with no electrical connection.</li>\n<li>Plastic bowl with a pouring spout and side handle.</li>\n<li>Removable strainer for access when cleaning.</li>\n</ul><p>Rinse the removable parts after use and allow them to dry before storing.</p>",
+    "tags": [
+      "Kitchen  Tools"
+    ],
+    "totalInventory": 0,
+    "featuredImageUrl": "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/rozmiso-manual-citrus-juicer-ai-studio_1b464d70-00ff-4406-9d3d-f7fb662d6aff.png?v=1791444824",
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/rozmiso-manual-citrus-juicer-ai-studio_1b464d70-00ff-4406-9d3d-f7fb662d6aff.png?v=1791444824",
+        "altText": "AI-generated studio view of manual citrus juicer",
+        "mediaId": "gid://shopify/MediaImage/48571533066432"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/rozmiso-manual-citrus-juicer-ai-usecase_d887ae0c-7e41-4b76-854e-5d2e86916db0.png?v=1791444824",
+        "altText": "AI-generated kitchen use-case illustration; citrus props not included",
+        "mediaId": "gid://shopify/MediaImage/48571533099200"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/rozmiso-juicer-ai-details.png?v=1791871904",
+        "altText": "AI-generated details view of manual citrus juicer; props not included",
+        "mediaId": "gid://shopify/MediaImage/48780790857920"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/rozmiso-juicer-ai-context.png?v=1791871912",
+        "altText": "AI-generated context view of manual citrus juicer; props not included",
+        "mediaId": "gid://shopify/MediaImage/48780792725696"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/rozmiso-juicer-ai-features.png?v=1791871920",
+        "altText": "AI-generated features view of manual citrus juicer; props not included",
+        "mediaId": "gid://shopify/MediaImage/48780793807040"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/rozmiso-juicer-ai-care.png?v=1791871927",
+        "altText": "AI-generated care view of manual citrus juicer; props not included",
+        "mediaId": "gid://shopify/MediaImage/48780795510976"
+      }
+    ],
+    "totalVariants": 1,
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/50443621859520",
+        "title": "Default Title",
+        "sku": "2793_manual_hand_juicer",
+        "price": "46.00",
+        "inventoryQuantity": 0
+      }
+    ],
+    "currencyCode": "INR"
+  }
+}

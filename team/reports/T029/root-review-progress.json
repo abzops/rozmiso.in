@@ -1,0 +1,44 @@
+{
+  "date": "2026-10-13",
+  "reviewer": "Codex",
+  "products": [
+    {
+      "id": "10252037357760",
+      "result": "PASS",
+      "gallery": "SAVED_LIVE_SIX",
+      "details": "Six public thumbnails and all six alt texts saved in prior same-day session; not refreshed this session."
+    },
+    {
+      "id": "10252037390528",
+      "result": "CHANGES_REQUIRED_LIVE_HERO_REPLACEMENT",
+      "gallery": "PREVIOUSLY_SAVED_SIX_WITH_REJECTED_HERO",
+      "selected": [
+        "01-studio-v2",
+        "02-detail-v2",
+        "03-usecase",
+        "04-use-context",
+        "05-title-features",
+        "06-care-v2"
+      ],
+      "details": "Root reviewed corrected local hero: top-lid handle accurate, front sidewall clear. Upload-ready copy replaced. Live attachment replacement pending browser restoration."
+    },
+    {
+      "id": "10253181583552",
+      "result": "PASS",
+      "gallery": "PREVIOUSLY_SAVED_LIVE_SIX",
+      "details": "Six public thumbnails verified in prior same-day session; not refreshed this session."
+    },
+    {
+      "id": "10253181681856",
+      "result": "PASS",
+      "gallery": "FILE_PICKER_UPLOAD_DONE_SAVE_PENDING",
+      "details": "Four new files uploaded to picker before connection loss; Done/product Save/public verification unconfirmed."
+    },
+    {
+      "id": "10253181944000",
+      "result": "PASS",
+      "gallery": "UPLOAD_PENDING",
+      "details": "All six exact set3(two pink,one green) and patterns reviewed."
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+[
+  {
+    "path": "assets/studio.js",
+    "source_sha256": "c1fe84efd395d157c0d83ccdadc7d92e9301e90546879a0ce5c4379219c54dfb",
+    "candidate_sha256": "d2239b9f2a1798f6fdc4339424d81684161696eda52578aae995662e15f44edb"
+  },
+  {
+    "path": "layout/theme.liquid",
+    "source_sha256": "46dcf89bfe3c3e92adc744b749e4233894d55fb9d08cef57e5a0db566dda0477",
+    "candidate_sha256": "03ae7a1f244ee17e6f172b94c1b31185c2fecad30ddc69212059e219c89925a1"
+  },
+  {
+    "path": "sections/studio-collection.liquid",
+    "source_sha256": "88c36af2b3f0ea2a3658bcb9c82692ef37aecc2fc8f9d34b8fd2e29ceeafb008",
+    "candidate_sha256": "ccd594cac117e1aa7cc09db30dfcac86fa76dccdc977a225bf3daed2456dfe0e"
+  },
+  {
+    "path": "sections/studio-header.liquid",
+    "source_sha256": "79fb5e754a58100c251b5257a5543366715c9d87af0b9a8cb9b0e5e6358d33a6",
+    "candidate_sha256": "f942286a0282a2a6f19299f19650fc3807889cf45a2db75ff5083a42bf44fd61"
+  },
+  {
+    "path": "sections/studio-product.liquid",
+    "source_sha256": "69dc040d86c72ac1a60adc172a5dc2cc8ced79ffd7391d5421371ca4988c2583",
+    "candidate_sha256": "be935d9b1839811ccfde649bfe6e4bc418fa19e152b805a52b9fcb4e673b7a30"
+  },
+  {
+    "path": "snippets/studio-card.liquid",
+    "source_sha256": "3b5c64154580bca2b070b030136b2af2ebf9997eefc1d1fdfdcf40e959862110",
+    "candidate_sha256": "14e5389822fd48e4a332e38d031af7cdcbab62f189519190fb73b46392896a76"
+  },
+  {
+    "path": "templates/cart.liquid",
+    "source_sha256": "d39725d38ed50f827381d39d1a13bcb47dd5af8ca1ba63ed191ef2e9f9220506",
+    "candidate_sha256": "f7ea30793ebab485be1d171f4cf548ae0f92d4dc0f343c5c251a43cd598a7bdb"
+  },
+  {
+    "path": "templates/page.contact.liquid",
+    "source_sha256": "d564082ff4ffd867abe5f9d49bf90cbc7c87e1c9008e8aaa0d58bf9acee29b38",
+    "candidate_sha256": "22be4dfd875d66ed9df3e4072a8621f6acb19d49f479fcf150737323c26072ed"
+  }
+]

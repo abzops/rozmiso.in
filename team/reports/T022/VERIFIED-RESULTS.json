@@ -1,0 +1,65 @@
+{
+  "verified_at_utc": "2026-10-08T06:31:04.156872+00:00",
+  "source_files": 39,
+  "changed_files": [
+    "assets/studio.js",
+    "layout/theme.liquid",
+    "sections/studio-collection.liquid",
+    "sections/studio-header.liquid",
+    "sections/studio-product.liquid",
+    "snippets/studio-card.liquid",
+    "templates/cart.liquid",
+    "templates/page.contact.liquid"
+  ],
+  "unchanged_files": [
+    "assets/DM-Sans-OFL.txt",
+    "assets/DMSans-Variable.ttf",
+    "assets/favicon-16.png",
+    "assets/favicon-180.png",
+    "assets/favicon-32.png",
+    "assets/favicon.ico",
+    "assets/Manrope-OFL.txt",
+    "assets/Manrope-Variable.ttf",
+    "assets/rozmiso-mark.svg",
+    "assets/rozmiso-primary-reversed.svg",
+    "assets/rozmiso-primary.svg",
+    "assets/rozmiso-share.png",
+    "assets/studio.css",
+    "config/settings_data.json",
+    "config/settings_schema.json",
+    "locales/en.default.json",
+    "sections/studio-edit.liquid",
+    "sections/studio-faq.liquid",
+    "sections/studio-footer.liquid",
+    "sections/studio-hero.liquid",
+    "sections/studio-story.liquid",
+    "snippets/studio-icon.liquid",
+    "snippets/studio-logo.liquid",
+    "snippets/studio-product-videos.liquid",
+    "templates/404.liquid",
+    "templates/collection.json",
+    "templates/index.json",
+    "templates/list-collections.liquid",
+    "templates/page.liquid",
+    "templates/product.json",
+    "templates/search.liquid"
+  ],
+  "authoritative_source_unchanged": true,
+  "css_fonts_images_settings_locales_unchanged": true,
+  "behavioral_tests": {
+    "passed": 13,
+    "failed": 0,
+    "command": "node --test team/reports/T022/regression.test.cjs"
+  },
+  "liquid_validation": {
+    "passed": 7,
+    "failed": 0,
+    "validator": "Official shopify-liquid/scripts/validate.mjs full-theme mode with task-local module resolver using existing installed dependencies"
+  },
+  "limits": [
+    "No live deployment",
+    "No Shopify backend lock",
+    "Native multi-page filtering depends on configured collection.filters",
+    "No actual Shopify browser visual review"
+  ]
+}

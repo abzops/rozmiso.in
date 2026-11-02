@@ -1,0 +1,14 @@
+{
+  "id": "10252037456064",
+  "slot": "04-use-context",
+  "prompt": "Use case: photorealistic-natural. ONE square premium ecommerce second context photograph of ONE exact pink bear-face soap brush from original reference. Show the full brush resting on its side beside a neat ivory bathroom sink on pale stone ledge, gray bristle face clearly visible angled toward camera and pink bear body/white side cap visible in profile. Clean dry brush, folded white towel behind, distant green leaf. Bristles belong only on back/base, don't add dual-sided heads. Preserve two ears, original printed face, darkpink belly oval, dense gray bristles and white side cap. Different view from frontal upright hero and action photograph. Soft natural daylight, refined matte ivory setting, precise material detail, no spray bottle, no pump/nozzle, no soap quantity claim, no text/logos. Context props not included.",
+  "referencePaths": [
+    "F:/Dropshipping/team/reports/T028/reference-review/10252037456064/reference-1.jpg",
+    "F:/Dropshipping/team/reports/T028/generated/10252037456064/01-studio.png"
+  ],
+  "sourcePath": "C:/Users/Abhinand/.codex/generated_images/01a13435-490b-7431-997e-e0d931fa0e75/exec-9bd128a2-3b2e-43d7-8ea0-6094c641b972.png",
+  "path": "F:/Dropshipping/team/reports/T028/generated/10252037456064/04-use-context.png",
+  "mode": "built-in imagegen",
+  "qa": "GENERATED_LOCAL_VISUAL_PENDING",
+  "date": "2026-10-13"
+}

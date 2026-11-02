@@ -1,0 +1,91 @@
+{
+  "productId": "10253181321408",
+  "title": "Window Groove Cleaning Brush",
+  "productUrl": "https://rozmiso.in/products/window-groove-cleaning-brush",
+  "replacesPost": null,
+  "status": "ASSETS_COMPLETE_CROP_REVIEW_PENDING",
+  "slides": [
+    {
+      "order": 1,
+      "role": "Cover and features",
+      "path": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253181321408\\01-slide.png",
+      "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253181321408\\01-cover-v3.png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "sha256": "d8a9dc3fa10475adf1aeb2950fcae6a6ebdfacd0410e2e7f946d8ced94c08e89",
+      "altText": "Window Groove Cleaning Brush: cover and features. Context props are not included."
+    },
+    {
+      "order": 2,
+      "role": "Product detail",
+      "path": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253181321408\\02-slide.png",
+      "source": "F:\\Dropshipping\\team\\reports\\T028\\generated\\10253181321408\\02-detail.png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "sha256": "2e3e81691f3ee44e95c41415a83519503b151ece4ec23d387d9ddcf8353d882f",
+      "altText": "Window Groove Cleaning Brush: product detail. Context props are not included."
+    },
+    {
+      "order": 3,
+      "role": "Primary use",
+      "path": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253181321408\\03-slide.png",
+      "source": "F:\\Dropshipping\\team\\reports\\T028\\generated\\10253181321408\\03-usecase.png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "sha256": "382ddef17c985e7ef3ae9dad71713ceddc417a4c2d28d326998c6e961e2aba39",
+      "altText": "Window Groove Cleaning Brush: primary use. Context props are not included."
+    },
+    {
+      "order": 4,
+      "role": "Second context",
+      "path": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253181321408\\04-slide.png",
+      "source": "F:\\Dropshipping\\team\\reports\\T028\\generated\\10253181321408\\04-use-context.png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "sha256": "7392676d5ead93af8d13c7b867f924c8871ed8761c36b283c477edb928bb4b78",
+      "altText": "Window Groove Cleaning Brush: second context. Context props are not included."
+    },
+    {
+      "order": 5,
+      "role": "Care guidance",
+      "path": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253181321408\\05-slide.png",
+      "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253181321408\\05-care-v3.png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "sha256": "c16b552be6a3079de1fb5d156c6a376e72e9ea1315e156671df1e87874ae1494",
+      "altText": "Window Groove Cleaning Brush: care guidance. Context props are not included."
+    },
+    {
+      "order": 6,
+      "role": "Product link",
+      "path": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253181321408\\06-slide.png",
+      "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\shared\\06-product-link-in.png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "sha256": "23e858c33b087c1d637c4489fc6bb1297dfc4b08f75755f670185d79e9d0127a",
+      "altText": "Window Groove Cleaning Brush: product link. Context props are not included."
+    }
+  ],
+  "missing": [],
+  "mixedAspectRatios": false,
+  "caption": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253181321408\\caption.txt",
+  "aiLabel": false,
+  "facebookPersonalCrosspost": false,
+  "facebookPageCrosspostRequired": true,
+  "facebookPageId": "61595107991994",
+  "livePublished": true,
+  "publishedVersionMayDiffer": true,
+  "theme": "Rozmiso Everyday Edit / ivory and forest green"
+}

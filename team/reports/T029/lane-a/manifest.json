@@ -1,0 +1,506 @@
+{
+  "task": "T029",
+  "lane": "A",
+  "status": "IN_PROGRESS",
+  "records": [
+    {
+      "id": "10252037324992",
+      "slot": "01-studio",
+      "path": "F:/Dropshipping/team/reports/T028/generated/10252037324992/10252037324992-studio.png",
+      "qa": "PASS_local_visual_root_review_pending",
+      "mode": "reused-T028-builtin"
+    },
+    {
+      "id": "10252037324992",
+      "slot": "02-detail",
+      "path": "F:/Dropshipping/team/reports/T028/generated/10252037324992/02-detail.png",
+      "qa": "PASS_local_visual_root_review_pending",
+      "mode": "built-in imagegen"
+    },
+    {
+      "id": "10252037324992",
+      "slot": "03-usecase",
+      "path": "F:/Dropshipping/team/reports/T028/generated/10252037324992/03-usecase.png",
+      "qa": "PASS_local_visual_root_review_pending",
+      "mode": "built-in imagegen"
+    },
+    {
+      "id": "10252037324992",
+      "slot": "04-use-context",
+      "path": "F:/Dropshipping/team/reports/T028/generated/10252037324992/04-use-context.png",
+      "qa": "PASS_local_visual_root_review_pending",
+      "mode": "built-in imagegen"
+    },
+    {
+      "id": "10252037324992",
+      "slot": "05-title-features",
+      "path": "F:/Dropshipping/team/reports/T028/generated/10252037324992/05-title-features.png",
+      "qa": "PASS_local_visual_root_review_pending",
+      "mode": "built-in imagegen"
+    },
+    {
+      "id": "10252037324992",
+      "slot": "06-care",
+      "path": "F:/Dropshipping/team/reports/T028/generated/10252037324992/06-care.png",
+      "qa": "PASS_local_visual_root_review_pending",
+      "mode": "built-in imagegen"
+    },
+    {
+      "id": "10252037357760",
+      "slot": "01-studio",
+      "path": "F:/Dropshipping/team/reports/T028/generated/10252037357760/01-studio.png",
+      "qa": "GENERATED_LOCAL_VISUAL_PENDING",
+      "metadataPath": "F:/Dropshipping/team/reports/T029/lane-a/10252037357760-01-studio.json",
+      "mode": "built-in imagegen"
+    },
+    {
+      "id": "10252037357760",
+      "slot": "02-detail",
+      "path": "F:/Dropshipping/team/reports/T028/generated/10252037357760/02-detail.png",
+      "qa": "GENERATED_LOCAL_VISUAL_PENDING",
+      "metadataPath": "F:/Dropshipping/team/reports/T029/lane-a/10252037357760-02-detail.json",
+      "mode": "built-in imagegen"
+    },
+    {
+      "id": "10252037357760",
+      "slot": "03-usecase",
+      "path": "F:/Dropshipping/team/reports/T028/generated/10252037357760/03-usecase.png",
+      "qa": "GENERATED_LOCAL_VISUAL_PENDING",
+      "metadataPath": "F:/Dropshipping/team/reports/T029/lane-a/10252037357760-03-usecase.json",
+      "mode": "built-in imagegen"
+    },
+    {
+      "id": "10252037357760",
+      "slot": "04-use-context",
+      "path": "F:/Dropshipping/team/reports/T028/generated/10252037357760/04-use-context.png",
+      "qa": "GENERATED_LOCAL_VISUAL_PENDING",
+      "metadataPath": "F:/Dropshipping/team/reports/T029/lane-a/10252037357760-04-use-context.json",
+      "mode": "built-in imagegen"
+    },
+    {
+      "id": "10252037357760",
+      "slot": "05-title-features",
+      "path": "F:/Dropshipping/team/reports/T028/generated/10252037357760/05-title-features.png",
+      "qa": "GENERATED_LOCAL_VISUAL_PENDING",
+      "metadataPath": "F:/Dropshipping/team/reports/T029/lane-a/10252037357760-05-title-features.json",
+      "mode": "built-in imagegen"
+    },
+    {
+      "id": "10252037357760",
+      "slot": "06-care",
+      "path": "F:/Dropshipping/team/reports/T028/generated/10252037357760/06-care.png",
+      "qa": "GENERATED_LOCAL_VISUAL_PENDING",
+      "metadataPath": "F:/Dropshipping/team/reports/T029/lane-a/10252037357760-06-care.json",
+      "mode": "built-in imagegen"
+    },
+    {
+      "id": "10252037390528",
+      "slot": "03-usecase",
+      "prompt": "Use case: photorealistic-natural. Create one separate square professional premium ecommerce use-case image. Exact reference image defines the product: rectangular soft blue-gray animal-print zipped pouch, warm orange/yellow cartoon animals, black piping and zipper, tan horizontal webbing handle across lid, silver grid-pattern reflective lining. Show ONE CLOSED pouch held by its tan webbing handle by a naturally posed adult hand, beside a neutral weekend travel tote on a pale stone console. Handle remains attached across broad lid, never invent shoulder strap, rigid shell or compartments. Visible print/colors and soft construction faithfully preserved. Natural window light, editorial styling, warm ivory, tactile fabrics, precise stitching, premium restrained aesthetic, no text, no logos, no packaging. Tote is a context prop, no performance claims. Closed pouch is the focus; no pink lunchbox needed.",
+      "referencePaths": [
+        "F:/Dropshipping/team/reports/T028/reference-review/10252037390528/reference-1.jpg"
+      ],
+      "sourcePath": "C:/Users/Abhinand/.codex/generated_images/01a13435-490b-7431-997e-e0d931fa0e75/exec-5e27f5d1-c28c-4d8c-9900-437c3468e112.png",
+      "path": "F:/Dropshipping/team/reports/T028/generated/10252037390528/03-usecase.png",
+      "mode": "built-in imagegen",
+      "qa": "PASS_local_visual_root_review_pending",
+      "notes": "Closed pouch carried by reference tan webbing lid handle. All other objects are context props.",
+      "date": "2026-10-13"
+    },
+    {
+      "id": "10252037390528",
+      "slot": "04-use-context",
+      "prompt": "Use case: photorealistic-natural. Create ONE distinct square premium ecommerce context photograph. Exact original reference pouch geometry/color is authority. ONE open rectangular soft animal-print blue-gray pouch, orange/yellow cartoon accents, black zipper/piping, tan horizontal handle on broad lid, original silver grid-pattern lining. Display on elegant pale kitchen breakfast counter beside folded ivory napkin and simple beige mug. Pouch is OPEN and EMPTY so reflective lining across interior and lid is clearly visible; do not include lunchbox or any contents. View from overhead oblique angle, realistic fabric stitching and soft edges, no rigid box conversion, premium natural morning light, tasteful warm ivory palette, no text, no logos, no thermal-performance claims. Mug/napkin are separate context props.",
+      "referencePaths": [
+        "F:/Dropshipping/team/reports/T028/reference-review/10252037390528/reference-1.jpg"
+      ],
+      "sourcePath": "C:/Users/Abhinand/.codex/generated_images/01a13435-490b-7431-997e-e0d931fa0e75/exec-c9ac8f85-8349-4054-831d-f59dc93fa716.png",
+      "path": "F:/Dropshipping/team/reports/T028/generated/10252037390528/04-use-context.png",
+      "mode": "built-in imagegen",
+      "qa": "PASS_local_visual_root_review_pending",
+      "date": "2026-10-13"
+    },
+    {
+      "id": "10252037390528",
+      "slot": "02-detail",
+      "prompt": "Use case: product-mockup. ONE square professional macro detail photograph of the EXACT CLOSED pouch in original inset. Blue-gray soft rectangular animal cartoon print with orange/yellow accents, black perimeter zipper and piping, tan broad lid horizontal webbing handle. Extreme closeup of ONE CORNER of closed pouch showing real woven tan handle stitched attachment, black zip teeth and sliders, printed fabric weave. Crop product partially deliberately, no entire pouch hero, no lunchbox, no props, no invented shoulder straps or electronics. Ivory backdrop, exquisite premium product detail, photoreal texture, soft side light, shallow depth of field but stitching sharp. Original reference authority for colors/construction, no text or logos.",
+      "referencePaths": [
+        "F:/Dropshipping/team/reports/T028/reference-review/10252037390528/reference-1.jpg"
+      ],
+      "sourcePath": "C:/Users/Abhinand/.codex/generated_images/01a13435-490b-7431-997e-e0d931fa0e75/exec-147bdca1-170f-415a-95e1-da3a739cdc69.png",
+      "path": "F:/Dropshipping/team/reports/T028/generated/10252037390528/02-detail-v2.png",
+      "mode": "built-in imagegen",
+      "qa": "PASS_local_visual_root_review_pending",
+      "date": "2026-10-13"
+    },
+    {
+      "id": "10252037390528",
+      "slot": "05-title-features",
+      "prompt": "Use case: ads-marketing. ONE portrait 4:5 premium Rozmiso ecommerce feature poster. Image1 exact pouch physical authority, Image2 STYLE ONLY premium juicer poster. Replace juicer with ONE CLOSED soft blue-gray cartoon animal printed zip pouch matching image1 inset: black piping/zipper, tan horizontal broad lid webbing handle, orange/yellow animal accents. Do not include lunchbox. Warm ivory, rich forestgreen, refined moderate serif heading, generous margins, delicate separators, natural daylight product photography, tiny rounded R brand mark at footer matching STYLE. Compose uncluttered hero closed pouch centered lower half, modest ivory travel tote edge in background if useful. Exactly readable text: top 'ROZMISO / THE EVERYDAY EDIT'; heading 'Packed for the everyday.'; subheading 'Travel Organizer Pouch'; three small labels 'Zip closure' / 'Carry handle' / 'Patterned fabric'; footer 'Explore the collection' and '@rozmiso.in'; small disclosure 'AI-generated illustration • Context props not included'. No discounts, stock, ratings, thermal or waterproof claims; no specifications dimensions; exact physical shape and material appearance preserved. Cohesive sophisticated layout, not giant black words or cheap collage.",
+      "referencePaths": [
+        "F:/Dropshipping/team/reports/T028/reference-review/10252037390528/reference-1.jpg",
+        "F:/Dropshipping/team/reports/T029/social/juicer-premium-poster.png"
+      ],
+      "sourcePath": "C:/Users/Abhinand/.codex/generated_images/01a13435-490b-7431-997e-e0d931fa0e75/exec-d40f84a5-5b02-4635-8abf-1a1c5eafd9a7.png",
+      "path": "F:/Dropshipping/team/reports/T028/generated/10252037390528/05-title-features.png",
+      "mode": "built-in imagegen",
+      "qa": "PASS_local_visual_root_review_pending",
+      "date": "2026-10-13"
+    },
+    {
+      "id": "10252037390528",
+      "slot": "06-care",
+      "prompt": "Edit this product care graphic precisely. Remove the tan strap appearing on INSIDE of the opened lid and replace only that small strip area with continuous silver grid-pattern reflective lining matching the surrounding lid interior. Tan carry handle exists solely on outside and must NOT be visible through lining. Keep ALL text, typography, logo, layout, product print, colors, seams, zipper, position, lighting unchanged. Preserve the exact care graphic. No other edits.",
+      "referencePaths": [
+        "F:/Dropshipping/team/reports/T028/generated/10252037390528/06-care.png"
+      ],
+      "sourcePath": "C:/Users/Abhinand/.codex/generated_images/01a13435-490b-7431-997e-e0d931fa0e75/exec-b96f768e-4701-4f6c-a174-2c27c5424819.png",
+      "path": "F:/Dropshipping/team/reports/T028/generated/10252037390528/06-care-v2.png",
+      "mode": "built-in imagegen",
+      "qa": "PASS_local_visual_root_review_pending",
+      "date": "2026-10-13"
+    },
+    {
+      "id": "10252037456064",
+      "slot": "01-studio",
+      "prompt": "Use case: product-mockup. One square premium ecommerce studio hero. Original reference physical authority, inset shows full product. Single pink palm-size bear-face soap dispensing brush, two round ears, molded little rounded paws, printed big eyes/nose/blush, darkpink belly oval, side white capped fill opening, dense straight gray bristles underneath. Show ONE brush upright leaning slightly in three-quarter view with face and part of gray bristles visible. Exact proportion and face from inset, no pump, nozzle, extra handles or spare units. Warm ivory seamless surface, soft shadow, immaculate photoreal material/textures, forestgreen subtle backdrop gradient optional, premium catalog photography. No text, no packaging, no spray bottle, no hands, no props, no invented performance. Preserve original side cap and molded shape.",
+      "referencePaths": [
+        "F:/Dropshipping/team/reports/T028/reference-review/10252037456064/reference-1.jpg"
+      ],
+      "sourcePath": "C:/Users/Abhinand/.codex/generated_images/01a13435-490b-7431-997e-e0d931fa0e75/exec-f4d91ed7-6701-41ec-a6be-efff086d5a8d.png",
+      "path": "F:/Dropshipping/team/reports/T028/generated/10252037456064/01-studio.png",
+      "mode": "built-in imagegen",
+      "qa": "PASS_local_visual_root_review_pending",
+      "date": "2026-10-13"
+    },
+    {
+      "id": "10252037456064",
+      "slot": "02-detail",
+      "prompt": "Use case: product-mockup. ONE square premium ecommerce MACRO DETAIL photograph of exact pink bear-face soap brush. Reference1 physical authority, reference2 generated studio identity continuity. Detail crop focuses white circular fill cap on side plus molded pink rim and gray dense bristle roots in same partial-product frame. This is a close crop of one brush, not full hero. Retain pink smooth plastic, original ribbed edge, white circular cap, bristle pattern and pink ears/body proportions where visible. Do not remove cap, do not invent detached parts, nozzle or pump. Pale ivory background, photoreal fine material detail, soft raking light, clean premium editorial catalog aesthetic. No text, hands, spray bottle, packaging, arrows or performance claims.",
+      "referencePaths": [
+        "F:/Dropshipping/team/reports/T028/reference-review/10252037456064/reference-1.jpg",
+        "F:/Dropshipping/team/reports/T028/generated/10252037456064/01-studio.png"
+      ],
+      "sourcePath": "C:/Users/Abhinand/.codex/generated_images/01a13435-490b-7431-997e-e0d931fa0e75/exec-b5b51539-fd01-483e-a637-0e7ed4261be9.png",
+      "path": "F:/Dropshipping/team/reports/T028/generated/10252037456064/02-detail.png",
+      "mode": "built-in imagegen",
+      "qa": "PASS_local_visual_root_review_pending",
+      "date": "2026-10-13"
+    },
+    {
+      "id": "10252037456064",
+      "slot": "04-use-context",
+      "prompt": "Create ONE square premium ecommerce rear/detail context photo of this exact pink bear-shaped soap brush. Turn entire brush OVER so the flat gray BRISTLE FACE points toward camera (the printed bear face is on opposite concealed side). One palm-size oval gray densely bristled back rimmed by pink plastic body, two pink rounded ear corners barely visible at far edge, white side cap on pink rim. Put brush bristle-side up flat on an ivory folded towel beside pale stone sink. Overhead oblique view. No upright frontal bear face. Reference1 physical authority, second generated identity. Natural refined daylight, precise realistic nylon bristle fibers and pink plastic sidewall. No detached parts, extra brush, nozzle, pump, text or claims. This must be a clearly different backside view from frontal hero.",
+      "referencePaths": [
+        "F:/Dropshipping/team/reports/T028/reference-review/10252037456064/reference-1.jpg",
+        "F:/Dropshipping/team/reports/T028/generated/10252037456064/01-studio.png"
+      ],
+      "sourcePath": "C:/Users/Abhinand/.codex/generated_images/01a13435-490b-7431-997e-e0d931fa0e75/exec-2ecda891-af2a-4fbf-9880-d281a31def0c.png",
+      "path": "F:/Dropshipping/team/reports/T028/generated/10252037456064/04-use-context-v2.png",
+      "mode": "built-in imagegen",
+      "qa": "PASS_local_visual_root_review_pending",
+      "date": "2026-10-13"
+    },
+    {
+      "id": "10252037456064",
+      "slot": "05-title-features",
+      "prompt": "Use case: ads-marketing. ONE portrait 4:5 premium Rozmiso ecommerce feature poster. Image1 exact product physical authority, image2 STYLE ONLY forestgreen/ivory premium typography layout, image3 generated exact product identity continuity. Show ONE pink palm-size bear-face soap brush, original ears/molded rounded paws, printed eyes/nose/blush/darkpink belly oval, white side fill cap and gray dense bristle base. No invented nozzle/pump/accessories. Graceful product hero lower half on pale stone near sink, no hands or detergent. Refined moderate forestgreen serif headline, small clear sans product name and three fine separated icon labels. Exact text top 'ROZMISO / THE EVERYDAY EDIT'; headline 'Make room for a tidy routine.'; subhead 'Soap Dispensing Cleaning Brush'; three labels 'Palm-size grip' / 'Bristle base' / 'Side fill cap'; footer 'Explore the collection' and '@rozmiso.in'; small disclosure 'AI-generated illustration • Context props not included'. Tiny rounded R brand mark consistent style. Premium tasteful balanced design, no giant black words, no discounts, ratings, specifications dimensions or exaggerated results.",
+      "referencePaths": [
+        "F:/Dropshipping/team/reports/T028/reference-review/10252037456064/reference-1.jpg",
+        "F:/Dropshipping/team/reports/T029/social/juicer-premium-poster.png",
+        "F:/Dropshipping/team/reports/T028/generated/10252037456064/01-studio.png"
+      ],
+      "sourcePath": "C:/Users/Abhinand/.codex/generated_images/01a13435-490b-7431-997e-e0d931fa0e75/exec-4ce576e3-37a8-4b6e-8658-2e0f03a21310.png",
+      "path": "F:/Dropshipping/team/reports/T028/generated/10252037456064/05-title-features.png",
+      "mode": "built-in imagegen",
+      "qa": "PASS_local_visual_root_review_pending",
+      "date": "2026-10-13"
+    },
+    {
+      "id": "10252037456064",
+      "slot": "06-care",
+      "prompt": "Use case: infographic-diagram. ONE square premium Rozmiso soap brush care card, refined ivory and deep forestgreen typography/rules matching STYLE image2. Image1 exact product authority. ONE pink bear-face soap dispensing brush with white side cap, ears/printed face/darkpink belly/gray bristles, show small angled photo lower-right; three concise information rows left with restrained icons. Exact text top 'ROZMISO / THE EVERYDAY EDIT'; heading 'Care for your cleaning tools.'; subheading 'Soap Dispensing Cleaning Brush'; row1 'Rinse the bristles' and 'After each use'; row2 'Let it air dry' and 'Before putting away'; row3 'Test your surface' and 'Start in a small area'; footer '@rozmiso.in'; disclosure 'AI-generated product illustration'. No unsupported technical claims, dimensions, capacity, pump, nozzle or accessories. Premium moderate serif headline, well spaced readable smaller sans labels, no clutter or cheap ad style.",
+      "referencePaths": [
+        "F:/Dropshipping/team/reports/T028/reference-review/10252037456064/reference-1.jpg",
+        "F:/Dropshipping/team/reports/T029/social/juicer-premium-poster.png",
+        "F:/Dropshipping/team/reports/T028/generated/10252037456064/01-studio.png"
+      ],
+      "sourcePath": "C:/Users/Abhinand/.codex/generated_images/01a13435-490b-7431-997e-e0d931fa0e75/exec-d68a574e-f84f-4346-b829-df778016f544.png",
+      "path": "F:/Dropshipping/team/reports/T028/generated/10252037456064/06-care.png",
+      "mode": "built-in imagegen",
+      "qa": "PASS_local_visual_root_review_pending",
+      "date": "2026-10-13"
+    },
+    {
+      "id": "10252037456064",
+      "slot": "03-usecase",
+      "prompt": "One square premium realistic usecase photo, exact product is pink bear-face soap brush in reference image. CRITICAL PHYSICAL ORIENTATION: the broad flat bear-face FRONT is parallel to broad BRISTLE BACK; dense gray bristles grow perpendicular from BACK, NOT from feet/bottom edge. Show brush lying FACE-UP nearly HORIZONTAL over white ceramic sink basin. Adult cream-gloved hand wraps across upper pink bear-face body pressing down; broad gray BRISTLE BACK is DOWN against sink. Observe original reference sink action angle precisely. Head toward upperleft, feet toward lower right in image, pink bear face points upwards at camera tilted slightly, white side cap visible left edge, gray bristles visible thin plane beneath BACK and contacting sink. No bristles from bottom/feet. Exact two ears, printed eyes/face/blush, darkpink belly oval. Modest soap suds, ivory daylight bathroom, natural correct finger anatomy. No pump/nozzle/spray, no text/performance claims. Do not reuse upright vertical brush orientation from generated action.",
+      "referencePaths": [
+        "F:/Dropshipping/team/reports/T028/reference-review/10252037456064/reference-1.jpg"
+      ],
+      "sourcePath": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a13435-490b-7431-997e-e0d931fa0e75\\exec-60a95972-e632-4c52-9f96-aeac10bf223f.png",
+      "path": "F:/Dropshipping/team/reports/T028/generated/10252037456064/03-usecase-v2.png",
+      "qa": "PASS_local_visual_root_review_pending",
+      "mode": "built-in imagegen",
+      "date": "2026-10-13"
+    },
+    {
+      "id": "10253181026496",
+      "slot": "01-studio",
+      "prompt": "Use case: product-mockup. ONE square premium ecommerce studio photograph of ONE rust-orange square microfiber cleaning cloth faithfully based on image1: rounded corners, dense terry fibers, BLACK bound stitched edges on all four sides and black loop at one corner. Preserve one cloth no multipack. Cloth gently folded in half with one top corner turned back to reveal texture, loop fully visible. Pale ivory seamless table, soft natural shadow, sophisticated precise fabric photography, no props, no text, no dimensions or absorbency claims. Rust orange must remain same across entire series; no gray alternative.",
+      "referencePaths": [
+        "F:/Dropshipping/team/reports/T028/reference-review/10253181026496/reference-1.jpg"
+      ],
+      "sourcePath": "C:/Users/Abhinand/.codex/generated_images/01a13435-490b-7431-997e-e0d931fa0e75/exec-d4beb78f-0d81-4d14-929e-d6a419f7d98f.png",
+      "path": "F:/Dropshipping/team/reports/T028/generated/10253181026496/01-studio.png",
+      "mode": "built-in imagegen",
+      "qa": "PASS_local_visual_root_review_pending",
+      "date": "2026-10-13"
+    },
+    {
+      "id": "10253181026496",
+      "slot": "02-detail",
+      "prompt": "Exact original reference authority: ONE rust-orange square terry microfiber cloth with rounded corners, black stitched bound edges and one black corner hanging loop. Consistent orange series no gray, no multipack, no unsupported performance claims, certifications or dimensions. Premium warm ivory/forestgreen natural photo aesthetic, tactile precise fibers. ONE square close macro of black bound corner seam and hanging loop plus rustorange terry fibers. Partial cloth crop, extreme close, ivory surface. No text or props.",
+      "referencePaths": [
+        "F:/Dropshipping/team/reports/T028/reference-review/10253181026496/reference-1.jpg"
+      ],
+      "sourcePath": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a13435-490b-7431-997e-e0d931fa0e75\\exec-53718129-dc60-4ea2-8400-2efb2b3a01be.png",
+      "path": "F:/Dropshipping/team/reports/T028/generated/10253181026496/02-detail.png",
+      "qa": "PASS_local_visual_root_review_pending",
+      "mode": "built-in imagegen",
+      "date": "2026-10-13"
+    },
+    {
+      "id": "10253181026496",
+      "slot": "03-usecase",
+      "prompt": "Exact original reference authority: ONE rust-orange square terry microfiber cloth with rounded corners, black stitched bound edges and one black corner hanging loop. Consistent orange series no gray, no multipack, no unsupported performance claims, certifications or dimensions. Premium warm ivory/forestgreen natural photo aesthetic, tactile precise fibers. ONE square usecase photograph, naturally posed hand wiping neutral pale stone kitchen countertop using the orange cloth folded once. Black border and loop visible. No exaggerated before-after or spotless-performance effect. Soft daylight, blurred sink background, no text.",
+      "referencePaths": [
+        "F:/Dropshipping/team/reports/T028/reference-review/10253181026496/reference-1.jpg"
+      ],
+      "sourcePath": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a13435-490b-7431-997e-e0d931fa0e75\\exec-af6cfb5d-6374-49e0-b789-e6fcc7a9d5e0.png",
+      "path": "F:/Dropshipping/team/reports/T028/generated/10253181026496/03-usecase.png",
+      "qa": "PASS_local_visual_root_review_pending",
+      "mode": "built-in imagegen",
+      "date": "2026-10-13"
+    },
+    {
+      "id": "10253181026496",
+      "slot": "04-use-context",
+      "prompt": "Exact original reference authority: ONE rust-orange square terry microfiber cloth with rounded corners, black stitched bound edges and one black corner hanging loop. Consistent orange series no gray, no multipack, no unsupported performance claims, certifications or dimensions. Premium warm ivory/forestgreen natural photo aesthetic, tactile precise fibers. ONE square second context photo, orange cloth hanging from its black corner loop on one small hook by a minimalist ivory kitchen backsplash, fully unfolded single square shape visible. Frame shows cloth texture, bound edges and natural drape, no textiles multipack, soft sunlight. No text.",
+      "referencePaths": [
+        "F:/Dropshipping/team/reports/T028/reference-review/10253181026496/reference-1.jpg"
+      ],
+      "sourcePath": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a13435-490b-7431-997e-e0d931fa0e75\\exec-39e00122-3c07-4632-a77f-8572ea5f39f1.png",
+      "path": "F:/Dropshipping/team/reports/T028/generated/10253181026496/04-use-context.png",
+      "qa": "PASS_local_visual_root_review_pending",
+      "mode": "built-in imagegen",
+      "date": "2026-10-13"
+    },
+    {
+      "id": "10253181026496",
+      "slot": "05-title-features",
+      "prompt": "Exact original reference authority: ONE rust-orange square terry microfiber cloth with rounded corners, black stitched bound edges and one black corner hanging loop. Consistent orange series no gray, no multipack, no unsupported performance claims, certifications or dimensions. Premium warm ivory/forestgreen natural photo aesthetic, tactile precise fibers. ONE portrait4:5 premium feature poster matching STYLE reference (juicer) forestgreen/ivory palette, moderate refined serif, fine separators, short labels and tiny R footer mark. Orange cloth folded gently photographed in lower half. Exact text: 'ROZMISO / THE EVERYDAY EDIT'; headline 'For the everyday wipe.'; name 'Microfiber Cleaning Cloth'; labels 'Terry texture' / 'Bound edges' / 'Hanging loop'; footer 'Explore the collection' and '@rozmiso.in'; disclosure 'AI-generated illustration • Context props not included'.",
+      "referencePaths": [
+        "F:/Dropshipping/team/reports/T028/reference-review/10253181026496/reference-1.jpg",
+        "F:/Dropshipping/team/reports/T029/social/juicer-premium-poster.png"
+      ],
+      "sourcePath": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a13435-490b-7431-997e-e0d931fa0e75\\exec-923737d2-fd22-4faf-acca-74b33640dd34.png",
+      "path": "F:/Dropshipping/team/reports/T028/generated/10253181026496/05-title-features.png",
+      "qa": "PASS_local_visual_root_review_pending",
+      "mode": "built-in imagegen",
+      "date": "2026-10-13"
+    },
+    {
+      "id": "10253181026496",
+      "slot": "06-care",
+      "prompt": "Exact original reference authority: ONE rust-orange square terry microfiber cloth with rounded corners, black stitched bound edges and one black corner hanging loop. Consistent orange series no gray, no multipack, no unsupported performance claims, certifications or dimensions. Premium warm ivory/forestgreen natural photo aesthetic, tactile precise fibers. ONE square premium care card matching STYLE reference forestgreen/ivory palette and refined serif/sans hierarchy, no huge black words. Orange cloth small lower-right with clear fine care rows left. Exact text 'ROZMISO / THE EVERYDAY EDIT'; heading 'A little care between uses.'; name 'Microfiber Cleaning Cloth'; rows 'Rinse after use' / 'Let it air dry' / 'Store in a dry place'; footer '@rozmiso.in'; disclosure 'AI-generated product illustration'. No washing-machine or temperature claims.",
+      "referencePaths": [
+        "F:/Dropshipping/team/reports/T028/reference-review/10253181026496/reference-1.jpg",
+        "F:/Dropshipping/team/reports/T029/social/juicer-premium-poster.png"
+      ],
+      "sourcePath": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a13435-490b-7431-997e-e0d931fa0e75\\exec-47efc2a5-323d-47c6-9ea1-46f2dd19c06c.png",
+      "path": "F:/Dropshipping/team/reports/T028/generated/10253181026496/06-care.png",
+      "qa": "PASS_local_visual_root_review_pending",
+      "mode": "built-in imagegen",
+      "date": "2026-10-13"
+    },
+    {
+      "id": "10253181092032",
+      "slot": "01-studio",
+      "prompt": "Exact product reference1 authority. Three flexible bag locking ties, each two parallel narrow rails forming long loop and large circular finger ring at one end, rounded sliding lock with round raised release button. Three EXACT color pairs: yellow loop/skyblue lock, green loop/magenta lock, purple loop/orange lock. No extra units, no fourth tie, no cable zip-tie teeth, no clips substitution. Preserve reference mechanics/form, do not invent electronics/certification/seal performance. Premium ivory/forestgreen professional photography. ONE square studio hero, exactly THREE ties in relaxed straight diagonal fan arrangement on warm ivory seamless surface, full product end loops/locks visible, soft shadows, no props/text.",
+      "referencePaths": [
+        "F:/Dropshipping/team/reports/T028/reference-review/10253181092032/reference-1.jpg"
+      ],
+      "sourcePath": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a13435-490b-7431-997e-e0d931fa0e75\\exec-31d9c3e0-c1f5-4963-a2bf-96c879f37797.png",
+      "path": "F:/Dropshipping/team/reports/T028/generated/10253181092032/01-studio.png",
+      "qa": "PASS_local_visual_root_review_pending",
+      "mode": "built-in imagegen",
+      "date": "2026-10-13"
+    },
+    {
+      "id": "10253181092032",
+      "slot": "02-detail",
+      "prompt": "Exact product reference1 authority. Three flexible bag locking ties, each two parallel narrow rails forming long loop and large circular finger ring at one end, rounded sliding lock with round raised release button. Three EXACT color pairs: yellow loop/skyblue lock, green loop/magenta lock, purple loop/orange lock. No extra units, no fourth tie, no cable zip-tie teeth, no clips substitution. Preserve reference mechanics/form, do not invent electronics/certification/seal performance. Premium ivory/forestgreen professional photography. ONE square MACRO partial-product photograph, close detail of purple tie's ORANGE rounded sliding lock and two purple parallel rails and finger ring edge. Exactly one tie closeup, no detached parts, ivory background, no text/props.",
+      "referencePaths": [
+        "F:/Dropshipping/team/reports/T028/reference-review/10253181092032/reference-1.jpg"
+      ],
+      "sourcePath": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a13435-490b-7431-997e-e0d931fa0e75\\exec-a7550b03-8f91-41ac-bb77-2da38cef0913.png",
+      "path": "F:/Dropshipping/team/reports/T028/generated/10253181092032/02-detail.png",
+      "qa": "PASS_local_visual_root_review_pending",
+      "mode": "built-in imagegen",
+      "date": "2026-10-13"
+    },
+    {
+      "id": "10253181092032",
+      "slot": "03-usecase",
+      "prompt": "Exact product reference1 authority. Three flexible bag locking ties, each two parallel narrow rails forming long loop and large circular finger ring at one end, rounded sliding lock with round raised release button. Three EXACT color pairs: yellow loop/skyblue lock, green loop/magenta lock, purple loop/orange lock. No extra units, no fourth tie, no cable zip-tie teeth, no clips substitution. Preserve reference mechanics/form, do not invent electronics/certification/seal performance. Premium ivory/forestgreen professional photography. ONE square authentic usecase: yellow tie with skyblue lock around gathered neck of one clear bread bag, two rails extend down to yellow finger ring, lock cinches loop around gathered plastic as reference. Bread is prop. Naturally posed hand gently adjusting skyblue button. Ivory kitchen natural light, no text, no fresh-preservation claims.",
+      "referencePaths": [
+        "F:/Dropshipping/team/reports/T028/reference-review/10253181092032/reference-1.jpg"
+      ],
+      "sourcePath": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a13435-490b-7431-997e-e0d931fa0e75\\exec-a72c78f7-ee36-4093-811d-5365a0fca605.png",
+      "path": "F:/Dropshipping/team/reports/T028/generated/10253181092032/03-usecase.png",
+      "qa": "PASS_local_visual_root_review_pending",
+      "mode": "built-in imagegen",
+      "date": "2026-10-13"
+    },
+    {
+      "id": "10253181092032",
+      "slot": "04-use-context",
+      "prompt": "Exact product reference1 authority. Three flexible bag locking ties, each two parallel narrow rails forming long loop and large circular finger ring at one end, rounded sliding lock with round raised release button. Three EXACT color pairs: yellow loop/skyblue lock, green loop/magenta lock, purple loop/orange lock. No extra units, no fourth tie, no cable zip-tie teeth, no clips substitution. Preserve reference mechanics/form, do not invent electronics/certification/seal performance. Premium ivory/forestgreen professional photography. ONE square second context photograph: green tie/magenta lock cinching gathered neck of one clear cookie bag, purple tie/orange lock and yellowtie/blue lock laid separately nearby, exactly3ties total. Neat breakfast countertop with neutral textile, no hands/text, cookie props not included.",
+      "referencePaths": [
+        "F:/Dropshipping/team/reports/T028/reference-review/10253181092032/reference-1.jpg"
+      ],
+      "sourcePath": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a13435-490b-7431-997e-e0d931fa0e75\\exec-ac99f524-ff18-49e7-85e3-4dc6caf49478.png",
+      "path": "F:/Dropshipping/team/reports/T028/generated/10253181092032/04-use-context.png",
+      "qa": "PASS_local_visual_root_review_pending",
+      "mode": "built-in imagegen",
+      "date": "2026-10-13"
+    },
+    {
+      "id": "10253181092032",
+      "slot": "05-title-features",
+      "prompt": "Exact product reference1 authority. Three flexible bag locking ties, each two parallel narrow rails forming long loop and large circular finger ring at one end, rounded sliding lock with round raised release button. Three EXACT color pairs: yellow loop/skyblue lock, green loop/magenta lock, purple loop/orange lock. No extra units, no fourth tie, no cable zip-tie teeth, no clips substitution. Preserve reference mechanics/form, do not invent electronics/certification/seal performance. Premium ivory/forestgreen professional photography. ONE portrait4:5 premium feature poster STYLE reference forestgreen/ivory refined serif+clear sans, fine rules/icons and small Rfooter. Show exactly3 full reference colored ties hero lower half without bags. Text exact: 'ROZMISO / THE EVERYDAY EDIT'; headline 'Keep the little things together.'; name 'Reusable Bag Locking Ties'; labels 'Set of 3' / 'Sliding lock' / 'Loop design'; footer 'Explore the collection' / '@rozmiso.in'; disclosure 'AI-generated product illustration'.",
+      "referencePaths": [
+        "F:/Dropshipping/team/reports/T028/reference-review/10253181092032/reference-1.jpg",
+        "F:/Dropshipping/team/reports/T029/social/juicer-premium-poster.png"
+      ],
+      "sourcePath": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a13435-490b-7431-997e-e0d931fa0e75\\exec-77ea67d4-40a1-450a-a9ba-11e77446e4c0.png",
+      "path": "F:/Dropshipping/team/reports/T028/generated/10253181092032/05-title-features.png",
+      "qa": "PASS_local_visual_root_review_pending",
+      "mode": "built-in imagegen",
+      "date": "2026-10-13"
+    },
+    {
+      "id": "10253181092032",
+      "slot": "06-care",
+      "prompt": "Exact product reference1 authority. Three flexible bag locking ties, each two parallel narrow rails forming long loop and large circular finger ring at one end, rounded sliding lock with round raised release button. Three EXACT color pairs: yellow loop/skyblue lock, green loop/magenta lock, purple loop/orange lock. No extra units, no fourth tie, no cable zip-tie teeth, no clips substitution. Preserve reference mechanics/form, do not invent electronics/certification/seal performance. Premium ivory/forestgreen professional photography. ONE square premium care graphic STYLE reference refined ivory/forestgreen typography and fine separators. Exactly3 ties small hero lower-right. Exact text: 'ROZMISO / THE EVERYDAY EDIT'; heading 'Ready for another use.'; name 'Reusable Bag Locking Ties'; rows 'Release the lock gently' / 'Wipe clean when needed' / 'Dry before storing'; footer '@rozmiso.in'; disclosure 'AI-generated product illustration'. No food-safety/airtight claims.",
+      "referencePaths": [
+        "F:/Dropshipping/team/reports/T028/reference-review/10253181092032/reference-1.jpg",
+        "F:/Dropshipping/team/reports/T029/social/juicer-premium-poster.png"
+      ],
+      "sourcePath": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a13435-490b-7431-997e-e0d931fa0e75\\exec-ab8b3303-db38-4c9e-9390-21d42cb56069.png",
+      "path": "F:/Dropshipping/team/reports/T028/generated/10253181092032/06-care.png",
+      "qa": "PASS_local_visual_root_review_pending",
+      "mode": "built-in imagegen",
+      "date": "2026-10-13"
+    },
+    {
+      "id": "10253181255872",
+      "slot": "01-studio",
+      "prompt": "ONE exact reference blue round hinged plastic clamshell cable winder case. Round lid plain interior, raised cylindrical central winding hub capped by TWO split semicircular blue halves with straight diametral slot, edge cable notches and hinge tab. Preserve this reference geometry, one case, no electronics/screens/buttons or built-in cable. WhiteUSB cable is context prop only. Premium warm ivory natural light material photograph, exact dustyblue consistently. ONE square studio productonly hero, open empty clamshell case at three-quarter angle with lid raised, split-hub detail visible. Ivory seamless, softshadow. No props/cable/text.",
+      "referencePaths": [
+        "F:/Dropshipping/team/reports/T028/reference-review/10253181255872/reference-1.jpg",
+        "F:/Dropshipping/team/reports/T028/reference-review/10253181255872/reference-2.jpg"
+      ],
+      "sourcePath": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a13435-490b-7431-997e-e0d931fa0e75\\exec-a1ab399c-20a5-4122-9d99-98bf27d51b81.png",
+      "path": "F:/Dropshipping/team/reports/T028/generated/10253181255872/01-studio.png",
+      "qa": "PASS_local_visual_root_review_pending",
+      "mode": "built-in imagegen",
+      "date": "2026-10-13"
+    },
+    {
+      "id": "10253181255872",
+      "slot": "02-detail",
+      "prompt": "ONE square premium extreme macro photograph of blue round cable winder from originalreference. Crop TIGHTLY so full case and lid are NOT visible: only raised central split semicircular hub straddling straight slot and a small adjacent portion of blue base appears, hub fills entire image and extends beyond edges. Focus on mouth of straight slot and semicircular lip molded detail. Original design authority, blue plastic identical, no cables/no electronics/no text. Soft raking light precise product material, ivory only at one corner. This is intentional partial macro, do not create whole opencase hero.",
+      "referencePaths": [
+        "F:/Dropshipping/team/reports/T028/reference-review/10253181255872/reference-1.jpg",
+        "F:/Dropshipping/team/reports/T028/generated/10253181255872/01-studio.png"
+      ],
+      "sourcePath": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a13435-490b-7431-997e-e0d931fa0e75\\exec-74e4ac27-7f9e-414b-a136-16508c6e2448.png",
+      "path": "F:/Dropshipping/team/reports/T028/generated/10253181255872/02-detail-v2.png",
+      "qa": "PASS_local_visual_root_review_pending",
+      "mode": "built-in imagegen",
+      "date": "2026-10-13"
+    },
+    {
+      "id": "10253181255872",
+      "slot": "03-usecase",
+      "prompt": "ONE exact reference blue round hinged plastic clamshell cable winder case. Round lid plain interior, raised cylindrical central winding hub capped by TWO split semicircular blue halves with straight diametral slot, edge cable notches and hinge tab. Preserve this reference geometry, one case, no electronics/screens/buttons or built-in cable. WhiteUSB cable is context prop only. Premium warm ivory natural light material photograph, exact dustyblue consistently. ONE square authenticusecase on ivory desk, open case with ONE whiteUSB cable wound around central hub, ends extend from caseedge notches, naturally posed hand gently winding cable. Laptop blurred at side. Cable/deskprops not included. No charging/automaticretraction claim, no text.",
+      "referencePaths": [
+        "F:/Dropshipping/team/reports/T028/reference-review/10253181255872/reference-1.jpg",
+        "F:/Dropshipping/team/reports/T028/reference-review/10253181255872/reference-2.jpg"
+      ],
+      "sourcePath": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a13435-490b-7431-997e-e0d931fa0e75\\exec-3c59602c-246c-485d-a659-44d6e437bd56.png",
+      "path": "F:/Dropshipping/team/reports/T028/generated/10253181255872/03-usecase.png",
+      "qa": "PASS_local_visual_root_review_pending",
+      "mode": "built-in imagegen",
+      "date": "2026-10-13"
+    },
+    {
+      "id": "10253181255872",
+      "slot": "04-use-context",
+      "prompt": "ONE exact reference blue round hinged plastic clamshell cable winder case. Round lid plain interior, raised cylindrical central winding hub capped by TWO split semicircular blue halves with straight diametral slot, edge cable notches and hinge tab. Preserve this reference geometry, one case, no electronics/screens/buttons or built-in cable. WhiteUSB cable is context prop only. Premium warm ivory natural light material photograph, exact dustyblue consistently. ONE square second context photo of CLOSED plain blue round case near open creamtravelpouch and notebook on pale stone desk. Top exterior has round recessed center with slim crossbar as original reference2 inset, no screens/buttons. Exact one case, no text/claims. Sideangle low with closedcase focus, context props separate.",
+      "referencePaths": [
+        "F:/Dropshipping/team/reports/T028/reference-review/10253181255872/reference-1.jpg",
+        "F:/Dropshipping/team/reports/T028/reference-review/10253181255872/reference-2.jpg"
+      ],
+      "sourcePath": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a13435-490b-7431-997e-e0d931fa0e75\\exec-33be82d9-b850-4bdc-9de0-44fdf5735d2c.png",
+      "path": "F:/Dropshipping/team/reports/T028/generated/10253181255872/04-use-context.png",
+      "qa": "PASS_local_visual_root_review_pending",
+      "mode": "built-in imagegen",
+      "date": "2026-10-13"
+    },
+    {
+      "id": "10253181255872",
+      "slot": "05-title-features",
+      "prompt": "Precise edit: Remove ONLY the tiny circled registered trademark symbol at the bottom-left immediately to right of the R brand mark. Replace that tiny spot with matching ivory background. Keep R mark itself, all other text/photography/productgeometry/layout/colors/lighting unchanged. No trademark symbol added anywhere.",
+      "referencePaths": [
+        "F:/Dropshipping/team/reports/T028/generated/10253181255872/05-title-features.png"
+      ],
+      "sourcePath": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a13435-490b-7431-997e-e0d931fa0e75\\exec-21a05a81-9311-4cfd-a3bc-5c7989944c99.png",
+      "path": "F:/Dropshipping/team/reports/T028/generated/10253181255872/05-title-features-v2.png",
+      "qa": "PASS_local_visual_root_review_pending",
+      "mode": "built-in imagegen",
+      "date": "2026-10-13"
+    },
+    {
+      "id": "10253181255872",
+      "slot": "06-care",
+      "prompt": "ONE exact reference blue round hinged plastic clamshell cable winder case. Round lid plain interior, raised cylindrical central winding hub capped by TWO split semicircular blue halves with straight diametral slot, edge cable notches and hinge tab. Preserve this reference geometry, one case, no electronics/screens/buttons or built-in cable. WhiteUSB cable is context prop only. Premium warm ivory natural light material photograph, exact dustyblue consistently. ONE square premium brand care card STYLE reference ivory/forestgreen fine typography/rules. ONE openEMPTY bluecase lower-right. Exacttext 'ROZMISO / THE EVERYDAY EDIT'; heading 'Keep your case in good shape.'; name 'Compact Cable Winder Case'; rows 'Wind cables gently' / 'Wipe with a soft cloth' / 'Store dry'; footer '@rozmiso.in'; disclosure 'AI-generated illustration • Cable not included'. No automatic/electrical claims. No registered trademark symbols anywhere.",
+      "referencePaths": [
+        "F:/Dropshipping/team/reports/T028/reference-review/10253181255872/reference-1.jpg",
+        "F:/Dropshipping/team/reports/T028/reference-review/10253181255872/reference-2.jpg",
+        "F:/Dropshipping/team/reports/T029/social/juicer-premium-poster.png"
+      ],
+      "sourcePath": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a13435-490b-7431-997e-e0d931fa0e75\\exec-1da7b635-a457-4d5c-a20e-9de43f9d3dc9.png",
+      "path": "F:/Dropshipping/team/reports/T028/generated/10253181255872/06-care.png",
+      "qa": "PASS_local_visual_root_review_pending",
+      "mode": "built-in imagegen",
+      "date": "2026-10-13"
+    },
+    {
+      "id": "10252037390528",
+      "slot": "01-studio",
+      "prompt": "ONE square premium ecommerce studio photo. Exact source pouch is BLUE-GRAY soft rounded rectangular animal cartoon printed zip pouch, orange/yellow accents, black perimeter zipper and piping. Show ONE CLOSED pouch lying horizontally with broad TOP LID panel visible, TAN WEBBING CARRY HANDLE ATTACHED ACROSS TOP LID ONLY exactly as original inset. CRITICAL: NO handle or strap on front sidewall below zipper; front sidewall is plain printed fabric uninterrupted. Exact tan top lid strap runs left to right across lid, not on the sides. No lunchbox, no props, no extra strap, no rigid shell, no compartments. Reference1 original image authority (inset closed pouch demonstrates strap), reference2 correct generated closed carry photograph for orientation. Ivory seamless studio background, photoreal precise stitching/fabric, soft shadow, premium photography, no text/logo/claims. Black zipped closure around entire lid, original animal print/color faithful.",
+      "referencePaths": [
+        "F:/Dropshipping/team/reports/T028/reference-review/10252037390528/reference-1.jpg",
+        "F:/Dropshipping/team/reports/T028/generated/10252037390528/03-usecase.png"
+      ],
+      "sourcePath": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a13435-490b-7431-997e-e0d931fa0e75\\exec-2704a7f4-ca46-440f-a374-70f983fb7d38.png",
+      "path": "F:/Dropshipping/team/reports/T028/generated/10252037390528/01-studio-v2.png",
+      "qa": "PASS_local_visual_root_review_pending",
+      "mode": "built-in imagegen",
+      "date": "2026-10-13"
+    }
+  ]
+}

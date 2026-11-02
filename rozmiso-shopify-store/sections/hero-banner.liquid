@@ -1,0 +1,88 @@
+<section class="fk-hero-section">
+  <div class="fk-container">
+    <div class="fk-hero-slider" aria-roledescription="carousel" aria-label="Promotional Banners">
+      
+      <!-- Slide 1: Mega Utility Sale Under ₹999 -->
+      <div class="fk-slide active" aria-roledescription="slide" aria-label="1 of 3">
+        <div class="fk-slide-content">
+          <span class="fk-slide-tag">🔥 INDIA'S MEGA UTILITY SALE</span>
+          <h1 class="fk-slide-title">Smart Living & Gadgets Under ₹999</h1>
+          <p class="fk-slide-desc">Handpicked problem-solving viral home, kitchen & car essentials. 100% Cash On Delivery & Free Express Shipping.</p>
+          <a href="{{ routes.all_products_collection_url }}" class="fk-slide-btn">
+            <span>Shop Deals</span>
+            <span>➔</span>
+          </a>
+        </div>
+        <div class="fk-slide-media">
+          <img 
+            src="https://images.unsplash.com/photo-1558981403-c5f9899a28bc?auto=format&fit=crop&w=600&q=80" 
+            alt="Smart Living Gadgets" 
+            width="600" 
+            height="400" 
+            loading="lazy"
+          >
+        </div>
+      </div>
+
+      <!-- Slide 2: Viral Car & Tech Accessories -->
+      <div class="fk-slide" aria-roledescription="slide" aria-label="2 of 3">
+        <div class="fk-slide-content">
+          <span class="fk-slide-tag" style="background:#ffe500; color:#000;">⚡ EXTRA ₹50 OFF ON UPI</span>
+          <h2 class="fk-slide-title">High-Power Vacuum & Car Essentials</h2>
+          <p class="fk-slide-desc">Keep your vehicle showroom-clean with dual cyclone suction & air duster. Verified 4.8+ Stars from 25,000+ Indian buyers.</p>
+          <a href="{{ routes.all_products_collection_url }}" class="fk-slide-btn">
+            <span>Explore Bestsellers</span>
+            <span>➔</span>
+          </a>
+        </div>
+        <div class="fk-slide-media">
+          <img 
+            src="https://images.unsplash.com/photo-1506703719100-a0f3a48c0f86?auto=format&fit=crop&w=600&q=80" 
+            alt="Car & Tech Accessories" 
+            width="600" 
+            height="400" 
+            loading="lazy"
+          >
+        </div>
+      </div>
+
+      <!-- Slide 3: Wellness & Smart Home Tech -->
+      <div class="fk-slide" aria-roledescription="slide" aria-label="3 of 3">
+        <div class="fk-slide-content">
+          <span class="fk-slide-tag" style="background:#22c55e; color:#fff;">🌿 7-DAY REPLACEMENT GUARANTEE</span>
+          <h2 class="fk-slide-title">EMS Foot Massagers & Smart Living</h2>
+          <p class="fk-slide-desc">Instant relief from leg pain and fatigue at home. Doorstep delivery with 100% Cash On Delivery option.</p>
+          <a href="{{ routes.all_products_collection_url }}" class="fk-slide-btn">
+            <span>Order Now</span>
+            <span>➔</span>
+          </a>
+        </div>
+        <div class="fk-slide-media">
+          <img 
+            src="https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?auto=format&fit=crop&w=600&q=80" 
+            alt="Health & Wellness" 
+            width="600" 
+            height="400" 
+            loading="lazy"
+          >
+        </div>
+      </div>
+
+      <!-- Slider Arrows -->
+      <button class="fk-slider-nav prev" aria-label="Previous Slide">❮</button>
+      <button class="fk-slider-nav next" aria-label="Next Slide">❯</button>
+    </div>
+  </div>
+</section>
+
+{% schema %}
+{
+  "name": "Hero Banner Slider",
+  "settings": [],
+  "presets": [
+    {
+      "name": "Hero Banner Slider"
+    }
+  ]
+}
+{% endschema %}

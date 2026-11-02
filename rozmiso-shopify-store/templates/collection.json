@@ -1,0 +1,15 @@
+{
+  "sections": {
+    "collection_grid": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "All Rozmiso Smart Products",
+        "subtitle": "Discover everyday problem-solvers with Cash on Delivery",
+        "products_to_show": 12
+      }
+    }
+  },
+  "order": [
+    "collection_grid"
+  ]
+}

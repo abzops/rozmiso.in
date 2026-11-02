@@ -1,0 +1,63 @@
+[
+  {
+    "replacesOriginalSKU": "7271_cnh_sport_earphone_no1",
+    "status": "CURRENT_PRIMARY_PAGE_AND_MEDIA_VERIFIED; OWNER_CHOICE_REQUIRED",
+    "newSKU": "whl172_14863_wired_stereo_earphones_1pc",
+    "sourceUrl": "https://deodap.in/products/wired-stereo-earphones-with-3-5mm-jack-1-pc-1-2m-cable",
+    "sourceAccessDate": "2026-10-08",
+    "supplierListedPriceINR": "45.00",
+    "priceMeaning": "Primary supplier public per-unit listing, not a negotiated quote, landed cost, fulfillment cost or store retail price. Store retail unchanged.",
+    "connector": "Source specifies 3.5mm analogue jack; microphone and inline control shown/described. Not native Lightning or USB-C. Device controls compatibility needs verification.",
+    "package": "Source title states 1 Pc: one wired earphone unit. Any extra tips or adapter unverified.",
+    "sourceCableClaim": "1.2m, not physically measured.",
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/02_earphone.jpg?v=1762318301",
+        "httpStatus": 200,
+        "dimensions": [
+          1500,
+          1500
+        ],
+        "sha256": "9e6d8361582f44ff8dfd65ad8c52ee3ebb733145de5db6ec2a925de022fd6f03"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/9e0b8097-72d0-4451-beca-c29815ab2b51.jpg?v=1762318301",
+        "httpStatus": 200,
+        "dimensions": [
+          1500,
+          1500
+        ],
+        "sha256": "a27b8a19ce723ad4f070494807e5b247d6d2e2d9105faaedc8cdfd5bbbc7defa"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/06_earphone.jpg?v=1762318301",
+        "httpStatus": 200,
+        "dimensions": [
+          1500,
+          1500
+        ],
+        "sha256": "1976880737981533a37833d2f7d1eb01feaab470cc081f174e1afd816472e796"
+      }
+    ],
+    "limits": [
+      "Different product/SKU; never substitute automatically.",
+      "No independent sound/noise-isolation/safety/performance certification or stock allocation.",
+      "Supplier price excludes unconfirmed shipping, fees and operational terms.",
+      "Media reuse rights remain unverified."
+    ]
+  },
+  {
+    "replacesOriginalSKU": "2792_coffee_mug_and_warmer",
+    "status": "NO_CURRENT_VERIFIED_REPLACEMENT",
+    "rejectedIndexedCandidateSKU": "2942_coffee_mug_warmer",
+    "sourceUrl": "https://deodap.in/products/2942-coffee-mug-warmer-for-having-coffee-along-with-the-warmer-that-keeps-it-hot",
+    "indexedPriceINR": "146.00",
+    "priceMeaning": "Stale indexed price only; current live page and JSON return404. Not a current verified supplier price.",
+    "images": [],
+    "limits": [
+      "Exact search2942 returns no current product.",
+      "No current exact coffee-warmer candidate with accessible verified gallery found.",
+      "Do not offer unrelated room/wax/water heaters or self-stirring mugs as equivalent replacement."
+    ]
+  }
+]

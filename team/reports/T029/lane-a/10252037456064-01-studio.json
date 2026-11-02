@@ -1,0 +1,13 @@
+{
+  "id": "10252037456064",
+  "slot": "01-studio",
+  "prompt": "Use case: product-mockup. One square premium ecommerce studio hero. Original reference physical authority, inset shows full product. Single pink palm-size bear-face soap dispensing brush, two round ears, molded little rounded paws, printed big eyes/nose/blush, darkpink belly oval, side white capped fill opening, dense straight gray bristles underneath. Show ONE brush upright leaning slightly in three-quarter view with face and part of gray bristles visible. Exact proportion and face from inset, no pump, nozzle, extra handles or spare units. Warm ivory seamless surface, soft shadow, immaculate photoreal material/textures, forestgreen subtle backdrop gradient optional, premium catalog photography. No text, no packaging, no spray bottle, no hands, no props, no invented performance. Preserve original side cap and molded shape.",
+  "referencePaths": [
+    "F:/Dropshipping/team/reports/T028/reference-review/10252037456064/reference-1.jpg"
+  ],
+  "sourcePath": "C:/Users/Abhinand/.codex/generated_images/01a13435-490b-7431-997e-e0d931fa0e75/exec-f4d91ed7-6701-41ec-a6be-efff086d5a8d.png",
+  "path": "F:/Dropshipping/team/reports/T028/generated/10252037456064/01-studio.png",
+  "mode": "built-in imagegen",
+  "qa": "PASS_local_visual_root_review_pending",
+  "date": "2026-10-13"
+}

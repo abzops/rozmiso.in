@@ -1,0 +1,840 @@
+{
+  "data": {
+    "products": {
+      "nodes": [
+        {
+          "id": "gid://shopify/Product/10249094922432",
+          "handle": "cordless-car-vacuum-air-blower",
+          "status": "DRAFT",
+          "publishedAt": null,
+          "onlineStoreUrl": null,
+          "variants": {
+            "nodes": [
+              {
+                "id": "gid://shopify/ProductVariant/50402719203520",
+                "sku": "ROZ-VAC-01",
+                "price": "999.00",
+                "inventoryQuantity": 150,
+                "inventoryPolicy": "DENY",
+                "taxable": true,
+                "inventoryItem": {
+                  "id": "gid://shopify/InventoryItem/52522076700864",
+                  "tracked": true
+                }
+              },
+              {
+                "id": "gid://shopify/ProductVariant/50402719236288",
+                "sku": "ROZ-VAC-02",
+                "price": "1699.00",
+                "inventoryQuantity": 100,
+                "inventoryPolicy": "DENY",
+                "taxable": true,
+                "inventoryItem": {
+                  "id": "gid://shopify/InventoryItem/52522076733632",
+                  "tracked": true
+                }
+              },
+              {
+                "id": "gid://shopify/ProductVariant/50402719269056",
+                "sku": "ROZ-VAC-03",
+                "price": "2299.00",
+                "inventoryQuantity": 50,
+                "inventoryPolicy": "DENY",
+                "taxable": true,
+                "inventoryItem": {
+                  "id": "gid://shopify/InventoryItem/52522076766400",
+                  "tracked": true
+                }
+              }
+            ],
+            "pageInfo": {
+              "hasNextPage": false,
+              "endCursor": "eyJsYXN0X2lkIjo1MDQwMjcxOTI2OTA1NiwibGFzdF92YWx1ZSI6M30="
+            }
+          }
+        },
+        {
+          "id": "gid://shopify/Product/10249094955200",
+          "handle": "ems-acupoint-foot-massager-mat",
+          "status": "DRAFT",
+          "publishedAt": null,
+          "onlineStoreUrl": null,
+          "variants": {
+            "nodes": [
+              {
+                "id": "gid://shopify/ProductVariant/50402719301824",
+                "sku": "ROZ-FOOT-01",
+                "price": "799.00",
+                "inventoryQuantity": 200,
+                "inventoryPolicy": "DENY",
+                "taxable": true,
+                "inventoryItem": {
+                  "id": "gid://shopify/InventoryItem/52522076799168",
+                  "tracked": true
+                }
+              },
+              {
+                "id": "gid://shopify/ProductVariant/50402719334592",
+                "sku": "ROZ-FOOT-02",
+                "price": "1399.00",
+                "inventoryQuantity": 120,
+                "inventoryPolicy": "DENY",
+                "taxable": true,
+                "inventoryItem": {
+                  "id": "gid://shopify/InventoryItem/52522076831936",
+                  "tracked": true
+                }
+              }
+            ],
+            "pageInfo": {
+              "hasNextPage": false,
+              "endCursor": "eyJsYXN0X2lkIjo1MDQwMjcxOTMzNDU5MiwibGFzdF92YWx1ZSI6Mn0="
+            }
+          }
+        },
+        {
+          "id": "gid://shopify/Product/10249094987968",
+          "handle": "mini-pocket-thermal-printer",
+          "status": "DRAFT",
+          "publishedAt": null,
+          "onlineStoreUrl": null,
+          "variants": {
+            "nodes": [
+              {
+                "id": "gid://shopify/ProductVariant/50402719367360",
+                "sku": "ROZ-PRN-01",
+                "price": "1499.00",
+                "inventoryQuantity": 100,
+                "inventoryPolicy": "DENY",
+                "taxable": true,
+                "inventoryItem": {
+                  "id": "gid://shopify/InventoryItem/52522076864704",
+                  "tracked": true
+                }
+              },
+              {
+                "id": "gid://shopify/ProductVariant/50402719400128",
+                "sku": "ROZ-PRN-02",
+                "price": "1899.00",
+                "inventoryQuantity": 80,
+                "inventoryPolicy": "DENY",
+                "taxable": true,
+                "inventoryItem": {
+                  "id": "gid://shopify/InventoryItem/52522076897472",
+                  "tracked": true
+                }
+              }
+            ],
+            "pageInfo": {
+              "hasNextPage": false,
+              "endCursor": "eyJsYXN0X2lkIjo1MDQwMjcxOTQwMDEyOCwibGFzdF92YWx1ZSI6Mn0="
+            }
+          }
+        },
+        {
+          "id": "gid://shopify/Product/10249095053504",
+          "handle": "rechargeable-fabric-shaver-lint-remover",
+          "status": "DRAFT",
+          "publishedAt": null,
+          "onlineStoreUrl": null,
+          "variants": {
+            "nodes": [
+              {
+                "id": "gid://shopify/ProductVariant/50402719465664",
+                "sku": "ROZ-LINT-01",
+                "price": "799.00",
+                "inventoryQuantity": 250,
+                "inventoryPolicy": "DENY",
+                "taxable": true,
+                "inventoryItem": {
+                  "id": "gid://shopify/InventoryItem/52522076930240",
+                  "tracked": true
+                }
+              },
+              {
+                "id": "gid://shopify/ProductVariant/50402719498432",
+                "sku": "ROZ-LINT-02",
+                "price": "1399.00",
+                "inventoryQuantity": 150,
+                "inventoryPolicy": "DENY",
+                "taxable": true,
+                "inventoryItem": {
+                  "id": "gid://shopify/InventoryItem/52522076963008",
+                  "tracked": true
+                }
+              }
+            ],
+            "pageInfo": {
+              "hasNextPage": false,
+              "endCursor": "eyJsYXN0X2lkIjo1MDQwMjcxOTQ5ODQzMiwibGFzdF92YWx1ZSI6Mn0="
+            }
+          }
+        },
+        {
+          "id": "gid://shopify/Product/10249095086272",
+          "handle": "astronaut-galaxy-nebula-projector",
+          "status": "DRAFT",
+          "publishedAt": null,
+          "onlineStoreUrl": null,
+          "variants": {
+            "nodes": [
+              {
+                "id": "gid://shopify/ProductVariant/50402719531200",
+                "sku": "ROZ-ASTRO-01",
+                "price": "1099.00",
+                "inventoryQuantity": 90,
+                "inventoryPolicy": "DENY",
+                "taxable": true,
+                "inventoryItem": {
+                  "id": "gid://shopify/InventoryItem/52522077028544",
+                  "tracked": true
+                }
+              },
+              {
+                "id": "gid://shopify/ProductVariant/50402719563968",
+                "sku": "ROZ-ASTRO-02",
+                "price": "1899.00",
+                "inventoryQuantity": 60,
+                "inventoryPolicy": "DENY",
+                "taxable": true,
+                "inventoryItem": {
+                  "id": "gid://shopify/InventoryItem/52522077061312",
+                  "tracked": true
+                }
+              }
+            ],
+            "pageInfo": {
+              "hasNextPage": false,
+              "endCursor": "eyJsYXN0X2lkIjo1MDQwMjcxOTU2Mzk2OCwibGFzdF92YWx1ZSI6Mn0="
+            }
+          }
+        },
+        {
+          "id": "gid://shopify/Product/10252037324992",
+          "handle": "usb-rechargeable-fabric-shaver",
+          "status": "ACTIVE",
+          "publishedAt": "2026-10-05T17:52:04Z",
+          "onlineStoreUrl": "https://rozmiso.myshopify.com/products/usb-rechargeable-fabric-shaver",
+          "variants": {
+            "nodes": [
+              {
+                "id": "gid://shopify/ProductVariant/50418576883904",
+                "sku": "23469_electric_lint_remover_1pc_no5",
+                "price": "799.00",
+                "inventoryQuantity": 0,
+                "inventoryPolicy": "DENY",
+                "taxable": true,
+                "inventoryItem": {
+                  "id": "gid://shopify/InventoryItem/52538355286208",
+                  "tracked": true
+                }
+              }
+            ],
+            "pageInfo": {
+              "hasNextPage": false,
+              "endCursor": "eyJsYXN0X2lkIjo1MDQxODU3Njg4MzkwNCwibGFzdF92YWx1ZSI6MX0="
+            }
+          }
+        },
+        {
+          "id": "gid://shopify/Product/10252037357760",
+          "handle": "5-in-1-rechargeable-cleaning-brush",
+          "status": "ACTIVE",
+          "publishedAt": "2026-10-05T17:52:05Z",
+          "onlineStoreUrl": "https://rozmiso.myshopify.com/products/5-in-1-rechargeable-cleaning-brush",
+          "variants": {
+            "nodes": [
+              {
+                "id": "gid://shopify/ProductVariant/50418576916672",
+                "sku": "6329_5in1_magic_cleaning_brush",
+                "price": "649.00",
+                "inventoryQuantity": 0,
+                "inventoryPolicy": "DENY",
+                "taxable": true,
+                "inventoryItem": {
+                  "id": "gid://shopify/InventoryItem/52538355318976",
+                  "tracked": true
+                }
+              }
+            ],
+            "pageInfo": {
+              "hasNextPage": false,
+              "endCursor": "eyJsYXN0X2lkIjo1MDQxODU3NjkxNjY3MiwibGFzdF92YWx1ZSI6MX0="
+            }
+          }
+        },
+        {
+          "id": "gid://shopify/Product/10252037390528",
+          "handle": "everyday-travel-organizer-pouch",
+          "status": "ACTIVE",
+          "publishedAt": "2026-10-05T17:52:05Z",
+          "onlineStoreUrl": "https://rozmiso.myshopify.com/products/everyday-travel-organizer-pouch",
+          "variants": {
+            "nodes": [
+              {
+                "id": "gid://shopify/ProductVariant/50418576949440",
+                "sku": "0642_multipurpose_travel_organizer_bag_1pc_no1",
+                "price": "349.00",
+                "inventoryQuantity": 0,
+                "inventoryPolicy": "DENY",
+                "taxable": true,
+                "inventoryItem": {
+                  "id": "gid://shopify/InventoryItem/52538355351744",
+                  "tracked": true
+                }
+              }
+            ],
+            "pageInfo": {
+              "hasNextPage": false,
+              "endCursor": "eyJsYXN0X2lkIjo1MDQxODU3Njk0OTQ0MCwibGFzdF92YWx1ZSI6MX0="
+            }
+          }
+        },
+        {
+          "id": "gid://shopify/Product/10252037456064",
+          "handle": "2-in-1-soap-dispensing-cleaning-brush",
+          "status": "ACTIVE",
+          "publishedAt": "2026-10-05T17:52:06Z",
+          "onlineStoreUrl": "https://rozmiso.myshopify.com/products/2-in-1-soap-dispensing-cleaning-brush",
+          "variants": {
+            "nodes": [
+              {
+                "id": "gid://shopify/ProductVariant/50418577014976",
+                "sku": "22895_plastic_2in1_soap_dispenser_cleaning_brush",
+                "price": "299.00",
+                "inventoryQuantity": 0,
+                "inventoryPolicy": "DENY",
+                "taxable": true,
+                "inventoryItem": {
+                  "id": "gid://shopify/InventoryItem/52538355417280",
+                  "tracked": true
+                }
+              }
+            ],
+            "pageInfo": {
+              "hasNextPage": false,
+              "endCursor": "eyJsYXN0X2lkIjo1MDQxODU3NzAxNDk3NiwibGFzdF92YWx1ZSI6MX0="
+            }
+          }
+        },
+        {
+          "id": "gid://shopify/Product/10253181026496",
+          "handle": "microfiber-cleaning-cloth-40x40",
+          "status": "ACTIVE",
+          "publishedAt": "2026-10-06T16:04:07Z",
+          "onlineStoreUrl": "https://rozmiso.myshopify.com/products/microfiber-cleaning-cloth-40x40",
+          "variants": {
+            "nodes": [
+              {
+                "id": "gid://shopify/ProductVariant/50427735212224",
+                "sku": "21974_cleaning_cloth_towel_40x40cm_1pc",
+                "price": "149.00",
+                "inventoryQuantity": 0,
+                "inventoryPolicy": "DENY",
+                "taxable": true,
+                "inventoryItem": {
+                  "id": "gid://shopify/InventoryItem/52547594617024",
+                  "tracked": true
+                }
+              }
+            ],
+            "pageInfo": {
+              "hasNextPage": false,
+              "endCursor": "eyJsYXN0X2lkIjo1MDQyNzczNTIxMjIyNCwibGFzdF92YWx1ZSI6MX0="
+            }
+          }
+        },
+        {
+          "id": "gid://shopify/Product/10253181092032",
+          "handle": "reusable-bag-locking-ties-set-of-3",
+          "status": "ACTIVE",
+          "publishedAt": "2026-10-06T16:04:09Z",
+          "onlineStoreUrl": "https://rozmiso.myshopify.com/products/reusable-bag-locking-ties-set-of-3",
+          "variants": {
+            "nodes": [
+              {
+                "id": "gid://shopify/ProductVariant/50427735277760",
+                "sku": "11087_plastic_bag_clips_3pc",
+                "price": "149.00",
+                "inventoryQuantity": 0,
+                "inventoryPolicy": "DENY",
+                "taxable": true,
+                "inventoryItem": {
+                  "id": "gid://shopify/InventoryItem/52547594649792",
+                  "tracked": true
+                }
+              }
+            ],
+            "pageInfo": {
+              "hasNextPage": false,
+              "endCursor": "eyJsYXN0X2lkIjo1MDQyNzczNTI3Nzc2MCwibGFzdF92YWx1ZSI6MX0="
+            }
+          }
+        },
+        {
+          "id": "gid://shopify/Product/10253181255872",
+          "handle": "compact-cable-winder-case",
+          "status": "ACTIVE",
+          "publishedAt": "2026-10-06T16:04:10Z",
+          "onlineStoreUrl": "https://rozmiso.myshopify.com/products/compact-cable-winder-case",
+          "variants": {
+            "nodes": [
+              {
+                "id": "gid://shopify/ProductVariant/50427735408832",
+                "sku": "21062_plastic_small_cable_holder_1pc",
+                "price": "149.00",
+                "inventoryQuantity": 0,
+                "inventoryPolicy": "DENY",
+                "taxable": true,
+                "inventoryItem": {
+                  "id": "gid://shopify/InventoryItem/52547594780864",
+                  "tracked": true
+                }
+              }
+            ],
+            "pageInfo": {
+              "hasNextPage": false,
+              "endCursor": "eyJsYXN0X2lkIjo1MDQyNzczNTQwODgzMiwibGFzdF92YWx1ZSI6MX0="
+            }
+          }
+        },
+        {
+          "id": "gid://shopify/Product/10253181321408",
+          "handle": "window-groove-cleaning-brush",
+          "status": "ACTIVE",
+          "publishedAt": "2026-10-06T16:04:11Z",
+          "onlineStoreUrl": "https://rozmiso.myshopify.com/products/window-groove-cleaning-brush",
+          "variants": {
+            "nodes": [
+              {
+                "id": "gid://shopify/ProductVariant/50427735474368",
+                "sku": "1484_window_slide_cleaner",
+                "price": "179.00",
+                "inventoryQuantity": 0,
+                "inventoryPolicy": "DENY",
+                "taxable": true,
+                "inventoryItem": {
+                  "id": "gid://shopify/InventoryItem/52547594846400",
+                  "tracked": true
+                }
+              }
+            ],
+            "pageInfo": {
+              "hasNextPage": false,
+              "endCursor": "eyJsYXN0X2lkIjo1MDQyNzczNTQ3NDM2OCwibGFzdF92YWx1ZSI6MX0="
+            }
+          }
+        },
+        {
+          "id": "gid://shopify/Product/10253181419712",
+          "handle": "handheld-upholstery-cleaning-brush",
+          "status": "ACTIVE",
+          "publishedAt": "2026-10-06T16:04:12Z",
+          "onlineStoreUrl": "https://rozmiso.myshopify.com/products/handheld-upholstery-cleaning-brush",
+          "variants": {
+            "nodes": [
+              {
+                "id": "gid://shopify/ProductVariant/50427735605440",
+                "sku": "4864_cleaning_duster_brush",
+                "price": "249.00",
+                "inventoryQuantity": 0,
+                "inventoryPolicy": "DENY",
+                "taxable": true,
+                "inventoryItem": {
+                  "id": "gid://shopify/InventoryItem/52547594879168",
+                  "tracked": true
+                }
+              }
+            ],
+            "pageInfo": {
+              "hasNextPage": false,
+              "endCursor": "eyJsYXN0X2lkIjo1MDQyNzczNTYwNTQ0MCwibGFzdF92YWx1ZSI6MX0="
+            }
+          }
+        },
+        {
+          "id": "gid://shopify/Product/10253181518016",
+          "handle": "foldable-hanging-travel-organizer",
+          "status": "ACTIVE",
+          "publishedAt": "2026-10-06T16:04:13Z",
+          "onlineStoreUrl": "https://rozmiso.myshopify.com/products/foldable-hanging-travel-organizer",
+          "variants": {
+            "nodes": [
+              {
+                "id": "gid://shopify/ProductVariant/50427735736512",
+                "sku": "20058_foldable_travel_storage_bag",
+                "price": "399.00",
+                "inventoryQuantity": 0,
+                "inventoryPolicy": "DENY",
+                "taxable": true,
+                "inventoryItem": {
+                  "id": "gid://shopify/InventoryItem/52547595108544",
+                  "tracked": true
+                }
+              }
+            ],
+            "pageInfo": {
+              "hasNextPage": false,
+              "endCursor": "eyJsYXN0X2lkIjo1MDQyNzczNTczNjUxMiwibGFzdF92YWx1ZSI6MX0="
+            }
+          }
+        },
+        {
+          "id": "gid://shopify/Product/10253181583552",
+          "handle": "flexible-flower-shaped-drain-catcher",
+          "status": "ACTIVE",
+          "publishedAt": "2026-10-06T16:04:14Z",
+          "onlineStoreUrl": "https://rozmiso.myshopify.com/products/flexible-flower-shaped-drain-catcher",
+          "variants": {
+            "nodes": [
+              {
+                "id": "gid://shopify/ProductVariant/50427735834816",
+                "sku": "10624_flower_shape_kitchen_sink_strainer",
+                "price": "149.00",
+                "inventoryQuantity": 0,
+                "inventoryPolicy": "DENY",
+                "taxable": true,
+                "inventoryItem": {
+                  "id": "gid://shopify/InventoryItem/52547595206848",
+                  "tracked": true
+                }
+              }
+            ],
+            "pageInfo": {
+              "hasNextPage": false,
+              "endCursor": "eyJsYXN0X2lkIjo1MDQyNzczNTgzNDgxNiwibGFzdF92YWx1ZSI6MX0="
+            }
+          }
+        },
+        {
+          "id": "gid://shopify/Product/10253181681856",
+          "handle": "3-in-1-bottle-lid-cleaning-tool",
+          "status": "ACTIVE",
+          "publishedAt": "2026-10-06T16:04:15Z",
+          "onlineStoreUrl": "https://rozmiso.myshopify.com/products/3-in-1-bottle-lid-cleaning-tool",
+          "variants": {
+            "nodes": [
+              {
+                "id": "gid://shopify/ProductVariant/50427735900352",
+                "sku": "6483_3in1_cleaning_brush_1pc",
+                "price": "149.00",
+                "inventoryQuantity": 0,
+                "inventoryPolicy": "DENY",
+                "taxable": true,
+                "inventoryItem": {
+                  "id": "gid://shopify/InventoryItem/52547595272384",
+                  "tracked": true
+                }
+              }
+            ],
+            "pageInfo": {
+              "hasNextPage": false,
+              "endCursor": "eyJsYXN0X2lkIjo1MDQyNzczNTkwMDM1MiwibGFzdF92YWx1ZSI6MX0="
+            }
+          }
+        },
+        {
+          "id": "gid://shopify/Product/10253181845696",
+          "handle": "adhesive-cable-organizer-clips-set-of-20",
+          "status": "ACTIVE",
+          "publishedAt": "2026-10-06T16:04:17Z",
+          "onlineStoreUrl": "https://rozmiso.myshopify.com/products/adhesive-cable-organizer-clips-set-of-20",
+          "variants": {
+            "nodes": [
+              {
+                "id": "gid://shopify/ProductVariant/50427736064192",
+                "sku": "23602_plastic_wire_cable_clip_20pc",
+                "price": "299.00",
+                "inventoryQuantity": 0,
+                "inventoryPolicy": "DENY",
+                "taxable": true,
+                "inventoryItem": {
+                  "id": "gid://shopify/InventoryItem/52547595436224",
+                  "tracked": true
+                }
+              }
+            ],
+            "pageInfo": {
+              "hasNextPage": false,
+              "endCursor": "eyJsYXN0X2lkIjo1MDQyNzczNjA2NDE5MiwibGFzdF92YWx1ZSI6MX0="
+            }
+          }
+        },
+        {
+          "id": "gid://shopify/Product/10253181944000",
+          "handle": "household-wiping-cloths-set-of-3",
+          "status": "ACTIVE",
+          "publishedAt": "2026-10-06T16:04:18Z",
+          "onlineStoreUrl": "https://rozmiso.myshopify.com/products/household-wiping-cloths-set-of-3",
+          "variants": {
+            "nodes": [
+              {
+                "id": "gid://shopify/ProductVariant/50427736162496",
+                "sku": "22402_glass_cleaning_duster_cloth_3pc",
+                "price": "199.00",
+                "inventoryQuantity": 0,
+                "inventoryPolicy": "DENY",
+                "taxable": true,
+                "inventoryItem": {
+                  "id": "gid://shopify/InventoryItem/52547595534528",
+                  "tracked": true
+                }
+              }
+            ],
+            "pageInfo": {
+              "hasNextPage": false,
+              "endCursor": "eyJsYXN0X2lkIjo1MDQyNzczNjE2MjQ5NiwibGFzdF92YWx1ZSI6MX0="
+            }
+          }
+        },
+        {
+          "id": "gid://shopify/Product/10253182009536",
+          "handle": "structured-mesh-laundry-wash-bag",
+          "status": "ACTIVE",
+          "publishedAt": "2026-10-06T16:04:19Z",
+          "onlineStoreUrl": "https://rozmiso.myshopify.com/products/structured-mesh-laundry-wash-bag",
+          "variants": {
+            "nodes": [
+              {
+                "id": "gid://shopify/ProductVariant/50427736260800",
+                "sku": "23306_mesh_underwear_wash_bag",
+                "price": "349.00",
+                "inventoryQuantity": 0,
+                "inventoryPolicy": "DENY",
+                "taxable": true,
+                "inventoryItem": {
+                  "id": "gid://shopify/InventoryItem/52547595632832",
+                  "tracked": true
+                }
+              }
+            ],
+            "pageInfo": {
+              "hasNextPage": false,
+              "endCursor": "eyJsYXN0X2lkIjo1MDQyNzczNjI2MDgwMCwibGFzdF92YWx1ZSI6MX0="
+            }
+          }
+        },
+        {
+          "id": "gid://shopify/Product/10257843060928",
+          "handle": "6187-keyboard-cover-for-computer-pc-for-desktop-computer",
+          "status": "DRAFT",
+          "publishedAt": null,
+          "onlineStoreUrl": null,
+          "variants": {
+            "nodes": [
+              {
+                "id": "gid://shopify/ProductVariant/50443620843712",
+                "sku": "6187_laptop_keyboard_cover",
+                "price": "40.00",
+                "inventoryQuantity": 0,
+                "inventoryPolicy": "DENY",
+                "taxable": true,
+                "inventoryItem": {
+                  "id": "gid://shopify/InventoryItem/52563728040128",
+                  "tracked": true
+                }
+              }
+            ],
+            "pageInfo": {
+              "hasNextPage": false,
+              "endCursor": "eyJsYXN0X2lkIjo1MDQ0MzYyMDg0MzcxMiwibGFzdF92YWx1ZSI6MX0="
+            }
+          }
+        },
+        {
+          "id": "gid://shopify/Product/10257843159232",
+          "handle": "2796-2-layer-kitchen-rack-for-holding-and-placing-types-of-things",
+          "status": "DRAFT",
+          "publishedAt": null,
+          "onlineStoreUrl": null,
+          "variants": {
+            "nodes": [
+              {
+                "id": "gid://shopify/ProductVariant/50443620909248",
+                "sku": "2796_2layer_kitchen_rack",
+                "price": "496.00",
+                "inventoryQuantity": 0,
+                "inventoryPolicy": "DENY",
+                "taxable": true,
+                "inventoryItem": {
+                  "id": "gid://shopify/InventoryItem/52563728105664",
+                  "tracked": true
+                }
+              }
+            ],
+            "pageInfo": {
+              "hasNextPage": false,
+              "endCursor": "eyJsYXN0X2lkIjo1MDQ0MzYyMDkwOTI0OCwibGFzdF92YWx1ZSI6MX0="
+            }
+          }
+        },
+        {
+          "id": "gid://shopify/Product/10257843224768",
+          "handle": "6168-hqt-909b-hair-straightener-used-while-massaging-hair-scalps-and-head-1",
+          "status": "DRAFT",
+          "publishedAt": null,
+          "onlineStoreUrl": null,
+          "variants": {
+            "nodes": [
+              {
+                "id": "gid://shopify/ProductVariant/50443621761216",
+                "sku": "6168_hqt_909b_hair_straightner",
+                "price": "770.00",
+                "inventoryQuantity": 0,
+                "inventoryPolicy": "DENY",
+                "taxable": false,
+                "inventoryItem": {
+                  "id": "gid://shopify/InventoryItem/52563728957632",
+                  "tracked": true
+                }
+              }
+            ],
+            "pageInfo": {
+              "hasNextPage": false,
+              "endCursor": "eyJsYXN0X2lkIjo1MDQ0MzYyMTc2MTIxNiwibGFzdF92YWx1ZSI6MX0="
+            }
+          }
+        },
+        {
+          "id": "gid://shopify/Product/10257843257536",
+          "handle": "6422-stainless-steel-bottle-used-in-all-households-and-official-purposes-for-storing-water-and-beverages-etc-1",
+          "status": "DRAFT",
+          "publishedAt": null,
+          "onlineStoreUrl": null,
+          "variants": {
+            "nodes": [
+              {
+                "id": "gid://shopify/ProductVariant/50443621793984",
+                "sku": "6422_ss_fancy_btl_360ml_approx",
+                "price": "416.00",
+                "inventoryQuantity": 0,
+                "inventoryPolicy": "DENY",
+                "taxable": true,
+                "inventoryItem": {
+                  "id": "gid://shopify/InventoryItem/52563728990400",
+                  "tracked": true
+                }
+              }
+            ],
+            "pageInfo": {
+              "hasNextPage": false,
+              "endCursor": "eyJsYXN0X2lkIjo1MDQ0MzYyMTc5Mzk4NCwibGFzdF92YWx1ZSI6MX0="
+            }
+          }
+        },
+        {
+          "id": "gid://shopify/Product/10257843355840",
+          "handle": "2793-manual-hand-juicer-for-making-juices-and-beverages-by-using-hands",
+          "status": "DRAFT",
+          "publishedAt": null,
+          "onlineStoreUrl": null,
+          "variants": {
+            "nodes": [
+              {
+                "id": "gid://shopify/ProductVariant/50443621859520",
+                "sku": "2793_manual_hand_juicer",
+                "price": "46.00",
+                "inventoryQuantity": 0,
+                "inventoryPolicy": "DENY",
+                "taxable": true,
+                "inventoryItem": {
+                  "id": "gid://shopify/InventoryItem/52563729055936",
+                  "tracked": true
+                }
+              }
+            ],
+            "pageInfo": {
+              "hasNextPage": false,
+              "endCursor": "eyJsYXN0X2lkIjo1MDQ0MzYyMTg1OTUyMCwibGFzdF92YWx1ZSI6MX0="
+            }
+          }
+        },
+        {
+          "id": "gid://shopify/Product/10257843421376",
+          "handle": "7271-phone-earphones-with-microphone",
+          "status": "DRAFT",
+          "publishedAt": null,
+          "onlineStoreUrl": null,
+          "variants": {
+            "nodes": [
+              {
+                "id": "gid://shopify/ProductVariant/50443621957824",
+                "sku": "7271_cnh_sport_earphone_no1",
+                "price": "78.00",
+                "inventoryQuantity": 0,
+                "inventoryPolicy": "DENY",
+                "taxable": true,
+                "inventoryItem": {
+                  "id": "gid://shopify/InventoryItem/52563729154240",
+                  "tracked": true
+                }
+              }
+            ],
+            "pageInfo": {
+              "hasNextPage": false,
+              "endCursor": "eyJsYXN0X2lkIjo1MDQ0MzYyMTk1NzgyNCwibGFzdF92YWx1ZSI6MX0="
+            }
+          }
+        },
+        {
+          "id": "gid://shopify/Product/10257843454144",
+          "handle": "6186-canvas-laundry-bag-toy-storage-laundry-storage",
+          "status": "DRAFT",
+          "publishedAt": null,
+          "onlineStoreUrl": null,
+          "variants": {
+            "nodes": [
+              {
+                "id": "gid://shopify/ProductVariant/50443621990592",
+                "sku": "6186_15in_foldable_laundry_bag",
+                "price": "270.00",
+                "inventoryQuantity": 0,
+                "inventoryPolicy": "DENY",
+                "taxable": true,
+                "inventoryItem": {
+                  "id": "gid://shopify/InventoryItem/52563729187008",
+                  "tracked": true
+                }
+              }
+            ],
+            "pageInfo": {
+              "hasNextPage": false,
+              "endCursor": "eyJsYXN0X2lkIjo1MDQ0MzYyMTk5MDU5MiwibGFzdF92YWx1ZSI6MX0="
+            }
+          }
+        },
+        {
+          "id": "gid://shopify/Product/10257843519680",
+          "handle": "2792-coffee-mug-and-warmer-for-having-coffee-along-with-the-warmer-that-keeps-it-hot",
+          "status": "DRAFT",
+          "publishedAt": null,
+          "onlineStoreUrl": null,
+          "variants": {
+            "nodes": [
+              {
+                "id": "gid://shopify/ProductVariant/50443622056128",
+                "sku": "2792_coffee_mug_and_warmer",
+                "price": "896.00",
+                "inventoryQuantity": 0,
+                "inventoryPolicy": "DENY",
+                "taxable": true,
+                "inventoryItem": {
+                  "id": "gid://shopify/InventoryItem/52563729252544",
+                  "tracked": true
+                }
+              }
+            ],
+            "pageInfo": {
+              "hasNextPage": false,
+              "endCursor": "eyJsYXN0X2lkIjo1MDQ0MzYyMjA1NjEyOCwibGFzdF92YWx1ZSI6MX0="
+            }
+          }
+        }
+      ],
+      "pageInfo": {
+        "hasNextPage": false,
+        "endCursor": "eyJsYXN0X2lkIjoxMDI1Nzg0MzUxOTY4MCwibGFzdF92YWx1ZSI6IjEwMjU3ODQzNTE5NjgwIn0="
+      }
+    }
+  }
+}

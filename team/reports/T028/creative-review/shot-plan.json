@@ -1,0 +1,684 @@
+{
+  "task": "T028",
+  "accessDate": "2026-10-08",
+  "status": "SUBMITTED_PROMPTS_REFERENCE_APPROVAL_PENDING",
+  "source": "team/reports/T028/products-before.json",
+  "excludedDraftProducts": [
+    {
+      "id": "gid://shopify/Product/10249094922432",
+      "title": "2-in-1 Cordless High-Power Car Vacuum Cleaner & Air Duster",
+      "reason": "No exact authentic reference demonstrated; older generic photo references or no media."
+    },
+    {
+      "id": "gid://shopify/Product/10249094955200",
+      "title": "EMS Bio-Electric Acupoint Foot Massager Mat",
+      "reason": "No exact authentic reference demonstrated; older generic photo references or no media."
+    },
+    {
+      "id": "gid://shopify/Product/10249094987968",
+      "title": "Mini Portable Bluetooth Inkless Pocket Printer",
+      "reason": "No exact authentic reference demonstrated; older generic photo references or no media."
+    },
+    {
+      "id": "gid://shopify/Product/10249095053504",
+      "title": "USB Rechargeable Electric Fabric Shaver & Lint Remover",
+      "reason": "No exact authentic reference demonstrated; older generic photo references or no media."
+    },
+    {
+      "id": "gid://shopify/Product/10249095086272",
+      "title": "Astronaut 360° Rotating Galaxy Nebula Night Projector",
+      "reason": "No exact authentic reference demonstrated; older generic photo references or no media."
+    },
+    {
+      "id": "gid://shopify/Product/10257843421376",
+      "title": "Wired Earphones with Microphone",
+      "reason": "No exact authentic reference demonstrated; older generic photo references or no media."
+    },
+    {
+      "id": "gid://shopify/Product/10257843519680",
+      "title": "Coffee Mug Warmer",
+      "reason": "No exact authentic reference demonstrated; older generic photo references or no media."
+    }
+  ],
+  "products": [
+    {
+      "id": "gid://shopify/Product/10252037324992",
+      "title": "USB Rechargeable Fabric Shaver",
+      "productStatus": "ACTIVE",
+      "referenceReviewStatus": "PENDING_LANE_A_VISUAL_AUDIT",
+      "referenceCandidateUrls": [
+        "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/rozmiso-23469_electric_lint_remover_1pc_no5.jpg?v=1791204936",
+        "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/Lint-Removal-001--07.jpg?v=1791301491",
+        "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/LintRemoval001-02.jpg?v=1791301511",
+        "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/LintRemoval001-03.jpg?v=1791301514",
+        "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/LintRemoval001-04.jpg?v=1791301512",
+        "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/LintRemoval001-06.jpg?v=1791301517",
+        "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/LintRemoval001-05.jpg?v=1791301517",
+        "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/LintRemoval001-size.jpg?v=1791301515",
+        "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/LintRemoval001-live.jpg?v=1791301519"
+      ],
+      "exactDesignGuardrails": "Preserve shaving grille, controls, collector, handle and visible cable/brush details; do not show a powered display or glowing indicator unless reference proves it.",
+      "studioAsset": {
+        "filename": "10252037324992-studio.png",
+        "prompt": "Generate one separate square photorealistic product photograph, 1024x1024. Use the supplied exact-product reference as the sole authority for the product design. Preserve its physical shape, proportions, material appearance, colors, pattern, attachments and item count. Remove advertising text, supplier codes, watermarks and collage layout. Do not add branding, specifications, capabilities, attachments or design features. No before/after panels, rating stars, performance symbols or claim text. Studio hero on a pale warm-gray seamless surface with soft daylight and subtle realistic contact shadow. Product clearly readable in three-quarter view. Show exactly one product unit. Only include packaged attachments whose presence is proven by the verified reference; keep the reference configuration. No lifestyle props. Preserve shaving grille, controls, collector, handle and visible cable/brush details; do not show a powered display or glowing indicator unless reference proves it."
+      },
+      "useCaseAsset": {
+        "filename": "10252037324992-usecase.png",
+        "prompt": "Generate one separate square photorealistic product photograph, 1024x1024. Use the supplied exact-product reference as the sole authority for the product design. Preserve its physical shape, proportions, material appearance, colors, pattern, attachments and item count. Remove advertising text, supplier codes, watermarks and collage layout. Do not add branding, specifications, capabilities, attachments or design features. No before/after panels, rating stars, performance symbols or claim text. Realistic restrained home setting with the product prominent. Place the exact handheld shaver beside one plain folded cotton knit garment on a neutral bedroom table; the garment lies flat, with no before/after panel. Any context props are background illustration, not package contents. Preserve shaving grille, controls, collector, handle and visible cable/brush details; do not show a powered display or glowing indicator unless reference proves it."
+      },
+      "qaChecks": [
+        "Compare exact geometry/color/features with approved original reference.",
+        "Reject missing or added included parts, duplicate product units and wrong pack count.",
+        "No supplier codes, watermarks, advertising text or collage.",
+        "Context does not imply unsupported function, performance or included props.",
+        "Two separate square assets; no split combined image."
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/10252037357760",
+      "title": "5-in-1 Rechargeable Cleaning Brush",
+      "productStatus": "ACTIVE",
+      "referenceReviewStatus": "PENDING_LANE_A_VISUAL_AUDIT",
+      "referenceCandidateUrls": [
+        "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/rozmiso-6329_5in1_magic_cleaning_brush.jpg?v=1791204940",
+        "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/5in1MagicBrush_2.jpg?v=1791302463",
+        "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/5in1MagicBrush_1.jpg?v=1791302462",
+        "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/sku_5cebd984-6e5b-448a-830b-aad1191b45ba.jpg?v=1791302461",
+        "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/5in1MagicBrush_4.jpg?v=1791302465",
+        "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/5in1MagicBrush_3.jpg?v=1791302469",
+        "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/5in1MagicBrush_5.jpg?v=1791302468",
+        "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/5in1MagicBrush_6.jpg?v=1791302467",
+        "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/5in1MagicBrush_8.jpg?v=1791302470"
+      ],
+      "exactDesignGuardrails": "Preserve exact motor body and five-head configuration only when all five are shown; no spray jets, animation or guaranteed cleaning result.",
+      "studioAsset": {
+        "filename": "10252037357760-studio.png",
+        "prompt": "Generate one separate square photorealistic product photograph, 1024x1024. Use the supplied exact-product reference as the sole authority for the product design. Preserve its physical shape, proportions, material appearance, colors, pattern, attachments and item count. Remove advertising text, supplier codes, watermarks and collage layout. Do not add branding, specifications, capabilities, attachments or design features. No before/after panels, rating stars, performance symbols or claim text. Studio hero on a pale warm-gray seamless surface with soft daylight and subtle realistic contact shadow. Product clearly readable in three-quarter view. Show exactly one product unit. Only include packaged attachments whose presence is proven by the verified reference; keep the reference configuration. No lifestyle props. Preserve exact motor body and five-head configuration only when all five are shown; no spray jets, animation or guaranteed cleaning result."
+      },
+      "useCaseAsset": {
+        "filename": "10252037357760-usecase.png",
+        "prompt": "Generate one separate square photorealistic product photograph, 1024x1024. Use the supplied exact-product reference as the sole authority for the product design. Preserve its physical shape, proportions, material appearance, colors, pattern, attachments and item count. Remove advertising text, supplier codes, watermarks and collage layout. Do not add branding, specifications, capabilities, attachments or design features. No before/after panels, rating stars, performance symbols or claim text. Realistic restrained home setting with the product prominent. One adult hand gently holds the exact brush at a tiled sink surround; choose only a brush head present in the verified reference. Keep the charging socket dry. Any context props are background illustration, not package contents. Preserve exact motor body and five-head configuration only when all five are shown; no spray jets, animation or guaranteed cleaning result."
+      },
+      "qaChecks": [
+        "Compare exact geometry/color/features with approved original reference.",
+        "Reject missing or added included parts, duplicate product units and wrong pack count.",
+        "No supplier codes, watermarks, advertising text or collage.",
+        "Context does not imply unsupported function, performance or included props.",
+        "Two separate square assets; no split combined image."
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/10252037390528",
+      "title": "Everyday Travel Organizer Pouch",
+      "productStatus": "ACTIVE",
+      "referenceReviewStatus": "PENDING_LANE_A_VISUAL_AUDIT",
+      "referenceCandidateUrls": [
+        "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/rozmiso-0642_multipurpose_travel_organizer_bag_1pc_no1.jpg?v=1791204944",
+        "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/0642_02_with_sku_c31ef1e7-55bd-4c9d-8241-e1554d4453f1.jpg?v=1791301727",
+        "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/0642_03_product_9fd7d81c-40d4-409f-9b16-6fd6ade9bb06.jpg?v=1791301729",
+        "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/0642_07_live_3b469577-f336-4c41-91b7-48117fd7cbb5.jpg?v=1791301734",
+        "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/0642_06_size_a1602289-e796-49a4-979b-a18b686b7f04.jpg?v=1791301732",
+        "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/0642_05_white_background_7977b1d8-08b9-49f0-ac9b-aca490789bb3.jpg?v=1791301733",
+        "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/0642_04_product_0621f573-f448-4fbe-a924-144b16314750.jpg?v=1791301731",
+        "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/0642_09_live_f04b48d1-415e-49b4-8056-a793be256828.jpg?v=1791301736",
+        "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/0642_08_live_2fbcfe37-913c-42b8-9856-7e958868d94e.jpg?v=1791301735"
+      ],
+      "exactDesignGuardrails": "Preserve zipper layout, pouch silhouette, mesh/lining if shown, and exact one reference color; do not invent pockets or straps.",
+      "studioAsset": {
+        "filename": "10252037390528-studio.png",
+        "prompt": "Generate one separate square photorealistic product photograph, 1024x1024. Use the supplied exact-product reference as the sole authority for the product design. Preserve its physical shape, proportions, material appearance, colors, pattern, attachments and item count. Remove advertising text, supplier codes, watermarks and collage layout. Do not add branding, specifications, capabilities, attachments or design features. No before/after panels, rating stars, performance symbols or claim text. Studio hero on a pale warm-gray seamless surface with soft daylight and subtle realistic contact shadow. Product clearly readable in three-quarter view. Show exactly one product unit. Only include packaged attachments whose presence is proven by the verified reference; keep the reference configuration. No lifestyle props. Preserve zipper layout, pouch silhouette, mesh/lining if shown, and exact one reference color; do not invent pockets or straps."
+      },
+      "useCaseAsset": {
+        "filename": "10252037390528-usecase.png",
+        "prompt": "Generate one separate square photorealistic product photograph, 1024x1024. Use the supplied exact-product reference as the sole authority for the product design. Preserve its physical shape, proportions, material appearance, colors, pattern, attachments and item count. Remove advertising text, supplier codes, watermarks and collage layout. Do not add branding, specifications, capabilities, attachments or design features. No before/after panels, rating stars, performance symbols or claim text. Realistic restrained home setting with the product prominent. The exact pouch sits open inside a simple travel bag with two plain unbranded toiletries as context props. Any context props are background illustration, not package contents. Preserve zipper layout, pouch silhouette, mesh/lining if shown, and exact one reference color; do not invent pockets or straps."
+      },
+      "qaChecks": [
+        "Compare exact geometry/color/features with approved original reference.",
+        "Reject missing or added included parts, duplicate product units and wrong pack count.",
+        "No supplier codes, watermarks, advertising text or collage.",
+        "Context does not imply unsupported function, performance or included props.",
+        "Two separate square assets; no split combined image."
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/10252037456064",
+      "title": "2-in-1 Soap Dispensing Cleaning Brush",
+      "productStatus": "ACTIVE",
+      "referenceReviewStatus": "PENDING_LANE_A_VISUAL_AUDIT",
+      "referenceCandidateUrls": [
+        "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/rozmiso-22895_plastic_2in1_soap_dispenser_cleaning_brush.jpg?v=1791204947",
+        "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/22895-3-Cleaning-Brush-2.jpg?v=1791301769",
+        "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/22895-2-sku.jpg?v=1791301769",
+        "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/22895-5-Cleaning-Brush-7.jpg?v=1791301771",
+        "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/22895-4-Cleaning-Brush-3.jpg?v=1791301770",
+        "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/22895-7-Cleaning-Brush-4.jpg?v=1791301775",
+        "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/22895-6-Cleaning-Brush-6.jpg?v=1791301773",
+        "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/22895-9-Cleaning-Brush-8.jpg?v=1791301777",
+        "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/22895-8-Cleaning-Brush-5.jpg?v=1791301776"
+      ],
+      "exactDesignGuardrails": "Preserve bristles, reservoir and actual push control; no foam explosion or accessories not shown.",
+      "studioAsset": {
+        "filename": "10252037456064-studio.png",
+        "prompt": "Generate one separate square photorealistic product photograph, 1024x1024. Use the supplied exact-product reference as the sole authority for the product design. Preserve its physical shape, proportions, material appearance, colors, pattern, attachments and item count. Remove advertising text, supplier codes, watermarks and collage layout. Do not add branding, specifications, capabilities, attachments or design features. No before/after panels, rating stars, performance symbols or claim text. Studio hero on a pale warm-gray seamless surface with soft daylight and subtle realistic contact shadow. Product clearly readable in three-quarter view. Show exactly one product unit. Only include packaged attachments whose presence is proven by the verified reference; keep the reference configuration. No lifestyle props. Preserve bristles, reservoir and actual push control; no foam explosion or accessories not shown."
+      },
+      "useCaseAsset": {
+        "filename": "10252037456064-usecase.png",
+        "prompt": "Generate one separate square photorealistic product photograph, 1024x1024. Use the supplied exact-product reference as the sole authority for the product design. Preserve its physical shape, proportions, material appearance, colors, pattern, attachments and item count. Remove advertising text, supplier codes, watermarks and collage layout. Do not add branding, specifications, capabilities, attachments or design features. No before/after panels, rating stars, performance symbols or claim text. Realistic restrained home setting with the product prominent. One adult hand holds the brush beside a ceramic kitchen sink; a plain dish is nearby. Any context props are background illustration, not package contents. Preserve bristles, reservoir and actual push control; no foam explosion or accessories not shown."
+      },
+      "qaChecks": [
+        "Compare exact geometry/color/features with approved original reference.",
+        "Reject missing or added included parts, duplicate product units and wrong pack count.",
+        "No supplier codes, watermarks, advertising text or collage.",
+        "Context does not imply unsupported function, performance or included props.",
+        "Two separate square assets; no split combined image."
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/10253181026496",
+      "title": "Microfiber Cleaning Cloth — 40 × 40 cm",
+      "productStatus": "ACTIVE",
+      "referenceReviewStatus": "PENDING_LANE_A_VISUAL_AUDIT",
+      "referenceCandidateUrls": [
+        "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/Microfiber_Cloth_1.jpg?v=1791302650",
+        "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/Microfiber_Cloth_7.jpg?v=1791303524",
+        "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/Microfiber_Cloth_2.jpg?v=1791303522",
+        "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/21974.jpg?v=1791303521"
+      ],
+      "exactDesignGuardrails": "One cloth only; preserve weave, edge finish and selected reference color; no scratch-free/streak-free visual promises.",
+      "studioAsset": {
+        "filename": "10253181026496-studio.png",
+        "prompt": "Generate one separate square photorealistic product photograph, 1024x1024. Use the supplied exact-product reference as the sole authority for the product design. Preserve its physical shape, proportions, material appearance, colors, pattern, attachments and item count. Remove advertising text, supplier codes, watermarks and collage layout. Do not add branding, specifications, capabilities, attachments or design features. No before/after panels, rating stars, performance symbols or claim text. Studio hero on a pale warm-gray seamless surface with soft daylight and subtle realistic contact shadow. Product clearly readable in three-quarter view. Show exactly one product unit. Only include packaged attachments whose presence is proven by the verified reference; keep the reference configuration. No lifestyle props. One cloth only; preserve weave, edge finish and selected reference color; no scratch-free/streak-free visual promises."
+      },
+      "useCaseAsset": {
+        "filename": "10253181026496-usecase.png",
+        "prompt": "Generate one separate square photorealistic product photograph, 1024x1024. Use the supplied exact-product reference as the sole authority for the product design. Preserve its physical shape, proportions, material appearance, colors, pattern, attachments and item count. Remove advertising text, supplier codes, watermarks and collage layout. Do not add branding, specifications, capabilities, attachments or design features. No before/after panels, rating stars, performance symbols or claim text. Realistic restrained home setting with the product prominent. One exact cloth drapes over an adult hand resting on a plain kitchen worktop. Any context props are background illustration, not package contents. One cloth only; preserve weave, edge finish and selected reference color; no scratch-free/streak-free visual promises."
+      },
+      "qaChecks": [
+        "Compare exact geometry/color/features with approved original reference.",
+        "Reject missing or added included parts, duplicate product units and wrong pack count.",
+        "No supplier codes, watermarks, advertising text or collage.",
+        "Context does not imply unsupported function, performance or included props.",
+        "Two separate square assets; no split combined image."
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/10253181092032",
+      "title": "Reusable Bag Locking Ties — Set of 3",
+      "productStatus": "ACTIVE",
+      "referenceReviewStatus": "PENDING_LANE_A_VISUAL_AUDIT",
+      "referenceCandidateUrls": [
+        "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/01_food-clip.jpg?v=1791302652",
+        "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/04_food-clip.jpg?v=1791303505",
+        "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/77611087-OldSku17570_plastic_bag_clips_1pc-Av-Sv.jpg?v=1791303503",
+        "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/05_food-clip.jpg?v=1791305260"
+      ],
+      "exactDesignGuardrails": "Exactly three ties in total; preserve button-lock geometry and flexibility; no airtight seal symbolism.",
+      "studioAsset": {
+        "filename": "10253181092032-studio.png",
+        "prompt": "Generate one separate square photorealistic product photograph, 1024x1024. Use the supplied exact-product reference as the sole authority for the product design. Preserve its physical shape, proportions, material appearance, colors, pattern, attachments and item count. Remove advertising text, supplier codes, watermarks and collage layout. Do not add branding, specifications, capabilities, attachments or design features. No before/after panels, rating stars, performance symbols or claim text. Studio hero on a pale warm-gray seamless surface with soft daylight and subtle realistic contact shadow. Product clearly readable in three-quarter view. Show exactly 3 matching items, arranged without overlap. Only include packaged attachments whose presence is proven by the verified reference; keep the reference configuration. No lifestyle props. Exactly three ties in total; preserve button-lock geometry and flexibility; no airtight seal symbolism."
+      },
+      "useCaseAsset": {
+        "filename": "10253181092032-usecase.png",
+        "prompt": "Generate one separate square photorealistic product photograph, 1024x1024. Use the supplied exact-product reference as the sole authority for the product design. Preserve its physical shape, proportions, material appearance, colors, pattern, attachments and item count. Remove advertising text, supplier codes, watermarks and collage layout. Do not add branding, specifications, capabilities, attachments or design features. No before/after panels, rating stars, performance symbols or claim text. Realistic restrained home setting with the product prominent. Show the exact ties with one around the gathered neck of a plain snack packet, remaining two beside it on a worktop. Any context props are background illustration, not package contents. Exactly three ties in total; preserve button-lock geometry and flexibility; no airtight seal symbolism."
+      },
+      "qaChecks": [
+        "Compare exact geometry/color/features with approved original reference.",
+        "Reject missing or added included parts, duplicate product units and wrong pack count.",
+        "No supplier codes, watermarks, advertising text or collage.",
+        "Context does not imply unsupported function, performance or included props.",
+        "Two separate square assets; no split combined image."
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/10253181255872",
+      "title": "Compact Cable Winder Case",
+      "productStatus": "ACTIVE",
+      "referenceReviewStatus": "PENDING_LANE_A_VISUAL_AUDIT",
+      "referenceCandidateUrls": [
+        "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/WhatsApp_Image_2026-08-25_at_5.27.07_PM_2ba39d14-0404-42f9-a349-886b2ac9aa9a.jpg?v=1791302653",
+        "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/07_393c70c9-8d88-4fb3-af1c-5620facfa3eb.jpg?v=1791303487",
+        "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/05_347967ac-09ac-4477-81fd-4a49921aafb7.jpg?v=1791305115",
+        "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/121062.jpg?v=1791305125"
+      ],
+      "exactDesignGuardrails": "Preserve actual case shape, rotating spool and openings; cable is context only, never an included accessory claim.",
+      "studioAsset": {
+        "filename": "10253181255872-studio.png",
+        "prompt": "Generate one separate square photorealistic product photograph, 1024x1024. Use the supplied exact-product reference as the sole authority for the product design. Preserve its physical shape, proportions, material appearance, colors, pattern, attachments and item count. Remove advertising text, supplier codes, watermarks and collage layout. Do not add branding, specifications, capabilities, attachments or design features. No before/after panels, rating stars, performance symbols or claim text. Studio hero on a pale warm-gray seamless surface with soft daylight and subtle realistic contact shadow. Product clearly readable in three-quarter view. Show exactly one product unit. Only include packaged attachments whose presence is proven by the verified reference; keep the reference configuration. No lifestyle props. Preserve actual case shape, rotating spool and openings; cable is context only, never an included accessory claim."
+      },
+      "useCaseAsset": {
+        "filename": "10253181255872-usecase.png",
+        "prompt": "Generate one separate square photorealistic product photograph, 1024x1024. Use the supplied exact-product reference as the sole authority for the product design. Preserve its physical shape, proportions, material appearance, colors, pattern, attachments and item count. Remove advertising text, supplier codes, watermarks and collage layout. Do not add branding, specifications, capabilities, attachments or design features. No before/after panels, rating stars, performance symbols or claim text. Realistic restrained home setting with the product prominent. The exact winder case lies on a tidy desk beside a loosely wound plain compatible cable; do not imply charging. Any context props are background illustration, not package contents. Preserve actual case shape, rotating spool and openings; cable is context only, never an included accessory claim."
+      },
+      "qaChecks": [
+        "Compare exact geometry/color/features with approved original reference.",
+        "Reject missing or added included parts, duplicate product units and wrong pack count.",
+        "No supplier codes, watermarks, advertising text or collage.",
+        "Context does not imply unsupported function, performance or included props.",
+        "Two separate square assets; no split combined image."
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/10253181321408",
+      "title": "Window Groove Cleaning Brush",
+      "productStatus": "ACTIVE",
+      "referenceReviewStatus": "PENDING_LANE_A_VISUAL_AUDIT",
+      "referenceCandidateUrls": [
+        "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/01_WindowSlotCleaner.jpg?v=1791302653",
+        "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/03_WindowSlotCleaner.jpg?v=1791303463",
+        "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/02_WindowSlotCleaner.jpg?v=1791303463",
+        "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/05_WindowSlotCleaner.jpg?v=1791305294"
+      ],
+      "exactDesignGuardrails": "Preserve handle, narrow brush profile and bristle layout; realistic clearance, no impossible fit or dramatic before/after.",
+      "studioAsset": {
+        "filename": "10253181321408-studio.png",
+        "prompt": "Generate one separate square photorealistic product photograph, 1024x1024. Use the supplied exact-product reference as the sole authority for the product design. Preserve its physical shape, proportions, material appearance, colors, pattern, attachments and item count. Remove advertising text, supplier codes, watermarks and collage layout. Do not add branding, specifications, capabilities, attachments or design features. No before/after panels, rating stars, performance symbols or claim text. Studio hero on a pale warm-gray seamless surface with soft daylight and subtle realistic contact shadow. Product clearly readable in three-quarter view. Show exactly one product unit. Only include packaged attachments whose presence is proven by the verified reference; keep the reference configuration. No lifestyle props. Preserve handle, narrow brush profile and bristle layout; realistic clearance, no impossible fit or dramatic before/after."
+      },
+      "useCaseAsset": {
+        "filename": "10253181321408-usecase.png",
+        "prompt": "Generate one separate square photorealistic product photograph, 1024x1024. Use the supplied exact-product reference as the sole authority for the product design. Preserve its physical shape, proportions, material appearance, colors, pattern, attachments and item count. Remove advertising text, supplier codes, watermarks and collage layout. Do not add branding, specifications, capabilities, attachments or design features. No before/after panels, rating stars, performance symbols or claim text. Realistic restrained home setting with the product prominent. An adult hand gently positions the brush within an accessible wide window track, shown in a close crop. Any context props are background illustration, not package contents. Preserve handle, narrow brush profile and bristle layout; realistic clearance, no impossible fit or dramatic before/after."
+      },
+      "qaChecks": [
+        "Compare exact geometry/color/features with approved original reference.",
+        "Reject missing or added included parts, duplicate product units and wrong pack count.",
+        "No supplier codes, watermarks, advertising text or collage.",
+        "Context does not imply unsupported function, performance or included props.",
+        "Two separate square assets; no split combined image."
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/10253181419712",
+      "title": "Handheld Upholstery Cleaning Brush",
+      "productStatus": "ACTIVE",
+      "referenceReviewStatus": "PENDING_LANE_A_VISUAL_AUDIT",
+      "referenceCandidateUrls": [
+        "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/4864.png?v=1791302656",
+        "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/20671.png?v=1791303448",
+        "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/20704.png?v=1791305217",
+        "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/03_6f48a549-f94e-4e18-ba9b-3d9ef8e9b96a.jpg?v=1791305226"
+      ],
+      "exactDesignGuardrails": "Preserve long bristles, handle and hanging hole; no redesigned short scrub head or damage-free demonstration.",
+      "studioAsset": {
+        "filename": "10253181419712-studio.png",
+        "prompt": "Generate one separate square photorealistic product photograph, 1024x1024. Use the supplied exact-product reference as the sole authority for the product design. Preserve its physical shape, proportions, material appearance, colors, pattern, attachments and item count. Remove advertising text, supplier codes, watermarks and collage layout. Do not add branding, specifications, capabilities, attachments or design features. No before/after panels, rating stars, performance symbols or claim text. Studio hero on a pale warm-gray seamless surface with soft daylight and subtle realistic contact shadow. Product clearly readable in three-quarter view. Show exactly one product unit. Only include packaged attachments whose presence is proven by the verified reference; keep the reference configuration. No lifestyle props. Preserve long bristles, handle and hanging hole; no redesigned short scrub head or damage-free demonstration."
+      },
+      "useCaseAsset": {
+        "filename": "10253181419712-usecase.png",
+        "prompt": "Generate one separate square photorealistic product photograph, 1024x1024. Use the supplied exact-product reference as the sole authority for the product design. Preserve its physical shape, proportions, material appearance, colors, pattern, attachments and item count. Remove advertising text, supplier codes, watermarks and collage layout. Do not add branding, specifications, capabilities, attachments or design features. No before/after panels, rating stars, performance symbols or claim text. Realistic restrained home setting with the product prominent. The exact brush rests beside a plain fabric chair cushion, with one adult hand lightly holding its handle. Any context props are background illustration, not package contents. Preserve long bristles, handle and hanging hole; no redesigned short scrub head or damage-free demonstration."
+      },
+      "qaChecks": [
+        "Compare exact geometry/color/features with approved original reference.",
+        "Reject missing or added included parts, duplicate product units and wrong pack count.",
+        "No supplier codes, watermarks, advertising text or collage.",
+        "Context does not imply unsupported function, performance or included props.",
+        "Two separate square assets; no split combined image."
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/10253181518016",
+      "title": "Foldable Hanging Travel Organizer",
+      "productStatus": "ACTIVE",
+      "referenceReviewStatus": "PENDING_LANE_A_VISUAL_AUDIT",
+      "referenceCandidateUrls": [
+        "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/Toiletry-Bag-1.jpg?v=1791302656",
+        "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/Toiletry-Bag-3.jpg?v=1791303376",
+        "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/sku_ea71d4e1-f4af-4cc3-a833-5fec2f28229a.jpg?v=1791303375",
+        "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/Toiletry-Bag-7.jpg?v=1791305178"
+      ],
+      "exactDesignGuardrails": "Preserve pocket count, fold pattern, hook, zip and one selected color; do not invent waterproof lining or accessories.",
+      "studioAsset": {
+        "filename": "10253181518016-studio.png",
+        "prompt": "Generate one separate square photorealistic product photograph, 1024x1024. Use the supplied exact-product reference as the sole authority for the product design. Preserve its physical shape, proportions, material appearance, colors, pattern, attachments and item count. Remove advertising text, supplier codes, watermarks and collage layout. Do not add branding, specifications, capabilities, attachments or design features. No before/after panels, rating stars, performance symbols or claim text. Studio hero on a pale warm-gray seamless surface with soft daylight and subtle realistic contact shadow. Product clearly readable in three-quarter view. Show exactly one product unit. Only include packaged attachments whose presence is proven by the verified reference; keep the reference configuration. No lifestyle props. Preserve pocket count, fold pattern, hook, zip and one selected color; do not invent waterproof lining or accessories."
+      },
+      "useCaseAsset": {
+        "filename": "10253181518016-usecase.png",
+        "prompt": "Generate one separate square photorealistic product photograph, 1024x1024. Use the supplied exact-product reference as the sole authority for the product design. Preserve its physical shape, proportions, material appearance, colors, pattern, attachments and item count. Remove advertising text, supplier codes, watermarks and collage layout. Do not add branding, specifications, capabilities, attachments or design features. No before/after panels, rating stars, performance symbols or claim text. Realistic restrained home setting with the product prominent. The exact organizer hangs open from its actual hook on a simple bathroom rail, with a few plain toiletries in reference-proven pockets. Any context props are background illustration, not package contents. Preserve pocket count, fold pattern, hook, zip and one selected color; do not invent waterproof lining or accessories."
+      },
+      "qaChecks": [
+        "Compare exact geometry/color/features with approved original reference.",
+        "Reject missing or added included parts, duplicate product units and wrong pack count.",
+        "No supplier codes, watermarks, advertising text or collage.",
+        "Context does not imply unsupported function, performance or included props.",
+        "Two separate square assets; no split combined image."
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/10253181583552",
+      "title": "Flexible Flower-Shaped Drain Catcher",
+      "productStatus": "ACTIVE",
+      "referenceReviewStatus": "PENDING_LANE_A_VISUAL_AUDIT",
+      "referenceCandidateUrls": [
+        "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/Silicone-sink-stainer-01.jpg?v=1791302657",
+        "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/Silicone-sink-stainer-04.jpg?v=1791303317",
+        "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/29010624-594Pc-DD_10624-Av-Sv.jpg?v=1791303316",
+        "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/Silicone-sink-stainer-06.jpg?v=1791305155"
+      ],
+      "exactDesignGuardrails": "Preserve petal count/outline, perforations, center lifting knob and thickness; no watertight plug or clog-prevention result.",
+      "studioAsset": {
+        "filename": "10253181583552-studio.png",
+        "prompt": "Generate one separate square photorealistic product photograph, 1024x1024. Use the supplied exact-product reference as the sole authority for the product design. Preserve its physical shape, proportions, material appearance, colors, pattern, attachments and item count. Remove advertising text, supplier codes, watermarks and collage layout. Do not add branding, specifications, capabilities, attachments or design features. No before/after panels, rating stars, performance symbols or claim text. Studio hero on a pale warm-gray seamless surface with soft daylight and subtle realistic contact shadow. Product clearly readable in three-quarter view. Show exactly one product unit. Only include packaged attachments whose presence is proven by the verified reference; keep the reference configuration. No lifestyle props. Preserve petal count/outline, perforations, center lifting knob and thickness; no watertight plug or clog-prevention result."
+      },
+      "useCaseAsset": {
+        "filename": "10253181583552-usecase.png",
+        "prompt": "Generate one separate square photorealistic product photograph, 1024x1024. Use the supplied exact-product reference as the sole authority for the product design. Preserve its physical shape, proportions, material appearance, colors, pattern, attachments and item count. Remove advertising text, supplier codes, watermarks and collage layout. Do not add branding, specifications, capabilities, attachments or design features. No before/after panels, rating stars, performance symbols or claim text. Realistic restrained home setting with the product prominent. The exact flower-shaped catcher lies flat over a compatible drain in a dry ceramic sink. Any context props are background illustration, not package contents. Preserve petal count/outline, perforations, center lifting knob and thickness; no watertight plug or clog-prevention result."
+      },
+      "qaChecks": [
+        "Compare exact geometry/color/features with approved original reference.",
+        "Reject missing or added included parts, duplicate product units and wrong pack count.",
+        "No supplier codes, watermarks, advertising text or collage.",
+        "Context does not imply unsupported function, performance or included props.",
+        "Two separate square assets; no split combined image."
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/10253181681856",
+      "title": "3-in-1 Bottle Lid Cleaning Tool",
+      "productStatus": "ACTIVE",
+      "referenceReviewStatus": "PENDING_LANE_A_VISUAL_AUDIT",
+      "referenceCandidateUrls": [
+        "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/WhatsApp_Image_2026-08-25_at_5.27.07_PM_bf327462-e598-4a71-97b6-e003434c69bd.jpg?v=1791302658",
+        "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/01_b40e70b4-8064-47f8-9e8a-36da2d8770b1.jpg?v=1791303303",
+        "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/sku_2e96c19f-b9ee-4d4f-8d5e-4074dcac0adc.jpg?v=1791303302",
+        "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/04_0fcd998b-4fa5-4ce7-b168-0e9c4dd9ec10.jpg?v=1791305085"
+      ],
+      "exactDesignGuardrails": "Preserve fold/hinge layout, main brush, narrow-opening brush and crevice hook; no added fourth tool or sterilization claim.",
+      "studioAsset": {
+        "filename": "10253181681856-studio.png",
+        "prompt": "Generate one separate square photorealistic product photograph, 1024x1024. Use the supplied exact-product reference as the sole authority for the product design. Preserve its physical shape, proportions, material appearance, colors, pattern, attachments and item count. Remove advertising text, supplier codes, watermarks and collage layout. Do not add branding, specifications, capabilities, attachments or design features. No before/after panels, rating stars, performance symbols or claim text. Studio hero on a pale warm-gray seamless surface with soft daylight and subtle realistic contact shadow. Product clearly readable in three-quarter view. Show exactly one product unit. Only include packaged attachments whose presence is proven by the verified reference; keep the reference configuration. No lifestyle props. Preserve fold/hinge layout, main brush, narrow-opening brush and crevice hook; no added fourth tool or sterilization claim."
+      },
+      "useCaseAsset": {
+        "filename": "10253181681856-usecase.png",
+        "prompt": "Generate one separate square photorealistic product photograph, 1024x1024. Use the supplied exact-product reference as the sole authority for the product design. Preserve its physical shape, proportions, material appearance, colors, pattern, attachments and item count. Remove advertising text, supplier codes, watermarks and collage layout. Do not add branding, specifications, capabilities, attachments or design features. No before/after panels, rating stars, performance symbols or claim text. Realistic restrained home setting with the product prominent. One adult hand uses only the reference-proven narrow brush near an accessible groove of a plain drinking-bottle lid. Any context props are background illustration, not package contents. Preserve fold/hinge layout, main brush, narrow-opening brush and crevice hook; no added fourth tool or sterilization claim."
+      },
+      "qaChecks": [
+        "Compare exact geometry/color/features with approved original reference.",
+        "Reject missing or added included parts, duplicate product units and wrong pack count.",
+        "No supplier codes, watermarks, advertising text or collage.",
+        "Context does not imply unsupported function, performance or included props.",
+        "Two separate square assets; no split combined image."
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/10253181845696",
+      "title": "Adhesive Cable Organizer Clips — Set of 20",
+      "productStatus": "ACTIVE",
+      "referenceReviewStatus": "PENDING_LANE_A_VISUAL_AUDIT",
+      "referenceCandidateUrls": [
+        "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/23602-1.jpg?v=1791302659",
+        "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/23602-3.jpg?v=1791303286",
+        "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/23602-2.jpg?v=1791303286",
+        "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/23602-4_c383ef4c-c5ab-4c06-a2a8-f34424fd7952.jpg?v=1791303867"
+      ],
+      "exactDesignGuardrails": "Exactly twenty clips overall if pack count shown in asset; preserve clip mouth, backing and color, no heavy cable or load demonstration.",
+      "studioAsset": {
+        "filename": "10253181845696-studio.png",
+        "prompt": "Generate one separate square photorealistic product photograph, 1024x1024. Use the supplied exact-product reference as the sole authority for the product design. Preserve its physical shape, proportions, material appearance, colors, pattern, attachments and item count. Remove advertising text, supplier codes, watermarks and collage layout. Do not add branding, specifications, capabilities, attachments or design features. No before/after panels, rating stars, performance symbols or claim text. Studio hero on a pale warm-gray seamless surface with soft daylight and subtle realistic contact shadow. Product clearly readable in three-quarter view. Show exactly 20 matching items, arranged without overlap. Only include packaged attachments whose presence is proven by the verified reference; keep the reference configuration. No lifestyle props. Exactly twenty clips overall if pack count shown in asset; preserve clip mouth, backing and color, no heavy cable or load demonstration."
+      },
+      "useCaseAsset": {
+        "filename": "10253181845696-usecase.png",
+        "prompt": "Generate one separate square photorealistic product photograph, 1024x1024. Use the supplied exact-product reference as the sole authority for the product design. Preserve its physical shape, proportions, material appearance, colors, pattern, attachments and item count. Remove advertising text, supplier codes, watermarks and collage layout. Do not add branding, specifications, capabilities, attachments or design features. No before/after panels, rating stars, performance symbols or claim text. Realistic restrained home setting with the product prominent. Three reference-matching clips route a plain light cable along a smooth desk edge; remaining exact seventeen clips arranged nearby. Any context props are background illustration, not package contents. Exactly twenty clips overall if pack count shown in asset; preserve clip mouth, backing and color, no heavy cable or load demonstration."
+      },
+      "qaChecks": [
+        "Compare exact geometry/color/features with approved original reference.",
+        "Reject missing or added included parts, duplicate product units and wrong pack count.",
+        "No supplier codes, watermarks, advertising text or collage.",
+        "Context does not imply unsupported function, performance or included props.",
+        "Two separate square assets; no split combined image."
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/10253181944000",
+      "title": "Household Wiping Cloths — Set of 3",
+      "productStatus": "ACTIVE",
+      "referenceReviewStatus": "PENDING_LANE_A_VISUAL_AUDIT",
+      "referenceCandidateUrls": [
+        "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/22402-glass-cloth-01.jpg?v=1791302660",
+        "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/22402-glass-cloth-22402.jpg?v=1791303180",
+        "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/22402-glass-cloth-03.jpg?v=1791303189",
+        "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/22402-glass-cloth-04.jpg?v=1791303198"
+      ],
+      "exactDesignGuardrails": "Exactly three cloths; preserve textures, borders and the selected reference colors; no antibacterial or streak-free effect.",
+      "studioAsset": {
+        "filename": "10253181944000-studio.png",
+        "prompt": "Generate one separate square photorealistic product photograph, 1024x1024. Use the supplied exact-product reference as the sole authority for the product design. Preserve its physical shape, proportions, material appearance, colors, pattern, attachments and item count. Remove advertising text, supplier codes, watermarks and collage layout. Do not add branding, specifications, capabilities, attachments or design features. No before/after panels, rating stars, performance symbols or claim text. Studio hero on a pale warm-gray seamless surface with soft daylight and subtle realistic contact shadow. Product clearly readable in three-quarter view. Show exactly 3 matching items, arranged without overlap. Only include packaged attachments whose presence is proven by the verified reference; keep the reference configuration. No lifestyle props. Exactly three cloths; preserve textures, borders and the selected reference colors; no antibacterial or streak-free effect."
+      },
+      "useCaseAsset": {
+        "filename": "10253181944000-usecase.png",
+        "prompt": "Generate one separate square photorealistic product photograph, 1024x1024. Use the supplied exact-product reference as the sole authority for the product design. Preserve its physical shape, proportions, material appearance, colors, pattern, attachments and item count. Remove advertising text, supplier codes, watermarks and collage layout. Do not add branding, specifications, capabilities, attachments or design features. No before/after panels, rating stars, performance symbols or claim text. Realistic restrained home setting with the product prominent. One exact cloth lies on a kitchen counter beside the other two folded cloths. Any context props are background illustration, not package contents. Exactly three cloths; preserve textures, borders and the selected reference colors; no antibacterial or streak-free effect."
+      },
+      "qaChecks": [
+        "Compare exact geometry/color/features with approved original reference.",
+        "Reject missing or added included parts, duplicate product units and wrong pack count.",
+        "No supplier codes, watermarks, advertising text or collage.",
+        "Context does not imply unsupported function, performance or included props.",
+        "Two separate square assets; no split combined image."
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/10253182009536",
+      "title": "Structured Mesh Laundry Wash Bag",
+      "productStatus": "ACTIVE",
+      "referenceReviewStatus": "PENDING_LANE_A_VISUAL_AUDIT",
+      "referenceCandidateUrls": [
+        "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/23306-mesh-underwear-wash-bag-1.jpg?v=1791302661",
+        "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/23306-mesh-underwear-wash-bag-2.jpg?v=1791302915",
+        "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/23306-mesh-underwear-wash-bag-4.jpg?v=1791302936",
+        "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/23306-mesh-underwear-wash-bag-3.jpg?v=1791302934"
+      ],
+      "exactDesignGuardrails": "One bag; preserve cylindrical structure, mesh panels, reinforcement and actual zip; no unsupported garment-safety demonstration.",
+      "studioAsset": {
+        "filename": "10253182009536-studio.png",
+        "prompt": "Generate one separate square photorealistic product photograph, 1024x1024. Use the supplied exact-product reference as the sole authority for the product design. Preserve its physical shape, proportions, material appearance, colors, pattern, attachments and item count. Remove advertising text, supplier codes, watermarks and collage layout. Do not add branding, specifications, capabilities, attachments or design features. No before/after panels, rating stars, performance symbols or claim text. Studio hero on a pale warm-gray seamless surface with soft daylight and subtle realistic contact shadow. Product clearly readable in three-quarter view. Show exactly one product unit. Only include packaged attachments whose presence is proven by the verified reference; keep the reference configuration. No lifestyle props. One bag; preserve cylindrical structure, mesh panels, reinforcement and actual zip; no unsupported garment-safety demonstration."
+      },
+      "useCaseAsset": {
+        "filename": "10253182009536-usecase.png",
+        "prompt": "Generate one separate square photorealistic product photograph, 1024x1024. Use the supplied exact-product reference as the sole authority for the product design. Preserve its physical shape, proportions, material appearance, colors, pattern, attachments and item count. Remove advertising text, supplier codes, watermarks and collage layout. Do not add branding, specifications, capabilities, attachments or design features. No before/after panels, rating stars, performance symbols or claim text. Realistic restrained home setting with the product prominent. The exact cylindrical zip mesh bag rests beside a closed washing machine with a few small plain garments inside. Any context props are background illustration, not package contents. One bag; preserve cylindrical structure, mesh panels, reinforcement and actual zip; no unsupported garment-safety demonstration."
+      },
+      "qaChecks": [
+        "Compare exact geometry/color/features with approved original reference.",
+        "Reject missing or added included parts, duplicate product units and wrong pack count.",
+        "No supplier codes, watermarks, advertising text or collage.",
+        "Context does not imply unsupported function, performance or included props.",
+        "Two separate square assets; no split combined image."
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/10257843060928",
+      "title": "Keyboard Cover",
+      "productStatus": "ACTIVE",
+      "referenceReviewStatus": "PENDING_LANE_A_VISUAL_AUDIT",
+      "referenceCandidateUrls": [
+        "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/1_0577705c-1ed8-415d-a9a9-4879d0ece7b2.jpg?v=1791440741",
+        "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/2_05aeba51-e836-4064-91f2-dd0d8f8f30e6.jpg?v=1791440740",
+        "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/3_6120440c-f66d-4c3f-80e3-8ce0dfe850dc.jpg?v=1791440740",
+        "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/4_b136193c-d314-4749-b77f-bc4223042e67.jpg?v=1791440741",
+        "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/5_e41c65aa-5c2e-40de-837f-20f2f88acf4a.jpg?v=1791440741",
+        "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/6_e5dfa901-f9c2-4f51-8bde-55dc0d71c024.jpg?v=1791440741",
+        "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/7_dea7b61b-6b1e-44ab-8316-b6bc5e9bcd2d.jpg?v=1791440741",
+        "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/8_9f00c5ce-23b2-49de-86e4-4a7087342d67.jpg?v=1791440741"
+      ],
+      "exactDesignGuardrails": "Preserve exact cover/key openings and contour; do not replace with a generic keyboard mat or invent wrist rest.",
+      "studioAsset": {
+        "filename": "10257843060928-studio.png",
+        "prompt": "Generate one separate square photorealistic product photograph, 1024x1024. Use the supplied exact-product reference as the sole authority for the product design. Preserve its physical shape, proportions, material appearance, colors, pattern, attachments and item count. Remove advertising text, supplier codes, watermarks and collage layout. Do not add branding, specifications, capabilities, attachments or design features. No before/after panels, rating stars, performance symbols or claim text. Studio hero on a pale warm-gray seamless surface with soft daylight and subtle realistic contact shadow. Product clearly readable in three-quarter view. Show exactly one product unit. Only include packaged attachments whose presence is proven by the verified reference; keep the reference configuration. No lifestyle props. Preserve exact cover/key openings and contour; do not replace with a generic keyboard mat or invent wrist rest."
+      },
+      "useCaseAsset": {
+        "filename": "10257843060928-usecase.png",
+        "prompt": "Generate one separate square photorealistic product photograph, 1024x1024. Use the supplied exact-product reference as the sole authority for the product design. Preserve its physical shape, proportions, material appearance, colors, pattern, attachments and item count. Remove advertising text, supplier codes, watermarks and collage layout. Do not add branding, specifications, capabilities, attachments or design features. No before/after panels, rating stars, performance symbols or claim text. Realistic restrained home setting with the product prominent. The exact cover rests over a plain compatible keyboard whose key layout matches the reference. Any context props are background illustration, not package contents. Preserve exact cover/key openings and contour; do not replace with a generic keyboard mat or invent wrist rest."
+      },
+      "qaChecks": [
+        "Compare exact geometry/color/features with approved original reference.",
+        "Reject missing or added included parts, duplicate product units and wrong pack count.",
+        "No supplier codes, watermarks, advertising text or collage.",
+        "Context does not imply unsupported function, performance or included props.",
+        "Two separate square assets; no split combined image."
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/10257843159232",
+      "title": "Two-Tier Kitchen Storage Rack",
+      "productStatus": "ACTIVE",
+      "referenceReviewStatus": "PENDING_LANE_A_VISUAL_AUDIT",
+      "referenceCandidateUrls": [
+        "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/1_24d14f09-4c56-4988-a814-5afdb63f5e33.jpg?v=1791440741",
+        "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/2_cbba380c-f3ab-4a3b-8b1a-6a9557bf2c81.jpg?v=1791440742",
+        "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/3_a397ca7d-7151-4585-9809-2c73d5c2cd8e.jpg?v=1791440741",
+        "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/4_2ec448e1-73ce-4e41-8aaa-914ba7ef959c.jpg?v=1791440742",
+        "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/5_3a633a6c-0382-4e14-967c-ff4a002c4187.jpg?v=1791440742",
+        "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/6_3f142d51-4f0f-4812-9968-9dca4af62d00.jpg?v=1791440741",
+        "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/7_aefe6e72-ae5e-48c1-8be7-2442a22d4d9f.jpg?v=1791440742",
+        "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/8_496e78d1-2c9b-4430-b486-5b7db0b07dc7.jpg?v=1791440741",
+        "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/9_2dafa63b-10e2-4bf2-a94c-33d49f2a9ee9.jpg?v=1791440742",
+        "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/10_93116e2a-8022-401b-b0b8-c23032e31aad.jpg?v=1791440742",
+        "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/11_f50d7e52-f850-41a7-b279-3b01b5a78bb8.jpg?v=1791440742"
+      ],
+      "exactDesignGuardrails": "Preserve both shelves, leg geometry, joints, color and actual hooks only if shown; no wall-mount conversion or load claim.",
+      "studioAsset": {
+        "filename": "10257843159232-studio.png",
+        "prompt": "Generate one separate square photorealistic product photograph, 1024x1024. Use the supplied exact-product reference as the sole authority for the product design. Preserve its physical shape, proportions, material appearance, colors, pattern, attachments and item count. Remove advertising text, supplier codes, watermarks and collage layout. Do not add branding, specifications, capabilities, attachments or design features. No before/after panels, rating stars, performance symbols or claim text. Studio hero on a pale warm-gray seamless surface with soft daylight and subtle realistic contact shadow. Product clearly readable in three-quarter view. Show exactly one product unit. Only include packaged attachments whose presence is proven by the verified reference; keep the reference configuration. No lifestyle props. Preserve both shelves, leg geometry, joints, color and actual hooks only if shown; no wall-mount conversion or load claim."
+      },
+      "useCaseAsset": {
+        "filename": "10257843159232-usecase.png",
+        "prompt": "Generate one separate square photorealistic product photograph, 1024x1024. Use the supplied exact-product reference as the sole authority for the product design. Preserve its physical shape, proportions, material appearance, colors, pattern, attachments and item count. Remove advertising text, supplier codes, watermarks and collage layout. Do not add branding, specifications, capabilities, attachments or design features. No before/after panels, rating stars, performance symbols or claim text. Realistic restrained home setting with the product prominent. The exact freestanding two-tier rack stands on a level kitchen worktop with a few plain lightweight jars evenly spaced. Any context props are background illustration, not package contents. Preserve both shelves, leg geometry, joints, color and actual hooks only if shown; no wall-mount conversion or load claim."
+      },
+      "qaChecks": [
+        "Compare exact geometry/color/features with approved original reference.",
+        "Reject missing or added included parts, duplicate product units and wrong pack count.",
+        "No supplier codes, watermarks, advertising text or collage.",
+        "Context does not imply unsupported function, performance or included props.",
+        "Two separate square assets; no split combined image."
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/10257843224768",
+      "title": "Electric Hair Straightening Brush",
+      "productStatus": "ACTIVE",
+      "referenceReviewStatus": "PENDING_LANE_A_VISUAL_AUDIT",
+      "referenceCandidateUrls": [
+        "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/01_d6c9b631-b50a-4d1f-9957-e2150aea1eba.jpg?v=1791440743",
+        "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/05_f0f01c8e-5235-46ac-a14e-9d13728e4cc4.jpg?v=1791440742",
+        "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/07_2649d07b-32f6-4767-91e1-bc9af4f0e46a.jpg?v=1791440743",
+        "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/03_0e8fb141-93e6-4691-bc3b-0a866be1efc9.jpg?v=1791440743",
+        "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/011_c9637f35-8af0-4a81-897f-019b34e66134.jpg?v=1791440742",
+        "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/04_7779f3c3-7177-46bc-881b-12541d6b0a27.jpg?v=1791440743",
+        "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/09_92b6e0ad-18b4-4a75-9186-3769bd178ec4.jpg?v=1791440743",
+        "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/08_00ad4427-1c08-4ac3-9032-5efd9e2651ce.jpg?v=1791440743",
+        "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/012_c4384d2c-4876-4d3f-8ec3-42a19b89c323.jpg?v=1791440743"
+      ],
+      "exactDesignGuardrails": "Preserve bristle head, temperature buttons, display, cord and plug; avoid hair transformation, invented live readout or heating effect.",
+      "studioAsset": {
+        "filename": "10257843224768-studio.png",
+        "prompt": "Generate one separate square photorealistic product photograph, 1024x1024. Use the supplied exact-product reference as the sole authority for the product design. Preserve its physical shape, proportions, material appearance, colors, pattern, attachments and item count. Remove advertising text, supplier codes, watermarks and collage layout. Do not add branding, specifications, capabilities, attachments or design features. No before/after panels, rating stars, performance symbols or claim text. Studio hero on a pale warm-gray seamless surface with soft daylight and subtle realistic contact shadow. Product clearly readable in three-quarter view. Show exactly one product unit. Only include packaged attachments whose presence is proven by the verified reference; keep the reference configuration. No lifestyle props. Preserve bristle head, temperature buttons, display, cord and plug; avoid hair transformation, invented live readout or heating effect."
+      },
+      "useCaseAsset": {
+        "filename": "10257843224768-usecase.png",
+        "prompt": "Generate one separate square photorealistic product photograph, 1024x1024. Use the supplied exact-product reference as the sole authority for the product design. Preserve its physical shape, proportions, material appearance, colors, pattern, attachments and item count. Remove advertising text, supplier codes, watermarks and collage layout. Do not add branding, specifications, capabilities, attachments or design features. No before/after panels, rating stars, performance symbols or claim text. Realistic restrained home setting with the product prominent. The exact brush rests switched off on a dry dressing table beside a plain hair comb and folded towel. Any context props are background illustration, not package contents. Preserve bristle head, temperature buttons, display, cord and plug; avoid hair transformation, invented live readout or heating effect."
+      },
+      "qaChecks": [
+        "Compare exact geometry/color/features with approved original reference.",
+        "Reject missing or added included parts, duplicate product units and wrong pack count.",
+        "No supplier codes, watermarks, advertising text or collage.",
+        "Context does not imply unsupported function, performance or included props.",
+        "Two separate square assets; no split combined image."
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/10257843257536",
+      "title": "Stainless Steel Water Bottle — Approx. 360 ml",
+      "productStatus": "ACTIVE",
+      "referenceReviewStatus": "PENDING_LANE_A_VISUAL_AUDIT",
+      "referenceCandidateUrls": [
+        "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/1_b02c8f7a-8e68-4034-9e25-b090d98c3b26.jpg?v=1791440743",
+        "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/2_69b7b711-9488-4265-ab74-69f326045d34.jpg?v=1791440743",
+        "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/3_e688f47b-7c24-43be-b6ba-051a5219531d.jpg?v=1791440743",
+        "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/4_3f37e900-cbe2-4ff4-a34a-9a0ffc1f8f0f.jpg?v=1791440744",
+        "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/5_dfb7c740-b695-4342-ab3a-c9e5ea93fef6.jpg?v=1791440744",
+        "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/6_6e3c2d63-47b5-40d3-9b4c-a8df22d2850e.jpg?v=1791440743",
+        "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/7_4c489d2c-d714-480b-8496-34c7d34828e8.jpg?v=1791440744",
+        "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/8_809491e4-c55a-4c49-a222-beb1b3d42a87.jpg?v=1791440744"
+      ],
+      "exactDesignGuardrails": "Preserve cylinder silhouette, lid, opening and finish; no invented thermal layers, leakproof drops or capacity markings.",
+      "studioAsset": {
+        "filename": "10257843257536-studio.png",
+        "prompt": "Generate one separate square photorealistic product photograph, 1024x1024. Use the supplied exact-product reference as the sole authority for the product design. Preserve its physical shape, proportions, material appearance, colors, pattern, attachments and item count. Remove advertising text, supplier codes, watermarks and collage layout. Do not add branding, specifications, capabilities, attachments or design features. No before/after panels, rating stars, performance symbols or claim text. Studio hero on a pale warm-gray seamless surface with soft daylight and subtle realistic contact shadow. Product clearly readable in three-quarter view. Show exactly one product unit. Only include packaged attachments whose presence is proven by the verified reference; keep the reference configuration. No lifestyle props. Preserve cylinder silhouette, lid, opening and finish; no invented thermal layers, leakproof drops or capacity markings."
+      },
+      "useCaseAsset": {
+        "filename": "10257843257536-usecase.png",
+        "prompt": "Generate one separate square photorealistic product photograph, 1024x1024. Use the supplied exact-product reference as the sole authority for the product design. Preserve its physical shape, proportions, material appearance, colors, pattern, attachments and item count. Remove advertising text, supplier codes, watermarks and collage layout. Do not add branding, specifications, capabilities, attachments or design features. No before/after panels, rating stars, performance symbols or claim text. Realistic restrained home setting with the product prominent. The exact closed bottle stands beside a plain unbranded bag on a desk. Any context props are background illustration, not package contents. Preserve cylinder silhouette, lid, opening and finish; no invented thermal layers, leakproof drops or capacity markings."
+      },
+      "qaChecks": [
+        "Compare exact geometry/color/features with approved original reference.",
+        "Reject missing or added included parts, duplicate product units and wrong pack count.",
+        "No supplier codes, watermarks, advertising text or collage.",
+        "Context does not imply unsupported function, performance or included props.",
+        "Two separate square assets; no split combined image."
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/10257843355840",
+      "title": "Manual Citrus Juicer with Strainer",
+      "productStatus": "ACTIVE",
+      "referenceReviewStatus": "PENDING_LANE_A_VISUAL_AUDIT",
+      "referenceCandidateUrls": [
+        "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/1_e6b04b09-29af-42df-b581-8f3865ca1f08.jpg?v=1791440744",
+        "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/2_eaa644c2-92e3-4116-be77-d0c1b8871a88.jpg?v=1791440744",
+        "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/3_d5bb127d-c746-4eca-9fec-fb1f6e6f0edb.jpg?v=1791440745",
+        "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/4_61f9bc93-aff1-4cb4-b351-669ce033ff84.jpg?v=1791440745",
+        "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/5_b787857a-f3fa-4994-9899-02067a2bbc8c.jpg?v=1791440745",
+        "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/6_702089da-9951-4271-86d2-1d9e150205b8.jpg?v=1791440744",
+        "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/7_726396df-f460-4f34-af64-dae706e1dc47.jpg?v=1791440745",
+        "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/8_f63ecb85-e97d-4af6-9da3-3ebb3c24df44.jpg?v=1791440744",
+        "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/9_26c9c9c6-e5b4-4333-888f-6dd7b49fc252.jpg?v=1791440744"
+      ],
+      "exactDesignGuardrails": "Preserve bowl, side handle, pouring spout, detachable strainer and conical reamer, their exact colors and proportions; no electric motor or added pressing lever.",
+      "studioAsset": {
+        "filename": "10257843355840-studio.png",
+        "prompt": "Generate one separate square photorealistic product photograph, 1024x1024. Use the supplied exact-product reference as the sole authority for the product design. Preserve its physical shape, proportions, material appearance, colors, pattern, attachments and item count. Remove advertising text, supplier codes, watermarks and collage layout. Do not add branding, specifications, capabilities, attachments or design features. No before/after panels, rating stars, performance symbols or claim text. Studio hero on a pale warm-gray seamless surface with soft daylight and subtle realistic contact shadow. Product clearly readable in three-quarter view. Show exactly one product unit. Only include packaged attachments whose presence is proven by the verified reference; keep the reference configuration. No lifestyle props. Preserve bowl, side handle, pouring spout, detachable strainer and conical reamer, their exact colors and proportions; no electric motor or added pressing lever."
+      },
+      "useCaseAsset": {
+        "filename": "10257843355840-usecase.png",
+        "prompt": "Generate one separate square photorealistic product photograph, 1024x1024. Use the supplied exact-product reference as the sole authority for the product design. Preserve its physical shape, proportions, material appearance, colors, pattern, attachments and item count. Remove advertising text, supplier codes, watermarks and collage layout. Do not add branding, specifications, capabilities, attachments or design features. No before/after panels, rating stars, performance symbols or claim text. Realistic restrained home setting with the product prominent. The exact juicer sits on a kitchen worktop with one halved citrus fruit gently placed on its existing reamer; a second half lies nearby. Any context props are background illustration, not package contents. Preserve bowl, side handle, pouring spout, detachable strainer and conical reamer, their exact colors and proportions; no electric motor or added pressing lever."
+      },
+      "qaChecks": [
+        "Compare exact geometry/color/features with approved original reference.",
+        "Reject missing or added included parts, duplicate product units and wrong pack count.",
+        "No supplier codes, watermarks, advertising text or collage.",
+        "Context does not imply unsupported function, performance or included props.",
+        "Two separate square assets; no split combined image."
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/10257843454144",
+      "title": "Foldable Canvas Laundry and Storage Bag",
+      "productStatus": "ACTIVE",
+      "referenceReviewStatus": "PENDING_LANE_A_VISUAL_AUDIT",
+      "referenceCandidateUrls": [
+        "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/1_4ce9d265-46d8-4ffb-b2f2-3dbcb907d655.jpg?v=1791440746",
+        "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/2_95ee6822-904b-4b43-861b-4cce09f39058.jpg?v=1791440747",
+        "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/3_97a952f8-01e6-407f-9e95-375e16491315.jpg?v=1791440747",
+        "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/04_a723248a-e773-478d-8fed-158cc9ac8f96.jpg?v=1791440746",
+        "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/5_ec7c7c59-e1d1-4ca4-b73b-af3faba9c509.jpg?v=1791440745",
+        "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/6_fb72aaf8-dab0-4ab6-ae6c-19d8308de172.jpg?v=1791440746",
+        "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/7_405cc988-f411-4552-ac25-c8e3587e1d01.jpg?v=1791440746",
+        "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/8_18c574ed-1416-4cdc-8fa1-73fd7c73e30f.jpg?v=1791440747",
+        "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/9_21156ac4-10bd-4486-a9b5-178e4b6b8993.jpg?v=1791440746",
+        "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/10_b692d38e-5dc3-4852-b863-904341653641.jpg?v=1791440747"
+      ],
+      "exactDesignGuardrails": "Preserve cylindrical fabric shape, pattern, handle count, zip and reinforcement; do not substitute a rigid basket or invent tested size/capacity.",
+      "studioAsset": {
+        "filename": "10257843454144-studio.png",
+        "prompt": "Generate one separate square photorealistic product photograph, 1024x1024. Use the supplied exact-product reference as the sole authority for the product design. Preserve its physical shape, proportions, material appearance, colors, pattern, attachments and item count. Remove advertising text, supplier codes, watermarks and collage layout. Do not add branding, specifications, capabilities, attachments or design features. No before/after panels, rating stars, performance symbols or claim text. Studio hero on a pale warm-gray seamless surface with soft daylight and subtle realistic contact shadow. Product clearly readable in three-quarter view. Show exactly one product unit. Only include packaged attachments whose presence is proven by the verified reference; keep the reference configuration. No lifestyle props. Preserve cylindrical fabric shape, pattern, handle count, zip and reinforcement; do not substitute a rigid basket or invent tested size/capacity."
+      },
+      "useCaseAsset": {
+        "filename": "10257843454144-usecase.png",
+        "prompt": "Generate one separate square photorealistic product photograph, 1024x1024. Use the supplied exact-product reference as the sole authority for the product design. Preserve its physical shape, proportions, material appearance, colors, pattern, attachments and item count. Remove advertising text, supplier codes, watermarks and collage layout. Do not add branding, specifications, capabilities, attachments or design features. No before/after panels, rating stars, performance symbols or claim text. Realistic restrained home setting with the product prominent. The exact canvas bag stands upright beside a washing machine with a few ordinary garments visible beneath its existing zip opening. Any context props are background illustration, not package contents. Preserve cylindrical fabric shape, pattern, handle count, zip and reinforcement; do not substitute a rigid basket or invent tested size/capacity."
+      },
+      "qaChecks": [
+        "Compare exact geometry/color/features with approved original reference.",
+        "Reject missing or added included parts, duplicate product units and wrong pack count.",
+        "No supplier codes, watermarks, advertising text or collage.",
+        "Context does not imply unsupported function, performance or included props.",
+        "Two separate square assets; no split combined image."
+      ]
+    }
+  ]
+}

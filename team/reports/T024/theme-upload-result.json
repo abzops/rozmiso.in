@@ -1,0 +1,56 @@
+{
+  "eightFiles": {
+    "data": {
+      "themeFilesUpsert": {
+        "userErrors": [],
+        "upsertedThemeFiles": [
+          {
+            "filename": "assets/studio.js",
+            "checksumMd5": "0328bc989ca2273017c1faacf69ffc5f"
+          },
+          {
+            "filename": "layout/theme.liquid",
+            "checksumMd5": "62d569b4ffa42da6c9f9a28b61db2dd3"
+          },
+          {
+            "filename": "sections/studio-collection.liquid",
+            "checksumMd5": "adc803a5134c49c27d61f0ebb8c55849"
+          },
+          {
+            "filename": "sections/studio-header.liquid",
+            "checksumMd5": "5d1fda663e0d8989cdc0319ea2ac6a42"
+          },
+          {
+            "filename": "sections/studio-product.liquid",
+            "checksumMd5": "540f3b04c70ba2d184b26f45f3be6fd9"
+          },
+          {
+            "filename": "snippets/studio-card.liquid",
+            "checksumMd5": "d0b86aed10118ef03ab971718f0e1848"
+          },
+          {
+            "filename": "templates/cart.liquid",
+            "checksumMd5": "4933511ae523d923aaaa600291c5d6b6"
+          },
+          {
+            "filename": "templates/page.contact.liquid",
+            "checksumMd5": "59d28932a645123b2a6578ddb67abc05"
+          }
+        ]
+      }
+    }
+  },
+  "css": {
+    "data": {
+      "themeFilesUpsert": {
+        "userErrors": [],
+        "upsertedThemeFiles": [
+          {
+            "filename": "assets/studio.css",
+            "checksumMd5": "af415807c766c377fa1905c549ab2f23"
+          }
+        ]
+      }
+    }
+  }
+}

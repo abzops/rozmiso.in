@@ -1,0 +1,13 @@
+{
+  "id": "10252037390528",
+  "slot": "06-care",
+  "prompt": "Edit this product care graphic precisely. Remove the tan strap appearing on INSIDE of the opened lid and replace only that small strip area with continuous silver grid-pattern reflective lining matching the surrounding lid interior. Tan carry handle exists solely on outside and must NOT be visible through lining. Keep ALL text, typography, logo, layout, product print, colors, seams, zipper, position, lighting unchanged. Preserve the exact care graphic. No other edits.",
+  "referencePaths": [
+    "F:/Dropshipping/team/reports/T028/generated/10252037390528/06-care.png"
+  ],
+  "sourcePath": "C:/Users/Abhinand/.codex/generated_images/01a13435-490b-7431-997e-e0d931fa0e75/exec-b96f768e-4701-4f6c-a174-2c27c5424819.png",
+  "path": "F:/Dropshipping/team/reports/T028/generated/10252037390528/06-care-v2.png",
+  "mode": "built-in imagegen",
+  "qa": "PASS_local_visual_root_review_pending",
+  "date": "2026-10-13"
+}

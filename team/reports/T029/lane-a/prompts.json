@@ -1,0 +1,492 @@
+{
+  "task": "T029",
+  "mode": "built-in imagegen",
+  "jobs": [
+    {
+      "id": "10252037357760",
+      "slot": "01-studio",
+      "prompt": "Create one separate square premium ecommerce image 1024x1024. Reference images are exact product design authority, not layout. Preserve geometry, colors, pattern, material appearance, count and visible parts. White handheld T-shaped rotary brush: short cylindrical motor head, round white bristle face, long straight handle with gray oval control and ribbed cap. Yellow sponge disk, white fluffy pad, white bracket and short white USB cable in first inset. One appliance. Constraints: Second photo crops same appliance without inset; use first inset for attachments, do not invent five distinct unseen attachment shapes. Use one consistent color/configuration across all frames. No supplier codes, watermarks, advertising claims, dimensions, technical ratings, invented capabilities or logos.\nUse case: product-mockup. Studio hero, three-quarter view on warm neutral seamless surface with subtle contact shadow. Product only; one sale unit/set according to listed pack count. No context props. No text.",
+      "referencePaths": [
+        "F:\\Dropshipping\\team\\reports\\T028\\reference-review\\10252037357760\\reference-1.jpg",
+        "F:\\Dropshipping\\team\\reports\\T028\\reference-review\\10252037357760\\reference-2.jpg"
+      ]
+    },
+    {
+      "id": "10252037357760",
+      "slot": "02-detail",
+      "prompt": "Create one separate square premium ecommerce image 1024x1024. Reference images are exact product design authority, not layout. Preserve geometry, colors, pattern, material appearance, count and visible parts. White handheld T-shaped rotary brush: short cylindrical motor head, round white bristle face, long straight handle with gray oval control and ribbed cap. Yellow sponge disk, white fluffy pad, white bracket and short white USB cable in first inset. One appliance. Constraints: Second photo crops same appliance without inset; use first inset for attachments, do not invent five distinct unseen attachment shapes. Use one consistent color/configuration across all frames. No supplier codes, watermarks, advertising claims, dimensions, technical ratings, invented capabilities or logos.\nUse case: product-mockup. Alternate angle/detail photograph on cream seamless surface, show most meaningful visible physical detail such as closure/handle/head from reference. Preserve all parts, show one sale unit/set. No text, no extra props.",
+      "referencePaths": [
+        "F:\\Dropshipping\\team\\reports\\T028\\reference-review\\10252037357760\\reference-1.jpg",
+        "F:\\Dropshipping\\team\\reports\\T028\\reference-review\\10252037357760\\reference-2.jpg"
+      ]
+    },
+    {
+      "id": "10252037357760",
+      "slot": "03-usecase",
+      "prompt": "Create one separate square premium ecommerce image 1024x1024. Reference images are exact product design authority, not layout. Preserve geometry, colors, pattern, material appearance, count and visible parts. White handheld T-shaped rotary brush: short cylindrical motor head, round white bristle face, long straight handle with gray oval control and ribbed cap. Yellow sponge disk, white fluffy pad, white bracket and short white USB cable in first inset. One appliance. Constraints: Second photo crops same appliance without inset; use first inset for attachments, do not invent five distinct unseen attachment shapes. Use one consistent color/configuration across all frames. No supplier codes, watermarks, advertising claims, dimensions, technical ratings, invented capabilities or logos.\nUse case: photorealistic-natural. Realistic restrained home use context: on a dry bathroom counter beside a sink; brush prominent, no spray or running water. Product prominent, natural daylight. Context props never imply included package contents. No text.",
+      "referencePaths": [
+        "F:\\Dropshipping\\team\\reports\\T028\\reference-review\\10252037357760\\reference-1.jpg",
+        "F:\\Dropshipping\\team\\reports\\T028\\reference-review\\10252037357760\\reference-2.jpg"
+      ]
+    },
+    {
+      "id": "10252037357760",
+      "slot": "04-use-context",
+      "prompt": "Create one separate square premium ecommerce image 1024x1024. Reference images are exact product design authority, not layout. Preserve geometry, colors, pattern, material appearance, count and visible parts. White handheld T-shaped rotary brush: short cylindrical motor head, round white bristle face, long straight handle with gray oval control and ribbed cap. Yellow sponge disk, white fluffy pad, white bracket and short white USB cable in first inset. One appliance. Constraints: Second photo crops same appliance without inset; use first inset for attachments, do not invent five distinct unseen attachment shapes. Use one consistent color/configuration across all frames. No supplier codes, watermarks, advertising claims, dimensions, technical ratings, invented capabilities or logos.\nUse case: photorealistic-natural. Different realistic use context: adult hand holding its exact white brush against a tile with light contact; charging cord absent, connection kept dry. Product prominent, natural light, tactile detail. No unsupported performance effect. No text.",
+      "referencePaths": [
+        "F:\\Dropshipping\\team\\reports\\T028\\reference-review\\10252037357760\\reference-1.jpg",
+        "F:\\Dropshipping\\team\\reports\\T028\\reference-review\\10252037357760\\reference-2.jpg"
+      ]
+    },
+    {
+      "id": "10252037357760",
+      "slot": "05-title-features",
+      "prompt": "Create one separate square premium ecommerce image 1024x1024. Reference images are exact product design authority, not layout. Preserve geometry, colors, pattern, material appearance, count and visible parts. White handheld T-shaped rotary brush: short cylindrical motor head, round white bristle face, long straight handle with gray oval control and ribbed cap. Yellow sponge disk, white fluffy pad, white bracket and short white USB cable in first inset. One appliance. Constraints: Second photo crops same appliance without inset; use first inset for attachments, do not invent five distinct unseen attachment shapes. Use one consistent color/configuration across all frames. No supplier codes, watermarks, advertising claims, dimensions, technical ratings, invented capabilities or logos.\nClean refined dark sans-serif typography, generous margins and warm pale neutral background. Short exact text only, every listed phrase spelled correctly. Large faithful photorealistic product. No other words. Exact headline: \"5-in-1 Rechargeable Cleaning Brush\". Exact supporting labels: \"Rechargeable handheld design\"; \"Interchangeable heads\". Single product shown, no inset duplication; meaningful layout, no product collage.",
+      "referencePaths": [
+        "F:\\Dropshipping\\team\\reports\\T028\\reference-review\\10252037357760\\reference-1.jpg",
+        "F:\\Dropshipping\\team\\reports\\T028\\reference-review\\10252037357760\\reference-2.jpg"
+      ]
+    },
+    {
+      "id": "10252037357760",
+      "slot": "06-care",
+      "prompt": "Create one separate square premium ecommerce image 1024x1024. Reference images are exact product design authority, not layout. Preserve geometry, colors, pattern, material appearance, count and visible parts. White handheld T-shaped rotary brush: short cylindrical motor head, round white bristle face, long straight handle with gray oval control and ribbed cap. Yellow sponge disk, white fluffy pad, white bracket and short white USB cable in first inset. One appliance. Constraints: Second photo crops same appliance without inset; use first inset for attachments, do not invent five distinct unseen attachment shapes. Use one consistent color/configuration across all frames. No supplier codes, watermarks, advertising claims, dimensions, technical ratings, invented capabilities or logos.\nClean refined dark sans-serif typography, generous margins and warm pale neutral background. Short exact text only, every listed phrase spelled correctly. Large faithful photorealistic product. No other words. Exact headline: \"Care and use\". Exact supporting lines: \"Test a discreet area first\"; \"Keep charging connection dry\"; \"Follow included instructions\". Single product shown, no inset duplication.",
+      "referencePaths": [
+        "F:\\Dropshipping\\team\\reports\\T028\\reference-review\\10252037357760\\reference-1.jpg",
+        "F:\\Dropshipping\\team\\reports\\T028\\reference-review\\10252037357760\\reference-2.jpg"
+      ]
+    },
+    {
+      "id": "10252037390528",
+      "slot": "01-studio",
+      "prompt": "Create one separate square premium ecommerce image 1024x1024. Reference images are exact product design authority, not layout. Preserve geometry, colors, pattern, material appearance, count and visible parts. Rectangular soft zippered pouch, blue-gray cartoon animal print with yellow/orange accents, black piping/zipper, tan horizontal webbing handle, silver reflective grid lining. One pouch. Constraints: Pink lunchbox inside is a prop, not an included product. Keep bag design and lining; avoid converting it into a hard lunchbox. Use one consistent color/configuration across all frames. No supplier codes, watermarks, advertising claims, dimensions, technical ratings, invented capabilities or logos.\nUse case: product-mockup. Studio hero, three-quarter view on warm neutral seamless surface with subtle contact shadow. Product only; one sale unit/set according to listed pack count. No context props. No text.",
+      "referencePaths": [
+        "F:\\Dropshipping\\team\\reports\\T028\\reference-review\\10252037390528\\reference-1.jpg",
+        "F:\\Dropshipping\\team\\reports\\T028\\reference-review\\10252037390528\\reference-2.jpg"
+      ]
+    },
+    {
+      "id": "10252037390528",
+      "slot": "02-detail",
+      "prompt": "Create one separate square premium ecommerce image 1024x1024. Reference images are exact product design authority, not layout. Preserve geometry, colors, pattern, material appearance, count and visible parts. Rectangular soft zippered pouch, blue-gray cartoon animal print with yellow/orange accents, black piping/zipper, tan horizontal webbing handle, silver reflective grid lining. One pouch. Constraints: Pink lunchbox inside is a prop, not an included product. Keep bag design and lining; avoid converting it into a hard lunchbox. Use one consistent color/configuration across all frames. No supplier codes, watermarks, advertising claims, dimensions, technical ratings, invented capabilities or logos.\nUse case: product-mockup. Alternate angle/detail photograph on cream seamless surface, show most meaningful visible physical detail such as closure/handle/head from reference. Preserve all parts, show one sale unit/set. No text, no extra props.",
+      "referencePaths": [
+        "F:\\Dropshipping\\team\\reports\\T028\\reference-review\\10252037390528\\reference-1.jpg",
+        "F:\\Dropshipping\\team\\reports\\T028\\reference-review\\10252037390528\\reference-2.jpg"
+      ]
+    },
+    {
+      "id": "10252037390528",
+      "slot": "03-usecase",
+      "prompt": "Create one separate square premium ecommerce image 1024x1024. Reference images are exact product design authority, not layout. Preserve geometry, colors, pattern, material appearance, count and visible parts. Rectangular soft zippered pouch, blue-gray cartoon animal print with yellow/orange accents, black piping/zipper, tan horizontal webbing handle, silver reflective grid lining. One pouch. Constraints: Pink lunchbox inside is a prop, not an included product. Keep bag design and lining; avoid converting it into a hard lunchbox. Use one consistent color/configuration across all frames. No supplier codes, watermarks, advertising claims, dimensions, technical ratings, invented capabilities or logos.\nUse case: photorealistic-natural. Realistic restrained home use context: open and empty on a packing table beside a larger travel bag; exact cartoon pattern and foil-grid lining. Product prominent, natural daylight. Context props never imply included package contents. No text.",
+      "referencePaths": [
+        "F:\\Dropshipping\\team\\reports\\T028\\reference-review\\10252037390528\\reference-1.jpg",
+        "F:\\Dropshipping\\team\\reports\\T028\\reference-review\\10252037390528\\reference-2.jpg"
+      ]
+    },
+    {
+      "id": "10252037390528",
+      "slot": "04-use-context",
+      "prompt": "Create one separate square premium ecommerce image 1024x1024. Reference images are exact product design authority, not layout. Preserve geometry, colors, pattern, material appearance, count and visible parts. Rectangular soft zippered pouch, blue-gray cartoon animal print with yellow/orange accents, black piping/zipper, tan horizontal webbing handle, silver reflective grid lining. One pouch. Constraints: Pink lunchbox inside is a prop, not an included product. Keep bag design and lining; avoid converting it into a hard lunchbox. Use one consistent color/configuration across all frames. No supplier codes, watermarks, advertising claims, dimensions, technical ratings, invented capabilities or logos.\nUse case: photorealistic-natural. Different realistic use context: closed exact pouch placed inside an open neutral tote bag, tan handle visible; no included toiletry set. Product prominent, natural light, tactile detail. No unsupported performance effect. No text.",
+      "referencePaths": [
+        "F:\\Dropshipping\\team\\reports\\T028\\reference-review\\10252037390528\\reference-1.jpg",
+        "F:\\Dropshipping\\team\\reports\\T028\\reference-review\\10252037390528\\reference-2.jpg"
+      ]
+    },
+    {
+      "id": "10252037390528",
+      "slot": "05-title-features",
+      "prompt": "Create one separate square premium ecommerce image 1024x1024. Reference images are exact product design authority, not layout. Preserve geometry, colors, pattern, material appearance, count and visible parts. Rectangular soft zippered pouch, blue-gray cartoon animal print with yellow/orange accents, black piping/zipper, tan horizontal webbing handle, silver reflective grid lining. One pouch. Constraints: Pink lunchbox inside is a prop, not an included product. Keep bag design and lining; avoid converting it into a hard lunchbox. Use one consistent color/configuration across all frames. No supplier codes, watermarks, advertising claims, dimensions, technical ratings, invented capabilities or logos.\nClean refined dark sans-serif typography, generous margins and warm pale neutral background. Short exact text only, every listed phrase spelled correctly. Large faithful photorealistic product. No other words. Exact headline: \"Everyday Travel Organizer Pouch\". Exact supporting labels: \"Zipper closure\"; \"1 organizer pouch\". Single product shown, no inset duplication; meaningful layout, no product collage.",
+      "referencePaths": [
+        "F:\\Dropshipping\\team\\reports\\T028\\reference-review\\10252037390528\\reference-1.jpg",
+        "F:\\Dropshipping\\team\\reports\\T028\\reference-review\\10252037390528\\reference-2.jpg"
+      ]
+    },
+    {
+      "id": "10252037390528",
+      "slot": "06-care",
+      "prompt": "Create one separate square premium ecommerce image 1024x1024. Reference images are exact product design authority, not layout. Preserve geometry, colors, pattern, material appearance, count and visible parts. Rectangular soft zippered pouch, blue-gray cartoon animal print with yellow/orange accents, black piping/zipper, tan horizontal webbing handle, silver reflective grid lining. One pouch. Constraints: Pink lunchbox inside is a prop, not an included product. Keep bag design and lining; avoid converting it into a hard lunchbox. Use one consistent color/configuration across all frames. No supplier codes, watermarks, advertising claims, dimensions, technical ratings, invented capabilities or logos.\nClean refined dark sans-serif typography, generous margins and warm pale neutral background. Short exact text only, every listed phrase spelled correctly. Large faithful photorealistic product. No other words. Exact headline: \"Product details\". Exact supporting lines: \"Accessories not included\"; \"Colour and design may vary\". Single product shown, no inset duplication.",
+      "referencePaths": [
+        "F:\\Dropshipping\\team\\reports\\T028\\reference-review\\10252037390528\\reference-1.jpg",
+        "F:\\Dropshipping\\team\\reports\\T028\\reference-review\\10252037390528\\reference-2.jpg"
+      ]
+    },
+    {
+      "id": "10252037456064",
+      "slot": "01-studio",
+      "prompt": "Create one separate square premium ecommerce image 1024x1024. Reference images are exact product design authority, not layout. Preserve geometry, colors, pattern, material appearance, count and visible parts. Pink palm-sized bear-face brush body with two round ears, printed eyes/nose and dark-pink belly oval, side white fill-cap/button, dense gray bristle base. One brush. Constraints: Yellow gloves and clear spray bottle are props. Preserve molded face and pink body, no pump/nozzle invention. Use one consistent color/configuration across all frames. No supplier codes, watermarks, advertising claims, dimensions, technical ratings, invented capabilities or logos.\nUse case: product-mockup. Studio hero, three-quarter view on warm neutral seamless surface with subtle contact shadow. Product only; one sale unit/set according to listed pack count. No context props. No text.",
+      "referencePaths": [
+        "F:\\Dropshipping\\team\\reports\\T028\\reference-review\\10252037456064\\reference-1.jpg",
+        "F:\\Dropshipping\\team\\reports\\T028\\reference-review\\10252037456064\\reference-2.jpg"
+      ]
+    },
+    {
+      "id": "10252037456064",
+      "slot": "02-detail",
+      "prompt": "Create one separate square premium ecommerce image 1024x1024. Reference images are exact product design authority, not layout. Preserve geometry, colors, pattern, material appearance, count and visible parts. Pink palm-sized bear-face brush body with two round ears, printed eyes/nose and dark-pink belly oval, side white fill-cap/button, dense gray bristle base. One brush. Constraints: Yellow gloves and clear spray bottle are props. Preserve molded face and pink body, no pump/nozzle invention. Use one consistent color/configuration across all frames. No supplier codes, watermarks, advertising claims, dimensions, technical ratings, invented capabilities or logos.\nUse case: product-mockup. Alternate angle/detail photograph on cream seamless surface, show most meaningful visible physical detail such as closure/handle/head from reference. Preserve all parts, show one sale unit/set. No text, no extra props.",
+      "referencePaths": [
+        "F:\\Dropshipping\\team\\reports\\T028\\reference-review\\10252037456064\\reference-1.jpg",
+        "F:\\Dropshipping\\team\\reports\\T028\\reference-review\\10252037456064\\reference-2.jpg"
+      ]
+    },
+    {
+      "id": "10252037456064",
+      "slot": "03-usecase",
+      "prompt": "Create one separate square premium ecommerce image 1024x1024. Reference images are exact product design authority, not layout. Preserve geometry, colors, pattern, material appearance, count and visible parts. Pink palm-sized bear-face brush body with two round ears, printed eyes/nose and dark-pink belly oval, side white fill-cap/button, dense gray bristle base. One brush. Constraints: Yellow gloves and clear spray bottle are props. Preserve molded face and pink body, no pump/nozzle invention. Use one consistent color/configuration across all frames. No supplier codes, watermarks, advertising claims, dimensions, technical ratings, invented capabilities or logos.\nUse case: photorealistic-natural. Realistic restrained home use context: exact pink bear brush resting bristles down on dry kitchen counter beside sink. Product prominent, natural daylight. Context props never imply included package contents. No text.",
+      "referencePaths": [
+        "F:\\Dropshipping\\team\\reports\\T028\\reference-review\\10252037456064\\reference-1.jpg",
+        "F:\\Dropshipping\\team\\reports\\T028\\reference-review\\10252037456064\\reference-2.jpg"
+      ]
+    },
+    {
+      "id": "10252037456064",
+      "slot": "04-use-context",
+      "prompt": "Create one separate square premium ecommerce image 1024x1024. Reference images are exact product design authority, not layout. Preserve geometry, colors, pattern, material appearance, count and visible parts. Pink palm-sized bear-face brush body with two round ears, printed eyes/nose and dark-pink belly oval, side white fill-cap/button, dense gray bristle base. One brush. Constraints: Yellow gloves and clear spray bottle are props. Preserve molded face and pink body, no pump/nozzle invention. Use one consistent color/configuration across all frames. No supplier codes, watermarks, advertising claims, dimensions, technical ratings, invented capabilities or logos.\nUse case: photorealistic-natural. Different realistic use context: adult hand gently holding exact pink bear brush against a durable sink surface; no exaggerated foam or cleaning transformation. Product prominent, natural light, tactile detail. No unsupported performance effect. No text.",
+      "referencePaths": [
+        "F:\\Dropshipping\\team\\reports\\T028\\reference-review\\10252037456064\\reference-1.jpg",
+        "F:\\Dropshipping\\team\\reports\\T028\\reference-review\\10252037456064\\reference-2.jpg"
+      ]
+    },
+    {
+      "id": "10252037456064",
+      "slot": "05-title-features",
+      "prompt": "Create one separate square premium ecommerce image 1024x1024. Reference images are exact product design authority, not layout. Preserve geometry, colors, pattern, material appearance, count and visible parts. Pink palm-sized bear-face brush body with two round ears, printed eyes/nose and dark-pink belly oval, side white fill-cap/button, dense gray bristle base. One brush. Constraints: Yellow gloves and clear spray bottle are props. Preserve molded face and pink body, no pump/nozzle invention. Use one consistent color/configuration across all frames. No supplier codes, watermarks, advertising claims, dimensions, technical ratings, invented capabilities or logos.\nClean refined dark sans-serif typography, generous margins and warm pale neutral background. Short exact text only, every listed phrase spelled correctly. Large faithful photorealistic product. No other words. Exact headline: \"2-in-1 Soap Dispensing Cleaning Brush\". Exact supporting labels: \"Refillable liquid holder\"; \"Compact grip\". Single product shown, no inset duplication; meaningful layout, no product collage.",
+      "referencePaths": [
+        "F:\\Dropshipping\\team\\reports\\T028\\reference-review\\10252037456064\\reference-1.jpg",
+        "F:\\Dropshipping\\team\\reports\\T028\\reference-review\\10252037456064\\reference-2.jpg"
+      ]
+    },
+    {
+      "id": "10252037456064",
+      "slot": "06-care",
+      "prompt": "Create one separate square premium ecommerce image 1024x1024. Reference images are exact product design authority, not layout. Preserve geometry, colors, pattern, material appearance, count and visible parts. Pink palm-sized bear-face brush body with two round ears, printed eyes/nose and dark-pink belly oval, side white fill-cap/button, dense gray bristle base. One brush. Constraints: Yellow gloves and clear spray bottle are props. Preserve molded face and pink body, no pump/nozzle invention. Use one consistent color/configuration across all frames. No supplier codes, watermarks, advertising claims, dimensions, technical ratings, invented capabilities or logos.\nClean refined dark sans-serif typography, generous margins and warm pale neutral background. Short exact text only, every listed phrase spelled correctly. Large faithful photorealistic product. No other words. Exact headline: \"Care and use\". Exact supporting lines: \"Cleaning liquid not included\"; \"Test a discreet area first\"; \"Avoid delicate surfaces\". Single product shown, no inset duplication.",
+      "referencePaths": [
+        "F:\\Dropshipping\\team\\reports\\T028\\reference-review\\10252037456064\\reference-1.jpg",
+        "F:\\Dropshipping\\team\\reports\\T028\\reference-review\\10252037456064\\reference-2.jpg"
+      ]
+    },
+    {
+      "id": "10253181026496",
+      "slot": "01-studio",
+      "prompt": "Create one separate square premium ecommerce image 1024x1024. Reference images are exact product design authority, not layout. Preserve geometry, colors, pattern, material appearance, count and visible parts. Square terry-texture cloth, rounded corners, black stitched bound edge and black corner hanging loop. Reference 1 orange/rust; reference 2 gray. Single cloth design. Constraints: Use one consistent shown color across generated hero/usecase. Do not imply both colors supplied as a two-pack. Use one consistent color/configuration across all frames. No supplier codes, watermarks, advertising claims, dimensions, technical ratings, invented capabilities or logos.\nUse case: product-mockup. Studio hero, three-quarter view on warm neutral seamless surface with subtle contact shadow. Product only; one sale unit/set according to listed pack count. No context props. No text.",
+      "referencePaths": [
+        "F:\\Dropshipping\\team\\reports\\T028\\reference-review\\10253181026496\\reference-1.jpg",
+        "F:\\Dropshipping\\team\\reports\\T028\\reference-review\\10253181026496\\reference-2.jpg"
+      ]
+    },
+    {
+      "id": "10253181026496",
+      "slot": "02-detail",
+      "prompt": "Create one separate square premium ecommerce image 1024x1024. Reference images are exact product design authority, not layout. Preserve geometry, colors, pattern, material appearance, count and visible parts. Square terry-texture cloth, rounded corners, black stitched bound edge and black corner hanging loop. Reference 1 orange/rust; reference 2 gray. Single cloth design. Constraints: Use one consistent shown color across generated hero/usecase. Do not imply both colors supplied as a two-pack. Use one consistent color/configuration across all frames. No supplier codes, watermarks, advertising claims, dimensions, technical ratings, invented capabilities or logos.\nUse case: product-mockup. Alternate angle/detail photograph on cream seamless surface, show most meaningful visible physical detail such as closure/handle/head from reference. Preserve all parts, show one sale unit/set. No text, no extra props.",
+      "referencePaths": [
+        "F:\\Dropshipping\\team\\reports\\T028\\reference-review\\10253181026496\\reference-1.jpg",
+        "F:\\Dropshipping\\team\\reports\\T028\\reference-review\\10253181026496\\reference-2.jpg"
+      ]
+    },
+    {
+      "id": "10253181026496",
+      "slot": "03-usecase",
+      "prompt": "Create one separate square premium ecommerce image 1024x1024. Reference images are exact product design authority, not layout. Preserve geometry, colors, pattern, material appearance, count and visible parts. Square terry-texture cloth, rounded corners, black stitched bound edge and black corner hanging loop. Reference 1 orange/rust; reference 2 gray. Single cloth design. Constraints: Use one consistent shown color across generated hero/usecase. Do not imply both colors supplied as a two-pack. Use one consistent color/configuration across all frames. No supplier codes, watermarks, advertising claims, dimensions, technical ratings, invented capabilities or logos.\nUse case: photorealistic-natural. Realistic restrained home use context: one exact orange cloth wiping a plain kitchen worktop under an adult hand. Product prominent, natural daylight. Context props never imply included package contents. No text.",
+      "referencePaths": [
+        "F:\\Dropshipping\\team\\reports\\T028\\reference-review\\10253181026496\\reference-1.jpg",
+        "F:\\Dropshipping\\team\\reports\\T028\\reference-review\\10253181026496\\reference-2.jpg"
+      ]
+    },
+    {
+      "id": "10253181026496",
+      "slot": "04-use-context",
+      "prompt": "Create one separate square premium ecommerce image 1024x1024. Reference images are exact product design authority, not layout. Preserve geometry, colors, pattern, material appearance, count and visible parts. Square terry-texture cloth, rounded corners, black stitched bound edge and black corner hanging loop. Reference 1 orange/rust; reference 2 gray. Single cloth design. Constraints: Use one consistent shown color across generated hero/usecase. Do not imply both colors supplied as a two-pack. Use one consistent color/configuration across all frames. No supplier codes, watermarks, advertising claims, dimensions, technical ratings, invented capabilities or logos.\nUse case: photorealistic-natural. Different realistic use context: one exact orange black-bound cloth draped over towel rail with corner loop visible; no gray second cloth. Product prominent, natural light, tactile detail. No unsupported performance effect. No text.",
+      "referencePaths": [
+        "F:\\Dropshipping\\team\\reports\\T028\\reference-review\\10253181026496\\reference-1.jpg",
+        "F:\\Dropshipping\\team\\reports\\T028\\reference-review\\10253181026496\\reference-2.jpg"
+      ]
+    },
+    {
+      "id": "10253181026496",
+      "slot": "05-title-features",
+      "prompt": "Create one separate square premium ecommerce image 1024x1024. Reference images are exact product design authority, not layout. Preserve geometry, colors, pattern, material appearance, count and visible parts. Square terry-texture cloth, rounded corners, black stitched bound edge and black corner hanging loop. Reference 1 orange/rust; reference 2 gray. Single cloth design. Constraints: Use one consistent shown color across generated hero/usecase. Do not imply both colors supplied as a two-pack. Use one consistent color/configuration across all frames. No supplier codes, watermarks, advertising claims, dimensions, technical ratings, invented capabilities or logos.\nClean refined dark sans-serif typography, generous margins and warm pale neutral background. Short exact text only, every listed phrase spelled correctly. Large faithful photorealistic product. No other words. Exact headline: \"Microfiber Cleaning Cloth\". Exact supporting labels: \"1 cleaning cloth\"; \"Corner hanging loop\". Single product shown, no inset duplication; meaningful layout, no product collage.",
+      "referencePaths": [
+        "F:\\Dropshipping\\team\\reports\\T028\\reference-review\\10253181026496\\reference-1.jpg",
+        "F:\\Dropshipping\\team\\reports\\T028\\reference-review\\10253181026496\\reference-2.jpg"
+      ]
+    },
+    {
+      "id": "10253181026496",
+      "slot": "06-care",
+      "prompt": "Create one separate square premium ecommerce image 1024x1024. Reference images are exact product design authority, not layout. Preserve geometry, colors, pattern, material appearance, count and visible parts. Square terry-texture cloth, rounded corners, black stitched bound edge and black corner hanging loop. Reference 1 orange/rust; reference 2 gray. Single cloth design. Constraints: Use one consistent shown color across generated hero/usecase. Do not imply both colors supplied as a two-pack. Use one consistent color/configuration across all frames. No supplier codes, watermarks, advertising claims, dimensions, technical ratings, invented capabilities or logos.\nClean refined dark sans-serif typography, generous margins and warm pale neutral background. Short exact text only, every listed phrase spelled correctly. Large faithful photorealistic product. No other words. Exact headline: \"Care and use\". Exact supporting lines: \"Wash with mild detergent\"; \"Avoid bleach and fabric softener\"; \"Test delicate finishes first\". Single product shown, no inset duplication.",
+      "referencePaths": [
+        "F:\\Dropshipping\\team\\reports\\T028\\reference-review\\10253181026496\\reference-1.jpg",
+        "F:\\Dropshipping\\team\\reports\\T028\\reference-review\\10253181026496\\reference-2.jpg"
+      ]
+    },
+    {
+      "id": "10253181092032",
+      "slot": "01-studio",
+      "prompt": "Create one separate square premium ecommerce image 1024x1024. Reference images are exact product design authority, not layout. Preserve geometry, colors, pattern, material appearance, count and visible parts. Three flexible loop ties: long paired rails and a large circular finger ring with rounded sliding lock. Yellow loop/blue lock, green loop/magenta lock, purple loop/orange lock visible. Constraints: Hero exactly three ties; props bread/cookies not included. Reference 2 shows color alternatives; preserve first image set rather than inventing a four-pack. Use one consistent color/configuration across all frames. No supplier codes, watermarks, advertising claims, dimensions, technical ratings, invented capabilities or logos.\nUse case: product-mockup. Studio hero, three-quarter view on warm neutral seamless surface with subtle contact shadow. Product only; one sale unit/set according to listed pack count. No context props. No text.",
+      "referencePaths": [
+        "F:\\Dropshipping\\team\\reports\\T028\\reference-review\\10253181092032\\reference-1.jpg",
+        "F:\\Dropshipping\\team\\reports\\T028\\reference-review\\10253181092032\\reference-2.jpg"
+      ]
+    },
+    {
+      "id": "10253181092032",
+      "slot": "02-detail",
+      "prompt": "Create one separate square premium ecommerce image 1024x1024. Reference images are exact product design authority, not layout. Preserve geometry, colors, pattern, material appearance, count and visible parts. Three flexible loop ties: long paired rails and a large circular finger ring with rounded sliding lock. Yellow loop/blue lock, green loop/magenta lock, purple loop/orange lock visible. Constraints: Hero exactly three ties; props bread/cookies not included. Reference 2 shows color alternatives; preserve first image set rather than inventing a four-pack. Use one consistent color/configuration across all frames. No supplier codes, watermarks, advertising claims, dimensions, technical ratings, invented capabilities or logos.\nUse case: product-mockup. Alternate angle/detail photograph on cream seamless surface, show most meaningful visible physical detail such as closure/handle/head from reference. Preserve all parts, show one sale unit/set. No text, no extra props.",
+      "referencePaths": [
+        "F:\\Dropshipping\\team\\reports\\T028\\reference-review\\10253181092032\\reference-1.jpg",
+        "F:\\Dropshipping\\team\\reports\\T028\\reference-review\\10253181092032\\reference-2.jpg"
+      ]
+    },
+    {
+      "id": "10253181092032",
+      "slot": "03-usecase",
+      "prompt": "Create one separate square premium ecommerce image 1024x1024. Reference images are exact product design authority, not layout. Preserve geometry, colors, pattern, material appearance, count and visible parts. Three flexible loop ties: long paired rails and a large circular finger ring with rounded sliding lock. Yellow loop/blue lock, green loop/magenta lock, purple loop/orange lock visible. Constraints: Hero exactly three ties; props bread/cookies not included. Reference 2 shows color alternatives; preserve first image set rather than inventing a four-pack. Use one consistent color/configuration across all frames. No supplier codes, watermarks, advertising claims, dimensions, technical ratings, invented capabilities or logos.\nUse case: photorealistic-natural. Realistic restrained home use context: exact yellow/blue tie gathering an open plain bread packet; the exact green/magenta and purple/orange ties lie nearby; total three ties. Product prominent, natural daylight. Context props never imply included package contents. No text.",
+      "referencePaths": [
+        "F:\\Dropshipping\\team\\reports\\T028\\reference-review\\10253181092032\\reference-1.jpg",
+        "F:\\Dropshipping\\team\\reports\\T028\\reference-review\\10253181092032\\reference-2.jpg"
+      ]
+    },
+    {
+      "id": "10253181092032",
+      "slot": "04-use-context",
+      "prompt": "Create one separate square premium ecommerce image 1024x1024. Reference images are exact product design authority, not layout. Preserve geometry, colors, pattern, material appearance, count and visible parts. Three flexible loop ties: long paired rails and a large circular finger ring with rounded sliding lock. Yellow loop/blue lock, green loop/magenta lock, purple loop/orange lock visible. Constraints: Hero exactly three ties; props bread/cookies not included. Reference 2 shows color alternatives; preserve first image set rather than inventing a four-pack. Use one consistent color/configuration across all frames. No supplier codes, watermarks, advertising claims, dimensions, technical ratings, invented capabilities or logos.\nUse case: photorealistic-natural. Different realistic use context: exact purple/orange tie loosely bundling cords on a desk while yellow/blue and green/magenta ties lie nearby; exactly three total. Product prominent, natural light, tactile detail. No unsupported performance effect. No text.",
+      "referencePaths": [
+        "F:\\Dropshipping\\team\\reports\\T028\\reference-review\\10253181092032\\reference-1.jpg",
+        "F:\\Dropshipping\\team\\reports\\T028\\reference-review\\10253181092032\\reference-2.jpg"
+      ]
+    },
+    {
+      "id": "10253181092032",
+      "slot": "05-title-features",
+      "prompt": "Create one separate square premium ecommerce image 1024x1024. Reference images are exact product design authority, not layout. Preserve geometry, colors, pattern, material appearance, count and visible parts. Three flexible loop ties: long paired rails and a large circular finger ring with rounded sliding lock. Yellow loop/blue lock, green loop/magenta lock, purple loop/orange lock visible. Constraints: Hero exactly three ties; props bread/cookies not included. Reference 2 shows color alternatives; preserve first image set rather than inventing a four-pack. Use one consistent color/configuration across all frames. No supplier codes, watermarks, advertising claims, dimensions, technical ratings, invented capabilities or logos.\nClean refined dark sans-serif typography, generous margins and warm pale neutral background. Short exact text only, every listed phrase spelled correctly. Large faithful photorealistic product. No other words. Exact headline: \"Reusable Bag Locking Ties\". Exact supporting labels: \"Set of 3\"; \"Button-lock design\". Single product shown, no inset duplication; meaningful layout, no product collage.",
+      "referencePaths": [
+        "F:\\Dropshipping\\team\\reports\\T028\\reference-review\\10253181092032\\reference-1.jpg",
+        "F:\\Dropshipping\\team\\reports\\T028\\reference-review\\10253181092032\\reference-2.jpg"
+      ]
+    },
+    {
+      "id": "10253181092032",
+      "slot": "06-care",
+      "prompt": "Create one separate square premium ecommerce image 1024x1024. Reference images are exact product design authority, not layout. Preserve geometry, colors, pattern, material appearance, count and visible parts. Three flexible loop ties: long paired rails and a large circular finger ring with rounded sliding lock. Yellow loop/blue lock, green loop/magenta lock, purple loop/orange lock visible. Constraints: Hero exactly three ties; props bread/cookies not included. Reference 2 shows color alternatives; preserve first image set rather than inventing a four-pack. Use one consistent color/configuration across all frames. No supplier codes, watermarks, advertising claims, dimensions, technical ratings, invented capabilities or logos.\nClean refined dark sans-serif typography, generous margins and warm pale neutral background. Short exact text only, every listed phrase spelled correctly. Large faithful photorealistic product. No other words. Exact headline: \"Care and use\". Exact supporting lines: \"Wash with mild detergent\"; \"Dry before reuse\"; \"Packets not included\". Single product shown, no inset duplication.",
+      "referencePaths": [
+        "F:\\Dropshipping\\team\\reports\\T028\\reference-review\\10253181092032\\reference-1.jpg",
+        "F:\\Dropshipping\\team\\reports\\T028\\reference-review\\10253181092032\\reference-2.jpg"
+      ]
+    },
+    {
+      "id": "10253181255872",
+      "slot": "01-studio",
+      "prompt": "Create one separate square premium ecommerce image 1024x1024. Reference images are exact product design authority, not layout. Preserve geometry, colors, pattern, material appearance, count and visible parts. Blue round hinged clamshell cable-winder case, raised circular central winding hub with split semicircular top and a straight slot, edge cable notches and hinge tab. One case. Constraints: USB cable, laptop and phone are props. No built-in cable/charging electronics claim or extra screen. Use one consistent color/configuration across all frames. No supplier codes, watermarks, advertising claims, dimensions, technical ratings, invented capabilities or logos.\nUse case: product-mockup. Studio hero, three-quarter view on warm neutral seamless surface with subtle contact shadow. Product only; one sale unit/set according to listed pack count. No context props. No text.",
+      "referencePaths": [
+        "F:\\Dropshipping\\team\\reports\\T028\\reference-review\\10253181255872\\reference-1.jpg",
+        "F:\\Dropshipping\\team\\reports\\T028\\reference-review\\10253181255872\\reference-2.jpg"
+      ]
+    },
+    {
+      "id": "10253181255872",
+      "slot": "02-detail",
+      "prompt": "Create one separate square premium ecommerce image 1024x1024. Reference images are exact product design authority, not layout. Preserve geometry, colors, pattern, material appearance, count and visible parts. Blue round hinged clamshell cable-winder case, raised circular central winding hub with split semicircular top and a straight slot, edge cable notches and hinge tab. One case. Constraints: USB cable, laptop and phone are props. No built-in cable/charging electronics claim or extra screen. Use one consistent color/configuration across all frames. No supplier codes, watermarks, advertising claims, dimensions, technical ratings, invented capabilities or logos.\nUse case: product-mockup. Alternate angle/detail photograph on cream seamless surface, show most meaningful visible physical detail such as closure/handle/head from reference. Preserve all parts, show one sale unit/set. No text, no extra props.",
+      "referencePaths": [
+        "F:\\Dropshipping\\team\\reports\\T028\\reference-review\\10253181255872\\reference-1.jpg",
+        "F:\\Dropshipping\\team\\reports\\T028\\reference-review\\10253181255872\\reference-2.jpg"
+      ]
+    },
+    {
+      "id": "10253181255872",
+      "slot": "03-usecase",
+      "prompt": "Create one separate square premium ecommerce image 1024x1024. Reference images are exact product design authority, not layout. Preserve geometry, colors, pattern, material appearance, count and visible parts. Blue round hinged clamshell cable-winder case, raised circular central winding hub with split semicircular top and a straight slot, edge cable notches and hinge tab. One case. Constraints: USB cable, laptop and phone are props. No built-in cable/charging electronics claim or extra screen. Use one consistent color/configuration across all frames. No supplier codes, watermarks, advertising claims, dimensions, technical ratings, invented capabilities or logos.\nUse case: photorealistic-natural. Realistic restrained home use context: exact blue open hinged round case with a plain white cable wound around hub on desk; cable is context only. Product prominent, natural daylight. Context props never imply included package contents. No text.",
+      "referencePaths": [
+        "F:\\Dropshipping\\team\\reports\\T028\\reference-review\\10253181255872\\reference-1.jpg",
+        "F:\\Dropshipping\\team\\reports\\T028\\reference-review\\10253181255872\\reference-2.jpg"
+      ]
+    },
+    {
+      "id": "10253181255872",
+      "slot": "04-use-context",
+      "prompt": "Create one separate square premium ecommerce image 1024x1024. Reference images are exact product design authority, not layout. Preserve geometry, colors, pattern, material appearance, count and visible parts. Blue round hinged clamshell cable-winder case, raised circular central winding hub with split semicircular top and a straight slot, edge cable notches and hinge tab. One case. Constraints: USB cable, laptop and phone are props. No built-in cable/charging electronics claim or extra screen. Use one consistent color/configuration across all frames. No supplier codes, watermarks, advertising claims, dimensions, technical ratings, invented capabilities or logos.\nUse case: photorealistic-natural. Different realistic use context: same blue case closed inside open travel bag pocket, no built-in cord and no charging effect. Product prominent, natural light, tactile detail. No unsupported performance effect. No text.",
+      "referencePaths": [
+        "F:\\Dropshipping\\team\\reports\\T028\\reference-review\\10253181255872\\reference-1.jpg",
+        "F:\\Dropshipping\\team\\reports\\T028\\reference-review\\10253181255872\\reference-2.jpg"
+      ]
+    },
+    {
+      "id": "10253181255872",
+      "slot": "05-title-features",
+      "prompt": "Create one separate square premium ecommerce image 1024x1024. Reference images are exact product design authority, not layout. Preserve geometry, colors, pattern, material appearance, count and visible parts. Blue round hinged clamshell cable-winder case, raised circular central winding hub with split semicircular top and a straight slot, edge cable notches and hinge tab. One case. Constraints: USB cable, laptop and phone are props. No built-in cable/charging electronics claim or extra screen. Use one consistent color/configuration across all frames. No supplier codes, watermarks, advertising claims, dimensions, technical ratings, invented capabilities or logos.\nClean refined dark sans-serif typography, generous margins and warm pale neutral background. Short exact text only, every listed phrase spelled correctly. Large faithful photorealistic product. No other words. Exact headline: \"Compact Cable Winder Case\". Exact supporting labels: \"1 organizer case\"; \"Rotating spool\". Single product shown, no inset duplication; meaningful layout, no product collage.",
+      "referencePaths": [
+        "F:\\Dropshipping\\team\\reports\\T028\\reference-review\\10253181255872\\reference-1.jpg",
+        "F:\\Dropshipping\\team\\reports\\T028\\reference-review\\10253181255872\\reference-2.jpg"
+      ]
+    },
+    {
+      "id": "10253181255872",
+      "slot": "06-care",
+      "prompt": "Create one separate square premium ecommerce image 1024x1024. Reference images are exact product design authority, not layout. Preserve geometry, colors, pattern, material appearance, count and visible parts. Blue round hinged clamshell cable-winder case, raised circular central winding hub with split semicircular top and a straight slot, edge cable notches and hinge tab. One case. Constraints: USB cable, laptop and phone are props. No built-in cable/charging electronics claim or extra screen. Use one consistent color/configuration across all frames. No supplier codes, watermarks, advertising claims, dimensions, technical ratings, invented capabilities or logos.\nClean refined dark sans-serif typography, generous margins and warm pale neutral background. Short exact text only, every listed phrase spelled correctly. Large faithful photorealistic product. No other words. Exact headline: \"Care and use\". Exact supporting lines: \"Check cable fit first\"; \"Do not bend cables sharply\"; \"Cable not included\". Single product shown, no inset duplication.",
+      "referencePaths": [
+        "F:\\Dropshipping\\team\\reports\\T028\\reference-review\\10253181255872\\reference-1.jpg",
+        "F:\\Dropshipping\\team\\reports\\T028\\reference-review\\10253181255872\\reference-2.jpg"
+      ]
+    },
+    {
+      "id": "10253181321408",
+      "slot": "01-studio",
+      "prompt": "Create one separate square premium ecommerce image 1024x1024. Reference images are exact product design authority, not layout. Preserve geometry, colors, pattern, material appearance, count and visible parts. Small white/gray plastic hand-grip block with smile-shaped side raised detail, side clip, gray coarse folded cleaning pad underneath with two downward fins. Aqua alternative in reference 2. One tool. Constraints: Preserve grip and folded pad; use white body for a consistent pair. Do not show powered brush or invent hidden bristles. Use one consistent color/configuration across all frames. No supplier codes, watermarks, advertising claims, dimensions, technical ratings, invented capabilities or logos.\nUse case: product-mockup. Studio hero, three-quarter view on warm neutral seamless surface with subtle contact shadow. Product only; one sale unit/set according to listed pack count. No context props. No text.",
+      "referencePaths": [
+        "F:\\Dropshipping\\team\\reports\\T028\\reference-review\\10253181321408\\reference-1.jpg",
+        "F:\\Dropshipping\\team\\reports\\T028\\reference-review\\10253181321408\\reference-2.jpg"
+      ]
+    },
+    {
+      "id": "10253181321408",
+      "slot": "02-detail",
+      "prompt": "Create one separate square premium ecommerce image 1024x1024. Reference images are exact product design authority, not layout. Preserve geometry, colors, pattern, material appearance, count and visible parts. Small white/gray plastic hand-grip block with smile-shaped side raised detail, side clip, gray coarse folded cleaning pad underneath with two downward fins. Aqua alternative in reference 2. One tool. Constraints: Preserve grip and folded pad; use white body for a consistent pair. Do not show powered brush or invent hidden bristles. Use one consistent color/configuration across all frames. No supplier codes, watermarks, advertising claims, dimensions, technical ratings, invented capabilities or logos.\nUse case: product-mockup. Alternate angle/detail photograph on cream seamless surface, show most meaningful visible physical detail such as closure/handle/head from reference. Preserve all parts, show one sale unit/set. No text, no extra props.",
+      "referencePaths": [
+        "F:\\Dropshipping\\team\\reports\\T028\\reference-review\\10253181321408\\reference-1.jpg",
+        "F:\\Dropshipping\\team\\reports\\T028\\reference-review\\10253181321408\\reference-2.jpg"
+      ]
+    },
+    {
+      "id": "10253181321408",
+      "slot": "03-usecase",
+      "prompt": "Create one separate square premium ecommerce image 1024x1024. Reference images are exact product design authority, not layout. Preserve geometry, colors, pattern, material appearance, count and visible parts. Small white/gray plastic hand-grip block with smile-shaped side raised detail, side clip, gray coarse folded cleaning pad underneath with two downward fins. Aqua alternative in reference 2. One tool. Constraints: Preserve grip and folded pad; use white body for a consistent pair. Do not show powered brush or invent hidden bristles. Use one consistent color/configuration across all frames. No supplier codes, watermarks, advertising claims, dimensions, technical ratings, invented capabilities or logos.\nUse case: photorealistic-natural. Realistic restrained home use context: adult hand using exact white grip and gray folded pad in accessible window track; no before/after panels. Product prominent, natural daylight. Context props never imply included package contents. No text.",
+      "referencePaths": [
+        "F:\\Dropshipping\\team\\reports\\T028\\reference-review\\10253181321408\\reference-1.jpg",
+        "F:\\Dropshipping\\team\\reports\\T028\\reference-review\\10253181321408\\reference-2.jpg"
+      ]
+    },
+    {
+      "id": "10253181321408",
+      "slot": "04-use-context",
+      "prompt": "Create one separate square premium ecommerce image 1024x1024. Reference images are exact product design authority, not layout. Preserve geometry, colors, pattern, material appearance, count and visible parts. Small white/gray plastic hand-grip block with smile-shaped side raised detail, side clip, gray coarse folded cleaning pad underneath with two downward fins. Aqua alternative in reference 2. One tool. Constraints: Preserve grip and folded pad; use white body for a consistent pair. Do not show powered brush or invent hidden bristles. Use one consistent color/configuration across all frames. No supplier codes, watermarks, advertising claims, dimensions, technical ratings, invented capabilities or logos.\nUse case: photorealistic-natural. Different realistic use context: exact white gray-padded tool lying beside a sliding door track, context surface dry; do not replace pad with bristles. Product prominent, natural light, tactile detail. No unsupported performance effect. No text.",
+      "referencePaths": [
+        "F:\\Dropshipping\\team\\reports\\T028\\reference-review\\10253181321408\\reference-1.jpg",
+        "F:\\Dropshipping\\team\\reports\\T028\\reference-review\\10253181321408\\reference-2.jpg"
+      ]
+    },
+    {
+      "id": "10253181321408",
+      "slot": "05-title-features",
+      "prompt": "Create one separate square premium ecommerce image 1024x1024. Reference images are exact product design authority, not layout. Preserve geometry, colors, pattern, material appearance, count and visible parts. Small white/gray plastic hand-grip block with smile-shaped side raised detail, side clip, gray coarse folded cleaning pad underneath with two downward fins. Aqua alternative in reference 2. One tool. Constraints: Preserve grip and folded pad; use white body for a consistent pair. Do not show powered brush or invent hidden bristles. Use one consistent color/configuration across all frames. No supplier codes, watermarks, advertising claims, dimensions, technical ratings, invented capabilities or logos.\nClean refined dark sans-serif typography, generous margins and warm pale neutral background. Short exact text only, every listed phrase spelled correctly. Large faithful photorealistic product. No other words. Exact headline: \"Window Groove Cleaning Brush\". Exact supporting labels: \"Handheld design\"; \"1 cleaning tool\". Single product shown, no inset duplication; meaningful layout, no product collage.",
+      "referencePaths": [
+        "F:\\Dropshipping\\team\\reports\\T028\\reference-review\\10253181321408\\reference-1.jpg",
+        "F:\\Dropshipping\\team\\reports\\T028\\reference-review\\10253181321408\\reference-2.jpg"
+      ]
+    },
+    {
+      "id": "10253181321408",
+      "slot": "06-care",
+      "prompt": "Create one separate square premium ecommerce image 1024x1024. Reference images are exact product design authority, not layout. Preserve geometry, colors, pattern, material appearance, count and visible parts. Small white/gray plastic hand-grip block with smile-shaped side raised detail, side clip, gray coarse folded cleaning pad underneath with two downward fins. Aqua alternative in reference 2. One tool. Constraints: Preserve grip and folded pad; use white body for a consistent pair. Do not show powered brush or invent hidden bristles. Use one consistent color/configuration across all frames. No supplier codes, watermarks, advertising claims, dimensions, technical ratings, invented capabilities or logos.\nClean refined dark sans-serif typography, generous margins and warm pale neutral background. Short exact text only, every listed phrase spelled correctly. Large faithful photorealistic product. No other words. Exact headline: \"Care and use\". Exact supporting lines: \"Check groove width\"; \"Test a hidden area first\"; \"Rinse and air-dry\". Single product shown, no inset duplication.",
+      "referencePaths": [
+        "F:\\Dropshipping\\team\\reports\\T028\\reference-review\\10253181321408\\reference-1.jpg",
+        "F:\\Dropshipping\\team\\reports\\T028\\reference-review\\10253181321408\\reference-2.jpg"
+      ]
+    },
+    {
+      "id": "10253181419712",
+      "slot": "01-studio",
+      "prompt": "Create one separate square premium ecommerce image 1024x1024. Reference images are exact product design authority, not layout. Preserve geometry, colors, pattern, material appearance, count and visible parts. Long narrow burgundy/red glossy brush head and tapered handle, cream end cap with hanging hole, dense dark brown bristles in linear rows. One brush. Constraints: Preserve length/head-to-handle proportions and cream cap; no spray bottle or motor. Use one consistent color/configuration across all frames. No supplier codes, watermarks, advertising claims, dimensions, technical ratings, invented capabilities or logos.\nUse case: product-mockup. Studio hero, three-quarter view on warm neutral seamless surface with subtle contact shadow. Product only; one sale unit/set according to listed pack count. No context props. No text.",
+      "referencePaths": [
+        "F:\\Dropshipping\\team\\reports\\T028\\reference-review\\10253181419712\\reference-1.png",
+        "F:\\Dropshipping\\team\\reports\\T028\\reference-review\\10253181419712\\reference-2.png"
+      ]
+    },
+    {
+      "id": "10253181419712",
+      "slot": "02-detail",
+      "prompt": "Create one separate square premium ecommerce image 1024x1024. Reference images are exact product design authority, not layout. Preserve geometry, colors, pattern, material appearance, count and visible parts. Long narrow burgundy/red glossy brush head and tapered handle, cream end cap with hanging hole, dense dark brown bristles in linear rows. One brush. Constraints: Preserve length/head-to-handle proportions and cream cap; no spray bottle or motor. Use one consistent color/configuration across all frames. No supplier codes, watermarks, advertising claims, dimensions, technical ratings, invented capabilities or logos.\nUse case: product-mockup. Alternate angle/detail photograph on cream seamless surface, show most meaningful visible physical detail such as closure/handle/head from reference. Preserve all parts, show one sale unit/set. No text, no extra props.",
+      "referencePaths": [
+        "F:\\Dropshipping\\team\\reports\\T028\\reference-review\\10253181419712\\reference-1.png",
+        "F:\\Dropshipping\\team\\reports\\T028\\reference-review\\10253181419712\\reference-2.png"
+      ]
+    },
+    {
+      "id": "10253181419712",
+      "slot": "03-usecase",
+      "prompt": "Create one separate square premium ecommerce image 1024x1024. Reference images are exact product design authority, not layout. Preserve geometry, colors, pattern, material appearance, count and visible parts. Long narrow burgundy/red glossy brush head and tapered handle, cream end cap with hanging hole, dense dark brown bristles in linear rows. One brush. Constraints: Preserve length/head-to-handle proportions and cream cap; no spray bottle or motor. Use one consistent color/configuration across all frames. No supplier codes, watermarks, advertising claims, dimensions, technical ratings, invented capabilities or logos.\nUse case: photorealistic-natural. Realistic restrained home use context: adult hand holding exact burgundy long bristled brush lightly across plain gray sofa upholstery. Product prominent, natural daylight. Context props never imply included package contents. No text.",
+      "referencePaths": [
+        "F:\\Dropshipping\\team\\reports\\T028\\reference-review\\10253181419712\\reference-1.png",
+        "F:\\Dropshipping\\team\\reports\\T028\\reference-review\\10253181419712\\reference-2.png"
+      ]
+    },
+    {
+      "id": "10253181419712",
+      "slot": "04-use-context",
+      "prompt": "Create one separate square premium ecommerce image 1024x1024. Reference images are exact product design authority, not layout. Preserve geometry, colors, pattern, material appearance, count and visible parts. Long narrow burgundy/red glossy brush head and tapered handle, cream end cap with hanging hole, dense dark brown bristles in linear rows. One brush. Constraints: Preserve length/head-to-handle proportions and cream cap; no spray bottle or motor. Use one consistent color/configuration across all frames. No supplier codes, watermarks, advertising claims, dimensions, technical ratings, invented capabilities or logos.\nUse case: photorealistic-natural. Different realistic use context: exact burgundy brush resting beside a plain household mat, cream end cap/hanging hole and dark bristles visible. Product prominent, natural light, tactile detail. No unsupported performance effect. No text.",
+      "referencePaths": [
+        "F:\\Dropshipping\\team\\reports\\T028\\reference-review\\10253181419712\\reference-1.png",
+        "F:\\Dropshipping\\team\\reports\\T028\\reference-review\\10253181419712\\reference-2.png"
+      ]
+    },
+    {
+      "id": "10253181419712",
+      "slot": "05-title-features",
+      "prompt": "Create one separate square premium ecommerce image 1024x1024. Reference images are exact product design authority, not layout. Preserve geometry, colors, pattern, material appearance, count and visible parts. Long narrow burgundy/red glossy brush head and tapered handle, cream end cap with hanging hole, dense dark brown bristles in linear rows. One brush. Constraints: Preserve length/head-to-handle proportions and cream cap; no spray bottle or motor. Use one consistent color/configuration across all frames. No supplier codes, watermarks, advertising claims, dimensions, technical ratings, invented capabilities or logos.\nClean refined dark sans-serif typography, generous margins and warm pale neutral background. Short exact text only, every listed phrase spelled correctly. Large faithful photorealistic product. No other words. Exact headline: \"Handheld Upholstery Cleaning Brush\". Exact supporting labels: \"Manual brush\"; \"Hanging hole\". Single product shown, no inset duplication; meaningful layout, no product collage.",
+      "referencePaths": [
+        "F:\\Dropshipping\\team\\reports\\T028\\reference-review\\10253181419712\\reference-1.png",
+        "F:\\Dropshipping\\team\\reports\\T028\\reference-review\\10253181419712\\reference-2.png"
+      ]
+    },
+    {
+      "id": "10253181419712",
+      "slot": "06-care",
+      "prompt": "Create one separate square premium ecommerce image 1024x1024. Reference images are exact product design authority, not layout. Preserve geometry, colors, pattern, material appearance, count and visible parts. Long narrow burgundy/red glossy brush head and tapered handle, cream end cap with hanging hole, dense dark brown bristles in linear rows. One brush. Constraints: Preserve length/head-to-handle proportions and cream cap; no spray bottle or motor. Use one consistent color/configuration across all frames. No supplier codes, watermarks, advertising claims, dimensions, technical ratings, invented capabilities or logos.\nClean refined dark sans-serif typography, generous margins and warm pale neutral background. Short exact text only, every listed phrase spelled correctly. Large faithful photorealistic product. No other words. Exact headline: \"Care and use\". Exact supporting lines: \"Test a hidden area first\"; \"Avoid fragile fabric\"; \"Air-dry fully\". Single product shown, no inset duplication.",
+      "referencePaths": [
+        "F:\\Dropshipping\\team\\reports\\T028\\reference-review\\10253181419712\\reference-1.png",
+        "F:\\Dropshipping\\team\\reports\\T028\\reference-review\\10253181419712\\reference-2.png"
+      ]
+    },
+    {
+      "id": "10253181518016",
+      "slot": "01-studio",
+      "prompt": "Create one separate square premium ecommerce image 1024x1024. Reference images are exact product design authority, not layout. Preserve geometry, colors, pattern, material appearance, count and visible parts. Cream/beige folding fabric toiletry organizer, rounded rectangular folded shape with carry strap. Open form has white S-hook, upper clear zipped pocket, middle mesh section and larger bottom mesh zipped pocket, matching stitching and hook-and-loop closure patches. Constraints: Toiletries/medicines/razor are props; do not imply included. Preserve actual pocket layout and cream color. Use one consistent color/configuration across all frames. No supplier codes, watermarks, advertising claims, dimensions, technical ratings, invented capabilities or logos.\nUse case: product-mockup. Studio hero, three-quarter view on warm neutral seamless surface with subtle contact shadow. Product only; one sale unit/set according to listed pack count. No context props. No text.",
+      "referencePaths": [
+        "F:\\Dropshipping\\team\\reports\\T028\\reference-review\\10253181518016\\reference-1.jpg",
+        "F:\\Dropshipping\\team\\reports\\T028\\reference-review\\10253181518016\\reference-2.jpg"
+      ]
+    },
+    {
+      "id": "10253181518016",
+      "slot": "02-detail",
+      "prompt": "Create one separate square premium ecommerce image 1024x1024. Reference images are exact product design authority, not layout. Preserve geometry, colors, pattern, material appearance, count and visible parts. Cream/beige folding fabric toiletry organizer, rounded rectangular folded shape with carry strap. Open form has white S-hook, upper clear zipped pocket, middle mesh section and larger bottom mesh zipped pocket, matching stitching and hook-and-loop closure patches. Constraints: Toiletries/medicines/razor are props; do not imply included. Preserve actual pocket layout and cream color. Use one consistent color/configuration across all frames. No supplier codes, watermarks, advertising claims, dimensions, technical ratings, invented capabilities or logos.\nUse case: product-mockup. Alternate angle/detail photograph on cream seamless surface, show most meaningful visible physical detail such as closure/handle/head from reference. Preserve all parts, show one sale unit/set. No text, no extra props.",
+      "referencePaths": [
+        "F:\\Dropshipping\\team\\reports\\T028\\reference-review\\10253181518016\\reference-1.jpg",
+        "F:\\Dropshipping\\team\\reports\\T028\\reference-review\\10253181518016\\reference-2.jpg"
+      ]
+    },
+    {
+      "id": "10253181518016",
+      "slot": "03-usecase",
+      "prompt": "Create one separate square premium ecommerce image 1024x1024. Reference images are exact product design authority, not layout. Preserve geometry, colors, pattern, material appearance, count and visible parts. Cream/beige folding fabric toiletry organizer, rounded rectangular folded shape with carry strap. Open form has white S-hook, upper clear zipped pocket, middle mesh section and larger bottom mesh zipped pocket, matching stitching and hook-and-loop closure patches. Constraints: Toiletries/medicines/razor are props; do not imply included. Preserve actual pocket layout and cream color. Use one consistent color/configuration across all frames. No supplier codes, watermarks, advertising claims, dimensions, technical ratings, invented capabilities or logos.\nUse case: photorealistic-natural. Realistic restrained home use context: exact cream organizer open on a bathroom hook, actual pocket layout preserved; few plain bottles context only. Product prominent, natural daylight. Context props never imply included package contents. No text.",
+      "referencePaths": [
+        "F:\\Dropshipping\\team\\reports\\T028\\reference-review\\10253181518016\\reference-1.jpg",
+        "F:\\Dropshipping\\team\\reports\\T028\\reference-review\\10253181518016\\reference-2.jpg"
+      ]
+    },
+    {
+      "id": "10253181518016",
+      "slot": "04-use-context",
+      "prompt": "Create one separate square premium ecommerce image 1024x1024. Reference images are exact product design authority, not layout. Preserve geometry, colors, pattern, material appearance, count and visible parts. Cream/beige folding fabric toiletry organizer, rounded rectangular folded shape with carry strap. Open form has white S-hook, upper clear zipped pocket, middle mesh section and larger bottom mesh zipped pocket, matching stitching and hook-and-loop closure patches. Constraints: Toiletries/medicines/razor are props; do not imply included. Preserve actual pocket layout and cream color. Use one consistent color/configuration across all frames. No supplier codes, watermarks, advertising claims, dimensions, technical ratings, invented capabilities or logos.\nUse case: photorealistic-natural. Different realistic use context: exact cream organizer folded closed inside an open travel bag, rounded flap and tan strap visible. Product prominent, natural light, tactile detail. No unsupported performance effect. No text.",
+      "referencePaths": [
+        "F:\\Dropshipping\\team\\reports\\T028\\reference-review\\10253181518016\\reference-1.jpg",
+        "F:\\Dropshipping\\team\\reports\\T028\\reference-review\\10253181518016\\reference-2.jpg"
+      ]
+    },
+    {
+      "id": "10253181518016",
+      "slot": "05-title-features",
+      "prompt": "Create one separate square premium ecommerce image 1024x1024. Reference images are exact product design authority, not layout. Preserve geometry, colors, pattern, material appearance, count and visible parts. Cream/beige folding fabric toiletry organizer, rounded rectangular folded shape with carry strap. Open form has white S-hook, upper clear zipped pocket, middle mesh section and larger bottom mesh zipped pocket, matching stitching and hook-and-loop closure patches. Constraints: Toiletries/medicines/razor are props; do not imply included. Preserve actual pocket layout and cream color. Use one consistent color/configuration across all frames. No supplier codes, watermarks, advertising claims, dimensions, technical ratings, invented capabilities or logos.\nClean refined dark sans-serif typography, generous margins and warm pale neutral background. Short exact text only, every listed phrase spelled correctly. Large faithful photorealistic product. No other words. Exact headline: \"Foldable Hanging Travel Organizer\". Exact supporting labels: \"Multiple pockets\"; \"Hanging hook\". Single product shown, no inset duplication; meaningful layout, no product collage.",
+      "referencePaths": [
+        "F:\\Dropshipping\\team\\reports\\T028\\reference-review\\10253181518016\\reference-1.jpg",
+        "F:\\Dropshipping\\team\\reports\\T028\\reference-review\\10253181518016\\reference-2.jpg"
+      ]
+    },
+    {
+      "id": "10253181518016",
+      "slot": "06-care",
+      "prompt": "Create one separate square premium ecommerce image 1024x1024. Reference images are exact product design authority, not layout. Preserve geometry, colors, pattern, material appearance, count and visible parts. Cream/beige folding fabric toiletry organizer, rounded rectangular folded shape with carry strap. Open form has white S-hook, upper clear zipped pocket, middle mesh section and larger bottom mesh zipped pocket, matching stitching and hook-and-loop closure patches. Constraints: Toiletries/medicines/razor are props; do not imply included. Preserve actual pocket layout and cream color. Use one consistent color/configuration across all frames. No supplier codes, watermarks, advertising claims, dimensions, technical ratings, invented capabilities or logos.\nClean refined dark sans-serif typography, generous margins and warm pale neutral background. Short exact text only, every listed phrase spelled correctly. Large faithful photorealistic product. No other words. Exact headline: \"Care and use\". Exact supporting lines: \"Wipe with a damp cloth\"; \"Air-dry\"; \"Toiletries not included\". Single product shown, no inset duplication.",
+      "referencePaths": [
+        "F:\\Dropshipping\\team\\reports\\T028\\reference-review\\10253181518016\\reference-1.jpg",
+        "F:\\Dropshipping\\team\\reports\\T028\\reference-review\\10253181518016\\reference-2.jpg"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "10252037357760",
+  "slot": "05-premium-poster",
+  "prompt": "Use case: product-mockup. Generate one new SQUARE premium Rozmiso ecommerce/Instagram poster. Images 1-2 are exact cleaning brush product references. Image 3 is STYLE ONLY: do not depict its juicer, fruit or words. Warm ivory, deep forest-green refined serif heading and small sans-serif labels, generous space, product dominates lower half with natural soft shadow. Exact text: small top \"ROZMISO / THE EVERYDAY EDIT\"; moderate headline \"5-in-1 Cleaning Brush\"; subheading \"Rechargeable handheld design\"; two feature labels \"Interchangeable heads\" and \"Kitchen & bathroom routines\". Footer small rounded-square R brandmark, \"Explore the collection\", \"@rozmiso.in\", and tiny disclosure \"AI-generated illustration\". Preserve white T-shaped rotary brush, circular white bristle head, elongated handle, gray oval button and ribbed end cap; yellow sponge, white fluffy pad and white bracket may be placed beside it exactly as reference. Omit charging cable entirely because tip is not verified. No extra heads, logos, codes, waterproof claims, starbursts, collage or black wall of huge text. No price, rating, dimensions or delivery promises.",
+  "referencePaths": [
+    "F:/Dropshipping/team/reports/T028/reference-review/10252037357760/reference-1.jpg",
+    "F:/Dropshipping/team/reports/T028/reference-review/10252037357760/reference-2.jpg",
+    "F:/Dropshipping/team/reports/T029/social/juicer-premium-poster.png"
+  ],
+  "sourcePath": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a11a26-34a3-7170-8b8d-982910619d33\\exec-a19caaa1-0536-480f-b340-9353221f89c1.png",
+  "output_hint": "Generated images are saved to C:\\Users\\Abhinand\\.codex\\generated_images\\01a11a26-34a3-7170-8b8d-982910619d33 as C:\\Users\\Abhinand\\.codex\\generated_images\\01a11a26-34a3-7170-8b8d-982910619d33\\exec-a19caaa1-0536-480f-b340-9353221f89c1.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+  "path": "F:/Dropshipping/team/reports/T028/generated/10252037357760/05-premium-poster.png",
+  "qa": "LOCAL_VISUAL_REVIEW_PENDING",
+  "date": "2026-10-13"
+}

@@ -1,0 +1,9 @@
+{
+  "qa": "Root visually reviewed: product and care copy preserved, footer removed",
+  "source": "05-slide.png",
+  "output": "05-care-v4.png",
+  "tool": "builtin imagegen",
+  "date": "2026-10-14",
+  "change": "Remove only AI footer",
+  "generatedSource": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a11a24-fa90-7301-83f3-7aea32cd5e82\\exec-8387b44b-2092-41cc-9fca-0f857728222e.png"
+}

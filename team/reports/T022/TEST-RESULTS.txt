@@ -1,0 +1,88 @@
+TAP version 13
+# Subtest: native hit beyond local 50 remains discoverable; decimal amounts and local override are correct
+ok 1 - native hit beyond local 50 remains discoverable; decimal amounts and local override are correct
+  ---
+  duration_ms: 358.0771
+  type: 'test'
+  ...
+# Subtest: zero-decimal presentment currency uses native major amounts and preview unavailable wording
+ok 2 - zero-decimal presentment currency uses native major amounts and preview unavailable wording
+  ---
+  duration_ms: 267.8701
+  type: 'test'
+  ...
+# Subtest: later query wins over earlier slow response
+ok 3 - later query wins over earlier slow response
+  ---
+  duration_ms: 543.4228
+  type: 'test'
+  ...
+# Subtest: preview keeps available variant disabled and prevents add even if disabled attribute is removed
+ok 4 - preview keeps available variant disabled and prevents add even if disabled attribute is removed
+  ---
+  duration_ms: 50.8405
+  type: 'test'
+  ...
+# Subtest: preview submission guard operates without optional cart drawer and preserves cart updates
+ok 5 - preview submission guard operates without optional cart drawer and preserves cart updates
+  ---
+  duration_ms: 13.1136
+  type: 'test'
+  ...
+# Subtest: normal variant switching preserves available/unavailable state and price
+ok 6 - normal variant switching preserves available/unavailable state and price
+  ---
+  duration_ms: 13.8842
+  type: 'test'
+  ...
+# Subtest: normal rapid duplicate adds mutate once and refresh server totals
+ok 7 - normal rapid duplicate adds mutate once and refresh server totals
+  ---
+  duration_ms: 88.284
+  type: 'test'
+  ...
+# Subtest: cart removal remains allowed in preview
+ok 8 - cart removal remains allowed in preview
+  ---
+  duration_ms: 36.0683
+  type: 'test'
+  ...
+# Subtest: product 51 can prefill enquiry text safely; no markup injection
+ok 9 - product 51 can prefill enquiry text safely; no markup injection
+  ---
+  duration_ms: 17.3572
+  type: 'test'
+  ...
+# Subtest: Liquid PDP renders preview and stock availability matrix independently
+ok 10 - Liquid PDP renders preview and stock availability matrix independently
+  ---
+  duration_ms: 78.8466
+  type: 'test'
+  ...
+# Subtest: Liquid full bag and drawer checkout render disabled for existing cart in preview
+ok 11 - Liquid full bag and drawer checkout render disabled for existing cart in preview
+  ---
+  duration_ms: 51.3011
+  type: 'test'
+  ...
+# Subtest: native refinements persist when filtering a multi-page catalog down to one page or no results
+ok 12 - native refinements persist when filtering a multi-page catalog down to one page or no results
+  ---
+  duration_ms: 52.8169
+  type: 'test'
+  ...
+# Subtest: missing Shopify native filter configuration is left visibly unclaimed; small collection keeps controls
+ok 13 - missing Shopify native filter configuration is left visibly unclaimed; small collection keeps controls
+  ---
+  duration_ms: 29.255
+  type: 'test'
+  ...
+1..13
+# tests 13
+# suites 0
+# pass 13
+# fail 0
+# cancelled 0
+# skipped 0
+# todo 0
+# duration_ms 2717.7871

@@ -1,0 +1,26 @@
+[
+  {
+    "file": "sections/studio-hero.liquid",
+    "matches": true
+  },
+  {
+    "file": "assets/studio.css",
+    "matches": true
+  },
+  {
+    "file": "templates/index.json",
+    "matches": true
+  },
+  {
+    "file": "locales/en.default.json",
+    "matches": true
+  },
+  {
+    "file": "snippets/studio-product-videos.liquid",
+    "matches": true
+  },
+  {
+    "file": "sections/studio-product.liquid",
+    "matches": true
+  }
+]

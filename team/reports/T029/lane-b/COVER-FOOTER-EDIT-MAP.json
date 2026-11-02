@@ -1,0 +1,88 @@
+{
+  "date": "2026-10-13",
+  "tool": "builtin image_gen.imagegen",
+  "status": "SUBMITTED",
+  "acceptance": "Root independent review pending",
+  "covers": [
+    {
+      "productId": "10253181583552",
+      "input": "F:/Dropshipping/team/reports/T028/generated/10253181583552/features.png",
+      "output": "F:/Dropshipping/team/reports/T028/generated/10253181583552/features-v3.png",
+      "prompt": "Edit ONLY tiny bottom footer wording of this existing product poster. Remove 'AI-generated product illustration' or 'AI-generated illustration' and immediately adjacent bullet/separator. Preserve ALL other heading, feature text, product photograph geometry/colors/count, background, R logo, @rozmiso.in handle and Explore the collection CTA precisely unchanged. Keep any remaining factual wording such as Props not included, One strip shown or Prints may vary. Seamlessly restore existing background where words removed. Add no replacement text or content.",
+      "generatedOutput": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a1362d-b1be-7f72-bf46-56386b3bea8c\\exec-fce89110-5427-4846-ad76-2ce1f698704f.png",
+      "status": "AUTHOR_QA_PASS_FOOTER_ONLY"
+    },
+    {
+      "productId": "10253181681856",
+      "input": "F:/Dropshipping/team/reports/T028/generated/10253181681856/features.png",
+      "output": "F:/Dropshipping/team/reports/T028/generated/10253181681856/features-v3.png",
+      "prompt": "Edit ONLY tiny bottom footer wording of this existing product poster. Remove 'AI-generated product illustration' or 'AI-generated illustration' and immediately adjacent bullet/separator. Preserve ALL other heading, feature text, product photograph geometry/colors/count, background, R logo, @rozmiso.in handle and Explore the collection CTA precisely unchanged. Keep any remaining factual wording such as Props not included, One strip shown or Prints may vary. Seamlessly restore existing background where words removed. Add no replacement text or content.",
+      "generatedOutput": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a1362d-b1be-7f72-bf46-56386b3bea8c\\exec-4becc74a-9b5a-4e44-9849-9d6f83a4caa6.png",
+      "status": "AUTHOR_QA_PASS_FOOTER_ONLY"
+    },
+    {
+      "productId": "10253181845696",
+      "input": "F:/Dropshipping/team/reports/T028/generated/10253181845696/features.png",
+      "output": "F:/Dropshipping/team/reports/T028/generated/10253181845696/features-v3.png",
+      "prompt": "Edit ONLY tiny bottom footer wording of this existing product poster. Remove 'AI-generated product illustration' or 'AI-generated illustration' and immediately adjacent bullet/separator. Preserve ALL other heading, feature text, product photograph geometry/colors/count, background, R logo, @rozmiso.in handle and Explore the collection CTA precisely unchanged. Keep any remaining factual wording such as Props not included, One strip shown or Prints may vary. Seamlessly restore existing background where words removed. Add no replacement text or content.",
+      "generatedOutput": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a1362d-b1be-7f72-bf46-56386b3bea8c\\exec-64d3b13c-01f7-4cbc-94d5-a818ffb79e28.png",
+      "status": "AUTHOR_QA_PASS_FOOTER_ONLY"
+    },
+    {
+      "productId": "10253181944000",
+      "input": "F:/Dropshipping/team/reports/T028/generated/10253181944000/features.png",
+      "output": "F:/Dropshipping/team/reports/T028/generated/10253181944000/features-v3.png",
+      "prompt": "Edit ONLY tiny bottom footer wording of this existing product poster. Remove 'AI-generated product illustration' or 'AI-generated illustration' and immediately adjacent bullet/separator. Preserve ALL other heading, feature text, product photograph geometry/colors/count, background, R logo, @rozmiso.in handle and Explore the collection CTA precisely unchanged. Keep any remaining factual wording such as Props not included, One strip shown or Prints may vary. Seamlessly restore existing background where words removed. Add no replacement text or content.",
+      "generatedOutput": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a1362d-b1be-7f72-bf46-56386b3bea8c\\exec-2e12dc00-1bd6-4d20-88f6-9cca9a260c71.png",
+      "status": "AUTHOR_QA_PASS_FOOTER_ONLY"
+    },
+    {
+      "productId": "10253182009536",
+      "input": "F:/Dropshipping/team/reports/T028/generated/10253182009536/features.png",
+      "output": "F:/Dropshipping/team/reports/T028/generated/10253182009536/features-v3.png",
+      "prompt": "Edit ONLY tiny bottom footer wording of this existing product poster. Remove 'AI-generated product illustration' or 'AI-generated illustration' and immediately adjacent bullet/separator. Preserve ALL other heading, feature text, product photograph geometry/colors/count, background, R logo, @rozmiso.in handle and Explore the collection CTA precisely unchanged. Keep any remaining factual wording such as Props not included, One strip shown or Prints may vary. Seamlessly restore existing background where words removed. Add no replacement text or content.",
+      "generatedOutput": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a1362d-b1be-7f72-bf46-56386b3bea8c\\exec-8961e0b2-f730-41e2-8f5d-299a1bdaa8a3.png",
+      "status": "AUTHOR_QA_PASS_FOOTER_ONLY"
+    },
+    {
+      "productId": "10257843060928",
+      "input": "F:/Dropshipping/team/reports/T028/generated/10257843060928/features.png",
+      "output": "F:/Dropshipping/team/reports/T028/generated/10257843060928/features-v3.png",
+      "prompt": "Edit ONLY tiny bottom footer wording of this existing product poster. Remove 'AI-generated product illustration' or 'AI-generated illustration' and immediately adjacent bullet/separator. Preserve ALL other heading, feature text, product photograph geometry/colors/count, background, R logo, @rozmiso.in handle and Explore the collection CTA precisely unchanged. Keep any remaining factual wording such as Props not included, One strip shown or Prints may vary. Seamlessly restore existing background where words removed. Add no replacement text or content.",
+      "generatedOutput": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a1362d-b1be-7f72-bf46-56386b3bea8c\\exec-dc6e4dc3-e94b-4ae1-943a-53df85265c4b.png",
+      "status": "AUTHOR_QA_PASS_FOOTER_ONLY"
+    },
+    {
+      "productId": "10257843159232",
+      "input": "F:/Dropshipping/team/reports/T028/generated/10257843159232/features.png",
+      "output": "F:/Dropshipping/team/reports/T028/generated/10257843159232/features-v3.png",
+      "prompt": "Edit ONLY tiny bottom footer wording of this existing product poster. Remove 'AI-generated product illustration' or 'AI-generated illustration' and immediately adjacent bullet/separator. Preserve ALL other heading, feature text, product photograph geometry/colors/count, background, R logo, @rozmiso.in handle and Explore the collection CTA precisely unchanged. Keep any remaining factual wording such as Props not included, One strip shown or Prints may vary. Seamlessly restore existing background where words removed. Add no replacement text or content.",
+      "generatedOutput": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a1362d-b1be-7f72-bf46-56386b3bea8c\\exec-9dffbd13-5efd-42e0-a49f-c481016b0703.png",
+      "status": "AUTHOR_QA_PASS_FOOTER_ONLY"
+    },
+    {
+      "productId": "10257843224768",
+      "input": "F:/Dropshipping/team/reports/T028/generated/10257843224768/features.png",
+      "output": "F:/Dropshipping/team/reports/T028/generated/10257843224768/features-v3.png",
+      "prompt": "Edit ONLY tiny bottom footer wording of this existing product poster. Remove 'AI-generated product illustration' or 'AI-generated illustration' and immediately adjacent bullet/separator. Preserve ALL other heading, feature text, product photograph geometry/colors/count, background, R logo, @rozmiso.in handle and Explore the collection CTA precisely unchanged. Keep any remaining factual wording such as Props not included, One strip shown or Prints may vary. Seamlessly restore existing background where words removed. Add no replacement text or content.",
+      "generatedOutput": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a1362d-b1be-7f72-bf46-56386b3bea8c\\exec-d1bd0abe-69a8-4bdc-ba44-0a8d6e620da8.png",
+      "status": "AUTHOR_QA_PASS_FOOTER_ONLY"
+    },
+    {
+      "productId": "10257843257536",
+      "input": "F:/Dropshipping/team/reports/T028/generated/10257843257536/features.png",
+      "output": "F:/Dropshipping/team/reports/T028/generated/10257843257536/features-v3.png",
+      "prompt": "Edit ONLY tiny bottom footer wording of this existing product poster. Remove 'AI-generated product illustration' or 'AI-generated illustration' and immediately adjacent bullet/separator. Preserve ALL other heading, feature text, product photograph geometry/colors/count, background, R logo, @rozmiso.in handle and Explore the collection CTA precisely unchanged. Keep any remaining factual wording such as Props not included, One strip shown or Prints may vary. Seamlessly restore existing background where words removed. Add no replacement text or content.",
+      "generatedOutput": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a1362d-b1be-7f72-bf46-56386b3bea8c\\exec-c2dc847f-3150-4107-8358-00b655d81a3e.png",
+      "status": "AUTHOR_QA_PASS_FOOTER_ONLY"
+    },
+    {
+      "productId": "10257843454144",
+      "input": "F:/Dropshipping/team/reports/T028/generated/10257843454144/features.png",
+      "output": "F:/Dropshipping/team/reports/T028/generated/10257843454144/features-v3.png",
+      "prompt": "Edit ONLY tiny bottom footer wording of this existing product poster. Remove 'AI-generated product illustration' or 'AI-generated illustration' and immediately adjacent bullet/separator. Preserve ALL other heading, feature text, product photograph geometry/colors/count, background, R logo, @rozmiso.in handle and Explore the collection CTA precisely unchanged. Keep any remaining factual wording such as Props not included, One strip shown or Prints may vary. Seamlessly restore existing background where words removed. Add no replacement text or content.",
+      "generatedOutput": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a1362d-b1be-7f72-bf46-56386b3bea8c\\exec-10a34e03-da74-4fc3-b787-19c3ed9dc0ed.png",
+      "status": "AUTHOR_QA_PASS_FOOTER_ONLY"
+    }
+  ]
+}

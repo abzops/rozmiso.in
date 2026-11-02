@@ -1,0 +1,80 @@
+[
+  {
+    "name": "theme_info",
+    "theme_name": "Rozmiso Bharat CRO",
+    "theme_version": "1.0.0",
+    "theme_author": "Rozmiso Studio",
+    "theme_documentation_url": "https://rozmiso.com",
+    "theme_support_url": "https://rozmiso.com/support"
+  },
+  {
+    "name": "Colors & Branding",
+    "settings": [
+      {
+        "type": "color",
+        "id": "primary_color",
+        "label": "Primary Brand Color",
+        "default": "#ff3366"
+      },
+      {
+        "type": "color",
+        "id": "primary_hover",
+        "label": "Primary Hover Color",
+        "default": "#e02456"
+      },
+      {
+        "type": "color",
+        "id": "accent_green",
+        "label": "COD/Success Accent (Green)",
+        "default": "#10b981"
+      },
+      {
+        "type": "color",
+        "id": "dark_text",
+        "label": "Main Text Color",
+        "default": "#0f172a"
+      },
+      {
+        "type": "color",
+        "id": "bg_light",
+        "label": "Light Background",
+        "default": "#f8fafc"
+      }
+    ]
+  },
+  {
+    "name": "India CRO & Trust Badges",
+    "settings": [
+      {
+        "type": "text",
+        "id": "announcement_text",
+        "label": "Announcement Text",
+        "default": "⚡ FREE Cash On Delivery Across India | Get Extra ₹50 OFF on UPI Prepaid!"
+      },
+      {
+        "type": "text",
+        "id": "whatsapp_number",
+        "label": "Support WhatsApp Number (with 91)",
+        "default": "919876543210"
+      },
+      {
+        "type": "checkbox",
+        "id": "enable_sticky_cod",
+        "label": "Enable Sticky Mobile COD Button",
+        "default": true
+      },
+      {
+        "type": "checkbox",
+        "id": "enable_pincode_checker",
+        "label": "Enable Delivery Pincode Checker",
+        "default": true
+      },
+      {
+        "type": "checkbox",
+        "id": "enable_stock_scarcity",
+        "label": "Enable Real-time Scarcity Bar",
+        "default": true
+      }
+    ]
+  }
+]

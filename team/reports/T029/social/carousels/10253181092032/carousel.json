@@ -1,0 +1,91 @@
+{
+  "productId": "10253181092032",
+  "title": "Reusable Bag Locking Ties, Set of 3",
+  "productUrl": "https://rozmiso.in/products/reusable-bag-locking-ties-set-of-3",
+  "replacesPost": null,
+  "status": "ASSETS_COMPLETE_CROP_REVIEW_PENDING",
+  "slides": [
+    {
+      "order": 1,
+      "role": "Cover and features",
+      "path": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253181092032\\01-slide.png",
+      "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253181092032\\01-square-v4.png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "sha256": "4d1674911255d4a4fa9b2c7efabdabcec09c636200bb486f636d2e5b4a2116bc",
+      "altText": "Reusable Bag Locking Ties, Set of 3: cover and features. Context props are not included."
+    },
+    {
+      "order": 2,
+      "role": "Product detail",
+      "path": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253181092032\\02-slide.png",
+      "source": "F:\\Dropshipping\\team\\reports\\T028\\generated\\10253181092032\\02-detail.png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "sha256": "f55c0a14e86e574548eda1f849048ba281a8d4b9d8fba1ccb189295de251873a",
+      "altText": "Reusable Bag Locking Ties, Set of 3: product detail. Context props are not included."
+    },
+    {
+      "order": 3,
+      "role": "Primary use",
+      "path": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253181092032\\03-slide.png",
+      "source": "F:\\Dropshipping\\team\\reports\\T028\\generated\\10253181092032\\03-usecase.png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "sha256": "829ff08dad03c16e1896ac6560254f5904754f6b8257e83822bf8b71e1b46fa9",
+      "altText": "Reusable Bag Locking Ties, Set of 3: primary use. Context props are not included."
+    },
+    {
+      "order": 4,
+      "role": "Second context",
+      "path": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253181092032\\04-slide.png",
+      "source": "F:\\Dropshipping\\team\\reports\\T028\\generated\\10253181092032\\04-use-context.png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "sha256": "aab555967eb7ce26c8e018b844fd6540e7c79c6c8f525ec04d3446e3667a8970",
+      "altText": "Reusable Bag Locking Ties, Set of 3: second context. Context props are not included."
+    },
+    {
+      "order": 5,
+      "role": "Care guidance",
+      "path": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253181092032\\05-slide.png",
+      "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253181092032\\05-care-v4.png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "sha256": "9ba33ee6386c86be7296356726de8e3dcc02ddd1cc4d18ecff54e83bbc571b9b",
+      "altText": "Reusable Bag Locking Ties, Set of 3: care guidance. Context props are not included."
+    },
+    {
+      "order": 6,
+      "role": "Product link",
+      "path": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253181092032\\06-slide.png",
+      "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\shared\\06-product-link-in.png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "sha256": "23e858c33b087c1d637c4489fc6bb1297dfc4b08f75755f670185d79e9d0127a",
+      "altText": "Reusable Bag Locking Ties, Set of 3: product link. Context props are not included."
+    }
+  ],
+  "missing": [],
+  "mixedAspectRatios": false,
+  "caption": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253181092032\\caption.txt",
+  "aiLabel": false,
+  "facebookPersonalCrosspost": false,
+  "facebookPageCrosspostRequired": true,
+  "facebookPageId": "61595107991994",
+  "livePublished": false,
+  "publishedVersionMayDiffer": false,
+  "theme": "Rozmiso Everyday Edit / ivory and forest green"
+}

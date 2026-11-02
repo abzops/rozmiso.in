@@ -1,0 +1,20 @@
+const fs=require('node:fs');const path=require('node:path');const root='F:/Dropshipping';
+const boardPath=path.join(root,'team/TASK-BOARD.json');const board=JSON.parse(fs.readFileSync(boardPath,'utf8'));
+const task=board.tasks.find(t=>t.id==='T001');
+const native=JSON.parse(fs.readFileSync(path.join(root,'team/reports/T001/NATIVE-RESULT.json'),'utf8'));
+if(native.result.status!=='SUCCESS'||!native.result.response)throw new Error('No usable native report');
+task.status='CHANGES_REQUIRED';task.blockers=['Full requested audit omitted product/collection/cart templates, JavaScript and prior validation input; native accessibility/performance assertions need correction.'];task.accepted_at=null;
+task.execution_evidence.result_path='team/reports/T001/NATIVE-RESULT.json';
+fs.writeFileSync(boardPath,JSON.stringify(board,null,2)+'\n');
+const review=`\n## Codex independent review - 6 October 2026\n\nCHANGES_REQUIRED for the full T001 contract. A substantive terminal worker report was received, but not all requested source inputs were supplied. Missing JavaScript, product/cart/collection templates and prior validation prevent full acceptance.\n\nDo not adopt the unsupported accessibility claims as defects: native details/summary has disclosure semantics without manually duplicating aria-expanded; a native dialog opened with showModal has implicit modal behavior and browser-managed focus handling. Without studio.js and runtime observation, a claim that trapping or Escape behavior is absent is unproven. Lack of a PWA manifest or 16px link is not itself a broken Shopify favicon. Embedded PNGs may increase head size, but their existence is not a standards failure. With four products, the suggested search-payload performance priority needs measurements rather than an assumed TTFB impact.\n\nUseful supported observations: scattered CSS override blocks, fixed product/collection handles and current identity tokens. Codex's separate current mobile observation and T009 audit establish the concrete brand priorities: 7px descriptor, product grid around y2076, repetitive hero copy and missing reusable logo variants. Those informed the prepared local review kit. No live runtime, sales-readiness or full audit acceptance is claimed.\n`;
+const reportPath=path.join(root,'team/reports/T001/WORK-REPORT.md');let report=fs.readFileSync(reportPath,'utf8');
+report=report.replace('Status: SUBMITTED','Status: CHANGES_REQUIRED');
+// Normalize generated file links for the local reader; raw output is retained separately.
+report=report.replace(/file:\/\/\/([^\s)]+?)(?:#L(\d+)(?:-L\d+)?)?(?=\))/g,(_,rel,line)=>'F:/Dropshipping/'+rel+(line?':'+line:''));
+if(!report.includes('## Codex independent review -'))report+=review;
+fs.writeFileSync(reportPath,report);
+const planPath=path.join(root,'operations/brand-direction-2026-10-06/CEO-PLAN.md');let plan=fs.readFileSync(planPath,'utf8');
+if(!plan.includes('The native T001 audit returned'))plan+='\nThe native T001 audit returned a substantive report through stdin JSON transport. Codex reviewed it and requested changes because some requested inputs were omitted and several accessibility claims were unproven. This is evidence that dispatch/report collection works, not that every worker result is accepted automatically.\n';
+fs.writeFileSync(planPath,plan);
+const runtime=path.join(root,'team/reports/T008/CLI-RUNTIME-RESULTS.md');fs.appendFileSync(runtime,'\nAdditional verification: native T001 source-snapshot audit completed and its report was collected automatically. Native startup advertised 60 tools including view_file, grep_search, run_command, write_to_file and invoke_subagent; these names are advertised capabilities, not proof every tool works. Codex requested corrections rather than rubber-stamping the worker report.\n');
+console.log(JSON.stringify({dispatch_and_collection:'VERIFIED',native_audit_review:'CHANGES_REQUIRED',full_business_launch:false}));

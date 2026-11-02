@@ -1,0 +1,917 @@
+{
+  "data": {
+    "themes": {
+      "nodes": [
+        {
+          "id": "gid://shopify/OnlineStoreTheme/158770823360",
+          "name": "Horizon",
+          "role": "UNPUBLISHED",
+          "files": {
+            "nodes": [
+              {
+                "filename": "assets/accordion-custom.js",
+                "checksumMd5": "241e881e29c64e3ad23423f16b23d77a"
+              },
+              {
+                "filename": "assets/anchored-popover.js",
+                "checksumMd5": "4f5928a8aab6e7d8e0c992a2cab78e13"
+              },
+              {
+                "filename": "assets/announcement-bar.js",
+                "checksumMd5": "36e29e5d660e823c068596f03a9c23c7"
+              },
+              {
+                "filename": "assets/auto-close-details.js",
+                "checksumMd5": "b43336b12161ce9b1742f7907323e160"
+              },
+              {
+                "filename": "assets/base.css",
+                "checksumMd5": "28da65db6aee4e16fc66132753aee5be"
+              },
+              {
+                "filename": "assets/blog-posts-list.js",
+                "checksumMd5": "564ae49090a7cb44a94999c68ca28ff0"
+              },
+              {
+                "filename": "assets/cart-discount.js",
+                "checksumMd5": "cfe6d054f730dd7da929615e2d29cb43"
+              },
+              {
+                "filename": "assets/cart-drawer.js",
+                "checksumMd5": "21e8e08648a818130f76a78db227127a"
+              },
+              {
+                "filename": "assets/cart-icon.js",
+                "checksumMd5": "1939b0aff30fb84bb2b406d3fe30f1f6"
+              },
+              {
+                "filename": "assets/cart-note.js",
+                "checksumMd5": "83efac45cc9c26d3092899a3f004d40d"
+              },
+              {
+                "filename": "assets/collection-links.js",
+                "checksumMd5": "35e9f90d34fa1d1a6b98ebac278640de"
+              },
+              {
+                "filename": "assets/comparison-slider.js",
+                "checksumMd5": "cbad3e1ec1ead981058cd0972dd67d56"
+              },
+              {
+                "filename": "assets/component-cart-items.js",
+                "checksumMd5": "142e62847e7f78cd1aab3db450ae6a6a"
+              },
+              {
+                "filename": "assets/component-cart-quantity-selector.js",
+                "checksumMd5": "c7d753e6ac16cf3129e48ac8304945dc"
+              },
+              {
+                "filename": "assets/component-quantity-selector.js",
+                "checksumMd5": "ea14224c3b4c8350b116ee90d25476ea"
+              },
+              {
+                "filename": "assets/component.js",
+                "checksumMd5": "834feeca91801d25741cf3615ce08f68"
+              },
+              {
+                "filename": "assets/copy-to-clipboard.js",
+                "checksumMd5": "49f0850481d5bc7a1bc798d49825ece9"
+              },
+              {
+                "filename": "assets/dialog.js",
+                "checksumMd5": "b435152b36e4d3b5b6ad860a3ce5b430"
+              },
+              {
+                "filename": "assets/disclosures-summary-fit.js",
+                "checksumMd5": "3a76c2da3062069c5b2a8f19ec9904af"
+              },
+              {
+                "filename": "assets/drag-zoom-wrapper.js",
+                "checksumMd5": "a66f2f57d1067174bca2b5366794f4ec"
+              },
+              {
+                "filename": "assets/events.js",
+                "checksumMd5": "d9c6c62859cbae376b783d532e75ecb1"
+              },
+              {
+                "filename": "assets/facets.js",
+                "checksumMd5": "c3d1344be3719b968b8046b70b3d1ecf"
+              },
+              {
+                "filename": "assets/floating-panel.js",
+                "checksumMd5": "87c74c2ebc952af8ea1f7faa1464452b"
+              },
+              {
+                "filename": "assets/fly-to-cart.js",
+                "checksumMd5": "3bf08b479ba8020740c5e67bd1979d2f"
+              },
+              {
+                "filename": "assets/focus.js",
+                "checksumMd5": "93cef08f7646c03390b98ca3fc207854"
+              },
+              {
+                "filename": "assets/gift-card-recipient-form.js",
+                "checksumMd5": "c58a5f84d981238595321795a34b3405"
+              },
+              {
+                "filename": "assets/header-actions.js",
+                "checksumMd5": "a793bcff12ac62cd390d03c26c4f2042"
+              },
+              {
+                "filename": "assets/header-drawer.js",
+                "checksumMd5": "867d4e68d35fa5aed6e0f8ad22dd65c8"
+              },
+              {
+                "filename": "assets/header-menu.js",
+                "checksumMd5": "830ad1b4bd435dbad3bf7c2ae88e55ce"
+              },
+              {
+                "filename": "assets/header.js",
+                "checksumMd5": "a7653a32872c2392bd6ad7cdde49a9f7"
+              },
+              {
+                "filename": "assets/jsconfig.json",
+                "checksumMd5": "450c4f13d26ea64c467b526969fe0a90"
+              },
+              {
+                "filename": "assets/jumbo-text.js",
+                "checksumMd5": "ee78e17089874e28bb475faba9ece982"
+              },
+              {
+                "filename": "assets/layered-slideshow.js",
+                "checksumMd5": "82e74c5aea054fc0549dd3c54f56f00c"
+              },
+              {
+                "filename": "assets/local-pickup.js",
+                "checksumMd5": "07c4dac1d4fe9a3657c419c2c2c950f8"
+              },
+              {
+                "filename": "assets/localization.js",
+                "checksumMd5": "5585ad12a777858f7fa584b3e95d9c79"
+              },
+              {
+                "filename": "assets/marquee.js",
+                "checksumMd5": "f877892dbd228aefa281f07ff8ab6d59"
+              },
+              {
+                "filename": "assets/media-gallery.js",
+                "checksumMd5": "3e432f478f1776a606fc57fb2197017e"
+              },
+              {
+                "filename": "assets/media.js",
+                "checksumMd5": "9fd65e7acccc9dd15820811a8e63ff06"
+              },
+              {
+                "filename": "assets/money-formatting.js",
+                "checksumMd5": "a9c1d3504564a192ed1200ba196728c4"
+              },
+              {
+                "filename": "assets/morph.js",
+                "checksumMd5": "6ee063fb6beeb3f6a1cd8efe82d71a83"
+              },
+              {
+                "filename": "assets/overflow-list.css",
+                "checksumMd5": "1cf842b1ac615414465b03cef1b4ab61"
+              },
+              {
+                "filename": "assets/overflow-list.js",
+                "checksumMd5": "54f56aefcf501e7e103ad2414a0458bc"
+              },
+              {
+                "filename": "assets/package.json",
+                "checksumMd5": "d0707362e90f00edd12435e9d3b9d71c"
+              },
+              {
+                "filename": "assets/page-view-event.js",
+                "checksumMd5": "5b2509093afc663c28929110b728a78c"
+              },
+              {
+                "filename": "assets/paginated-list-aspect-ratio.js",
+                "checksumMd5": "da60f1118ea83c20921660241f1e2a67"
+              },
+              {
+                "filename": "assets/paginated-list.js",
+                "checksumMd5": "1be3498d4d84a917732a9126c39921a2"
+              },
+              {
+                "filename": "assets/performance.js",
+                "checksumMd5": "713cb2de96983008f8a722cef196a656"
+              },
+              {
+                "filename": "assets/popover-polyfill.js",
+                "checksumMd5": "260275a9bc513a0b076d6644adff5e51"
+              },
+              {
+                "filename": "assets/predictive-search.js",
+                "checksumMd5": "e3f7ad0bbbee13d649365eaf95cdf3c8"
+              },
+              {
+                "filename": "assets/price-per-item.js",
+                "checksumMd5": "463d305db1ae9616defd6ae073bf11b4"
+              },
+              {
+                "filename": "assets/product-card.js",
+                "checksumMd5": "491507d09fb6cb7431c4eb25cd9626f6"
+              },
+              {
+                "filename": "assets/product-custom-property.js",
+                "checksumMd5": "03ac05d7b3f0483956dabaf9569c3f9f"
+              },
+              {
+                "filename": "assets/product-form.js",
+                "checksumMd5": "f68671e1d3000bdbc4bb960f52e84a14"
+              },
+              {
+                "filename": "assets/product-hotspot.js",
+                "checksumMd5": "6f8aa1b7fffbbb43563e406a80e594fb"
+              },
+              {
+                "filename": "assets/product-inventory.js",
+                "checksumMd5": "523618fbff60bcd61af7e60841522632"
+              },
+              {
+                "filename": "assets/product-price.js",
+                "checksumMd5": "a321eacdcd059957c851ab7735cf0f24"
+              },
+              {
+                "filename": "assets/product-recommendations.js",
+                "checksumMd5": "76700c518b031c12eed747379efdcfdd"
+              },
+              {
+                "filename": "assets/product-sku.js",
+                "checksumMd5": "ca1a72c536af41e484b3608e1c2d489f"
+              },
+              {
+                "filename": "assets/qr-code-generator.js",
+                "checksumMd5": "7f2a1555f006ebdc3a240d5a8d3eb6a3"
+              },
+              {
+                "filename": "assets/qr-code-image.js",
+                "checksumMd5": "c85630daefa5fdd4f76cb0fabb2834b8"
+              },
+              {
+                "filename": "assets/quick-add.js",
+                "checksumMd5": "cdf460690955e8da4ffc72583965b0a8"
+              },
+              {
+                "filename": "assets/quick-order-list.js",
+                "checksumMd5": "fc46c898a795b3b47e3442d6a2b43d2c"
+              },
+              {
+                "filename": "assets/recently-viewed-products.js",
+                "checksumMd5": "c9b3d78dee56c21afcf4e71a38d6fce4"
+              },
+              {
+                "filename": "assets/results-list.js",
+                "checksumMd5": "eaab45b0ec0b2ce69a3c9ad5473bdff1"
+              },
+              {
+                "filename": "assets/rte-formatter.js",
+                "checksumMd5": "311f4bdf60b5f14da1576286f901b9e8"
+              },
+              {
+                "filename": "assets/scroll-container.js",
+                "checksumMd5": "fa951fb4ce116d3de82ed40ea26c213c"
+              },
+              {
+                "filename": "assets/scrolling.js",
+                "checksumMd5": "01c6f3773a37753244c8aabcf4511ccb"
+              },
+              {
+                "filename": "assets/search-page-input.js",
+                "checksumMd5": "c3230e0c9e844cdb49c2478b41d870c3"
+              },
+              {
+                "filename": "assets/section-hydration.js",
+                "checksumMd5": "84579a04e279c719e83ee93e3843ffb3"
+              },
+              {
+                "filename": "assets/section-renderer.js",
+                "checksumMd5": "977392399ccc950464f8d3c616243475"
+              },
+              {
+                "filename": "assets/show-more.js",
+                "checksumMd5": "24aa393a67d6d6f950b12dd92a857556"
+              },
+              {
+                "filename": "assets/slideshow.js",
+                "checksumMd5": "4df345c62dd7496bec67b4ec6cd45917"
+              },
+              {
+                "filename": "assets/standard-actions-override.js",
+                "checksumMd5": "c522fac7904268366e0ae5a6eb2edf57"
+              },
+              {
+                "filename": "assets/sticky-add-to-cart.js",
+                "checksumMd5": "2a3db0e52eb2187ec266e6329255729c"
+              },
+              {
+                "filename": "assets/template-giftcard.css",
+                "checksumMd5": "9f78487cab736097f5836ee99ff5ef33"
+              },
+              {
+                "filename": "assets/theme-drawer.js",
+                "checksumMd5": "de56cec70a25809f1f492efafca95146"
+              },
+              {
+                "filename": "assets/theme-editor.js",
+                "checksumMd5": "fbfb2ceba38667676a5dd4f61475f4b1"
+              },
+              {
+                "filename": "assets/utilities.js",
+                "checksumMd5": "254a9349079832ba23468263d45d2b5b"
+              },
+              {
+                "filename": "assets/variant-picker.js",
+                "checksumMd5": "3afe3d34b4fbaf687c7d81fb9ba45bb1"
+              },
+              {
+                "filename": "assets/variant-resolution.js",
+                "checksumMd5": "c9bf75826bde2ea4a97cecdce469f50a"
+              },
+              {
+                "filename": "assets/video-background.js",
+                "checksumMd5": "f307b002b76a76fe544bae5eb479f07b"
+              },
+              {
+                "filename": "assets/view-event-elements.js",
+                "checksumMd5": "8ff82cbd34993d786143f41c53b51005"
+              },
+              {
+                "filename": "assets/view-transitions.js",
+                "checksumMd5": "23c26263985a726a136f02255ec3422c"
+              },
+              {
+                "filename": "assets/volume-pricing-info.js",
+                "checksumMd5": "77834a0dcf407a5b64659e799481cb0b"
+              },
+              {
+                "filename": "assets/volume-pricing.js",
+                "checksumMd5": "d7a310b5d1380edc88020562eeb0422e"
+              },
+              {
+                "filename": "assets/zoom-dialog.js",
+                "checksumMd5": "b5a8867b3e888dd548323ff5857d03ae"
+              },
+              {
+                "filename": "blocks/accelerated-checkout.liquid",
+                "checksumMd5": "5cf129008c5d52b7d41356cb55b3e6bb"
+              },
+              {
+                "filename": "blocks/accordion.liquid",
+                "checksumMd5": "6f214e55135f307e75ca79928fb16cfe"
+              },
+              {
+                "filename": "blocks/add-to-cart.liquid",
+                "checksumMd5": "53a64fd12a773a61b1d5da92a10249a4"
+              },
+              {
+                "filename": "blocks/button.liquid",
+                "checksumMd5": "0b20126e4fa7e0d53793056c5abbc91c"
+              },
+              {
+                "filename": "blocks/buy-buttons.liquid",
+                "checksumMd5": "b40bb8d01fd02dd3e2e84d4155895eed"
+              },
+              {
+                "filename": "blocks/collection-card.liquid",
+                "checksumMd5": "8bcdb32f5ea5e8228bbd974949bf40a9"
+              },
+              {
+                "filename": "blocks/collection-title.liquid",
+                "checksumMd5": "d2feba1f80b1d37b04f7ee9b633f07aa"
+              },
+              {
+                "filename": "blocks/comparison-slider.liquid",
+                "checksumMd5": "095042084624085b58503617d3f7507f"
+              },
+              {
+                "filename": "blocks/contact-form-submit-button.liquid",
+                "checksumMd5": "83c9d43ccbc38ccc680315a8e9a40cd5"
+              },
+              {
+                "filename": "blocks/contact-form.liquid",
+                "checksumMd5": "18bbe608ef37e81b582a2c43607ec2c6"
+              },
+              {
+                "filename": "blocks/custom-liquid.liquid",
+                "checksumMd5": "ff3549a1c3293462c357c788b1d9fb6a"
+              },
+              {
+                "filename": "blocks/disclosures.liquid",
+                "checksumMd5": "401b1fbf731eea8fa99ed884ef6cc53f"
+              },
+              {
+                "filename": "blocks/email-signup.liquid",
+                "checksumMd5": "9487cfee2c1a75cf8a7747825244c698"
+              },
+              {
+                "filename": "blocks/featured-collection.liquid",
+                "checksumMd5": "9f74a2a84a9ea3105b7cec356a69b978"
+              }
+            ],
+            "pageInfo": {
+              "hasNextPage": true,
+              "endCursor": "ImJsb2Nrc1wvZmVhdHVyZWQtY29sbGVjdGlvbi5saXF1aWQi"
+            }
+          }
+        },
+        {
+          "id": "gid://shopify/OnlineStoreTheme/158775443648",
+          "name": "rozmiso-theme",
+          "role": "UNPUBLISHED",
+          "files": {
+            "nodes": [
+              {
+                "filename": "assets/theme.css",
+                "checksumMd5": "9b3dcfa4065654921c7c7a3065e95543"
+              },
+              {
+                "filename": "assets/theme.js",
+                "checksumMd5": "1d0b9bf05cf8871fa04ceed9a7e96dee"
+              },
+              {
+                "filename": "config/settings_data.json",
+                "checksumMd5": "2fd5f73bf312b3ca929b82b7df19b5d9"
+              },
+              {
+                "filename": "config/settings_schema.json",
+                "checksumMd5": "5256fa88cb5e97759503b293d9b8ac84"
+              },
+              {
+                "filename": "layout/theme.liquid",
+                "checksumMd5": "65aa79eb90a443d6f83702eb016944c0"
+              },
+              {
+                "filename": "locales/en.default.json",
+                "checksumMd5": "17462851fce4e374bf5f5c9f4f16ecb6"
+              },
+              {
+                "filename": "sections/announcement-bar.liquid",
+                "checksumMd5": "2a6fa7654557f5f69500ab11e5d8b374"
+              },
+              {
+                "filename": "sections/customer-reviews.liquid",
+                "checksumMd5": "2deb005eb718a77eda6048d991210423"
+              },
+              {
+                "filename": "sections/faq-section.liquid",
+                "checksumMd5": "e8d19259cab31c7fa6fa07306a4ced69"
+              },
+              {
+                "filename": "sections/featured-collection.liquid",
+                "checksumMd5": "604457baf51c7e469c4cf5bb5b3f3ee5"
+              },
+              {
+                "filename": "sections/footer.liquid",
+                "checksumMd5": "4003e7d2c44ea8c21353c78e51a3d5d4"
+              },
+              {
+                "filename": "sections/header.liquid",
+                "checksumMd5": "483618cc857a2d21e6269ea70a6e9e59"
+              },
+              {
+                "filename": "sections/hero-banner.liquid",
+                "checksumMd5": "1f675b6512c6b89d0a9715b38357e4c3"
+              },
+              {
+                "filename": "sections/main-product.liquid",
+                "checksumMd5": "0f62751edf70c8e8929e0e880bbc2009"
+              },
+              {
+                "filename": "sections/trust-badges.liquid",
+                "checksumMd5": "c55ba095a24fee46c138c90cbc8e5560"
+              },
+              {
+                "filename": "templates/404.liquid",
+                "checksumMd5": "ad0f9d9c2cb85f8513e3d73e93daa000"
+              },
+              {
+                "filename": "templates/cart.liquid",
+                "checksumMd5": "b26fc2f8a22c29535a703e1ce8dd0caf"
+              },
+              {
+                "filename": "templates/collection.json",
+                "checksumMd5": "0d13a183d06599ce4da6dd12524f48a1"
+              },
+              {
+                "filename": "templates/index.json",
+                "checksumMd5": "7f015c53d2a2672a57c9026f0e0ccc11"
+              },
+              {
+                "filename": "templates/page.liquid",
+                "checksumMd5": "df892dabf43728006f0a26baf41996e9"
+              },
+              {
+                "filename": "templates/product.json",
+                "checksumMd5": "bfab20fe497892365b3bcf5cf5c9601d"
+              }
+            ],
+            "pageInfo": {
+              "hasNextPage": false,
+              "endCursor": "InRlbXBsYXRlc1wvcHJvZHVjdC5qc29uIg=="
+            }
+          }
+        },
+        {
+          "id": "gid://shopify/OnlineStoreTheme/158905270464",
+          "name": "Rozmiso Studio — Launch Preview",
+          "role": "UNPUBLISHED",
+          "files": {
+            "nodes": [
+              {
+                "filename": "assets/studio.css",
+                "checksumMd5": "74edf7da8171b875125e3e41110d4f72"
+              },
+              {
+                "filename": "assets/studio.js",
+                "checksumMd5": "bf7c8c086b901c1e262ee1a736bc8f7b"
+              },
+              {
+                "filename": "assets/theme.css",
+                "checksumMd5": "9b3dcfa4065654921c7c7a3065e95543"
+              },
+              {
+                "filename": "assets/theme.js",
+                "checksumMd5": "1d0b9bf05cf8871fa04ceed9a7e96dee"
+              },
+              {
+                "filename": "config/settings_data.json",
+                "checksumMd5": "b7eb5957cb557f81157165556d059ae0"
+              },
+              {
+                "filename": "config/settings_schema.json",
+                "checksumMd5": "88d5aa4307ba011ad5e60798bd73410f"
+              },
+              {
+                "filename": "layout/theme.liquid",
+                "checksumMd5": "b3e5c2ed674ad1275676e0dc295f4592"
+              },
+              {
+                "filename": "locales/en.default.json",
+                "checksumMd5": "003ec569a22bf5454901d58d1a625eca"
+              },
+              {
+                "filename": "sections/announcement-bar.liquid",
+                "checksumMd5": "2a6fa7654557f5f69500ab11e5d8b374"
+              },
+              {
+                "filename": "sections/customer-reviews.liquid",
+                "checksumMd5": "2deb005eb718a77eda6048d991210423"
+              },
+              {
+                "filename": "sections/faq-section.liquid",
+                "checksumMd5": "e8d19259cab31c7fa6fa07306a4ced69"
+              },
+              {
+                "filename": "sections/featured-collection.liquid",
+                "checksumMd5": "604457baf51c7e469c4cf5bb5b3f3ee5"
+              },
+              {
+                "filename": "sections/footer.liquid",
+                "checksumMd5": "4003e7d2c44ea8c21353c78e51a3d5d4"
+              },
+              {
+                "filename": "sections/header.liquid",
+                "checksumMd5": "483618cc857a2d21e6269ea70a6e9e59"
+              },
+              {
+                "filename": "sections/hero-banner.liquid",
+                "checksumMd5": "1f675b6512c6b89d0a9715b38357e4c3"
+              },
+              {
+                "filename": "sections/main-product.liquid",
+                "checksumMd5": "0f62751edf70c8e8929e0e880bbc2009"
+              },
+              {
+                "filename": "sections/studio-collection.liquid",
+                "checksumMd5": "a4266a1c153d99c485c47e5b8c45ce14"
+              },
+              {
+                "filename": "sections/studio-edit.liquid",
+                "checksumMd5": "b0faa33520c49c021c6e9675f8b20a5c"
+              },
+              {
+                "filename": "sections/studio-faq.liquid",
+                "checksumMd5": "8bc691c495d28886992b5be6cdf5eb33"
+              },
+              {
+                "filename": "sections/studio-footer.liquid",
+                "checksumMd5": "a9a7fd7576aceb82b46c21d4a0140054"
+              },
+              {
+                "filename": "sections/studio-header.liquid",
+                "checksumMd5": "974925cc20384669b1e75baf763a7990"
+              },
+              {
+                "filename": "sections/studio-hero.liquid",
+                "checksumMd5": "8fe69c0b407ce8047eec5de0568c2e3a"
+              },
+              {
+                "filename": "sections/studio-product.liquid",
+                "checksumMd5": "0918dd1e28f951513fbe6fa9294ee818"
+              },
+              {
+                "filename": "sections/studio-story.liquid",
+                "checksumMd5": "044ce68ade6f607eba5cc1399bf3e69f"
+              },
+              {
+                "filename": "sections/trust-badges.liquid",
+                "checksumMd5": "c55ba095a24fee46c138c90cbc8e5560"
+              },
+              {
+                "filename": "snippets/studio-card.liquid",
+                "checksumMd5": "04c6eaf546c3ddcdca8512753565a0c8"
+              },
+              {
+                "filename": "templates/404.liquid",
+                "checksumMd5": "f0c5be5629c74124823da8bbd978a4c2"
+              },
+              {
+                "filename": "templates/cart.liquid",
+                "checksumMd5": "b6bb83d83d0eba91b03b67c3440328fe"
+              },
+              {
+                "filename": "templates/collection.json",
+                "checksumMd5": "2c1b52840f1747d85dcade325b797276"
+              },
+              {
+                "filename": "templates/index.json",
+                "checksumMd5": "0ced99c8f5545ce66d5dfc55a660d348"
+              },
+              {
+                "filename": "templates/list-collections.liquid",
+                "checksumMd5": "e56f1a6488dc996748a355e1c275a36f"
+              },
+              {
+                "filename": "templates/page.contact.liquid",
+                "checksumMd5": "ab1545d3b09f9b57440d9022553a1e6f"
+              },
+              {
+                "filename": "templates/page.liquid",
+                "checksumMd5": "dc2ac7f6d8103bedc9ae924730954c86"
+              },
+              {
+                "filename": "templates/product.json",
+                "checksumMd5": "53efc036cfa28044be896ea51710f51b"
+              },
+              {
+                "filename": "templates/search.liquid",
+                "checksumMd5": "bf96f9552b93b0efb5dcf21908c2d207"
+              }
+            ],
+            "pageInfo": {
+              "hasNextPage": false,
+              "endCursor": "InRlbXBsYXRlc1wvc2VhcmNoLmxpcXVpZCI="
+            }
+          }
+        },
+        {
+          "id": "gid://shopify/OnlineStoreTheme/158950424768",
+          "name": "rozmiso-studio-brand-2026-10-06",
+          "role": "MAIN",
+          "files": {
+            "nodes": [
+              {
+                "filename": "assets/studio.css",
+                "checksumMd5": "c9e7e5ea902a9fcd6e64b658834439d5"
+              },
+              {
+                "filename": "assets/studio.js",
+                "checksumMd5": "422a1b141f4655219212a08ea5628cc7"
+              },
+              {
+                "filename": "config/settings_data.json",
+                "checksumMd5": "ee2e94dc47f3772292546a55c3442ffd"
+              },
+              {
+                "filename": "config/settings_schema.json",
+                "checksumMd5": "88d5aa4307ba011ad5e60798bd73410f"
+              },
+              {
+                "filename": "layout/theme.liquid",
+                "checksumMd5": "584ec1d534edc373bc75930b48baca8d"
+              },
+              {
+                "filename": "locales/en.default.json",
+                "checksumMd5": "982aaead4247867289c650893e3060d1"
+              },
+              {
+                "filename": "sections/studio-collection.liquid",
+                "checksumMd5": "a4266a1c153d99c485c47e5b8c45ce14"
+              },
+              {
+                "filename": "sections/studio-edit.liquid",
+                "checksumMd5": "3894ea3027ee802b38b18dcddea57841"
+              },
+              {
+                "filename": "sections/studio-faq.liquid",
+                "checksumMd5": "8bc691c495d28886992b5be6cdf5eb33"
+              },
+              {
+                "filename": "sections/studio-footer.liquid",
+                "checksumMd5": "d82635be436f13faedceaf384e815196"
+              },
+              {
+                "filename": "sections/studio-header.liquid",
+                "checksumMd5": "5a3d36e553faa22f5e6e09ffda24547d"
+              },
+              {
+                "filename": "sections/studio-hero.liquid",
+                "checksumMd5": "15b3e482aa1af893aad4d4b94a942a00"
+              },
+              {
+                "filename": "sections/studio-product.liquid",
+                "checksumMd5": "42c2b69f59d660e124f85a6cfdcb7ca7"
+              },
+              {
+                "filename": "sections/studio-story.liquid",
+                "checksumMd5": "a47566b6742182356845932f0c840689"
+              },
+              {
+                "filename": "snippets/studio-card.liquid",
+                "checksumMd5": "a172003cc8561bd6eea1005a87307f19"
+              },
+              {
+                "filename": "snippets/studio-icon.liquid",
+                "checksumMd5": "925f25d01616de69e814a6966ccfd945"
+              },
+              {
+                "filename": "snippets/studio-logo.liquid",
+                "checksumMd5": "eba4e3f6cb8c2068c4d5df7b1ecb3aed"
+              },
+              {
+                "filename": "snippets/studio-product-videos.liquid",
+                "checksumMd5": "495381e2650334248eb6fd1f44793b6f"
+              },
+              {
+                "filename": "templates/404.liquid",
+                "checksumMd5": "f0c5be5629c74124823da8bbd978a4c2"
+              },
+              {
+                "filename": "templates/cart.liquid",
+                "checksumMd5": "b6bb83d83d0eba91b03b67c3440328fe"
+              },
+              {
+                "filename": "templates/collection.json",
+                "checksumMd5": "2c1b52840f1747d85dcade325b797276"
+              },
+              {
+                "filename": "templates/index.json",
+                "checksumMd5": "3d09ea02fb679ab7be5d40967ac04ead"
+              },
+              {
+                "filename": "templates/list-collections.liquid",
+                "checksumMd5": "e56f1a6488dc996748a355e1c275a36f"
+              },
+              {
+                "filename": "templates/page.contact.liquid",
+                "checksumMd5": "ab1545d3b09f9b57440d9022553a1e6f"
+              },
+              {
+                "filename": "templates/page.liquid",
+                "checksumMd5": "dc2ac7f6d8103bedc9ae924730954c86"
+              },
+              {
+                "filename": "templates/product.json",
+                "checksumMd5": "53efc036cfa28044be896ea51710f51b"
+              },
+              {
+                "filename": "templates/search.liquid",
+                "checksumMd5": "fd8d864694bd7c7eba0957320b03a00c"
+              }
+            ],
+            "pageInfo": {
+              "hasNextPage": false,
+              "endCursor": "InRlbXBsYXRlc1wvc2VhcmNoLmxpcXVpZCI="
+            }
+          }
+        },
+        {
+          "id": "gid://shopify/OnlineStoreTheme/159016681664",
+          "name": "Rozmiso Studio — Reviewed 2026-10-08",
+          "role": "UNPUBLISHED",
+          "files": {
+            "nodes": [
+              {
+                "filename": "assets/studio.css",
+                "checksumMd5": "af415807c766c377fa1905c549ab2f23"
+              },
+              {
+                "filename": "assets/studio.js",
+                "checksumMd5": "0328bc989ca2273017c1faacf69ffc5f"
+              },
+              {
+                "filename": "config/settings_data.json",
+                "checksumMd5": "ee2e94dc47f3772292546a55c3442ffd"
+              },
+              {
+                "filename": "config/settings_schema.json",
+                "checksumMd5": "88d5aa4307ba011ad5e60798bd73410f"
+              },
+              {
+                "filename": "layout/theme.liquid",
+                "checksumMd5": "62d569b4ffa42da6c9f9a28b61db2dd3"
+              },
+              {
+                "filename": "locales/en.default.json",
+                "checksumMd5": "982aaead4247867289c650893e3060d1"
+              },
+              {
+                "filename": "sections/studio-collection.liquid",
+                "checksumMd5": "adc803a5134c49c27d61f0ebb8c55849"
+              },
+              {
+                "filename": "sections/studio-edit.liquid",
+                "checksumMd5": "3894ea3027ee802b38b18dcddea57841"
+              },
+              {
+                "filename": "sections/studio-faq.liquid",
+                "checksumMd5": "8bc691c495d28886992b5be6cdf5eb33"
+              },
+              {
+                "filename": "sections/studio-footer.liquid",
+                "checksumMd5": "d82635be436f13faedceaf384e815196"
+              },
+              {
+                "filename": "sections/studio-header.liquid",
+                "checksumMd5": "5d1fda663e0d8989cdc0319ea2ac6a42"
+              },
+              {
+                "filename": "sections/studio-hero.liquid",
+                "checksumMd5": "15b3e482aa1af893aad4d4b94a942a00"
+              },
+              {
+                "filename": "sections/studio-product.liquid",
+                "checksumMd5": "540f3b04c70ba2d184b26f45f3be6fd9"
+              },
+              {
+                "filename": "sections/studio-story.liquid",
+                "checksumMd5": "a47566b6742182356845932f0c840689"
+              },
+              {
+                "filename": "snippets/studio-card.liquid",
+                "checksumMd5": "d0b86aed10118ef03ab971718f0e1848"
+              },
+              {
+                "filename": "snippets/studio-icon.liquid",
+                "checksumMd5": "925f25d01616de69e814a6966ccfd945"
+              },
+              {
+                "filename": "snippets/studio-logo.liquid",
+                "checksumMd5": "eba4e3f6cb8c2068c4d5df7b1ecb3aed"
+              },
+              {
+                "filename": "snippets/studio-product-videos.liquid",
+                "checksumMd5": "495381e2650334248eb6fd1f44793b6f"
+              },
+              {
+                "filename": "templates/404.liquid",
+                "checksumMd5": "f0c5be5629c74124823da8bbd978a4c2"
+              },
+              {
+                "filename": "templates/cart.liquid",
+                "checksumMd5": "4933511ae523d923aaaa600291c5d6b6"
+              },
+              {
+                "filename": "templates/collection.json",
+                "checksumMd5": "2c1b52840f1747d85dcade325b797276"
+              },
+              {
+                "filename": "templates/index.json",
+                "checksumMd5": "3d09ea02fb679ab7be5d40967ac04ead"
+              },
+              {
+                "filename": "templates/list-collections.liquid",
+                "checksumMd5": "e56f1a6488dc996748a355e1c275a36f"
+              },
+              {
+                "filename": "templates/page.contact.liquid",
+                "checksumMd5": "59d28932a645123b2a6578ddb67abc05"
+              },
+              {
+                "filename": "templates/page.liquid",
+                "checksumMd5": "dc2ac7f6d8103bedc9ae924730954c86"
+              },
+              {
+                "filename": "templates/product.json",
+                "checksumMd5": "53efc036cfa28044be896ea51710f51b"
+              },
+              {
+                "filename": "templates/search.liquid",
+                "checksumMd5": "fd8d864694bd7c7eba0957320b03a00c"
+              }
+            ],
+            "pageInfo": {
+              "hasNextPage": false,
+              "endCursor": "InRlbXBsYXRlc1wvc2VhcmNoLmxpcXVpZCI="
+            }
+          }
+        }
+      ],
+      "pageInfo": {
+        "hasNextPage": false,
+        "endCursor": "eyJsYXN0X2lkIjoxNTkwMTY2ODE2NjQsImxhc3RfdmFsdWUiOjE1OTAxNjY4MTY2NH0="
+      }
+    }
+  }
+}

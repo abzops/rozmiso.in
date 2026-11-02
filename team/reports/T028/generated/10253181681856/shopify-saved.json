@@ -1,0 +1,54 @@
+{
+  "uploads": [
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/rozmiso-10253181681856-ai-studio.png?v=1791445257",
+      "fileId": "gid://shopify/MediaImage/48571868905664",
+      "filename": "rozmiso-10253181681856-ai-studio.png",
+      "alt": "AI-generated studio illustration of 3-in-1 Bottle Lid Cleaning Tool"
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/rozmiso-10253181681856-ai-usecase.png?v=1791445266",
+      "fileId": "gid://shopify/MediaImage/48571876180160",
+      "filename": "rozmiso-10253181681856-ai-usecase.png",
+      "alt": "AI-generated usecase illustration of 3-in-1 Bottle Lid Cleaning Tool; background props not included"
+    }
+  ],
+  "updated": {
+    "id": "gid://shopify/Product/10253181681856",
+    "title": "3-in-1 Bottle Lid Cleaning Tool",
+    "vendor": "DeoDap",
+    "status": "ACTIVE",
+    "productType": "Kitchen essentials",
+    "descriptionHtml": "<p>A compact hand cleaning tool combining a brush, narrow-opening brush and crevice hook. Useful for accessible lid grooves and small gaps on suitable drinkware.</p><h3>What is included</h3><p>1 multifunctional cleaning tool. Bottles and cups are not included.</p><h3>Care and checks</h3><p>Use gently and test on a hidden area first. Do not assume sterilisation or infant-feeding safety from cleaning alone. Rinse and air-dry; follow the drinkware maker’s cleaning guidance.</p><p>Supplier images are illustrative. Confirm the exact colour and packed contents before ordering. Ordering is not available yet while supplier fulfilment and samples are verified.</p>",
+    "tags": [
+      "prelaunch",
+      "rozmiso-catalog",
+      "supplier-confirmation-pending"
+    ],
+    "totalInventory": 0,
+    "featuredImageUrl": "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/rozmiso-10253181681856-ai-studio.png?v=1791445257",
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/rozmiso-10253181681856-ai-studio.png?v=1791445257",
+        "altText": "AI-generated studio illustration of 3-in-1 Bottle Lid Cleaning Tool",
+        "mediaId": "gid://shopify/MediaImage/48571868905664"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/rozmiso-10253181681856-ai-usecase.png?v=1791445266",
+        "altText": "AI-generated usecase illustration of 3-in-1 Bottle Lid Cleaning Tool; background props not included",
+        "mediaId": "gid://shopify/MediaImage/48571876180160"
+      }
+    ],
+    "totalVariants": 1,
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/50427735900352",
+        "title": "Default Title",
+        "sku": "6483_3in1_cleaning_brush_1pc",
+        "price": "149.00",
+        "inventoryQuantity": 0
+      }
+    ],
+    "currencyCode": "INR"
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "date": "2026-10-13",
+  "tool": "builtin image_gen",
+  "status": "SUBMITTED",
+  "writer": "carousel_design",
+  "items": [
+    {
+      "id": "10252037357760",
+      "role": "cover",
+      "target": "F:/Dropshipping/team/reports/T029/social/carousels/10252037357760/01-cover-v3.png",
+      "source": "F:/Dropshipping/team/reports/T029/social/carousels/10252037357760/01-slide.png",
+      "status": "PASS",
+      "generatedSource": "C:/Users/Abhinand/.codex/generated_images/01a1362d-6568-7e23-b4e6-cae64a5a5b39/exec-643c149c-36c6-4e0b-b8ce-9d9377a420e4.png",
+      "prompt": "Targeted precise image edit. Remove ONLY the tiny bottom-center footer text 'AI-generated illustration' from this exact image. Replace its letters with continuous original ivory countertop background. Preserve EVERYTHING ELSE exactly: product white T-shapedbrush and heads/cup, allgeometry/colors/shadows, layout, existing titles/features/icons, Rlogo, ExplorethecollectionCTA, @rozmiso.in. Do not addcopy, do notresize/crop/recompose. Square1254x1254. Text-removalonly."
+    },
+    {
+      "id": "10252037324992",
+      "role": "cover",
+      "source": "F:/Dropshipping/team/reports/T029/social/carousels/10252037324992/01-slide.png",
+      "target": "F:/Dropshipping/team/reports/T029/social/carousels/10252037324992/01-cover-v3.png",
+      "generatedSource": "C:/Users/Abhinand/.codex/generated_images/01a1362d-6568-7e23-b4e6-cae64a5a5b39/exec-22485834-c3cc-433a-aec8-9bbb021d52cb.png",
+      "prompt": "Targeted precise image edit. Remove ONLY the tiny footer phrase 'AI-generated illustration' or 'AI-generated product illustration' and the adjacent separator dot if present. Preserve any following 'props not included' or 'Cable not included' wording as appropriate, move no other text. Fill removedletters with seamless original background. Preserve all product geometry, colors, arrangement, headline, featuretext/icons, brand, CTA, handle, framing and aspectratio EXACTLY. Do not crop, resize or redesign. Do not add any text. Sourcephoto/layoutotherwise unchanged.",
+      "status": "VISUAL_REVIEW_PENDING"
+    },
+    {
+      "id": "10252037456064",
+      "role": "cover",
+      "source": "F:/Dropshipping/team/reports/T029/social/carousels/10252037456064/01-slide.png",
+      "target": "F:/Dropshipping/team/reports/T029/social/carousels/10252037456064/01-cover-v3.png",
+      "generatedSource": "C:/Users/Abhinand/.codex/generated_images/01a1362d-6568-7e23-b4e6-cae64a5a5b39/exec-0950cabb-9abc-4dc2-99f8-0395abd83982.png",
+      "prompt": "Targeted precise image edit. Remove ONLY the tiny footer phrase 'AI-generated illustration' or 'AI-generated product illustration' and the adjacent separator dot if present. Preserve any following 'props not included' or 'Cable not included' wording as appropriate, move no other text. Fill removedletters with seamless original background. Preserve all product geometry, colors, arrangement, headline, featuretext/icons, brand, CTA, handle, framing and aspectratio EXACTLY. Do not crop, resize or redesign. Do not add any text. Sourcephoto/layoutotherwise unchanged.",
+      "status": "VISUAL_REVIEW_PENDING"
+    },
+    {
+      "id": "10253181026496",
+      "role": "cover",
+      "source": "F:/Dropshipping/team/reports/T029/social/carousels/10253181026496/01-slide.png",
+      "target": "F:/Dropshipping/team/reports/T029/social/carousels/10253181026496/01-cover-v3.png",
+      "generatedSource": "C:/Users/Abhinand/.codex/generated_images/01a1362d-6568-7e23-b4e6-cae64a5a5b39/exec-4ba69e88-8621-42a2-b9b0-6fb3160c64c2.png",
+      "prompt": "Targeted precise image edit. Remove ONLY the tiny footer phrase 'AI-generated illustration' or 'AI-generated product illustration' and the adjacent separator dot if present. Preserve any following 'props not included' or 'Cable not included' wording as appropriate, move no other text. Fill removedletters with seamless original background. Preserve all product geometry, colors, arrangement, headline, featuretext/icons, brand, CTA, handle, framing and aspectratio EXACTLY. Do not crop, resize or redesign. Do not add any text. Sourcephoto/layoutotherwise unchanged.",
+      "status": "VISUAL_REVIEW_PENDING"
+    },
+    {
+      "id": "10253181092032",
+      "role": "cover",
+      "source": "F:/Dropshipping/team/reports/T029/social/carousels/10253181092032/01-slide.png",
+      "target": "F:/Dropshipping/team/reports/T029/social/carousels/10253181092032/01-cover-v3.png",
+      "generatedSource": "C:/Users/Abhinand/.codex/generated_images/01a1362d-6568-7e23-b4e6-cae64a5a5b39/exec-5268f0eb-4814-4b2e-9a3b-37241fef228d.png",
+      "prompt": "Targeted precise image edit. Remove ONLY the tiny footer phrase 'AI-generated illustration' or 'AI-generated product illustration' and the adjacent separator dot if present. Preserve any following 'props not included' or 'Cable not included' wording as appropriate, move no other text. Fill removedletters with seamless original background. Preserve all product geometry, colors, arrangement, headline, featuretext/icons, brand, CTA, handle, framing and aspectratio EXACTLY. Do not crop, resize or redesign. Do not add any text. Sourcephoto/layoutotherwise unchanged.",
+      "status": "VISUAL_REVIEW_PENDING"
+    },
+    {
+      "id": "10253181255872",
+      "role": "cover",
+      "source": "F:/Dropshipping/team/reports/T029/social/carousels/10253181255872/01-slide.png",
+      "target": "F:/Dropshipping/team/reports/T029/social/carousels/10253181255872/01-cover-v3.png",
+      "generatedSource": "C:/Users/Abhinand/.codex/generated_images/01a1362d-6568-7e23-b4e6-cae64a5a5b39/exec-27f43bb9-d4c0-4984-bc0e-4e5f3d3e06f6.png",
+      "prompt": "Targeted precise image edit. Remove ONLY the tiny footer phrase 'AI-generated illustration' or 'AI-generated product illustration' and the adjacent separator dot if present. Preserve any following 'props not included' or 'Cable not included' wording as appropriate, move no other text. Fill removedletters with seamless original background. Preserve all product geometry, colors, arrangement, headline, featuretext/icons, brand, CTA, handle, framing and aspectratio EXACTLY. Do not crop, resize or redesign. Do not add any text. Sourcephoto/layoutotherwise unchanged.",
+      "status": "VISUAL_REVIEW_PENDING"
+    },
+    {
+      "id": "10253181321408",
+      "role": "cover",
+      "source": "F:/Dropshipping/team/reports/T029/social/carousels/10253181321408/01-slide.png",
+      "target": "F:/Dropshipping/team/reports/T029/social/carousels/10253181321408/01-cover-v3.png",
+      "generatedSource": "C:/Users/Abhinand/.codex/generated_images/01a1362d-6568-7e23-b4e6-cae64a5a5b39/exec-2c9c07f7-f045-4cd2-a066-77267a14a9a4.png",
+      "prompt": "Targeted precise image edit. Remove ONLY the tiny footer phrase 'AI-generated illustration' or 'AI-generated product illustration' and the adjacent separator dot if present. Preserve any following 'props not included' or 'Cable not included' wording as appropriate, move no other text. Fill removedletters with seamless original background. Preserve all product geometry, colors, arrangement, headline, featuretext/icons, brand, CTA, handle, framing and aspectratio EXACTLY. Do not crop, resize or redesign. Do not add any text. Sourcephoto/layoutotherwise unchanged.",
+      "status": "VISUAL_REVIEW_PENDING"
+    },
+    {
+      "id": "10253181419712",
+      "role": "cover",
+      "source": "F:/Dropshipping/team/reports/T029/social/carousels/10253181419712/01-slide.png",
+      "target": "F:/Dropshipping/team/reports/T029/social/carousels/10253181419712/01-cover-v3.png",
+      "generatedSource": "C:/Users/Abhinand/.codex/generated_images/01a1362d-6568-7e23-b4e6-cae64a5a5b39/exec-6328322c-534d-448c-9b5d-28da3f48c8ff.png",
+      "prompt": "Targeted precise image edit. Remove ONLY the tiny footer phrase 'AI-generated illustration' or 'AI-generated product illustration' and the adjacent separator dot if present. Preserve any following 'props not included' or 'Cable not included' wording as appropriate, move no other text. Fill removedletters with seamless original background. Preserve all product geometry, colors, arrangement, headline, featuretext/icons, brand, CTA, handle, framing and aspectratio EXACTLY. Do not crop, resize or redesign. Do not add any text. Sourcephoto/layoutotherwise unchanged.",
+      "status": "VISUAL_REVIEW_PENDING"
+    },
+    {
+      "id": "10253181518016",
+      "role": "cover",
+      "source": "F:/Dropshipping/team/reports/T029/social/carousels/10253181518016/01-slide.png",
+      "target": "F:/Dropshipping/team/reports/T029/social/carousels/10253181518016/01-cover-v3.png",
+      "generatedSource": "C:/Users/Abhinand/.codex/generated_images/01a1362d-6568-7e23-b4e6-cae64a5a5b39/exec-c357ab41-4309-4adf-9ac7-c2cd3275370b.png",
+      "prompt": "Targeted precise image edit. Remove ONLY the tiny footer phrase 'AI-generated illustration' or 'AI-generated product illustration' and the adjacent separator dot if present. Preserve any following 'props not included' or 'Cable not included' wording as appropriate, move no other text. Fill removedletters with seamless original background. Preserve all product geometry, colors, arrangement, headline, featuretext/icons, brand, CTA, handle, framing and aspectratio EXACTLY. Do not crop, resize or redesign. Do not add any text. Sourcephoto/layoutotherwise unchanged.",
+      "status": "VISUAL_REVIEW_PENDING"
+    },
+    {
+      "id": "10257843355840",
+      "role": "cover",
+      "source": "F:/Dropshipping/team/reports/T029/social/carousels/10257843355840/01-cover-v2.png",
+      "target": "F:/Dropshipping/team/reports/T029/social/carousels/10257843355840/01-cover-v3.png",
+      "generatedSource": "C:/Users/Abhinand/.codex/generated_images/01a1362d-6568-7e23-b4e6-cae64a5a5b39/exec-96706c2f-4e0e-48c7-b965-e7a925e4ee5e.png",
+      "prompt": "Precise targeted image edit: remove ONLY tiny footer phrase 'AI-generated product illustration' or 'AI-generated illustration', and adjacent separator dot if there is one. Preserve all other text including Citrus props not included if present, all geometry/color/photo/textlayout and aspectratio. Fill removedtextwithseamlessoriginalbackground. Do not redesign/crop/add text. Productandcarepointsotherwiseunchanged.",
+      "status": "VISUAL_REVIEW_PENDING"
+    },
+    {
+      "id": "10257843355840",
+      "role": "care",
+      "source": "F:/Dropshipping/team/reports/T029/social/carousels/10257843355840/05-care-v2.png",
+      "target": "F:/Dropshipping/team/reports/T029/social/carousels/10257843355840/05-care-v3.png",
+      "generatedSource": "C:/Users/Abhinand/.codex/generated_images/01a1362d-6568-7e23-b4e6-cae64a5a5b39/exec-4529c04b-d1f9-49c6-8df4-6dfb5b792b56.png",
+      "prompt": "Precise targeted image edit: remove ONLY tiny footer phrase 'AI-generated product illustration' or 'AI-generated illustration', and adjacent separator dot if there is one. Preserve all other text including Citrus props not included if present, all geometry/color/photo/textlayout and aspectratio. Fill removedtextwithseamlessoriginalbackground. Do not redesign/crop/add text. Productandcarepointsotherwiseunchanged.",
+      "status": "VISUAL_REVIEW_PENDING"
+    },
+    {
+      "id": "10253181321408",
+      "role": "care",
+      "source": "F:/Dropshipping/team/reports/T029/social/carousels/10253181321408/05-care.png",
+      "target": "F:/Dropshipping/team/reports/T029/social/carousels/10253181321408/05-care-v3.png",
+      "generatedSource": "C:/Users/Abhinand/.codex/generated_images/01a1362d-6568-7e23-b4e6-cae64a5a5b39/exec-efd60528-c400-4cf6-bff7-41bc544384e2.png",
+      "prompt": "Precise targeted image edit: remove ONLY tiny footer phrase 'AI-generated product illustration' or 'AI-generated illustration', and adjacent separator dot if there is one. Preserve all other text including Citrus props not included if present, all geometry/color/photo/textlayout and aspectratio. Fill removedtextwithseamlessoriginalbackground. Do not redesign/crop/add text. Productandcarepointsotherwiseunchanged.",
+      "status": "VISUAL_REVIEW_PENDING"
+    },
+    {
+      "id": "10252037390528",
+      "role": "cover",
+      "source": "F:/Dropshipping/team/reports/T029/social/carousels/10252037390528/01-slide.png",
+      "target": "F:/Dropshipping/team/reports/T029/social/carousels/10252037390528/01-cover-v3.png",
+      "generatedSource": "C:/Users/Abhinand/.codex/generated_images/01a1362d-6568-7e23-b4e6-cae64a5a5b39/exec-5831ba2c-13ae-41e9-864b-363f778f4c74.png",
+      "prompt": "Targeted correction to image1 premium pouch cover. Remove tiny 'AI-generated illustration' phrase atfooter, preserve 'Context props not included'. Correct product ONLY: pouch lies flat horizontally with broad TOP/LID facingup atthreequarterangle, tan carrystrap lies across TOP/LID, not across frontverticalsidewall. Sourcephoto image2 exactauthority openbag+inset showsstraponlid and nohandleonsidewall; image3 reviewedcorrectclosedpouch demonstratesgeometry. Replace wronguprightfrontstrapbag with correct closed horizontal pouch, matching blueanimalprint/blackzip/blackedging/tanlidstrap. Maintain scale and occupiedlowerproductarea. Preserve entire headline 'Packed for the everyday.', subtitle 'Travel Organizer Pouch', threefeatureicons/text 'Zip closure','Carry handle','Patterned fabric', brand, RlogoCTA, @rozmiso.in and ivorykitchenstyling. No extraobject, no lunchbox. Keep originalportraitaspectratio. Make alltextunchangedexceptAIfooterremoval. Photorealpremium.",
+      "refs": [
+        "F:/Dropshipping/team/reports/T029/social/carousels/10252037390528/01-slide.png",
+        "F:/Dropshipping/team/reports/T028/reference-review/10252037390528/reference-1.jpg",
+        "F:/Dropshipping/team/reports/T028/generated/10252037390528/01-studio-v2.png"
+      ],
+      "status": "VISUAL_REVIEW_PENDING"
+    }
+  ]
+}

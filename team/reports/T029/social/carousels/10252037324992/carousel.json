@@ -1,0 +1,91 @@
+{
+  "productId": "10252037324992",
+  "title": "USB Rechargeable Fabric Shaver",
+  "productUrl": "https://rozmiso.in/products/usb-rechargeable-fabric-shaver",
+  "replacesPost": null,
+  "status": "ASSETS_COMPLETE_CROP_REVIEW_PENDING",
+  "slides": [
+    {
+      "order": 1,
+      "role": "Cover and features",
+      "path": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10252037324992\\01-slide.png",
+      "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10252037324992\\01-cover-v3.png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "sha256": "79f277e94897e930389f53388a832a5d6da34e96b2ae448590f876ac9e3bb240",
+      "altText": "USB Rechargeable Fabric Shaver: cover and features. Context props are not included."
+    },
+    {
+      "order": 2,
+      "role": "Product detail",
+      "path": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10252037324992\\02-slide.png",
+      "source": "F:\\Dropshipping\\team\\reports\\T028\\generated\\10252037324992\\02-detail.png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "sha256": "b236e08881e27510d5baae1a82b649ab147ae5efb4070c2880f74e562adf28da",
+      "altText": "USB Rechargeable Fabric Shaver: product detail. Context props are not included."
+    },
+    {
+      "order": 3,
+      "role": "Primary use",
+      "path": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10252037324992\\03-slide.png",
+      "source": "F:\\Dropshipping\\team\\reports\\T028\\generated\\10252037324992\\04-use-context.png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "sha256": "ce4380b3c8801e147dad75730cd26d4951a933004fa3e4bbbff41089e6158072",
+      "altText": "USB Rechargeable Fabric Shaver: primary use. Context props are not included."
+    },
+    {
+      "order": 4,
+      "role": "Second context",
+      "path": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10252037324992\\04-slide.png",
+      "source": "F:\\Dropshipping\\team\\reports\\T028\\generated\\10252037324992\\03-usecase.png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "sha256": "d690ed88093bb747418ae9996615fe79c50fc51c6fc754d61e692133aa5f93d8",
+      "altText": "USB Rechargeable Fabric Shaver: second context. Context props are not included."
+    },
+    {
+      "order": 5,
+      "role": "Care guidance",
+      "path": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10252037324992\\05-slide.png",
+      "source": "F:\\Dropshipping\\team\\reports\\T028\\generated\\10252037324992\\06-care.png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "sha256": "334ab969f370dd49cd2d8d3c63ff5bd011661ada23d642db6f07715f34216bb9",
+      "altText": "USB Rechargeable Fabric Shaver: care guidance. Context props are not included."
+    },
+    {
+      "order": 6,
+      "role": "Product link",
+      "path": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10252037324992\\06-slide.png",
+      "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\shared\\06-product-link-in.png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "sha256": "23e858c33b087c1d637c4489fc6bb1297dfc4b08f75755f670185d79e9d0127a",
+      "altText": "USB Rechargeable Fabric Shaver: product link. Context props are not included."
+    }
+  ],
+  "missing": [],
+  "mixedAspectRatios": false,
+  "caption": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10252037324992\\caption.txt",
+  "aiLabel": false,
+  "facebookPersonalCrosspost": false,
+  "facebookPageCrosspostRequired": true,
+  "facebookPageId": "61595107991994",
+  "livePublished": true,
+  "publishedVersionMayDiffer": true,
+  "theme": "Rozmiso Everyday Edit / ivory and forest green"
+}

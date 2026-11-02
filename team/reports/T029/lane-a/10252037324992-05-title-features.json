@@ -1,0 +1,16 @@
+{
+  "id": "10252037324992",
+  "slot": "05-title-features",
+  "prompt": "Use case: product-mockup. Create a separate square 1024x1024 premium ecommerce title/features graphic with large photorealistic exact green fabric shaver on pale warm-gray background, clean refined dark sans-serif typography in ample margins. Exact headline: \"USB Rechargeable Fabric Shaver\". Exact short supporting labels: \"Handheld design\" and \"Cleaning brush included\". Show one exact appliance and one small black cleaning brush. Preserve black round silver-perforated head, copper circular button, elongated green handle, white cable. No supplier codes, no performance claims, no extra text, no invented design.",
+  "referencePaths": [
+    "F:\\Dropshipping\\team\\reports\\T028\\reference-review\\10252037324992\\reference-1.jpg",
+    "F:\\Dropshipping\\team\\reports\\T028\\reference-review\\10252037324992\\reference-2.jpg"
+  ],
+  "output_hint": "Generated images are saved to C:\\Users\\Abhinand\\.codex\\generated_images\\01a11a26-34a3-7170-8b8d-982910619d33 as C:\\Users\\Abhinand\\.codex\\generated_images\\01a11a26-34a3-7170-8b8d-982910619d33\\exec-51373f90-a5f0-47b8-ac4f-429ee2aec5ec.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+  "sourcePath": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a11a26-34a3-7170-8b8d-982910619d33\\exec-51373f90-a5f0-47b8-ac4f-429ee2aec5ec.png",
+  "path": "F:/Dropshipping/team/reports/T028/generated/10252037324992/05-title-features.png",
+  "mode": "built-in imagegen",
+  "qa": "PASS_local_visual_root_review_pending",
+  "date": "2026-10-13",
+  "metadataPath": "F:/Dropshipping/team/reports/T029/lane-a/10252037324992-05-title-features.json"
+}

@@ -1,0 +1,173 @@
+{
+  "before": {
+    "id": "gid://shopify/Product/10252037324992",
+    "title": "USB Rechargeable Fabric Shaver",
+    "vendor": "DeoDap",
+    "status": "ACTIVE",
+    "productType": "Home care",
+    "descriptionHtml": "<p>Give everyday fabrics a tidy finish. This compact rechargeable shaver removes surface lint and pilling from garments and upholstery.</p><ul>\n<li>USB rechargeable for cordless use.</li>\n<li>Handheld design with a protective shaving surface.</li>\n<li>Cleaning brush included for routine maintenance.</li>\n</ul><h2>Care</h2><p>Test a small hidden area first. Keep fabric flat, use light pressure and avoid loose threads or damaged fabric. Switch off before cleaning.</p>",
+    "tags": [
+      "rozmiso-studio",
+      "supplier-confirmation-pending",
+      "supplier-deodap",
+      "test-candidate"
+    ],
+    "totalInventory": 0,
+    "featuredImageUrl": "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/rozmiso-23469_electric_lint_remover_1pc_no5.jpg?v=1791204936",
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/rozmiso-23469_electric_lint_remover_1pc_no5.jpg?v=1791204936",
+        "altText": "USB Rechargeable Fabric Shaver",
+        "mediaId": "gid://shopify/MediaImage/48440955633856"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/Lint-Removal-001--07.jpg?v=1791301491",
+        "altText": "",
+        "mediaId": "gid://shopify/MediaImage/48480785629376"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/LintRemoval001-02.jpg?v=1791301511",
+        "altText": "",
+        "mediaId": "gid://shopify/MediaImage/48480793034944"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/LintRemoval001-03.jpg?v=1791301514",
+        "altText": "",
+        "mediaId": "gid://shopify/MediaImage/48480793329856"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/LintRemoval001-04.jpg?v=1791301512",
+        "altText": "",
+        "mediaId": "gid://shopify/MediaImage/48480793067712"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/LintRemoval001-06.jpg?v=1791301517",
+        "altText": "",
+        "mediaId": "gid://shopify/MediaImage/48480794149056"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/LintRemoval001-05.jpg?v=1791301517",
+        "altText": "",
+        "mediaId": "gid://shopify/MediaImage/48480794116288"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/LintRemoval001-size.jpg?v=1791301515",
+        "altText": "",
+        "mediaId": "gid://shopify/MediaImage/48480793690304"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/LintRemoval001-live.jpg?v=1791301519",
+        "altText": "",
+        "mediaId": "gid://shopify/MediaImage/48480794607808"
+      }
+    ],
+    "totalVariants": 1,
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/50418576883904",
+        "title": "Default Title",
+        "sku": "23469_electric_lint_remover_1pc_no5",
+        "price": "799.00",
+        "inventoryQuantity": 0
+      }
+    ],
+    "currencyCode": "INR"
+  },
+  "uploads": [
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/rozmiso-fabric-shaver-ai-10252037324992-studio.png?v=1791872079",
+      "fileId": "gid://shopify/MediaImage/48780878479552",
+      "filename": "rozmiso-fabric-shaver-ai-10252037324992-studio.png",
+      "alt": "AI-generated fabric shaver 10252037324992-studio; fabric props not included"
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/rozmiso-fabric-shaver-ai-02-detail.png?v=1791872086",
+      "fileId": "gid://shopify/MediaImage/48780879495360",
+      "filename": "rozmiso-fabric-shaver-ai-02-detail.png",
+      "alt": "AI-generated fabric shaver 02-detail; fabric props not included"
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/rozmiso-fabric-shaver-ai-03-usecase.png?v=1791872093",
+      "fileId": "gid://shopify/MediaImage/48780880937152",
+      "filename": "rozmiso-fabric-shaver-ai-03-usecase.png",
+      "alt": "AI-generated fabric shaver 03-usecase; fabric props not included"
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/rozmiso-fabric-shaver-ai-04-use-context.png?v=1791872102",
+      "fileId": "gid://shopify/MediaImage/48780883230912",
+      "filename": "rozmiso-fabric-shaver-ai-04-use-context.png",
+      "alt": "AI-generated fabric shaver 04-use-context; fabric props not included"
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/rozmiso-fabric-shaver-ai-05-title-features.png?v=1791872111",
+      "fileId": "gid://shopify/MediaImage/48780900335808",
+      "filename": "rozmiso-fabric-shaver-ai-05-title-features.png",
+      "alt": "AI-generated fabric shaver 05-title-features; fabric props not included"
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/rozmiso-fabric-shaver-ai-06-care.png?v=1791872119",
+      "fileId": "gid://shopify/MediaImage/48780904038592",
+      "filename": "rozmiso-fabric-shaver-ai-06-care.png",
+      "alt": "AI-generated fabric shaver 06-care; fabric props not included"
+    }
+  ],
+  "after": {
+    "id": "gid://shopify/Product/10252037324992",
+    "title": "USB Rechargeable Fabric Shaver",
+    "vendor": "DeoDap",
+    "status": "ACTIVE",
+    "productType": "Home care",
+    "descriptionHtml": "<p>Give everyday fabrics a tidy finish. This compact rechargeable shaver removes surface lint and pilling from garments and upholstery.</p><ul>\n<li>USB rechargeable for cordless use.</li>\n<li>Handheld design with a protective shaving surface.</li>\n<li>Cleaning brush included for routine maintenance.</li>\n</ul><h2>Care</h2><p>Test a small hidden area first. Keep fabric flat, use light pressure and avoid loose threads or damaged fabric. Switch off before cleaning.</p>",
+    "tags": [
+      "rozmiso-studio",
+      "supplier-confirmation-pending",
+      "supplier-deodap",
+      "test-candidate"
+    ],
+    "totalInventory": 0,
+    "featuredImageUrl": "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/rozmiso-fabric-shaver-ai-10252037324992-studio.png?v=1791872079",
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/rozmiso-fabric-shaver-ai-10252037324992-studio.png?v=1791872079",
+        "altText": "AI-generated fabric shaver 10252037324992-studio; fabric props not included",
+        "mediaId": "gid://shopify/MediaImage/48780878479552"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/rozmiso-fabric-shaver-ai-02-detail.png?v=1791872086",
+        "altText": "AI-generated fabric shaver 02-detail; fabric props not included",
+        "mediaId": "gid://shopify/MediaImage/48780879495360"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/rozmiso-fabric-shaver-ai-03-usecase.png?v=1791872093",
+        "altText": "AI-generated fabric shaver 03-usecase; fabric props not included",
+        "mediaId": "gid://shopify/MediaImage/48780880937152"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/rozmiso-fabric-shaver-ai-04-use-context.png?v=1791872102",
+        "altText": "AI-generated fabric shaver 04-use-context; fabric props not included",
+        "mediaId": "gid://shopify/MediaImage/48780883230912"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/rozmiso-fabric-shaver-ai-05-title-features.png?v=1791872111",
+        "altText": "AI-generated fabric shaver 05-title-features; fabric props not included",
+        "mediaId": "gid://shopify/MediaImage/48780900335808"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/rozmiso-fabric-shaver-ai-06-care.png?v=1791872119",
+        "altText": "AI-generated fabric shaver 06-care; fabric props not included",
+        "mediaId": "gid://shopify/MediaImage/48780904038592"
+      }
+    ],
+    "totalVariants": 1,
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/50418576883904",
+        "title": "Default Title",
+        "sku": "23469_electric_lint_remover_1pc_no5",
+        "price": "799.00",
+        "inventoryQuantity": 0
+      }
+    ],
+    "currencyCode": "INR"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "10252037324992",
+  "slot": "02-detail",
+  "prompt": "Use case: product-mockup. Create a separate square 1024x1024 photorealistic detail photograph of the same exact dark-green fabric shaver, three-quarter side angle on a warm cream seamless surface. Focus on perforated silver round grille in black head housing and copper circular power button on elongated green handle. White cable visible at handle base. One appliance only. No props, advertising text, supplier codes or logos. Preserve reference geometry, no invented collector window or LEDs.",
+  "referencePaths": [
+    "F:\\Dropshipping\\team\\reports\\T028\\reference-review\\10252037324992\\reference-1.jpg",
+    "F:\\Dropshipping\\team\\reports\\T028\\reference-review\\10252037324992\\reference-2.jpg"
+  ],
+  "output_hint": "Generated images are saved to C:\\Users\\Abhinand\\.codex\\generated_images\\01a11a26-34a3-7170-8b8d-982910619d33 as C:\\Users\\Abhinand\\.codex\\generated_images\\01a11a26-34a3-7170-8b8d-982910619d33\\exec-14cb3d88-3f03-472b-9668-217d27f098ca.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+  "sourcePath": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a11a26-34a3-7170-8b8d-982910619d33\\exec-14cb3d88-3f03-472b-9668-217d27f098ca.png",
+  "path": "F:/Dropshipping/team/reports/T028/generated/10252037324992/02-detail.png",
+  "mode": "built-in imagegen",
+  "qa": "PASS_local_visual_root_review_pending",
+  "date": "2026-10-13",
+  "metadataPath": "F:/Dropshipping/team/reports/T029/lane-a/10252037324992-02-detail.json"
+}

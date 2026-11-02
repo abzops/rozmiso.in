@@ -1,0 +1,44 @@
+{
+  "snapshot_at_utc": "2026-10-08T06:20:48.994732+00:00",
+  "root": "F:\\Dropshipping",
+  "files": 50640,
+  "bytes": 1646028702,
+  "category_counts": {
+    "first-party-text": 404,
+    "browser-state-excluded": 857,
+    "sensitive-excluded": 38,
+    "binary-or-generated-asset": 232,
+    "dependency-metadata-only": 48859,
+    "historical-copy": 218,
+    "historical-theme": 24,
+    "audit-output": 8
+  },
+  "content_counts": {
+    "full-text-scanned": 614,
+    "metadata-only": 49994,
+    "large-text-metadata-only": 32
+  },
+  "top_level": {
+    "AGENTS.md": 1,
+    "INDIA_DROPSHIPPING_OPERATIONS_MANUAL.md": 1,
+    "READ_ME_FIRST_ORCHESTRATOR.md": 1,
+    "ROZMISO-OPERATING-PLAN.md": 1,
+    "SHOPIFY_DEPLOYMENT_GUIDE.md": 1,
+    "TEAM_ROSTER_AND_RULES.md": 1,
+    "test_cdp.js": 1,
+    ".agents": 22,
+    ".chrome-data": 452,
+    ".chrome-session": 424,
+    "automation": 2309,
+    "Files": 2,
+    "gideon": 32,
+    "knowledge": 9,
+    "open-dots": 23796,
+    "operations": 23351,
+    "outputs": 55,
+    "rozmiso-shopify-store": 24,
+    "rozmiso-studio-theme": 39,
+    "team": 118
+  },
+  "errors": []
+}

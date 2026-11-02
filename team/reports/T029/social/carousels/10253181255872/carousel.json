@@ -1,0 +1,91 @@
+{
+  "productId": "10253181255872",
+  "title": "Compact Cable Winder Case",
+  "productUrl": "https://rozmiso.in/products/compact-cable-winder-case",
+  "replacesPost": null,
+  "status": "ASSETS_COMPLETE_CROP_REVIEW_PENDING",
+  "slides": [
+    {
+      "order": 1,
+      "role": "Cover and features",
+      "path": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253181255872\\01-slide.png",
+      "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253181255872\\01-square-v4.png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "sha256": "99804c9e8b25b43de6418634ec6ac154fe0afae2312fb21f47ea87b06bde503b",
+      "altText": "Compact Cable Winder Case: cover and features. Context props are not included."
+    },
+    {
+      "order": 2,
+      "role": "Product detail",
+      "path": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253181255872\\02-slide.png",
+      "source": "F:\\Dropshipping\\team\\reports\\T028\\generated\\10253181255872\\02-detail-v2.png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "sha256": "23c715cd78d3cba49a38e588506337b6c751e26be2a5ab8b66bc20ef0fffb467",
+      "altText": "Compact Cable Winder Case: product detail. Context props are not included."
+    },
+    {
+      "order": 3,
+      "role": "Primary use",
+      "path": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253181255872\\03-slide.png",
+      "source": "F:\\Dropshipping\\team\\reports\\T028\\generated\\10253181255872\\03-usecase.png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "sha256": "9338af45a2b1e8d137bb2cdab162037ca09b42ce3dd8a99fe83ec503de20a3fe",
+      "altText": "Compact Cable Winder Case: primary use. Context props are not included."
+    },
+    {
+      "order": 4,
+      "role": "Second context",
+      "path": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253181255872\\04-slide.png",
+      "source": "F:\\Dropshipping\\team\\reports\\T028\\generated\\10253181255872\\04-use-context.png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "sha256": "4ebe52a042dccc3953ac69c94f833097179b9f5fa31b31f763fe0b3c13b6d38a",
+      "altText": "Compact Cable Winder Case: second context. Context props are not included."
+    },
+    {
+      "order": 5,
+      "role": "Care guidance",
+      "path": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253181255872\\05-slide.png",
+      "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253181255872\\05-care-v4.png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "sha256": "167033aea4f35b316fe6f5c045be730b6dce6bf361a9e97a53abac7eb661ae6a",
+      "altText": "Compact Cable Winder Case: care guidance. Context props are not included."
+    },
+    {
+      "order": 6,
+      "role": "Product link",
+      "path": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253181255872\\06-slide.png",
+      "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\shared\\06-product-link-in.png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "sha256": "23e858c33b087c1d637c4489fc6bb1297dfc4b08f75755f670185d79e9d0127a",
+      "altText": "Compact Cable Winder Case: product link. Context props are not included."
+    }
+  ],
+  "missing": [],
+  "mixedAspectRatios": false,
+  "caption": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253181255872\\caption.txt",
+  "aiLabel": false,
+  "facebookPersonalCrosspost": false,
+  "facebookPageCrosspostRequired": true,
+  "facebookPageId": "61595107991994",
+  "livePublished": false,
+  "publishedVersionMayDiffer": false,
+  "theme": "Rozmiso Everyday Edit / ivory and forest green"
+}

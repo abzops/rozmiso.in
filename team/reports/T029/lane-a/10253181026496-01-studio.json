@@ -1,0 +1,13 @@
+{
+  "id": "10253181026496",
+  "slot": "01-studio",
+  "prompt": "Use case: product-mockup. ONE square premium ecommerce studio photograph of ONE rust-orange square microfiber cleaning cloth faithfully based on image1: rounded corners, dense terry fibers, BLACK bound stitched edges on all four sides and black loop at one corner. Preserve one cloth no multipack. Cloth gently folded in half with one top corner turned back to reveal texture, loop fully visible. Pale ivory seamless table, soft natural shadow, sophisticated precise fabric photography, no props, no text, no dimensions or absorbency claims. Rust orange must remain same across entire series; no gray alternative.",
+  "referencePaths": [
+    "F:/Dropshipping/team/reports/T028/reference-review/10253181026496/reference-1.jpg"
+  ],
+  "sourcePath": "C:/Users/Abhinand/.codex/generated_images/01a13435-490b-7431-997e-e0d931fa0e75/exec-d4beb78f-0d81-4d14-929e-d6a419f7d98f.png",
+  "path": "F:/Dropshipping/team/reports/T028/generated/10253181026496/01-studio.png",
+  "mode": "built-in imagegen",
+  "qa": "PASS_local_visual_root_review_pending",
+  "date": "2026-10-13"
+}

@@ -1,0 +1,9 @@
+{
+  "date": "2026-10-14",
+  "tool": "builtin imagegen",
+  "input": "05-slide.png",
+  "output": "05-care-v4.png",
+  "generatedSource": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a11a24-fa90-7301-83f3-7aea32cd5e82\\exec-7bd24ac5-8849-48f0-9b52-21cb3bd1d5eb.png",
+  "prompt": "Edit this existing premium Rozmiso Microfiber Cleaning Cloth care graphic. Remove ONLY the tiny bottom line 'AI-generated product illustration', fill with seamless existing ivory background; no replacement wording. Preserve all other headings, instructions, icons, @rozmiso.in and exact product geometry/colors/count. Preserve the orange cloth, black edge and loop. Reformat portrait into square 1:1 without cropping any heading, product or care text; expand matching ivory background to sides and resize composition uniformly. One finished premium graphic.",
+  "qa": "Root visually reviewed: footer removed, product and factual copy preserved; square format"
+}

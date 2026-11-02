@@ -1,0 +1,14 @@
+{
+  "id": "10252037390528",
+  "slot": "03-usecase",
+  "prompt": "Use case: photorealistic-natural. Create one separate square professional premium ecommerce use-case image. Exact reference image defines the product: rectangular soft blue-gray animal-print zipped pouch, warm orange/yellow cartoon animals, black piping and zipper, tan horizontal webbing handle across lid, silver grid-pattern reflective lining. Show ONE CLOSED pouch held by its tan webbing handle by a naturally posed adult hand, beside a neutral weekend travel tote on a pale stone console. Handle remains attached across broad lid, never invent shoulder strap, rigid shell or compartments. Visible print/colors and soft construction faithfully preserved. Natural window light, editorial styling, warm ivory, tactile fabrics, precise stitching, premium restrained aesthetic, no text, no logos, no packaging. Tote is a context prop, no performance claims. Closed pouch is the focus; no pink lunchbox needed.",
+  "referencePaths": [
+    "F:/Dropshipping/team/reports/T028/reference-review/10252037390528/reference-1.jpg"
+  ],
+  "sourcePath": "C:/Users/Abhinand/.codex/generated_images/01a13435-490b-7431-997e-e0d931fa0e75/exec-5e27f5d1-c28c-4d8c-9900-437c3468e112.png",
+  "path": "F:/Dropshipping/team/reports/T028/generated/10252037390528/03-usecase.png",
+  "mode": "built-in imagegen",
+  "qa": "PASS_local_visual_root_review_pending",
+  "notes": "Closed pouch carried by reference tan webbing lid handle. All other objects are context props.",
+  "date": "2026-10-13"
+}

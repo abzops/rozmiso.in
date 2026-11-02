@@ -1,0 +1,278 @@
+[
+  {
+    "group": "laundry",
+    "position": 1,
+    "url": "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/2092621257.png?v=1766151224",
+    "status": 200,
+    "bytes": 1086584,
+    "dimensions": [
+      1080,
+      1085
+    ],
+    "sha256": "c9d661f9e5a53e03d692cbfb2a236f676daff2a7a6fcb376b6aaa98d1bcf9c6c"
+  },
+  {
+    "group": "laundry",
+    "position": 2,
+    "url": "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/2_95ee6822-904b-4b43-861b-4cce09f39058.jpg?v=1766151224",
+    "status": 200,
+    "bytes": 329943,
+    "dimensions": [
+      1500,
+      1500
+    ],
+    "sha256": "f4501a20e89abd45459e4da041574410bc913b5d9efb7333ed2ec1d2e7860d5d"
+  },
+  {
+    "group": "laundry",
+    "position": 3,
+    "url": "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/2092621258.png?v=1766151224",
+    "status": 200,
+    "bytes": 844570,
+    "dimensions": [
+      1080,
+      1085
+    ],
+    "sha256": "162707457a69fdc2dd6409eb80e6d6ee5f4795bf641c6ed58d5efcbef4744610"
+  },
+  {
+    "group": "laundry",
+    "position": 4,
+    "url": "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/2092621259.png?v=1766151224",
+    "status": 200,
+    "bytes": 237833,
+    "dimensions": [
+      1080,
+      1085
+    ],
+    "sha256": "5fbdde6a2dc3f27439f9e852eac26a5c6c542148935b8549288c61b4e828d911"
+  },
+  {
+    "group": "laundry",
+    "position": 5,
+    "url": "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/2092621261.png?v=1766151224",
+    "status": 200,
+    "bytes": 615818,
+    "dimensions": [
+      1080,
+      1085
+    ],
+    "sha256": "9e69a68f922b03e2056d9d672797edbef7f0c7b0815a9a97c29dc854e2919e4f"
+  },
+  {
+    "group": "laundry",
+    "position": 6,
+    "url": "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/2092621260.png?v=1766151224",
+    "status": 200,
+    "bytes": 1650305,
+    "dimensions": [
+      1080,
+      1085
+    ],
+    "sha256": "42fdf2b9d17602c918a91d9c6d5a4657ae4c9919f8499589487bfc7ff95e0150"
+  },
+  {
+    "group": "laundry",
+    "position": 7,
+    "url": "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/9_21156ac4-10bd-4486-a9b5-178e4b6b8993.jpg?v=1766151224",
+    "status": 200,
+    "bytes": 86072,
+    "dimensions": [
+      1500,
+      1500
+    ],
+    "sha256": "0ff69a7ec25b377ba2c635fc834ed8699ee8f7dddd79ecdf2fe9e24152268a7f"
+  },
+  {
+    "group": "laundry",
+    "position": 8,
+    "url": "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/04_a723248a-e773-478d-8fed-158cc9ac8f96.jpg?v=1766151224",
+    "status": 200,
+    "bytes": 149130,
+    "dimensions": [
+      1500,
+      1500
+    ],
+    "sha256": "d91203719cc4401a13aa9b98a6dc1b7d8cd1bbd40b7d744bf95aca7174553d46"
+  },
+  {
+    "group": "laundry",
+    "position": 9,
+    "url": "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/5_ec7c7c59-e1d1-4ca4-b73b-af3faba9c509.jpg?v=1766151224",
+    "status": 200,
+    "bytes": 241163,
+    "dimensions": [
+      1500,
+      1500
+    ],
+    "sha256": "521a7c9857f5911d55c87d6332b3a5f9991dba0ff6e1d41f8583ce96d268da83"
+  },
+  {
+    "group": "laundry",
+    "position": 10,
+    "url": "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/7_405cc988-f411-4552-ac25-c8e3587e1d01.jpg?v=1766151224",
+    "status": 200,
+    "bytes": 297738,
+    "dimensions": [
+      1500,
+      1500
+    ],
+    "sha256": "d05ce35f343f7cb97b1c61bf2b8beba1ab1175fac63910769e819294d92d9096"
+  },
+  {
+    "group": "laundry",
+    "position": 11,
+    "url": "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/3_97a952f8-01e6-407f-9e95-375e16491315.jpg?v=1766151224",
+    "status": 200,
+    "bytes": 348945,
+    "dimensions": [
+      1500,
+      1500
+    ],
+    "sha256": "a8f4f8190b983fccbcbdd3f479ca2bdda1e6f5c933a8fca40f8459e0af680e20"
+  },
+  {
+    "group": "laundry",
+    "position": 12,
+    "url": "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/8_18c574ed-1416-4cdc-8fa1-73fd7c73e30f.jpg?v=1766151224",
+    "status": 200,
+    "bytes": 270924,
+    "dimensions": [
+      1500,
+      1500
+    ],
+    "sha256": "b7502b46ad82c5bcc4688cef1a0a0dd5009705010f35e1b41d058e9bb6368ff6"
+  },
+  {
+    "group": "laundry",
+    "position": 13,
+    "url": "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/6_fb72aaf8-dab0-4ab6-ae6c-19d8308de172.jpg?v=1766151224",
+    "status": 200,
+    "bytes": 217859,
+    "dimensions": [
+      1500,
+      1500
+    ],
+    "sha256": "34e9921fe614c645c2601513112725dba022287400ab9abfd0399258d5a368f7"
+  },
+  {
+    "group": "laundry",
+    "position": 14,
+    "url": "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/9a8250d0-1824-4480-84e4-9e4c0c9c039c.jpg?v=1766151224",
+    "status": 200,
+    "bytes": 188274,
+    "dimensions": [
+      1280,
+      931
+    ],
+    "sha256": "3fd918628d712cd0560c6380e842e6de4fe6b269aeae2d26586929c9c01bb4f5"
+  },
+  {
+    "group": "juicer-legacy",
+    "position": 1.0,
+    "url": "https://cdn.shopify.com/s/files/1/1916/9825/products/1_e6b04b09-29af-42df-b581-8f3865ca1f08.jpg?v=1651487842",
+    "status": 200,
+    "bytes": 246197,
+    "dimensions": [
+      1500,
+      1500
+    ],
+    "sha256": "6f54bfabc90151569db35afd9fb69c9493b6c64d2d788b8834ec826b33f578b3"
+  },
+  {
+    "group": "juicer-legacy",
+    "position": 2.0,
+    "url": "https://cdn.shopify.com/s/files/1/1916/9825/products/2_eaa644c2-92e3-4116-be77-d0c1b8871a88.jpg?v=1651487844",
+    "status": 200,
+    "bytes": 188704,
+    "dimensions": [
+      1500,
+      1500
+    ],
+    "sha256": "dec68823f46427b9786997c564357c3a7f0dbda38634224634ea4326da3a6ca6"
+  },
+  {
+    "group": "juicer-legacy",
+    "position": 3.0,
+    "url": "https://cdn.shopify.com/s/files/1/1916/9825/products/3_d5bb127d-c746-4eca-9fec-fb1f6e6f0edb.jpg?v=1651487846",
+    "status": 200,
+    "bytes": 73681,
+    "dimensions": [
+      1500,
+      1500
+    ],
+    "sha256": "f1af8ef8f6b05c47e8e056649a052e006f2125262ba38011d137d600467f1ef5"
+  },
+  {
+    "group": "juicer-legacy",
+    "position": 4.0,
+    "url": "https://cdn.shopify.com/s/files/1/1916/9825/products/4_61f9bc93-aff1-4cb4-b351-669ce033ff84.jpg?v=1651487847",
+    "status": 200,
+    "bytes": 111445,
+    "dimensions": [
+      1500,
+      1500
+    ],
+    "sha256": "d4ee8a416f1889973412b640a4e5c362ec24e8a75743ea0e051b350cb7bf0116"
+  },
+  {
+    "group": "juicer-legacy",
+    "position": 5.0,
+    "url": "https://cdn.shopify.com/s/files/1/1916/9825/products/5_b787857a-f3fa-4994-9899-02067a2bbc8c.jpg?v=1651487848",
+    "status": 200,
+    "bytes": 192472,
+    "dimensions": [
+      1500,
+      1500
+    ],
+    "sha256": "30ce4d4421990f9951ec123e1ef342607469caab43625e1b3092c1e7d4d0db3c"
+  },
+  {
+    "group": "juicer-legacy",
+    "position": 6.0,
+    "url": "https://cdn.shopify.com/s/files/1/1916/9825/products/6_702089da-9951-4271-86d2-1d9e150205b8.jpg?v=1651487849",
+    "status": 200,
+    "bytes": 203004,
+    "dimensions": [
+      1500,
+      1500
+    ],
+    "sha256": "1646bc5b6cf749165abedb5879bc205e00d7dc1998a46297584f87f6d3555277"
+  },
+  {
+    "group": "juicer-legacy",
+    "position": 7.0,
+    "url": "https://cdn.shopify.com/s/files/1/1916/9825/products/7_726396df-f460-4f34-af64-dae706e1dc47.jpg?v=1651487851",
+    "status": 200,
+    "bytes": 73077,
+    "dimensions": [
+      1500,
+      1500
+    ],
+    "sha256": "c3cf792c832e1f3aab7abbf9c4eeb04b0e9d8c228815a9334a10d4c8469a3a6b"
+  },
+  {
+    "group": "juicer-legacy",
+    "position": 8.0,
+    "url": "https://cdn.shopify.com/s/files/1/1916/9825/products/8_f63ecb85-e97d-4af6-9da3-3ebb3c24df44.jpg?v=1651487852",
+    "status": 200,
+    "bytes": 111241,
+    "dimensions": [
+      1500,
+      1500
+    ],
+    "sha256": "dee66c82ba84133906e6fd356d919a6e42363645c6b60acc207cff30571d2584"
+  },
+  {
+    "group": "juicer-legacy",
+    "position": 9.0,
+    "url": "https://cdn.shopify.com/s/files/1/1916/9825/products/9_26c9c9c6-e5b4-4333-888f-6dd7b49fc252.jpg?v=1651487853",
+    "status": 200,
+    "bytes": 346809,
+    "dimensions": [
+      720,
+      1280
+    ],
+    "sha256": "2a4d61b9ab169e588b50298bf050a219452106e43aa343058e62a1cf1cb95122"
+  }
+]

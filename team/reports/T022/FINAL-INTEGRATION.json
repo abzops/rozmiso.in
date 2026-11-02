@@ -1,0 +1,24 @@
+{
+  "integrated_at_utc": "2026-10-08T06:44:28.606233+00:00",
+  "total_source_files": 39,
+  "total_changed_files_from_original": 9,
+  "this_integration_changed_only": "assets/studio.css",
+  "all_source_files_match_final_candidate": true,
+  "all_nine_original_backups_verified": true,
+  "zip": "F:\\Dropshipping\\team\\reports\\T022\\rozmiso-reviewed-theme.zip",
+  "zip_sha256": "019047c92e242200d9a5e53a51e69d141e00cbe1d80d5bbed3a9c97b5a5b9880",
+  "zip_files": 39,
+  "zip_crc_and_per_file_sha256_pass": true,
+  "changed_file_manifest": "CHANGED-FILES-FINAL.json",
+  "live_qa_reported_by_codex": {
+    "draft_theme_id": "159016681664",
+    "viewport": "390x844",
+    "document_client_width": 375,
+    "document_scroll_width": 375,
+    "gallery_and_thumbs_width": 335.2,
+    "thumbnail_internal_scroll_width": 726,
+    "screenshot": "team/reports/T024/theme-product-mobile-fixed.png"
+  },
+  "worker_live_actions": false,
+  "scope_limit": "Current 15 published products observed by Codex. Search beyond 50 and large-catalog filtering tested only in fixtures; no corresponding live claim."
+}

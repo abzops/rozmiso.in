@@ -1,0 +1,182 @@
+{
+  "product": {
+    "id": 10709212332342,
+    "title": "Microfiber Cleaning Cloth – Soft, Highly Absorbent & Reusable (1 Pc, 40x40 Cm)",
+    "body_html": "<p>The DeoDap microfiber cleaning cloth towel is a versatile cleaning essential designed to deliver effective, scratch-free cleaning across various surfaces. Measuring 40x40cm, this cloth is perfect for cleaning kitchens, vehicles, glass, tiles, and more. Crafted from highly absorbent microfiber material, it ensures water, dust, and dirt are quickly lifted and retained, leaving surfaces spotless and streak-free. Its soft fibers gently clean delicate surfaces without scratching, making it a reliable choice for everyday use. Reusable and machine washable, this cloth offers long-lasting durability, making it an eco-friendly alternative to disposable wipes. Compact yet generous in size, it simplifies cleaning tasks and enhances efficiency.\n\n</p><h2>Key features</h2>\n<ul>\n<li>Highly absorbent microfiber material for superior cleaning</li>\n<li>Gentle fibers prevent scratches on sensitive surfaces</li>\n<li>Reusable and machine washable for extended use</li>\n<li>Suitable for glass, tiles, counters, cars, and more</li>\n<li>Generous 40x40cm size for quick cleaning</li>\n</ul>\n<h2>Materials &amp; care</h2>\n<p>Made from premium microfiber, machine washable, and durable for repeated use.</p>\n<h2>FAQ</h2>\n<dl>\n<dt>Q1: What surfaces can I use this microfiber cleaning cloth on?</dt>\n<dd>A: It is suitable for glass, tiles, countertops, cars, and other delicate surfaces, providing scratch-free cleaning.\n</dd>\n<dt>Q2: How do I maintain the microfiber cloth?</dt>\n<dd>A: Wash with mild detergent in cold or warm water. Avoid bleach and fabric softeners to preserve its absorbency.\n</dd>\n<dt>Q3: Is this cloth eco-friendly?</dt>\n<dd>A: Yes, it is reusable, reducing waste and making it an environmentally friendly cleaning option.\n</dd>\n<dt>Q4: How large is the cloth?</dt>\n<dd>A: The cloth measures 40x40cm, ideal for various cleaning tasks without being bulky.\n</dd>\n<dt>Q5: Can it be used on car interiors?</dt>\n<dd>A: Absolutely, its soft fibers are perfect for cleaning car interiors, glass, and exterior surfaces without scratching.\n</dd>\n</dl>",
+    "vendor": "DeoDap",
+    "product_type": "Cleaning Cloth",
+    "created_at": "2026-05-12T12:48:38+05:30",
+    "handle": "multipurpose-cleaning-cloth-towel-40x40cm-microfiber-duster-for-kitchen-home-1-pc",
+    "updated_at": "2026-10-06T21:15:26+05:30",
+    "published_at": "2026-05-16T17:45:49+05:30",
+    "template_suffix": null,
+    "published_scope": "global",
+    "tags": "40x40, 80 Plus Afft, AN, BR, c35, c44, China, Cleaning Cloth, Duster, g171, g176, g777, Hand Towel, Home Cleaning, home improvement, Internal, Kitchen Cloth, Loose, Microfiber, Napkin, p12, p5, PB, SK, stock, Towel, TR, UK, UP",
+    "variants": [
+      {
+        "id": 54018510291254,
+        "product_id": 10709212332342,
+        "title": "Default Title",
+        "price": "35.00",
+        "sku": "21974_cleaning_cloth_towel_40x40cm_1pc",
+        "position": 1,
+        "compare_at_price": "149.00",
+        "fulfillment_service": "manual",
+        "inventory_management": "shopify",
+        "option1": "Default Title",
+        "option2": null,
+        "option3": null,
+        "created_at": "2026-05-12T12:48:39+05:30",
+        "updated_at": "2026-10-06T21:15:26+05:30",
+        "taxable": true,
+        "barcode": "629783366303",
+        "grams": 170,
+        "image_id": null,
+        "weight": 170,
+        "weight_unit": "g",
+        "requires_shipping": true,
+        "quantity_rule": {
+          "min": 1,
+          "max": null,
+          "increment": 1
+        },
+        "price_currency": "INR",
+        "compare_at_price_currency": "INR",
+        "quantity_price_breaks": []
+      }
+    ],
+    "options": [
+      {
+        "id": 13384445854006,
+        "product_id": 10709212332342,
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "id": 60202223862070,
+        "product_id": 10709212332342,
+        "position": 1,
+        "created_at": "2026-09-25T15:04:19+05:30",
+        "updated_at": "2026-09-25T15:04:21+05:30",
+        "alt": null,
+        "width": 1500,
+        "height": 1500,
+        "src": "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/Microfiber_Cloth_1.jpg?v=1790328861",
+        "variant_ids": []
+      },
+      {
+        "id": 60202224124214,
+        "product_id": 10709212332342,
+        "position": 2,
+        "created_at": "2026-09-25T15:04:19+05:30",
+        "updated_at": "2026-09-25T15:04:21+05:30",
+        "alt": null,
+        "width": 1500,
+        "height": 1500,
+        "src": "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/21974.jpg?v=1790328861",
+        "variant_ids": []
+      },
+      {
+        "id": 60202223894838,
+        "product_id": 10709212332342,
+        "position": 3,
+        "created_at": "2026-09-25T15:04:19+05:30",
+        "updated_at": "2026-09-25T15:04:21+05:30",
+        "alt": null,
+        "width": 1500,
+        "height": 1500,
+        "src": "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/Microfiber_Cloth_2.jpg?v=1790328861",
+        "variant_ids": []
+      },
+      {
+        "id": 60202224058678,
+        "product_id": 10709212332342,
+        "position": 4,
+        "created_at": "2026-09-25T15:04:19+05:30",
+        "updated_at": "2026-09-25T15:04:21+05:30",
+        "alt": null,
+        "width": 1500,
+        "height": 1500,
+        "src": "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/Microfiber_Cloth_7.jpg?v=1790328861",
+        "variant_ids": []
+      },
+      {
+        "id": 60202223960374,
+        "product_id": 10709212332342,
+        "position": 5,
+        "created_at": "2026-09-25T15:04:19+05:30",
+        "updated_at": "2026-09-25T15:04:21+05:30",
+        "alt": null,
+        "width": 1500,
+        "height": 1500,
+        "src": "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/Microfiber_Cloth_4.jpg?v=1790328861",
+        "variant_ids": []
+      },
+      {
+        "id": 60202224025910,
+        "product_id": 10709212332342,
+        "position": 6,
+        "created_at": "2026-09-25T15:04:19+05:30",
+        "updated_at": "2026-09-25T15:04:20+05:30",
+        "alt": null,
+        "width": 1500,
+        "height": 1500,
+        "src": "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/Microfiber_Cloth_6.jpg?v=1790328860",
+        "variant_ids": []
+      },
+      {
+        "id": 60202223993142,
+        "product_id": 10709212332342,
+        "position": 7,
+        "created_at": "2026-09-25T15:04:19+05:30",
+        "updated_at": "2026-09-25T15:04:21+05:30",
+        "alt": null,
+        "width": 1500,
+        "height": 1500,
+        "src": "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/Microfiber_Cloth_5.jpg?v=1790328861",
+        "variant_ids": []
+      },
+      {
+        "id": 60202224091446,
+        "product_id": 10709212332342,
+        "position": 8,
+        "created_at": "2026-09-25T15:04:19+05:30",
+        "updated_at": "2026-09-25T15:04:21+05:30",
+        "alt": null,
+        "width": 1500,
+        "height": 1500,
+        "src": "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/Microfiber_Cloth_8.jpg?v=1790328861",
+        "variant_ids": []
+      },
+      {
+        "id": 60202223927606,
+        "product_id": 10709212332342,
+        "position": 9,
+        "created_at": "2026-09-25T15:04:19+05:30",
+        "updated_at": "2026-09-25T15:04:21+05:30",
+        "alt": null,
+        "width": 1500,
+        "height": 1500,
+        "src": "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/Microfiber_Cloth_3.jpg?v=1790328861",
+        "variant_ids": []
+      }
+    ],
+    "image": {
+      "id": 60202223862070,
+      "product_id": 10709212332342,
+      "position": 1,
+      "created_at": "2026-09-25T15:04:19+05:30",
+      "updated_at": "2026-09-25T15:04:21+05:30",
+      "alt": null,
+      "width": 1500,
+      "height": 1500,
+      "src": "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/Microfiber_Cloth_1.jpg?v=1790328861",
+      "variant_ids": []
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "10252037390528",
+  "slot": "04-use-context",
+  "prompt": "Use case: photorealistic-natural. Create ONE distinct square premium ecommerce context photograph. Exact original reference pouch geometry/color is authority. ONE open rectangular soft animal-print blue-gray pouch, orange/yellow cartoon accents, black zipper/piping, tan horizontal handle on broad lid, original silver grid-pattern lining. Display on elegant pale kitchen breakfast counter beside folded ivory napkin and simple beige mug. Pouch is OPEN and EMPTY so reflective lining across interior and lid is clearly visible; do not include lunchbox or any contents. View from overhead oblique angle, realistic fabric stitching and soft edges, no rigid box conversion, premium natural morning light, tasteful warm ivory palette, no text, no logos, no thermal-performance claims. Mug/napkin are separate context props.",
+  "referencePaths": [
+    "F:/Dropshipping/team/reports/T028/reference-review/10252037390528/reference-1.jpg"
+  ],
+  "sourcePath": "C:/Users/Abhinand/.codex/generated_images/01a13435-490b-7431-997e-e0d931fa0e75/exec-c9ac8f85-8349-4054-831d-f59dc93fa716.png",
+  "path": "F:/Dropshipping/team/reports/T028/generated/10252037390528/04-use-context.png",
+  "mode": "built-in imagegen",
+  "qa": "PASS_local_visual_root_review_pending",
+  "date": "2026-10-13"
+}

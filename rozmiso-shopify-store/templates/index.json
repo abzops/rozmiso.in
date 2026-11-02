@@ -1,0 +1,39 @@
+{
+  "sections": {
+    "hero": {
+      "type": "hero-banner",
+      "settings": {
+        "badge_text": "India’s #1 Smart Lifestyle Store",
+        "headline": "Everyday Smart Utility Under ₹999",
+        "subheadline": "High quality problem-solving home, kitchen & car gadgets designed for modern Indian homes. 100% Cash On Delivery & Free Shipping."
+      }
+    },
+    "featured_products": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "⚡ Rozmiso Top Deals",
+        "subtitle": "Handpicked viral essentials with verified 4.8+ ratings",
+        "products_to_show": 6
+      }
+    },
+    "trust": {
+      "type": "trust-badges",
+      "settings": {}
+    },
+    "reviews": {
+      "type": "customer-reviews",
+      "settings": {}
+    },
+    "faq": {
+      "type": "faq-section",
+      "settings": {}
+    }
+  },
+  "order": [
+    "hero",
+    "featured_products",
+    "trust",
+    "reviews",
+    "faq"
+  ]
+}

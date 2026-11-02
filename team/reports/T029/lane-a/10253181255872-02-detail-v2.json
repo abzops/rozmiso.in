@@ -1,0 +1,14 @@
+{
+  "id": "10253181255872",
+  "slot": "02-detail",
+  "prompt": "ONE square premium extreme macro photograph of blue round cable winder from originalreference. Crop TIGHTLY so full case and lid are NOT visible: only raised central split semicircular hub straddling straight slot and a small adjacent portion of blue base appears, hub fills entire image and extends beyond edges. Focus on mouth of straight slot and semicircular lip molded detail. Original design authority, blue plastic identical, no cables/no electronics/no text. Soft raking light precise product material, ivory only at one corner. This is intentional partial macro, do not create whole opencase hero.",
+  "referencePaths": [
+    "F:/Dropshipping/team/reports/T028/reference-review/10253181255872/reference-1.jpg",
+    "F:/Dropshipping/team/reports/T028/generated/10253181255872/01-studio.png"
+  ],
+  "sourcePath": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a13435-490b-7431-997e-e0d931fa0e75\\exec-74e4ac27-7f9e-414b-a136-16508c6e2448.png",
+  "path": "F:/Dropshipping/team/reports/T028/generated/10253181255872/02-detail-v2.png",
+  "qa": "PASS_local_visual_root_review_pending",
+  "mode": "built-in imagegen",
+  "date": "2026-10-13"
+}

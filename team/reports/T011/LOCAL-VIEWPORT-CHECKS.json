@@ -1,0 +1,32 @@
+[
+  {
+    "cardY": 735.4375,
+    "overflow": false,
+    "visibleBroken": 0,
+    "width": 320
+  },
+  {
+    "cardY": 758.8250122070312,
+    "overflow": false,
+    "visibleBroken": 0,
+    "width": 360
+  },
+  {
+    "cardY": 783.4750366210938,
+    "overflow": false,
+    "visibleBroken": 0,
+    "width": 390
+  },
+  {
+    "cardY": 817.3875122070312,
+    "overflow": false,
+    "visibleBroken": 0,
+    "width": 430
+  },
+  {
+    "cardY": 892.6124877929688,
+    "overflow": false,
+    "visibleBroken": 0,
+    "width": 1440
+  }
+]

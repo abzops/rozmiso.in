@@ -1,0 +1,182 @@
+{
+  "product": {
+    "id": 9074408620342,
+    "title": "Bottle Cleaning Brush – 3-in-1 Multifunctional | SparkleTidy",
+    "body_html": "<p>Keep your bottles, cups, and lids impeccably clean with the SparkleTidy <strong>3-in-1 multifunctional bottle cleaning brush</strong>. This innovative tool is specifically designed to reach every nook and cranny, ensuring hygienic cleaning for all your drinkware. Say goodbye to stubborn stains and hard-to-reach grime with this versatile cleaning solution, perfect for busy Indian households.</p><p>From baby bottles to sports sippers and intricate wine glasses, this multi-functional <strong>3-in-1 multifunctional bottle cleaning brush</strong> offers unparalleled versatility. Its thoughtful design incorporates three specialized cleaning tools into one compact unit, making it an indispensable addition to your kitchen arsenal. Experience effortless cleaning and maintain the pristine condition of your favourite drinkware with this essential <strong>cup cleaner</strong>.</p><h2>Key features</h2><ul>\n<li>\n<strong>Triple-Action Cleaning:</strong> Features a main brush for general cleaning, a spiral brush for narrow openings, and a slender hook tool for lid crevices, providing a comprehensive <strong>deep cleaning brush</strong> solution.</li>\n<li>\n<strong>Ergonomic &amp; Efficient:</strong> Designed for comfortable grip and effective scrubbing, tackling tough spots with ease and reaching every corner.</li>\n<li>\n<strong>Durable Construction:</strong> Made from high-quality plastic with heat-resistant bristles, ensuring long-lasting performance and reliability.</li>\n<li>\n<strong>180° Rotating Head:</strong> The spiral brush and hook rotate 180 degrees, allowing for flexible access to all angles and making it an ideal <strong>lid cleaning tool</strong>.</li>\n<li>\n<strong>Compact Storage:</strong> Its clever design allows for easy folding and storage, saving valuable kitchen space.</li>\n<li>\n<strong>Versatile Application:</strong> Ideal for cleaning a wide range of items including baby bottles, water bottles, coffee mugs, wine glasses, and kettle spouts.</li>\n</ul><h2>Materials &amp; care</h2><p>Crafted from durable, high-quality plastic with heat-resistant synthetic bristles. This ensures the brush can withstand regular use and hot water without degrading. To care for your <strong>3-in-1 multifunctional bottle cleaning brush</strong>, simply rinse it thoroughly with water after each use and allow it to air dry completely before storing. Avoid harsh chemical cleaners to maintain its integrity.</p><h2>FAQ</h2><dl>\n<dt>Q1: What types of bottles can this brush clean?</dt>\n<dd>A: This versatile brush is perfect for cleaning a wide range of drinkware, including baby bottles, sports bottles, water bottles, wine glasses, coffee mugs, and even kettle spouts.</dd>\n<dt>Q2: How do the 3-in-1 features work?</dt>\n<dd>A: It includes a main brush for general cleaning, a spiral brush for reaching narrow bottle necks and deep interiors, and a slender hook for cleaning intricate lid gaps and crevices.</dd>\n<dt>Q3: Is the brush safe for all materials?</dt>\n<dd>A: Yes, the soft yet effective bristles are designed to clean various materials like glass, plastic, and stainless steel without causing scratches.</dd>\n<dt>Q4: Is this cleaning brush easy to store?</dt>\n<dd>A: Absolutely! Its compact and foldable design makes it incredibly easy to store in drawers or hang near your sink, saving counter space.</dd>\n</dl>",
+    "vendor": "SparkleTidy",
+    "product_type": "Cleaning Brush",
+    "created_at": "2024-01-26T11:37:54+05:30",
+    "handle": "3-in-1-multifunctional-cleaning-brush",
+    "updated_at": "2026-10-06T21:16:12+05:30",
+    "published_at": "2024-01-26T15:05:44+05:30",
+    "template_suffix": "gp-template-542472702988911620",
+    "published_scope": "global",
+    "tags": "80 Plus Afft, c109, c118, c73, China, collection_mega_savings, g114, g176, g422, g470, Handpicked By Manu Bajaj, Home Essentials, home improvement, Internal, Kitchen, low sales, p1, p11, plastic packing, Salary Day Sale, Shop by Industry, Slow Sell, stock",
+    "variants": [
+      {
+        "id": 48002695725366,
+        "product_id": 9074408620342,
+        "title": "Default Title",
+        "price": "28.00",
+        "sku": "6483_3in1_cleaning_brush_1pc",
+        "position": 1,
+        "compare_at_price": "199.00",
+        "fulfillment_service": "manual",
+        "inventory_management": "shopify",
+        "option1": "Default Title",
+        "option2": null,
+        "option3": null,
+        "created_at": "2024-01-26T11:37:55+05:30",
+        "updated_at": "2026-10-06T21:16:12+05:30",
+        "taxable": true,
+        "barcode": "629782947787",
+        "grams": 26,
+        "image_id": null,
+        "weight": 26,
+        "weight_unit": "g",
+        "requires_shipping": true,
+        "quantity_rule": {
+          "min": 1,
+          "max": null,
+          "increment": 1
+        },
+        "price_currency": "INR",
+        "compare_at_price_currency": "INR",
+        "quantity_price_breaks": []
+      }
+    ],
+    "options": [
+      {
+        "id": 11382190375222,
+        "product_id": 9074408620342,
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "id": 59825326194998,
+        "product_id": 9074408620342,
+        "position": 1,
+        "created_at": "2026-08-26T14:34:35+05:30",
+        "updated_at": "2026-08-26T14:34:36+05:30",
+        "alt": "A person cleans a bottle cap with an orange 3-in-1 brush, featuring green bristles and a white crevice tool.",
+        "width": 1500,
+        "height": 1500,
+        "src": "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/WhatsApp_Image_2026-08-25_at_5.27.07_PM_bf327462-e598-4a71-97b6-e003434c69bd.jpg?v=1787735076",
+        "variant_ids": []
+      },
+      {
+        "id": 52482355986742,
+        "product_id": 9074408620342,
+        "position": 2,
+        "created_at": "2024-11-04T10:01:13+05:30",
+        "updated_at": "2025-06-30T12:45:58+05:30",
+        "alt": "The orange 3-in-1 cleaning brush with green bristles and a white crevice tool rests on a white surface with green leaves.",
+        "width": 1500,
+        "height": 1500,
+        "src": "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/sku_2e96c19f-b9ee-4d4f-8d5e-4074dcac0adc.jpg?v=1751267758",
+        "variant_ids": []
+      },
+      {
+        "id": 52482355921206,
+        "product_id": 9074408620342,
+        "position": 3,
+        "created_at": "2024-11-04T10:01:13+05:30",
+        "updated_at": "2025-06-30T12:45:58+05:30",
+        "alt": "The orange 3-in-1 cleaning brush with green bristles and a white crevice tool is displayed on a white background with leaves.",
+        "width": 1500,
+        "height": 1500,
+        "src": "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/01_b40e70b4-8064-47f8-9e8a-36da2d8770b1.jpg?v=1751267758",
+        "variant_ids": []
+      },
+      {
+        "id": 46282842472758,
+        "product_id": 9074408620342,
+        "position": 4,
+        "created_at": "2024-01-26T11:37:54+05:30",
+        "updated_at": "2025-06-30T12:45:57+05:30",
+        "alt": "A four-panel image shows the orange 3-in-1 brush cleaning various parts of a pink insulated bottle.",
+        "width": 1500,
+        "height": 1500,
+        "src": "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/05_ef5cbf9e-f5e9-474e-9236-4616572ceff9.jpg?v=1751267757",
+        "variant_ids": []
+      },
+      {
+        "id": 46282842341686,
+        "product_id": 9074408620342,
+        "position": 5,
+        "created_at": "2024-01-26T11:37:54+05:30",
+        "updated_at": "2025-06-30T12:45:57+05:30",
+        "alt": "Three 3-in-1 cleaning brushes, one orange and two grey, are shown with one orange brush in a glass of water.",
+        "width": 1500,
+        "height": 1500,
+        "src": "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/04_0fcd998b-4fa5-4ce7-b168-0e9c4dd9ec10.jpg?v=1751267757",
+        "variant_ids": []
+      },
+      {
+        "id": 52482355953974,
+        "product_id": 9074408620342,
+        "position": 6,
+        "created_at": "2024-11-04T10:01:12+05:30",
+        "updated_at": "2025-06-30T12:45:57+05:30",
+        "alt": "Five close-up panels show the orange 3-in-1 brush cleaning different items like a teapot spout and a baby bottle nipple.",
+        "width": 1500,
+        "height": 1500,
+        "src": "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/05_376f2179-98f2-4c27-83eb-6911f41edfbc.jpg?v=1751267757",
+        "variant_ids": []
+      },
+      {
+        "id": 52482356183350,
+        "product_id": 9074408620342,
+        "position": 7,
+        "created_at": "2024-11-04T10:01:13+05:30",
+        "updated_at": "2025-06-30T12:45:57+05:30",
+        "alt": "A hand holds the orange 3-in-1 cleaning brush, showing its folding design, against an orange background with carrot shapes.",
+        "width": 1500,
+        "height": 1500,
+        "src": "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/04_1953f983-48d4-4f50-9c80-3cd335ec1c1c.jpg?v=1751267757",
+        "variant_ids": []
+      },
+      {
+        "id": 52482356052278,
+        "product_id": 9074408620342,
+        "position": 8,
+        "created_at": "2024-11-04T10:01:13+05:30",
+        "updated_at": "2025-06-30T12:45:57+05:30",
+        "alt": "A close-up of the orange 3-in-1 brush with green bristles cleaning the rim of a white bottle.",
+        "width": 1500,
+        "height": 1500,
+        "src": "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/03_d6903151-2f56-4208-aefb-fe787676326e.jpg?v=1751267757",
+        "variant_ids": []
+      },
+      {
+        "id": 52482353692982,
+        "product_id": 9074408620342,
+        "position": 9,
+        "created_at": "2024-11-04T10:00:46+05:30",
+        "updated_at": "2025-01-23T15:14:47+05:30",
+        "alt": "The orange 3-in-1 cleaning brush with green bristles and a white crevice tool lies on a dark brown textured surface.",
+        "width": 720,
+        "height": 1280,
+        "src": "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/1248e219-39a3-41e3-a24c-8cd45f00b6ae.jpg?v=1737625487",
+        "variant_ids": []
+      }
+    ],
+    "image": {
+      "id": 59825326194998,
+      "product_id": 9074408620342,
+      "position": 1,
+      "created_at": "2026-08-26T14:34:35+05:30",
+      "updated_at": "2026-08-26T14:34:36+05:30",
+      "alt": "A person cleans a bottle cap with an orange 3-in-1 brush, featuring green bristles and a white crevice tool.",
+      "width": 1500,
+      "height": 1500,
+      "src": "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/WhatsApp_Image_2026-08-25_at_5.27.07_PM_bf327462-e598-4a71-97b6-e003434c69bd.jpg?v=1787735076",
+      "variant_ids": []
+    }
+  }
+}

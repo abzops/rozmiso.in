@@ -1,0 +1,37 @@
+[
+  {
+    "broken": [],
+    "cardTop": 735.4375,
+    "client": 305,
+    "scroll": 305,
+    "width": 320
+  },
+  {
+    "broken": [],
+    "cardTop": 758.8250122070312,
+    "client": 345,
+    "scroll": 345,
+    "width": 360
+  },
+  {
+    "broken": [],
+    "cardTop": 793.4750366210938,
+    "client": 390,
+    "scroll": 390,
+    "width": 390
+  },
+  {
+    "broken": [],
+    "cardTop": 817.3875122070312,
+    "client": 415,
+    "scroll": 415,
+    "width": 430
+  },
+  {
+    "broken": [],
+    "cardTop": 892.6124877929688,
+    "client": 1425,
+    "scroll": 1425,
+    "width": 1440
+  }
+]

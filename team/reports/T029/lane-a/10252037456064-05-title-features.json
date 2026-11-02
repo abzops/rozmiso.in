@@ -1,0 +1,15 @@
+{
+  "id": "10252037456064",
+  "slot": "05-title-features",
+  "prompt": "Use case: ads-marketing. ONE portrait 4:5 premium Rozmiso ecommerce feature poster. Image1 exact product physical authority, image2 STYLE ONLY forestgreen/ivory premium typography layout, image3 generated exact product identity continuity. Show ONE pink palm-size bear-face soap brush, original ears/molded rounded paws, printed eyes/nose/blush/darkpink belly oval, white side fill cap and gray dense bristle base. No invented nozzle/pump/accessories. Graceful product hero lower half on pale stone near sink, no hands or detergent. Refined moderate forestgreen serif headline, small clear sans product name and three fine separated icon labels. Exact text top 'ROZMISO / THE EVERYDAY EDIT'; headline 'Make room for a tidy routine.'; subhead 'Soap Dispensing Cleaning Brush'; three labels 'Palm-size grip' / 'Bristle base' / 'Side fill cap'; footer 'Explore the collection' and '@rozmiso.in'; small disclosure 'AI-generated illustration • Context props not included'. Tiny rounded R brand mark consistent style. Premium tasteful balanced design, no giant black words, no discounts, ratings, specifications dimensions or exaggerated results.",
+  "referencePaths": [
+    "F:/Dropshipping/team/reports/T028/reference-review/10252037456064/reference-1.jpg",
+    "F:/Dropshipping/team/reports/T029/social/juicer-premium-poster.png",
+    "F:/Dropshipping/team/reports/T028/generated/10252037456064/01-studio.png"
+  ],
+  "sourcePath": "C:/Users/Abhinand/.codex/generated_images/01a13435-490b-7431-997e-e0d931fa0e75/exec-4ce576e3-37a8-4b6e-8658-2e0f03a21310.png",
+  "path": "F:/Dropshipping/team/reports/T028/generated/10252037456064/05-title-features.png",
+  "mode": "built-in imagegen",
+  "qa": "PASS_local_visual_root_review_pending",
+  "date": "2026-10-13"
+}

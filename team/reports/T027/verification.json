@@ -1,0 +1,230 @@
+{
+  "data": {
+    "publications": {
+      "nodes": [
+        {
+          "id": "gid://shopify/Publication/221591699648",
+          "catalog": null
+        },
+        {
+          "id": "gid://shopify/Publication/221591732416",
+          "catalog": null
+        }
+      ],
+      "pageInfo": {
+        "hasNextPage": false,
+        "endCursor": "eyJsYXN0X2lkIjoyMjE1OTE3MzI0MTYsImxhc3RfdmFsdWUiOjIyMTU5MTczMjQxNn0="
+      }
+    },
+    "nodes": [
+      {
+        "id": "gid://shopify/Product/10257843060928",
+        "title": "Keyboard Cover",
+        "handle": "6187-keyboard-cover-for-computer-pc-for-desktop-computer",
+        "status": "ACTIVE",
+        "publishedAt": "2026-10-08T07:19:15Z",
+        "onlineStoreUrl": "https://rozmiso.myshopify.com/products/6187-keyboard-cover-for-computer-pc-for-desktop-computer",
+        "variants": {
+          "nodes": [
+            {
+              "id": "gid://shopify/ProductVariant/50443620843712",
+              "sku": "6187_laptop_keyboard_cover",
+              "price": "40.00",
+              "inventoryQuantity": 0,
+              "inventoryPolicy": "DENY",
+              "inventoryItem": {
+                "tracked": true
+              }
+            }
+          ],
+          "pageInfo": {
+            "hasNextPage": false,
+            "endCursor": "eyJsYXN0X2lkIjo1MDQ0MzYyMDg0MzcxMiwibGFzdF92YWx1ZSI6MX0="
+          }
+        }
+      },
+      {
+        "id": "gid://shopify/Product/10257843159232",
+        "title": "Two-Tier Kitchen Storage Rack",
+        "handle": "2796-2-layer-kitchen-rack-for-holding-and-placing-types-of-things",
+        "status": "ACTIVE",
+        "publishedAt": "2026-10-08T07:19:19Z",
+        "onlineStoreUrl": "https://rozmiso.myshopify.com/products/2796-2-layer-kitchen-rack-for-holding-and-placing-types-of-things",
+        "variants": {
+          "nodes": [
+            {
+              "id": "gid://shopify/ProductVariant/50443620909248",
+              "sku": "2796_2layer_kitchen_rack",
+              "price": "496.00",
+              "inventoryQuantity": 0,
+              "inventoryPolicy": "DENY",
+              "inventoryItem": {
+                "tracked": true
+              }
+            }
+          ],
+          "pageInfo": {
+            "hasNextPage": false,
+            "endCursor": "eyJsYXN0X2lkIjo1MDQ0MzYyMDkwOTI0OCwibGFzdF92YWx1ZSI6MX0="
+          }
+        }
+      },
+      {
+        "id": "gid://shopify/Product/10257843224768",
+        "title": "Electric Hair Straightening Brush",
+        "handle": "6168-hqt-909b-hair-straightener-used-while-massaging-hair-scalps-and-head-1",
+        "status": "ACTIVE",
+        "publishedAt": "2026-10-08T07:19:22Z",
+        "onlineStoreUrl": "https://rozmiso.myshopify.com/products/6168-hqt-909b-hair-straightener-used-while-massaging-hair-scalps-and-head-1",
+        "variants": {
+          "nodes": [
+            {
+              "id": "gid://shopify/ProductVariant/50443621761216",
+              "sku": "6168_hqt_909b_hair_straightner",
+              "price": "770.00",
+              "inventoryQuantity": 0,
+              "inventoryPolicy": "DENY",
+              "inventoryItem": {
+                "tracked": true
+              }
+            }
+          ],
+          "pageInfo": {
+            "hasNextPage": false,
+            "endCursor": "eyJsYXN0X2lkIjo1MDQ0MzYyMTc2MTIxNiwibGFzdF92YWx1ZSI6MX0="
+          }
+        }
+      },
+      {
+        "id": "gid://shopify/Product/10257843257536",
+        "title": "Stainless Steel Water Bottle — Approx. 360 ml",
+        "handle": "6422-stainless-steel-bottle-used-in-all-households-and-official-purposes-for-storing-water-and-beverages-etc-1",
+        "status": "ACTIVE",
+        "publishedAt": "2026-10-08T07:19:26Z",
+        "onlineStoreUrl": "https://rozmiso.myshopify.com/products/6422-stainless-steel-bottle-used-in-all-households-and-official-purposes-for-storing-water-and-beverages-etc-1",
+        "variants": {
+          "nodes": [
+            {
+              "id": "gid://shopify/ProductVariant/50443621793984",
+              "sku": "6422_ss_fancy_btl_360ml_approx",
+              "price": "416.00",
+              "inventoryQuantity": 0,
+              "inventoryPolicy": "DENY",
+              "inventoryItem": {
+                "tracked": true
+              }
+            }
+          ],
+          "pageInfo": {
+            "hasNextPage": false,
+            "endCursor": "eyJsYXN0X2lkIjo1MDQ0MzYyMTc5Mzk4NCwibGFzdF92YWx1ZSI6MX0="
+          }
+        }
+      },
+      {
+        "id": "gid://shopify/Product/10257843355840",
+        "title": "Manual Citrus Juicer with Strainer",
+        "handle": "2793-manual-hand-juicer-for-making-juices-and-beverages-by-using-hands",
+        "status": "ACTIVE",
+        "publishedAt": "2026-10-08T07:19:29Z",
+        "onlineStoreUrl": "https://rozmiso.myshopify.com/products/2793-manual-hand-juicer-for-making-juices-and-beverages-by-using-hands",
+        "variants": {
+          "nodes": [
+            {
+              "id": "gid://shopify/ProductVariant/50443621859520",
+              "sku": "2793_manual_hand_juicer",
+              "price": "46.00",
+              "inventoryQuantity": 0,
+              "inventoryPolicy": "DENY",
+              "inventoryItem": {
+                "tracked": true
+              }
+            }
+          ],
+          "pageInfo": {
+            "hasNextPage": false,
+            "endCursor": "eyJsYXN0X2lkIjo1MDQ0MzYyMTg1OTUyMCwibGFzdF92YWx1ZSI6MX0="
+          }
+        }
+      },
+      {
+        "id": "gid://shopify/Product/10257843421376",
+        "title": "Wired Earphones with Microphone",
+        "handle": "7271-phone-earphones-with-microphone",
+        "status": "DRAFT",
+        "publishedAt": null,
+        "onlineStoreUrl": null,
+        "variants": {
+          "nodes": [
+            {
+              "id": "gid://shopify/ProductVariant/50443621957824",
+              "sku": "7271_cnh_sport_earphone_no1",
+              "price": "78.00",
+              "inventoryQuantity": 0,
+              "inventoryPolicy": "DENY",
+              "inventoryItem": {
+                "tracked": true
+              }
+            }
+          ],
+          "pageInfo": {
+            "hasNextPage": false,
+            "endCursor": "eyJsYXN0X2lkIjo1MDQ0MzYyMTk1NzgyNCwibGFzdF92YWx1ZSI6MX0="
+          }
+        }
+      },
+      {
+        "id": "gid://shopify/Product/10257843454144",
+        "title": "Foldable Canvas Laundry and Storage Bag",
+        "handle": "6186-canvas-laundry-bag-toy-storage-laundry-storage",
+        "status": "ACTIVE",
+        "publishedAt": "2026-10-08T07:19:33Z",
+        "onlineStoreUrl": "https://rozmiso.myshopify.com/products/6186-canvas-laundry-bag-toy-storage-laundry-storage",
+        "variants": {
+          "nodes": [
+            {
+              "id": "gid://shopify/ProductVariant/50443621990592",
+              "sku": "6186_15in_foldable_laundry_bag",
+              "price": "270.00",
+              "inventoryQuantity": 0,
+              "inventoryPolicy": "DENY",
+              "inventoryItem": {
+                "tracked": true
+              }
+            }
+          ],
+          "pageInfo": {
+            "hasNextPage": false,
+            "endCursor": "eyJsYXN0X2lkIjo1MDQ0MzYyMTk5MDU5MiwibGFzdF92YWx1ZSI6MX0="
+          }
+        }
+      },
+      {
+        "id": "gid://shopify/Product/10257843519680",
+        "title": "Coffee Mug Warmer",
+        "handle": "2792-coffee-mug-and-warmer-for-having-coffee-along-with-the-warmer-that-keeps-it-hot",
+        "status": "DRAFT",
+        "publishedAt": null,
+        "onlineStoreUrl": null,
+        "variants": {
+          "nodes": [
+            {
+              "id": "gid://shopify/ProductVariant/50443622056128",
+              "sku": "2792_coffee_mug_and_warmer",
+              "price": "896.00",
+              "inventoryQuantity": 0,
+              "inventoryPolicy": "DENY",
+              "inventoryItem": {
+                "tracked": true
+              }
+            }
+          ],
+          "pageInfo": {
+            "hasNextPage": false,
+            "endCursor": "eyJsYXN0X2lkIjo1MDQ0MzYyMjA1NjEyOCwibGFzdF92YWx1ZSI6MX0="
+          }
+        }
+      }
+    ]
+  }
+}

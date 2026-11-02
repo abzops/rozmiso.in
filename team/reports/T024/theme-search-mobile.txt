@@ -1,0 +1,199 @@
+- link "Skip to content":
+  - /url: "#MainContent"
+- generic: Collection preview · Orders are not open yet
+- banner:
+  - link "Rozmiso":
+    - /url: /
+    - img "Rozmiso"
+  - search:
+    - generic: Search
+    - searchbox "Search" [active]: brush
+    - button "Search":
+  - link "5-in-1 Rechargeable Cleaning Brush ₹649.00 · Not available yet":
+    - /url: /products/5-in-1-rechargeable-cleaning-brush
+    - strong: 5-in-1 Rechargeable Cleaning Brush
+    - generic: ₹649.00 · Not available yet
+  - link "2-in-1 Soap Dispensing Cleaning Brush ₹299.00 · Not available yet":
+    - /url: /products/2-in-1-soap-dispensing-cleaning-brush
+    - strong: 2-in-1 Soap Dispensing Cleaning Brush
+    - generic: ₹299.00 · Not available yet
+  - link "USB Rechargeable Fabric Shaver ₹799.00 · Not available yet":
+    - /url: /products/usb-rechargeable-fabric-shaver
+    - strong: USB Rechargeable Fabric Shaver
+    - generic: ₹799.00 · Not available yet
+  - link "Handheld Upholstery Cleaning Brush ₹249.00 · Not available yet":
+    - /url: /products/handheld-upholstery-cleaning-brush
+    - strong: Handheld Upholstery Cleaning Brush
+    - generic: ₹249.00 · Not available yet
+  - link "Window Groove Cleaning Brush ₹179.00 · Not available yet":
+    - /url: /products/window-groove-cleaning-brush
+    - strong: Window Groove Cleaning Brush
+    - generic: ₹179.00 · Not available yet
+  - link "View all results":
+    - /url: /search?type=product&q=brush
+  - status: 5 matching products
+  - link "Bag":
+    - /url: /cart
+    - generic: "0"
+  - generic "Main navigation":
+- main:
+  - navigation "Main navigation":
+    - link "Home":
+      - /url: /
+    - text: /
+    - link "Shop all":
+      - /url: /collections/all
+    - text: / USB Rechargeable Fabric Shaver
+  - button "View larger product image":
+    - img "USB Rechargeable Fabric Shaver"
+  - button "View image 1":
+    - img "USB Rechargeable Fabric Shaver"
+  - button "View image 2":
+    - img "USB Rechargeable Fabric Shaver"
+  - button "View image 3":
+    - img "USB Rechargeable Fabric Shaver"
+  - button "View image 4":
+    - img "USB Rechargeable Fabric Shaver"
+  - button "View image 5":
+    - img "USB Rechargeable Fabric Shaver"
+  - button "View image 6":
+    - img "USB Rechargeable Fabric Shaver"
+  - button "View image 7":
+    - img "USB Rechargeable Fabric Shaver"
+  - button "View image 8":
+    - img "USB Rechargeable Fabric Shaver"
+  - button "View image 9":
+    - img "USB Rechargeable Fabric Shaver"
+  - paragraph: Home care
+  - heading "USB Rechargeable Fabric Shaver" [level=1]
+  - generic: Rs. 799.00
+  - paragraph: Taxes included. Delivery charges calculated at checkout.
+  - paragraph: A small refresh for the fabrics you already love.
+  - list:
+    - listitem: ✓Surface lint and pill removal
+    - listitem: ✓Cordless USB-rechargeable design
+    - listitem: ✓Compact handheld shape
+  - paragraph: This item is not open for orders yet. You can ask about availability below.
+  - generic: Quantity
+  - spinbutton "Quantity": "1"
+  - button "Not available yet" [disabled]
+  - link "Ask about availability →":
+    - /url: /pages/contact?product=USB+Rechargeable+Fabric+Shaver#ContactForm
+  - paragraph: Give everyday fabrics a tidy finish. This compact rechargeable shaver removes surface lint and pilling from garments and upholstery.
+  - list:
+    - listitem: USB rechargeable for cordless use.
+    - listitem: Handheld design with a protective shaving surface.
+    - listitem: Cleaning brush included for routine maintenance.
+  - heading "Care" [level=2]
+  - paragraph: Test a small hidden area first. Keep fabric flat, use light pressure and avoid loose threads or damaged fabric. Switch off before cleaning.
+  - generic "Delivery & payment +":
+    - text: Delivery & payment
+    - generic: +
+  - generic "Returns & support +":
+    - text: Returns & support
+    - generic: +
+  - paragraph: Start small. Keep it gentle.
+  - text: "01"
+  - heading "Prepare the fabric" [level=2]
+  - paragraph: Check the garment care instructions. Lay it flat and test a small hidden area first.
+  - text: "02"
+  - heading "Use a light touch" [level=2]
+  - paragraph: Follow the device instructions. Avoid loose threads, embroidery and damaged fabric.
+  - text: "03"
+  - heading "Clean and store" [level=2]
+  - paragraph: Switch off before cleaning. Keep the charging connection dry and store safely.
+  - heading "Before you choose" [level=2]
+  - generic "Will it work on every fabric?":
+    - text: Will it work on every fabric?
+    - generic: +
+  - generic "What is included?":
+    - text: What is included?
+    - generic: +
+  - generic "How do I charge it?":
+    - text: How do I charge it?
+    - generic: +
+  - generic "Can I order it now?":
+    - text: Can I order it now?
+    - generic: +
+  - paragraph: THE EVERYDAY EDIT
+  - heading "Explore more essentials" [level=2]
+  - link "Shop all →":
+    - /url: /collections/all
+  - article:
+    - link "2-in-1 Soap Dispensing Cleaning Brush":
+      - /url: /products/2-in-1-soap-dispensing-cleaning-brush
+      - img "2-in-1 Soap Dispensing Cleaning Brush"
+    - paragraph: Kitchen essentials
+    - heading "2-in-1 Soap Dispensing Cleaning Brush" [level=3]:
+      - link "2-in-1 Soap Dispensing Cleaning Brush":
+        - /url: /products/2-in-1-soap-dispensing-cleaning-brush
+    - paragraph: Rs. 299.00
+    - paragraph: Not available yet
+    - link "View product":
+      - /url: /products/2-in-1-soap-dispensing-cleaning-brush
+      - text: View product
+  - article:
+    - link "3-in-1 Bottle Lid Cleaning Tool":
+      - /url: /products/3-in-1-bottle-lid-cleaning-tool
+      - img "3-in-1 Bottle Lid Cleaning Tool"
+    - paragraph: Kitchen essentials
+    - heading "3-in-1 Bottle Lid Cleaning Tool" [level=3]:
+      - link "3-in-1 Bottle Lid Cleaning Tool":
+        - /url: /products/3-in-1-bottle-lid-cleaning-tool
+    - paragraph: Rs. 149.00
+    - paragraph: Not available yet
+    - link "View product":
+      - /url: /products/3-in-1-bottle-lid-cleaning-tool
+      - text: View product
+  - article:
+    - link "5-in-1 Rechargeable Cleaning Brush":
+      - /url: /products/5-in-1-rechargeable-cleaning-brush
+      - img "5-in-1 Rechargeable Cleaning Brush"
+    - paragraph: Home care
+    - heading "5-in-1 Rechargeable Cleaning Brush" [level=3]:
+      - link "5-in-1 Rechargeable Cleaning Brush":
+        - /url: /products/5-in-1-rechargeable-cleaning-brush
+    - paragraph: Rs. 649.00
+    - paragraph: Not available yet
+    - link "View product":
+      - /url: /products/5-in-1-rechargeable-cleaning-brush
+      - text: View product
+- contentinfo:
+  - link "Rozmiso":
+    - /url: /
+    - img "Rozmiso"
+  - paragraph: Practical finds for home care, kitchen routines and travel.
+  - paragraph: Explore
+  - link "Shop all":
+    - /url: /collections/all
+  - link "Search":
+    - /url: /search
+  - link "Our approach":
+    - /url: /#our-approach
+  - paragraph: Help & support
+  - link "Get in touch":
+    - /url: /pages/contact
+  - link "Privacy policy":
+    - /url: /policies/privacy-policy
+  - generic: © 2026 Rozmiso
+  - generic: Home care. Kitchen. Travel.
+- iframe [id="PBarNextFrame"]:
+  - button "toggle":
+    - img "Logo"
+    - generic: Rozmiso Studio — Reviewed 2026-10-08
+    - generic: Draft
+  - dialog:
+    - navigation:
+      - button "View as":
+        - heading "View as" [level=2]
+    - generic: Actions
+    - button "Copy link":
+      - generic: Copy link
+    - button "Hide bar":
+      - generic: Hide bar
+    - button "Exit preview":
+      - generic: Exit preview
+    - status
+- document
+- region "Notifications"
+- region "Notifications"

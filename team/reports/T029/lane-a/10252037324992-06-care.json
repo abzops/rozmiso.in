@@ -1,0 +1,16 @@
+{
+  "id": "10252037324992",
+  "slot": "06-care",
+  "prompt": "Use case: product-mockup. Create a separate square 1024x1024 elegant factual care graphic with a large faithful photorealistic green fabric shaver and a folded neutral knit fabric, cream background and legible restrained dark sans-serif type. Exact title: \"Fabric care\". Exact four lines: \"Test a hidden area first\"; \"Keep fabric flat\"; \"Use light pressure\"; \"Switch off before cleaning\". Preserve exact black circular head with perforated silver grille, copper circular button, green elongated handle and white cable. No technical ratings, dimensions, guarantees or supplier codes. One appliance.",
+  "referencePaths": [
+    "F:\\Dropshipping\\team\\reports\\T028\\reference-review\\10252037324992\\reference-1.jpg",
+    "F:\\Dropshipping\\team\\reports\\T028\\reference-review\\10252037324992\\reference-2.jpg"
+  ],
+  "output_hint": "Generated images are saved to C:\\Users\\Abhinand\\.codex\\generated_images\\01a11a26-34a3-7170-8b8d-982910619d33 as C:\\Users\\Abhinand\\.codex\\generated_images\\01a11a26-34a3-7170-8b8d-982910619d33\\exec-486b5858-d4d5-408e-a573-5a5aecd0d0d5.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+  "sourcePath": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a11a26-34a3-7170-8b8d-982910619d33\\exec-486b5858-d4d5-408e-a573-5a5aecd0d0d5.png",
+  "path": "F:/Dropshipping/team/reports/T028/generated/10252037324992/06-care.png",
+  "mode": "built-in imagegen",
+  "qa": "PASS_local_visual_root_review_pending",
+  "date": "2026-10-13",
+  "metadataPath": "F:/Dropshipping/team/reports/T029/lane-a/10252037324992-06-care.json"
+}

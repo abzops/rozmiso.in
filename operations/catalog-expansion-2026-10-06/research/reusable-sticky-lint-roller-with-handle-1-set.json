@@ -1,0 +1,170 @@
+{
+  "product": {
+    "id": 10548221739318,
+    "title": "Reusable Sticky Lint Roller – Effective Fabric Cleaning Tool",
+    "body_html": "<p>This reusable sticky lint roller offers an efficient solution for removing dust, hair, and lint from clothes, sofas, bedding, and other fabrics. Designed with a comfortable handle and two adhesive refill rolls, it ensures quick and effortless cleaning for your daily fabric care needs.</p><h2>Key features</h2><ul>\n<li>Strong adhesive surface for reusable cleaning</li>\n<li>Includes 2 sticky refill rolls for extended use</li>\n<li>Removes lint, dust, and pet hair effectively</li>\n<li>Ergonomic handle ensures comfortable grip and control</li>\n<li>Compact and lightweight, ideal for home and travel use</li>\n<li>Safe on clothes, upholstery, bedding, and cushions</li>\n</ul><h2>Materials &amp; care</h2><p>This lint roller is made with durable plastic for the handle and adhesive rolls designed for multiple uses. To maintain the roller, replace refill rolls when adhesive weakens to extend the tool's lifespan.</p><h2>FAQ</h2><dl>\n<dt>Q1: What fabrics is the lint roller safe for?</dt>\n<dd>A: It is safe for use on clothes, sofas, bedding, blankets, and other soft fabrics without damage.</dd>\n<dt>Q2: How do I replace the refill rolls?</dt>\n<dd>A: Remove the used adhesive roll and slide a new refill onto the handle’s roller mechanism.</dd>\n<dt>Q3: Can I use this lint roller for pet hair?</dt>\n<dd>A: Yes, the sticky surfaces effectively remove pet hair from all fabric types.</dd>\n<dt>Q4: Is this lint roller travel friendly?</dt>\n<dd>A: Yes, its compact design and lightweight build make it convenient for use on the go.</dd>\n<dt>Q5: How many times can I reuse one refill roll?</dt>\n<dd>A: Each refill lasts until the adhesive loses tackiness; longevity depends on usage frequency.</dd>\n</dl>\n<!-- dims:start -->\n<div class=\"product-dimensions\" style=\"margin-top:20px\">\n<p style=\"margin-bottom:8px\"><strong>Product Dimensions</strong></p>\n<table style=\"border-collapse:collapse;font-size:14px\">\n<tr>\n<td style=\"padding:5px 10px;border:1px solid #ddd;background:#f9f9f9\"><strong>Length</strong></td>\n<td style=\"padding:5px 10px;border:1px solid #ddd\">29 cm</td>\n</tr>\n<tr>\n<td style=\"padding:5px 10px;border:1px solid #ddd;background:#f9f9f9\"><strong>Width</strong></td>\n<td style=\"padding:5px 10px;border:1px solid #ddd\">12 cm</td>\n</tr>\n<tr>\n<td style=\"padding:5px 10px;border:1px solid #ddd;background:#f9f9f9\"><strong>Height</strong></td>\n<td style=\"padding:5px 10px;border:1px solid #ddd\">4 cm</td>\n</tr>\n<tr>\n<td style=\"padding:5px 10px;border:1px solid #ddd;background:#f9f9f9\"><strong>Weight</strong></td>\n<td style=\"padding:5px 10px;border:1px solid #ddd\">105 g</td>\n</tr>\n</table>\n</div>\n<!-- dims:end -->",
+    "vendor": "DeoDap",
+    "product_type": "Lint Roller",
+    "created_at": "2026-01-09T13:00:11+05:30",
+    "handle": "reusable-sticky-lint-roller-with-handle-1-set",
+    "updated_at": "2026-10-06T21:15:28+05:30",
+    "published_at": "2026-01-12T14:34:12+05:30",
+    "template_suffix": "",
+    "published_scope": "global",
+    "tags": "41 To 45 Afft, c109, China, cleaning product, g176, g486, Home Essentials, home improvement, Household, Internal, p11, plastic packing, Travel Accessories",
+    "variants": [
+      {
+        "id": 53553437409590,
+        "product_id": 10548221739318,
+        "title": "Default Title",
+        "price": "62.00",
+        "sku": "10795_lint_roller_with_2_sticky_rolls",
+        "position": 1,
+        "compare_at_price": "199.00",
+        "fulfillment_service": "manual",
+        "inventory_management": "shopify",
+        "option1": "Default Title",
+        "option2": null,
+        "option3": null,
+        "created_at": "2026-01-09T13:00:11+05:30",
+        "updated_at": "2026-10-06T21:15:28+05:30",
+        "taxable": true,
+        "barcode": "629783537123",
+        "grams": 270,
+        "image_id": null,
+        "weight": 270,
+        "weight_unit": "g",
+        "requires_shipping": true,
+        "quantity_rule": {
+          "min": 1,
+          "max": null,
+          "increment": 1
+        },
+        "price_currency": "INR",
+        "compare_at_price_currency": "INR",
+        "quantity_price_breaks": []
+      }
+    ],
+    "options": [
+      {
+        "id": 13199814820150,
+        "product_id": 10548221739318,
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "id": 57264484516150,
+        "product_id": 10548221739318,
+        "position": 1,
+        "created_at": "2026-01-09T12:52:08+05:30",
+        "updated_at": "2026-01-09T12:52:09+05:30",
+        "alt": "Reusable sticky lint roller set with handle and two refill adhesive rolls",
+        "width": 1500,
+        "height": 1500,
+        "src": "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/01_d2108818-d158-4b24-96a0-fe3809d59bf4.jpg?v=1767943329",
+        "variant_ids": []
+      },
+      {
+        "id": 57264484450614,
+        "product_id": 10548221739318,
+        "position": 2,
+        "created_at": "2026-01-09T12:52:08+05:30",
+        "updated_at": "2026-01-09T12:52:09+05:30",
+        "alt": "Close-up of sticky lint roller with ergonomic handle for fabric cleaning",
+        "width": 1500,
+        "height": 1500,
+        "src": "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/07_be4b6154-a036-400d-b8d8-e90c6c5a3215.jpg?v=1767943329",
+        "variant_ids": []
+      },
+      {
+        "id": 57264484548918,
+        "product_id": 10548221739318,
+        "position": 3,
+        "created_at": "2026-01-09T12:52:08+05:30",
+        "updated_at": "2026-01-09T12:52:09+05:30",
+        "alt": "Dust remover lint roller cleaning pet hair from a fabric sofa",
+        "width": 1500,
+        "height": 1500,
+        "src": "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/02_2b078d04-e768-4681-8978-0d983542b9f4.jpg?v=1767943329",
+        "variant_ids": []
+      },
+      {
+        "id": 57264484581686,
+        "product_id": 10548221739318,
+        "position": 4,
+        "created_at": "2026-01-09T12:52:08+05:30",
+        "updated_at": "2026-01-09T12:52:09+05:30",
+        "alt": "Hand holding lint roller rolling over clothes to remove lint and dust",
+        "width": 1500,
+        "height": 1500,
+        "src": "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/03_2dd729a1-40d6-4d5e-be38-7e6da4504e51.jpg?v=1767943329",
+        "variant_ids": []
+      },
+      {
+        "id": 57264484385078,
+        "product_id": 10548221739318,
+        "position": 5,
+        "created_at": "2026-01-09T12:52:08+05:30",
+        "updated_at": "2026-01-09T12:52:09+05:30",
+        "alt": "Fabric cleaning lint roller removing lint and dust from bedding",
+        "width": 1500,
+        "height": 1500,
+        "src": "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/05_570a5120-323d-4d51-87f8-f26f13d6a595.jpg?v=1767943329",
+        "variant_ids": []
+      },
+      {
+        "id": 57264484483382,
+        "product_id": 10548221739318,
+        "position": 6,
+        "created_at": "2026-01-09T12:52:08+05:30",
+        "updated_at": "2026-01-09T12:52:09+05:30",
+        "alt": "Sticky lint roller cleaning lint from soft fabric surface",
+        "width": 1500,
+        "height": 1500,
+        "src": "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/08_72aef7f4-2f4b-4831-b833-faa9079df7ed.jpg?v=1767943329",
+        "variant_ids": []
+      },
+      {
+        "id": 57264484614454,
+        "product_id": 10548221739318,
+        "position": 7,
+        "created_at": "2026-01-09T12:52:08+05:30",
+        "updated_at": "2026-01-09T12:52:09+05:30",
+        "alt": "Lint roller with refill rolls displayed on a white background",
+        "width": 1500,
+        "height": 1500,
+        "src": "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/04_f1707669-6693-432a-bebb-b464596e8f50.jpg?v=1767943329",
+        "variant_ids": []
+      },
+      {
+        "id": 57264484417846,
+        "product_id": 10548221739318,
+        "position": 8,
+        "created_at": "2026-01-09T12:52:08+05:30",
+        "updated_at": "2026-01-09T12:52:09+05:30",
+        "alt": "Reusable sticky lint remover roller designed for home and travel use",
+        "width": 1500,
+        "height": 1500,
+        "src": "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/06_b569285a-a0b5-4f17-9211-d70b2f3b82a5.jpg?v=1767943329",
+        "variant_ids": []
+      }
+    ],
+    "image": {
+      "id": 57264484516150,
+      "product_id": 10548221739318,
+      "position": 1,
+      "created_at": "2026-01-09T12:52:08+05:30",
+      "updated_at": "2026-01-09T12:52:09+05:30",
+      "alt": "Reusable sticky lint roller set with handle and two refill adhesive rolls",
+      "width": 1500,
+      "height": 1500,
+      "src": "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/01_d2108818-d158-4b24-96a0-fe3809d59bf4.jpg?v=1767943329",
+      "variant_ids": []
+    }
+  }
+}

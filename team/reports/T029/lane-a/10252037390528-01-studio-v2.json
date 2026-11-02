@@ -1,0 +1,14 @@
+{
+  "id": "10252037390528",
+  "slot": "01-studio",
+  "prompt": "ONE square premium ecommerce studio photo. Exact source pouch is BLUE-GRAY soft rounded rectangular animal cartoon printed zip pouch, orange/yellow accents, black perimeter zipper and piping. Show ONE CLOSED pouch lying horizontally with broad TOP LID panel visible, TAN WEBBING CARRY HANDLE ATTACHED ACROSS TOP LID ONLY exactly as original inset. CRITICAL: NO handle or strap on front sidewall below zipper; front sidewall is plain printed fabric uninterrupted. Exact tan top lid strap runs left to right across lid, not on the sides. No lunchbox, no props, no extra strap, no rigid shell, no compartments. Reference1 original image authority (inset closed pouch demonstrates strap), reference2 correct generated closed carry photograph for orientation. Ivory seamless studio background, photoreal precise stitching/fabric, soft shadow, premium photography, no text/logo/claims. Black zipped closure around entire lid, original animal print/color faithful.",
+  "referencePaths": [
+    "F:/Dropshipping/team/reports/T028/reference-review/10252037390528/reference-1.jpg",
+    "F:/Dropshipping/team/reports/T028/generated/10252037390528/03-usecase.png"
+  ],
+  "sourcePath": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a13435-490b-7431-997e-e0d931fa0e75\\exec-2704a7f4-ca46-440f-a374-70f983fb7d38.png",
+  "path": "F:/Dropshipping/team/reports/T028/generated/10252037390528/01-studio-v2.png",
+  "qa": "PASS_local_visual_root_review_pending",
+  "mode": "built-in imagegen",
+  "date": "2026-10-13"
+}

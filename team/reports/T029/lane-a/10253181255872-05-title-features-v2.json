@@ -1,0 +1,13 @@
+{
+  "id": "10253181255872",
+  "slot": "05-title-features",
+  "prompt": "Precise edit: Remove ONLY the tiny circled registered trademark symbol at the bottom-left immediately to right of the R brand mark. Replace that tiny spot with matching ivory background. Keep R mark itself, all other text/photography/productgeometry/layout/colors/lighting unchanged. No trademark symbol added anywhere.",
+  "referencePaths": [
+    "F:/Dropshipping/team/reports/T028/generated/10253181255872/05-title-features.png"
+  ],
+  "sourcePath": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a13435-490b-7431-997e-e0d931fa0e75\\exec-21a05a81-9311-4cfd-a3bc-5c7989944c99.png",
+  "path": "F:/Dropshipping/team/reports/T028/generated/10253181255872/05-title-features-v2.png",
+  "qa": "PASS_local_visual_root_review_pending",
+  "mode": "built-in imagegen",
+  "date": "2026-10-13"
+}

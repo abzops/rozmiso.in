@@ -1,0 +1,9 @@
+--- authoritative/assets/studio.css
++++ candidate/assets/studio.css
+@@ -1,4 +1,6 @@
+ /* Rozmiso approved identity. One shared layout system, 6 October 2026. */
++/* Let the PDP grid shrink around its scrollable thumbnail row. */
++.pdp > *{min-width:0}.pdp .thumbs{min-width:0;max-width:100%}
+ :root{--ink:#26342e;--paper:#fbfaf6;--muted:#65706a;--line:#dfe2d9;--accent:#b75132;--sage:#e8ece1}
+ *{box-sizing:border-box}html{scroll-behavior:smooth;scroll-padding-top:150px}body{margin:0;background:var(--paper);color:var(--ink);font:15px/1.6 'DM Sans',sans-serif}
+ h1,h2,h3,p{margin:0}h1,h2{font-family:'Manrope',sans-serif;letter-spacing:-.045em;line-height:1.15;font-weight:600}h1{font-size:clamp(36px,4vw,58px)}h2{font-size:clamp(28px,3vw,42px)}h3{font-size:17px;line-height:1.4;font-weight:600}a{color:inherit;text-decoration:none}a:hover{text-decoration:underline;text-underline-offset:4px}button,input,select,textarea{font:inherit}button,summary{cursor:pointer}button{color:inherit}button,a,input,select,textarea,summary{-webkit-tap-highlight-color:transparent}a:focus-visible,button:focus-visible,summary:focus-visible,input:focus-visible,select:focus-visible,textarea:focus-visible{outline:3px solid var(--accent);outline-offset:4px}

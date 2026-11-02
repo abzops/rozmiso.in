@@ -1,0 +1,91 @@
+{
+  "productId": "10252037357760",
+  "title": "5-in-1 Rechargeable Cleaning Brush",
+  "productUrl": "https://rozmiso.in/products/5-in-1-rechargeable-cleaning-brush",
+  "replacesPost": "https://www.instagram.com/rozmiso.in/p/DebRiNBEyxC/",
+  "status": "ASSETS_COMPLETE_CROP_REVIEW_PENDING",
+  "slides": [
+    {
+      "order": 1,
+      "role": "Cover and features",
+      "path": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10252037357760\\01-slide.png",
+      "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10252037357760\\01-cover-v3.png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "sha256": "0786aaad404a11cd7e3289278029f04e7ddad65f722db92f79edc087570f6a49",
+      "altText": "5-in-1 Rechargeable Cleaning Brush: cover and features. Context props are not included."
+    },
+    {
+      "order": 2,
+      "role": "Product detail",
+      "path": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10252037357760\\02-slide.png",
+      "source": "F:\\Dropshipping\\team\\reports\\T028\\generated\\10252037357760\\02-macro-detail.png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "sha256": "a90c5981f8c072927ad46a181acbe05c215cf98a99c2243e4285e7d4e7490eb4",
+      "altText": "5-in-1 Rechargeable Cleaning Brush: product detail. Context props are not included."
+    },
+    {
+      "order": 3,
+      "role": "Primary use",
+      "path": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10252037357760\\03-slide.png",
+      "source": "F:\\Dropshipping\\team\\reports\\T028\\generated\\10252037357760\\04-use-context.png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "sha256": "6f253fb83500c5d582edba057fd69aa2f5417cacb6ab2a25f76ccff4f591b4e3",
+      "altText": "5-in-1 Rechargeable Cleaning Brush: primary use. Context props are not included."
+    },
+    {
+      "order": 4,
+      "role": "Second context",
+      "path": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10252037357760\\04-slide.png",
+      "source": "F:\\Dropshipping\\team\\reports\\T028\\generated\\10252037357760\\03-usecase-no-cable.png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "sha256": "e81647cc53bf613550e76cba0eaf82369fa2d8cefbcd070e96e89033669c0512",
+      "altText": "5-in-1 Rechargeable Cleaning Brush: second context. Context props are not included."
+    },
+    {
+      "order": 5,
+      "role": "Care guidance",
+      "path": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10252037357760\\05-slide.png",
+      "source": "F:\\Dropshipping\\team\\reports\\T028\\generated\\10252037357760\\06-care-no-cable.png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "sha256": "b45cfe1232fd05dd7fd93180f104f86ac735ca57c6e1e055aa13e5152fa28b62",
+      "altText": "5-in-1 Rechargeable Cleaning Brush: care guidance. Context props are not included."
+    },
+    {
+      "order": 6,
+      "role": "Product link",
+      "path": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10252037357760\\06-slide.png",
+      "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\shared\\06-product-link-in.png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "sha256": "23e858c33b087c1d637c4489fc6bb1297dfc4b08f75755f670185d79e9d0127a",
+      "altText": "5-in-1 Rechargeable Cleaning Brush: product link. Context props are not included."
+    }
+  ],
+  "missing": [],
+  "mixedAspectRatios": false,
+  "caption": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10252037357760\\caption.txt",
+  "aiLabel": false,
+  "facebookPersonalCrosspost": false,
+  "facebookPageCrosspostRequired": true,
+  "facebookPageId": "61595107991994",
+  "livePublished": true,
+  "publishedVersionMayDiffer": true,
+  "theme": "Rozmiso Everyday Edit / ivory and forest green"
+}

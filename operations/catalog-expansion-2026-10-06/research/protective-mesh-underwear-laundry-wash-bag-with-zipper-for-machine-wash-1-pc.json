@@ -1,0 +1,182 @@
+{
+  "product": {
+    "id": 10821809209654,
+    "title": "Protective Mesh Underwear Laundry Wash Bag with Zipper for Machine Wash",
+    "body_html": "<h4 style=\"font-size:14px; font-weight:700; margin:0 0 10px;\">Protective Cylindrical Mesh Underwear Laundry Wash Bag with Structured Shape, Secure Zipper Closure and Breathable Design for Bras and Delicate Garments</h4>\n<h4>Description</h4>\n<p>This cylindrical mesh underwear wash bag helps keep bras, underwear and other delicate garments separated during machine washing. Its structured body provides room for garments while helping reduce crushing and tangling inside the drum. The breathable mesh top allows water and detergent to circulate, and the zipper closure keeps contents contained throughout the wash cycle.</p>\n<h4>Key Features</h4>\n<ul>\n<li>Cylindrical structured design supports delicate garments during washing</li>\n<li>Breathable mesh panel allows water and detergent to circulate</li>\n<li>Secure zipper closure helps keep laundry safely contained</li>\n<li>Helps reduce tangling and contact with larger garments</li>\n<li>Spacious interior accommodates underwear and delicate clothing</li>\n<li>Soft padded body provides an added layer of garment protection</li>\n<li>Reusable construction suits regular household laundry routines</li>\n<li>Convenient handle loop supports easy carrying and storage</li>\n</ul>\n<h4>Ideal For</h4>\n<ul>\n<li>Machine washing bras and padded undergarments</li>\n<li>Protecting underwear during routine laundry cycles</li>\n<li>Separating delicate garments from heavier clothing</li>\n<li>Washing socks, swimwear and other small apparel</li>\n<li>Organizing intimate garments inside travel luggage</li>\n<li>Household laundry sorting and delicate garment care</li>\n</ul>\n<h4>Specifications</h4>\n<ul>\n<li>Product Type: Mesh Underwear Wash Bag</li>\n<li>Material Type: Mesh and Soft Fabric</li>\n<li>Closure Type: Zipper</li>\n<li>Construction: Cylindrical Structured Form</li>\n<li>Primary Use: Machine Washing Delicate Garments</li>\n<li>Package Type: Color Box Pack</li>\n</ul>",
+    "vendor": "DeoDap",
+    "product_type": "Home Improvement",
+    "created_at": "2026-08-24T18:16:18+05:30",
+    "handle": "protective-mesh-underwear-laundry-wash-bag-with-zipper-for-machine-wash-1-pc",
+    "updated_at": "2026-10-06T21:16:37+05:30",
+    "published_at": "2026-09-02T13:39:18+05:30",
+    "template_suffix": null,
+    "published_scope": "global",
+    "tags": "36 To 40 Afft, Bra Washing Bag, c106, China, Color Box Pack, Delicate Garment Bag, g487, Internal, Laundry Organizer, Lingerie Wash Bag, Machine Wash Bag, Mesh Laundry Bag, p11, Underwear Wash Bag, Zipper Laundry Bag",
+    "variants": [
+      {
+        "id": 54455340761398,
+        "product_id": 10821809209654,
+        "title": "Default Title",
+        "price": "159.00",
+        "sku": "23306_mesh_underwear_wash_bag",
+        "position": 1,
+        "compare_at_price": "499.00",
+        "fulfillment_service": "manual",
+        "inventory_management": "shopify",
+        "option1": "Default Title",
+        "option2": null,
+        "option3": null,
+        "created_at": "2026-08-24T18:16:18+05:30",
+        "updated_at": "2026-10-06T21:16:37+05:30",
+        "taxable": true,
+        "barcode": null,
+        "grams": 371,
+        "image_id": null,
+        "weight": 371,
+        "weight_unit": "g",
+        "requires_shipping": true,
+        "quantity_rule": {
+          "min": 1,
+          "max": null,
+          "increment": 1
+        },
+        "price_currency": "INR",
+        "compare_at_price_currency": "INR",
+        "quantity_price_breaks": []
+      }
+    ],
+    "options": [
+      {
+        "id": 13522819186998,
+        "product_id": 10821809209654,
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "id": 59796766163254,
+        "product_id": 10821809209654,
+        "position": 1,
+        "created_at": "2026-08-24T18:14:23+05:30",
+        "updated_at": "2026-08-24T18:14:25+05:30",
+        "alt": "Mesh underwear wash bag being used with washing machine",
+        "width": 1500,
+        "height": 1500,
+        "src": "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/23306-mesh-underwear-wash-bag-1.jpg?v=1787575465",
+        "variant_ids": []
+      },
+      {
+        "id": 59796763574582,
+        "product_id": 10821809209654,
+        "position": 2,
+        "created_at": "2026-08-24T18:14:15+05:30",
+        "updated_at": "2026-08-24T18:14:17+05:30",
+        "alt": "Protective mesh underwear laundry wash bag, 1 piece",
+        "width": 1500,
+        "height": 1500,
+        "src": "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/23306-mesh-underwear-wash-bag-2.jpg?v=1787575457",
+        "variant_ids": []
+      },
+      {
+        "id": 59796766228790,
+        "product_id": 10821809209654,
+        "position": 3,
+        "created_at": "2026-08-24T18:14:36+05:30",
+        "updated_at": "2026-08-24T18:14:37+05:30",
+        "alt": "Protective lingerie wash bag product view",
+        "width": 1500,
+        "height": 1500,
+        "src": "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/23306-mesh-underwear-wash-bag-3.jpg?v=1787575477",
+        "variant_ids": []
+      },
+      {
+        "id": 59796766196022,
+        "product_id": 10821809209654,
+        "position": 4,
+        "created_at": "2026-08-24T18:14:29+05:30",
+        "updated_at": "2026-08-24T18:14:31+05:30",
+        "alt": "Cylindrical mesh underwear laundry bag",
+        "width": 1500,
+        "height": 1500,
+        "src": "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/23306-mesh-underwear-wash-bag-4.jpg?v=1787575471",
+        "variant_ids": []
+      },
+      {
+        "id": 59796768882998,
+        "product_id": 10821809209654,
+        "position": 5,
+        "created_at": "2026-08-24T18:14:43+05:30",
+        "updated_at": "2026-08-24T18:14:45+05:30",
+        "alt": "Mesh underwear wash bag on white background",
+        "width": 1500,
+        "height": 1500,
+        "src": "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/23306-mesh-underwear-wash-bag-5.jpg?v=1787575485",
+        "variant_ids": []
+      },
+      {
+        "id": 59796768981302,
+        "product_id": 10821809209654,
+        "position": 6,
+        "created_at": "2026-08-24T18:14:49+05:30",
+        "updated_at": "2026-08-24T18:14:51+05:30",
+        "alt": "Mesh underwear wash bag product dimensions",
+        "width": 1500,
+        "height": 1500,
+        "src": "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/23306-mesh-underwear-wash-bag-6.jpg?v=1787575491",
+        "variant_ids": []
+      },
+      {
+        "id": 59796771733814,
+        "product_id": 10821809209654,
+        "position": 7,
+        "created_at": "2026-08-24T18:14:54+05:30",
+        "updated_at": "2026-08-24T18:14:56+05:30",
+        "alt": "Laundry wash bag for delicate clothing",
+        "width": 1500,
+        "height": 1500,
+        "src": "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/23306-mesh-underwear-wash-bag-7.jpg?v=1787575496",
+        "variant_ids": []
+      },
+      {
+        "id": 59796772782390,
+        "product_id": 10821809209654,
+        "position": 8,
+        "created_at": "2026-08-24T18:15:02+05:30",
+        "updated_at": "2026-08-24T18:15:04+05:30",
+        "alt": "Open lingerie wash bag near washing machine",
+        "width": 1500,
+        "height": 1500,
+        "src": "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/23306-mesh-underwear-wash-bag-8.jpg?v=1787575504",
+        "variant_ids": []
+      },
+      {
+        "id": 59796773306678,
+        "product_id": 10821809209654,
+        "position": 9,
+        "created_at": "2026-08-24T18:15:10+05:30",
+        "updated_at": "2026-08-24T18:15:12+05:30",
+        "alt": "Mesh underwear wash bag live product photo with box",
+        "width": 1500,
+        "height": 1500,
+        "src": "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/23306-mesh-underwear-wash-bag-9.jpg?v=1787575512",
+        "variant_ids": []
+      }
+    ],
+    "image": {
+      "id": 59796766163254,
+      "product_id": 10821809209654,
+      "position": 1,
+      "created_at": "2026-08-24T18:14:23+05:30",
+      "updated_at": "2026-08-24T18:14:25+05:30",
+      "alt": "Mesh underwear wash bag being used with washing machine",
+      "width": 1500,
+      "height": 1500,
+      "src": "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/23306-mesh-underwear-wash-bag-1.jpg?v=1787575465",
+      "variant_ids": []
+    }
+  }
+}

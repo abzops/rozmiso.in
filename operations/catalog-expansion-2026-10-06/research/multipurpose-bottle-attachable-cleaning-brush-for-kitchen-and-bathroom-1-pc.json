@@ -1,0 +1,206 @@
+{
+  "product": {
+    "id": 10274894119222,
+    "title": "Bottle-Attachable Cleaning Brush – Ergonomic Deep Scrubber",
+    "body_html": "<p>The bottle-attachable crevice cleaning brush delivers effortless deep cleaning for your kitchen and bathroom. This innovative brush attaches to standard plastic bottles to dispense cleaning solution exactly where you need it, making scrubbing sinks, tiles, and taps easier and faster. Designed for convenience and thorough hygiene, this bottle-attachable crevice cleaning brush saves time and energy while achieving sparkling results.</p><h2>Key features</h2><ul>\n<li>Fits most standard plastic bottles for on-demand fluid dispensing</li>\n<li>Ergonomic L-shaped handle ensures comfortable grip and control</li>\n<li>High-density nylon bristles penetrate tough grime and hard-to-reach corners</li>\n<li>Angled brush head designed for narrow spaces and curved surfaces, ideal as a crevice cleaning brush</li>\n<li>Durable plastic construction suitable for wet and dry cleaning tasks</li>\n<li>Lightweight and compact for easy storage and portability</li>\n<li>Versatile use in kitchen sinks, bathroom taps, tile grout, and bottle necks</li>\n</ul><h2>Materials &amp; care</h2><p>Constructed from a robust plastic body paired with nylon bristles that withstand repeated use. The brush is washable and reusable; rinse after each use and allow to air dry to maintain bristle integrity and hygiene.</p><h2>FAQ</h2><dl>\n<dt>Q1: Can this bottle-attachable crevice cleaning brush fit any bottle?</dt>\n<dd>A: It is compatible with most standard plastic bottles, including soft drink and water bottles.</dd>\n<dt>Q2: Is the bottle included with the brush?</dt>\n<dd>A: No, the package includes only the brush; the bottle is not provided.</dd>\n<dt>Q3: What cleaning surfaces is this crevice cleaning brush suitable for?</dt>\n<dd>A: Ideal for cleaning kitchen sinks, stove areas, tile joints, bathroom taps, shower corners, jars, and bottle necks.</dd>\n<dt>Q4: How should I clean the brush after use?</dt>\n<dd>A: Simply rinse it with water and let it air dry to maintain cleanliness and extend lifespan.</dd>\n</dl>",
+    "vendor": "SparkleTidy",
+    "product_type": "Cleaning Brush",
+    "created_at": "2025-07-10T14:05:46+05:30",
+    "handle": "multipurpose-bottle-attachable-cleaning-brush-for-kitchen-and-bathroom-1-pc",
+    "updated_at": "2026-10-06T21:16:38+05:30",
+    "published_at": "2025-07-16T13:56:16+05:30",
+    "template_suffix": "",
+    "published_scope": "global",
+    "tags": "61 To 80 Afft, bathroom, brush, c109, c44, China, cleaning, cleaning product, Cleaning Supplies, collection_mega_savings, g129, g176, g422, Handpicked By Manu Bajaj, Home Essentials, home improvement, Household, Internal, Kitchen & Home Appliances, Loose, Medium Performing, p12",
+    "variants": [
+      {
+        "id": 52381251797302,
+        "product_id": 10274894119222,
+        "title": "Default Title",
+        "price": "20.00",
+        "sku": "19187_multi_cleaning_brush_head_1pc",
+        "position": 1,
+        "compare_at_price": "99.00",
+        "fulfillment_service": "manual",
+        "inventory_management": "shopify",
+        "option1": "Default Title",
+        "option2": null,
+        "option3": null,
+        "created_at": "2025-07-10T14:05:46+05:30",
+        "updated_at": "2026-10-06T21:16:38+05:30",
+        "taxable": true,
+        "barcode": "629783382426",
+        "grams": 50,
+        "image_id": null,
+        "weight": 50,
+        "weight_unit": "g",
+        "requires_shipping": true,
+        "quantity_rule": {
+          "min": 1,
+          "max": null,
+          "increment": 1
+        },
+        "price_currency": "INR",
+        "compare_at_price_currency": "INR",
+        "quantity_price_breaks": []
+      }
+    ],
+    "options": [
+      {
+        "id": 12890279739702,
+        "product_id": 10274894119222,
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "id": 59703171350838,
+        "product_id": 10274894119222,
+        "position": 1,
+        "created_at": "2026-08-15T18:25:35+05:30",
+        "updated_at": "2026-08-15T18:25:37+05:30",
+        "alt": "A hand holds a clear water bottle with the brush attachment scrubbing a sink edge, with a close-up inset.",
+        "width": 1500,
+        "height": 1500,
+        "src": "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/19187.png?v=1786798537",
+        "variant_ids": []
+      },
+      {
+        "id": 55950692450614,
+        "product_id": 10274894119222,
+        "position": 2,
+        "created_at": "2025-07-16T11:13:16+05:30",
+        "updated_at": "2025-07-16T11:25:06+05:30",
+        "alt": "The cream and orange brush attachment is shown with a '1 Pc' label and two insets demonstrating its use.",
+        "width": 1500,
+        "height": 1500,
+        "src": "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/454545_e817315d-bb86-445a-beba-82b1e36186ea.jpg?v=1752645306",
+        "variant_ids": []
+      },
+      {
+        "id": 55950920876342,
+        "product_id": 10274894119222,
+        "position": 3,
+        "created_at": "2025-07-16T11:24:52+05:30",
+        "updated_at": "2025-07-16T11:25:06+05:30",
+        "alt": "The cream and orange brush attachment is shown on a bottle, with blue glowing rings indicating a secure fit.",
+        "width": 1500,
+        "height": 1500,
+        "src": "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/Cleaning-Brush-06_956c4767-430f-4a4d-8985-20a4677bae13.jpg?v=1752645306",
+        "variant_ids": []
+      },
+      {
+        "id": 55950921072950,
+        "product_id": 10274894119222,
+        "position": 4,
+        "created_at": "2025-07-16T11:24:52+05:30",
+        "updated_at": "2025-07-16T11:25:06+05:30",
+        "alt": "A four-panel image showing the brush cleaning a crevice, a close-up of the attachment's underside, and two views of the",
+        "width": 1500,
+        "height": 1500,
+        "src": "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/Cleaning-Brush-07_f3abc8ba-fdd3-41e8-920c-8dced41b4870.jpg?v=1752645306",
+        "variant_ids": []
+      },
+      {
+        "id": 55950920581430,
+        "product_id": 10274894119222,
+        "position": 5,
+        "created_at": "2025-07-16T11:24:52+05:30",
+        "updated_at": "2025-07-16T11:25:06+05:30",
+        "alt": "A cream and orange bottle-attachable cleaning brush with white bristles on a white background.",
+        "width": 1500,
+        "height": 1500,
+        "src": "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/Cleaning-Brush-05_76bf4930-42ee-4de2-ac71-28e75c7f6d74.jpg?v=1752645306",
+        "variant_ids": []
+      },
+      {
+        "id": 55950921138486,
+        "product_id": 10274894119222,
+        "position": 6,
+        "created_at": "2025-07-16T11:24:52+05:30",
+        "updated_at": "2025-07-16T11:25:06+05:30",
+        "alt": "A hand attaches the cream and orange brush to a clear water bottle filled with bubbly water.",
+        "width": 1500,
+        "height": 1500,
+        "src": "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/Cleaning-Brush-08_bee4d8c6-ea0c-4c53-8f51-f3118f4d160e.jpg?v=1752645306",
+        "variant_ids": []
+      },
+      {
+        "id": 55950920941878,
+        "product_id": 10274894119222,
+        "position": 7,
+        "created_at": "2025-07-16T11:24:52+05:30",
+        "updated_at": "2025-07-16T11:25:06+05:30",
+        "alt": "A two-panel image showing the brush cleaning a faucet crevice and a hand using the brush to open a sealing ring.",
+        "width": 1500,
+        "height": 1500,
+        "src": "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/Cleaning-Brush-09_491d091f-94d1-45be-8ac2-8daf3a7bc1cb.jpg?v=1752645306",
+        "variant_ids": []
+      },
+      {
+        "id": 55950921171254,
+        "product_id": 10274894119222,
+        "position": 8,
+        "created_at": "2025-07-16T11:24:52+05:30",
+        "updated_at": "2025-07-16T11:25:06+05:30",
+        "alt": "A white and pink brush attachment with white bristles cleaning a line of dirt on a wooden floor.",
+        "width": 1500,
+        "height": 1500,
+        "src": "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/Cleaning-Brush-02_b4316dff-58e5-4ecb-ae7c-929dd27acc93.jpg?v=1752645306",
+        "variant_ids": []
+      },
+      {
+        "id": 55950921007414,
+        "product_id": 10274894119222,
+        "position": 9,
+        "created_at": "2025-07-16T11:24:52+05:30",
+        "updated_at": "2025-07-16T11:25:06+05:30",
+        "alt": "A four-panel image showing the brush's use for cleaning window cracks, kitchen grease, floor stains, and toilet cracks.",
+        "width": 1500,
+        "height": 1500,
+        "src": "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/Cleaning-Brush-03_19f9d421-3871-47f6-ba7f-ceb2ee97adcf.jpg?v=1752645306",
+        "variant_ids": []
+      },
+      {
+        "id": 55950920778038,
+        "product_id": 10274894119222,
+        "position": 10,
+        "created_at": "2025-07-16T11:24:52+05:30",
+        "updated_at": "2025-07-16T11:25:06+05:30",
+        "alt": "Two hands hold the cream and orange brush attachment, demonstrating the small hook remover feature.",
+        "width": 1500,
+        "height": 1500,
+        "src": "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/Cleaning-Brush-04_cb179ddb-abac-4c70-a8b8-8dfe01000a61.jpg?v=1752645306",
+        "variant_ids": []
+      },
+      {
+        "id": 55891532972342,
+        "product_id": 10274894119222,
+        "position": 11,
+        "created_at": "2025-07-10T13:55:10+05:30",
+        "updated_at": "2025-07-16T11:25:06+05:30",
+        "alt": "Packaged bottle-attachable crevice cleaning brush ready for purchase",
+        "width": 720,
+        "height": 1280,
+        "src": "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/8a8eefdf-e187-4ef8-a624-50a58b7e74e7.jpg?v=1752645306",
+        "variant_ids": []
+      }
+    ],
+    "image": {
+      "id": 59703171350838,
+      "product_id": 10274894119222,
+      "position": 1,
+      "created_at": "2026-08-15T18:25:35+05:30",
+      "updated_at": "2026-08-15T18:25:37+05:30",
+      "alt": "A hand holds a clear water bottle with the brush attachment scrubbing a sink edge, with a close-up inset.",
+      "width": 1500,
+      "height": 1500,
+      "src": "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/19187.png?v=1786798537",
+      "variant_ids": []
+    }
+  }
+}

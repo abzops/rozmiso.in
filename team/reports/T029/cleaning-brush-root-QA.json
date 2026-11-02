@@ -1,0 +1,16 @@
+{
+  "date": "2026-10-13",
+  "product": "10252037357760",
+  "status": "PASS_ROOT_VISUAL",
+  "selected": [
+    "01-studio-no-cable.png",
+    "02-macro-detail.png",
+    "03-usecase-no-cable.png",
+    "04-use-context.png",
+    "05-premium-poster.png",
+    "06-care-no-cable.png"
+  ],
+  "note": "Unverified charging connector omitted from four images. Near duplicate detail replaced with macro. Poster uses approved premium common style. Six selected frames visually inspected against original references and live public copy.",
+  "macroPrompt": "Create a single separate SQUARE premium macro-detail ecommerce photograph from this exact product reference. Preserve white T-shaped cleaning brush with short cylindrical motor head, circular white bristle face, elongated handle and grey oval control, ribbed end cap. Camera is clearly different: close three-quarter view from ABOVE showing the circular bristle face angled toward camera, motor casing and grey button, product resting diagonally on warm ivory tabletop. Tight detail crop emphasizes realistic bristle texture and control button; entire handle need not fit. No charging cable, attachments, people or text. Soft realistic studio light, faithful proportions and colors, premium material photography. This is slot 2 detail photo, distinctly different from upright wide studio hero.",
+  "editPrompt": "Edit only this existing ecommerce image: remove the entire white USB charging cable, including both connectors, and naturally fill its former area with the existing surface. Preserve exact product geometry, all other objects, lighting, background, framing and all existing text verbatim. Exact white T-shaped cleaning brush, gray button, yellow sponge, white fluffy pad and white bracket. No replacement cable or new object, no extra text. Single separate square image."
+}

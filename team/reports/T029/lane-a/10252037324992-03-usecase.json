@@ -1,0 +1,16 @@
+{
+  "id": "10252037324992",
+  "slot": "03-usecase",
+  "prompt": "Use case: photorealistic-natural. Create a separate square 1024x1024 premium ecommerce photograph of the same exact dark-green fabric shaver resting beside a plain folded cream knitted garment on a bedroom table in soft daylight. Show one complete shaver with black circular head, silver perforated grille, copper circular handle button, white cable at base. No text, no before/after effect, no added features. Garment is context prop, not included.",
+  "referencePaths": [
+    "F:\\Dropshipping\\team\\reports\\T028\\reference-review\\10252037324992\\reference-1.jpg",
+    "F:\\Dropshipping\\team\\reports\\T028\\reference-review\\10252037324992\\reference-2.jpg"
+  ],
+  "output_hint": "Generated images are saved to C:\\Users\\Abhinand\\.codex\\generated_images\\01a11a26-34a3-7170-8b8d-982910619d33 as C:\\Users\\Abhinand\\.codex\\generated_images\\01a11a26-34a3-7170-8b8d-982910619d33\\exec-0c856db4-2336-4309-a147-ce18332206f2.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+  "sourcePath": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a11a26-34a3-7170-8b8d-982910619d33\\exec-0c856db4-2336-4309-a147-ce18332206f2.png",
+  "path": "F:/Dropshipping/team/reports/T028/generated/10252037324992/03-usecase.png",
+  "mode": "built-in imagegen",
+  "qa": "PASS_local_visual_root_review_pending",
+  "date": "2026-10-13",
+  "metadataPath": "F:/Dropshipping/team/reports/T029/lane-a/10252037324992-03-usecase.json"
+}

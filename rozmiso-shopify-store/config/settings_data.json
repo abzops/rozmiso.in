@@ -1,0 +1,14 @@
+{
+  "current": {
+    "primary_color": "#ff3366",
+    "primary_hover": "#e02456",
+    "accent_green": "#10b981",
+    "dark_text": "#0f172a",
+    "bg_light": "#f8fafc",
+    "announcement_text": "⚡ FREE Cash On Delivery Across India | Get Extra ₹50 OFF on UPI Prepaid!",
+    "whatsapp_number": "919876543210",
+    "enable_sticky_cod": true,
+    "enable_pincode_checker": true,
+    "enable_stock_scarcity": true
+  }
+}

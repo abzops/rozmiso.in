@@ -1,0 +1,23 @@
+<aside class="fk-top-ribbon" role="region" aria-label="Announcement">
+  <span class="tag">MEGA SALE</span>
+  <span>⚡ {{ section.settings.message | default: 'FREE Express Delivery Across India | Extra ₹50 OFF on UPI Prepaid | Cash on Delivery (COD) Available' }}</span>
+</aside>
+
+{% schema %}
+{
+  "name": "Announcement Bar",
+  "settings": [
+    {
+      "type": "text",
+      "id": "message",
+      "label": "Announcement Text",
+      "default": "FREE Express Delivery Across India | Extra ₹50 OFF on UPI Prepaid | Cash on Delivery (COD) Available"
+    }
+  ],
+  "presets": [
+    {
+      "name": "Announcement Bar"
+    }
+  ]
+}
+{% endschema %}

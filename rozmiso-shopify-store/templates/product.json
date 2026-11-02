@@ -1,0 +1,26 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "settings": {}
+    },
+    "trust": {
+      "type": "trust-badges",
+      "settings": {}
+    },
+    "reviews": {
+      "type": "customer-reviews",
+      "settings": {}
+    },
+    "faq": {
+      "type": "faq-section",
+      "settings": {}
+    }
+  },
+  "order": [
+    "main",
+    "trust",
+    "reviews",
+    "faq"
+  ]
+}

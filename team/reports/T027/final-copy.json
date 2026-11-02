@@ -1,0 +1,296 @@
+[
+  {
+    "id": "gid://shopify/Product/10257843060928",
+    "originalTitle": "6187 Keyboard Cover for Computer Pc for Desktop Computer",
+    "title": "Keyboard Cover",
+    "descriptionHtml": "<p>A keyboard cover for placing over the keys of a compatible keyboard.</p><p>Check the shape and key layout against your keyboard before choosing this cover. The keyboard pictured is for illustration and is not included.</p>",
+    "sourceUrl": "https://deodap.in/products/6187-keyboard-cover-for-computer-pc-for-desktop-computer",
+    "sourceEvidence": {
+      "accessDate": "2026-10-08",
+      "preparedAt": "2026-10-08T12:43:23.3689+05:30",
+      "sku": "6187_laptop_keyboard_cover",
+      "observations": [
+        "Imported SKU 6187_laptop_keyboard_cover and supplier-coded product image identify a cover, not an electronic keyboard.",
+        "Existing merchant image opened successfully and visually inspected in Chrome: blue keyboard protector package over a keyboard background, code 6187.",
+        "Primary public lookup attempted on 2026-10-08; root product .js returned 404; /search/suggest.json?q=6187&resources[type]=product&resources[limit]=10 returned an empty product array."
+      ],
+      "evidenceFiles": [
+        "PRIMARY-FETCH.json",
+        "T021/saved-products.json"
+      ],
+      "visualUrls": [
+        "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/1_0577705c-1ed8-415d-a9a9-4879d0ece7b2.jpg?v=1791440741"
+      ]
+    },
+    "uncertainties": [
+      "Original DeoDap product endpoint currently returns 404; the public predictive-search endpoint for 6187 returned no products. Current exact supplier availability and compatibility could not be confirmed.",
+      "Imported product image visibly identifies a keyboard protector/cover and supplier code 6187. Imported prose describing 108 keys, hand rest, double-injection lettering and mixed lighting is inconsistent with a cover and has been removed.",
+      "Material, waterproofing, exact dimensions, supported keyboard models and layout are unverified and omitted. No universal-fit claim."
+    ],
+    "imageCandidates": []
+  },
+  {
+    "id": "gid://shopify/Product/10257843159232",
+    "originalTitle": "2796 2 Layer Kitchen Rack For Holding And Placing Types Of Things.",
+    "title": "Two-Tier Kitchen Storage Rack",
+    "descriptionHtml": "<p>Arrange jars, bottles and other everyday kitchen items on two raised shelves. The freestanding rack adds storage levels above a counter or shelf.</p><p>Place on a level surface and keep items evenly distributed. Storage items shown in the photos are for illustration.</p>",
+    "sourceUrl": "https://deodap.in/products/2796-2-layer-kitchen-rack-for-holding-and-placing-types-of-things-1",
+    "sourceEvidence": {
+      "accessDate": "2026-10-08",
+      "preparedAt": "2026-10-08T12:43:23.3689+05:30",
+      "sku": "2796_2layer_kitchen_rack",
+      "observations": [
+        "Imported exact SKU 2796_2layer_kitchen_rack and title establish the original two-tier identity.",
+        "Merchant images 1 and 2 opened and visually inspected in Chrome on 2026-10-08; two platforms and metal-looking supports are visible.",
+        "DeoDap indexed Gujarati legacy URL describes four layers and a different SKU. This conflicting primary listing was evaluated but its copy/media were excluded."
+      ],
+      "evidenceFiles": [
+        "PRIMARY-FETCH.json",
+        "T021/saved-products.json"
+      ],
+      "visualUrls": [
+        "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/1_24d14f09-4c56-4988-a814-5afdb63f5e33.jpg?v=1791440741"
+      ]
+    },
+    "uncertainties": [
+      "Imported exact SKU is 2796_2layer_kitchen_rack. A currently indexed DeoDap page using the old numeric handle describes 2796_4layer_kitchen_rack; this is a different configuration and must not replace the imported two-tier product.",
+      "Current exact two-tier supplier page/stock and replacement images could not be verified; root legacy product .js returned 404.",
+      "Imported copy says steel, but imagery shows shelf grids and metal-looking legs without proving all components are steel. Material, load capacity, assembled dimensions and weight omitted. Imported 26x26x11 dimensions may describe packaging and do not establish assembled size.",
+      "Existing image 1 shows two separate shelf units/box; image 2 depicts two raised platforms. The flat surface below is not counted as an included third shelf."
+    ],
+    "imageCandidates": []
+  },
+  {
+    "id": "gid://shopify/Product/10257843224768",
+    "originalTitle": "6168 Hqt-909B Hair Straightener Used While Massaging Hair Scalps And Head.",
+    "title": "Electric Hair Straightening Brush",
+    "descriptionHtml": "<p>An electric straightening brush with a bristled styling head and handle-mounted temperature adjustment buttons.</p><p>Follow the instructions supplied with the appliance when choosing a heat setting. Unplug and allow the brush to cool fully before cleaning, then wipe with a soft cloth. Store in a dry place.</p>",
+    "sourceUrl": "https://deodap.in/products/hair-straightener-keratin-ceramic-scalp-massager",
+    "sourceEvidence": {
+      "accessDate": "2026-10-08",
+      "preparedAt": "2026-10-08T12:43:23.3689+05:30",
+      "sku": "6168_hqt_909b_hair_straightner",
+      "observations": [
+        "Current primary product .js returned HTTP 200 at 2026-10-08T07:01:11.112254+00:00 with exact SKU 6168_hqt_909b_hair_straightner.",
+        "Supplier image 01_d6c9b631-b50a-4d1f-9957-e2150aea1eba.jpg visually inspected in Chrome: black bristled straightening brush, handle controls and numeric supplier code 6168. Same image filename is present in imported merchant images.",
+        "Temperature adjustment and unplug/cool cleaning guidance are described by the exact matched primary supplier listing."
+      ],
+      "evidenceFiles": [
+        "PRIMARY-FETCH.json",
+        "T021/saved-products.json"
+      ],
+      "visualUrls": [
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/01_d6c9b631-b50a-4d1f-9957-e2150aea1eba.jpg?v=1769171952"
+      ]
+    },
+    "uncertainties": [
+      "Current exact primary SKU matches imported SKU, but supplier stock is not merchant inventory or a dispatch commitment.",
+      "Keratin treatment, Seroprotect technology, scalp circulation, guaranteed frizz-free results, minimum heat damage, 50-second heat-up and daily-use safety are unverified marketing claims and omitted.",
+      "Imported product weight differs from the current listing; weight and dimensions omitted. Electrical rating, voltage, plug type, maximum temperature, certification and warranty are not established."
+    ],
+    "imageCandidates": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/01_d6c9b631-b50a-4d1f-9957-e2150aea1eba.jpg?v=1769171952",
+        "altText": "Black electric hair straightening brush with handle controls",
+        "exactMatchEvidence": "Exact supplier SKU 6168_hqt_909b_hair_straightner; current supplier image filename matches imported merchant image; Chrome visibly rendered the black brush and supplier code 6168 on 2026-10-08."
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/10257843257536",
+    "originalTitle": "6422 Stainless Steel Bottle used in all households and official purposes for storing water and beverages etc.",
+    "title": "Stainless Steel Water Bottle — Approx. 360 ml",
+    "descriptionHtml": "<p>A stainless steel water bottle with an approximate 360 ml capacity and a cylindrical design for everyday use.</p><p>Clean with mild dishwashing liquid and a bottle brush, rinse thoroughly and allow to dry. Check the lid is securely closed before carrying.</p>",
+    "sourceUrl": "https://amd.deodap.com/products/6422-stainless-steel-bottle-used-in-all-households-and-official-purposes-for-storing-water-and-beverages-etc-1",
+    "sourceEvidence": {
+      "accessDate": "2026-10-08",
+      "preparedAt": "2026-10-08T12:43:23.3689+05:30",
+      "sku": "6422_ss_fancy_btl_360ml_approx",
+      "observations": [
+        "AMD DeoDap primary product .js returned HTTP 200 at 2026-10-08T07:01:09.003045+00:00 with exact SKU 6422_ss_fancy_btl_360ml_approx.",
+        "Primary supplier image 1_b02c8f7a-8e68-4034-9e25-b090d98c3b26.jpg rendered in Chrome and visually inspected: gray cylindrical bottle with lid and label 360 ML Approx, code 6422. Filename exactly matches imported merchant image.",
+        "Primary description identifies stainless steel and advises mild detergent and bottle-brush cleaning."
+      ],
+      "evidenceFiles": [
+        "PRIMARY-FETCH.json",
+        "T021/saved-products.json"
+      ],
+      "visualUrls": [
+        "https://cdn.shopify.com/s/files/1/0268/1038/4455/products/1_b02c8f7a-8e68-4034-9e25-b090d98c3b26.jpg?v=1695452116"
+      ]
+    },
+    "uncertainties": [
+      "Exact supplier SKU matched, but supplier listing currently reports unavailable; this does not change merchant zero stock or prove fulfillment availability.",
+      "Approximate 360 ml is corroborated by SKU and visibly labelled supplier image; actual capacity has not been measured.",
+      "Leakproof, rust-free, odour-free, 100% food grade, nutrient retention, universal bag/car-holder fit and hot/cold insulation duration are unverified and omitted.",
+      "Dimensions/weight may include packing and have not been independently measured; omitted."
+    ],
+    "imageCandidates": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0268/1038/4455/products/1_b02c8f7a-8e68-4034-9e25-b090d98c3b26.jpg?v=1695452116",
+        "altText": "Gray stainless steel water bottle with lid, approximately 360 ml",
+        "exactMatchEvidence": "Exact SKU 6422_ss_fancy_btl_360ml_approx; supplier and imported merchant image filenames match; Chrome visibly rendered bottle, code 6422 and 360 ML Approx on 2026-10-08."
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/10257843355840",
+    "originalTitle": "2793 Manual Hand Juicer For Making Juices And Beverages By Using Hands.",
+    "sourceAccessDate": "2026-10-08",
+    "imageCandidates": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/1916/9825/products/1_e6b04b09-29af-42df-b581-8f3865ca1f08.jpg?v=1651487842",
+        "altText": "Manual citrus juicer with bowl and removable strainer",
+        "exactMatchEvidence": "Original workbook gallery code 2793; first image visibly labels 2793. HTTP 200, decoded and whole gallery visually inspected. Existing saved media; avoid duplicate upload."
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/1916/9825/products/2_eaa644c2-92e3-4116-be77-d0c1b8871a88.jpg?v=1651487844",
+        "altText": "Manual citrus juicer with bowl and removable strainer",
+        "exactMatchEvidence": "Original workbook gallery code 2793; first image visibly labels 2793. HTTP 200, decoded and whole gallery visually inspected. Existing saved media; avoid duplicate upload."
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/1916/9825/products/3_d5bb127d-c746-4eca-9fec-fb1f6e6f0edb.jpg?v=1651487846",
+        "altText": "Manual citrus juicer with bowl and removable strainer",
+        "exactMatchEvidence": "Original workbook gallery code 2793; first image visibly labels 2793. HTTP 200, decoded and whole gallery visually inspected. Existing saved media; avoid duplicate upload."
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/1916/9825/products/4_61f9bc93-aff1-4cb4-b351-669ce033ff84.jpg?v=1651487847",
+        "altText": "Manual citrus juicer with bowl and removable strainer",
+        "exactMatchEvidence": "Original workbook gallery code 2793; first image visibly labels 2793. HTTP 200, decoded and whole gallery visually inspected. Existing saved media; avoid duplicate upload."
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/1916/9825/products/5_b787857a-f3fa-4994-9899-02067a2bbc8c.jpg?v=1651487848",
+        "altText": "Manual citrus juicer with bowl and removable strainer",
+        "exactMatchEvidence": "Original workbook gallery code 2793; first image visibly labels 2793. HTTP 200, decoded and whole gallery visually inspected. Existing saved media; avoid duplicate upload."
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/1916/9825/products/6_702089da-9951-4271-86d2-1d9e150205b8.jpg?v=1651487849",
+        "altText": "Manual citrus juicer with bowl and removable strainer",
+        "exactMatchEvidence": "Original workbook gallery code 2793; first image visibly labels 2793. HTTP 200, decoded and whole gallery visually inspected. Existing saved media; avoid duplicate upload."
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/1916/9825/products/7_726396df-f460-4f34-af64-dae706e1dc47.jpg?v=1651487851",
+        "altText": "Manual citrus juicer with bowl and removable strainer",
+        "exactMatchEvidence": "Original workbook gallery code 2793; first image visibly labels 2793. HTTP 200, decoded and whole gallery visually inspected. Existing saved media; avoid duplicate upload."
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/1916/9825/products/8_f63ecb85-e97d-4af6-9da3-3ebb3c24df44.jpg?v=1651487852",
+        "altText": "Manual citrus juicer with bowl and removable strainer",
+        "exactMatchEvidence": "Original workbook gallery code 2793; first image visibly labels 2793. HTTP 200, decoded and whole gallery visually inspected. Existing saved media; avoid duplicate upload."
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/1916/9825/products/9_26c9c9c6-e5b4-4333-888f-6dd7b49fc252.jpg?v=1651487853",
+        "altText": "Manual citrus juicer with bowl and removable strainer",
+        "exactMatchEvidence": "Original workbook gallery code 2793; first image visibly labels 2793. HTTP 200, decoded and whole gallery visually inspected. Existing saved media; avoid duplicate upload."
+      }
+    ],
+    "publictitle": "Manual Citrus Juicer with Strainer",
+    "descriptionHtml": "<p>Juice citrus fruit by hand with this compact bowl-style juicer. The central reamer presses the fruit, while the removable strainer separates seeds and larger pieces of pulp.</p><ul><li>Manual operation, with no electrical connection.</li><li>Plastic bowl with a pouring spout and side handle.</li><li>Removable strainer for access when cleaning.</li></ul><p>Rinse the removable parts after use and allow them to dry before storing.</p>",
+    "sourceUrl": "https://www.tradeindia.com/products/manual-hand-juicer-2793-c9768571.html",
+    "sourceEvidence": [
+      "DeoDap seller listing indexed by primary TradeIndia marketplace identifies manual hand juicer code 2793 and plastic material; page body fetch was 403, so no fresh full-page verification.",
+      "Original workbook and original gallery match supplier code 2793. All nine original gallery URLs returned HTTP 200 and decoded; contact sheet visually confirms the manual citrus reamer, removable strainer, bowl, handle and spout."
+    ],
+    "uncertainties": [
+      "No exact current DeoDap storefront page found in 14 product sitemaps or exact native predictive search.",
+      "Capacity, dimensions, food-contact certification and allocated stock not verified.",
+      "Existing nine images are already saved in Shopify; do not duplicate them. Media licensing not verified."
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/10257843421376",
+    "originalTitle": "7271 Phone Earphones with Microphone",
+    "sourceAccessDate": "2026-10-08",
+    "imageCandidates": [],
+    "publictitle": "Wired Earphones with Microphone",
+    "descriptionHtml": "<p>A wired pair of earphones with an inline microphone for listening and calls.</p><p>Check the connector matches your device before use. Keep the earphones dry and store the cable loosely when not in use.</p>",
+    "sourceUrl": "https://kovelo.online/products/7271-phone-earphones-with-microphone",
+    "sourceEvidence": [
+      "Primary Kovelo product endpoint identifies exact SKU 7271_cnh_sport_earphone_no1 and same original product title/body. Product has one Default Title variant and images:[].",
+      "Exact MIVAA product page repeats original product description; its product image resolves to a generic category-def.jpg, not an earphone photo."
+    ],
+    "uncertainties": [
+      "Connector is unverified: supplier copy mentions 3.5mm, Lightning and USB-C despite one default variant. No connector or supported-phone promise made.",
+      "Seven original images return 404. No authentic exact-product replacement gallery found; imageCandidates intentionally empty.",
+      "Sound quality, noise isolation, controls compatibility, color, certification, stock and media rights are unverified.",
+      "Kovelo/MIVAA are merchants reproducing the legacy catalogue, not evidence of current DeoDap fulfillment."
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/10257843454144",
+    "originalTitle": "6186 Canvas Laundry Bag, Toy Storage, Laundry Storage",
+    "sourceAccessDate": "2026-10-08",
+    "imageCandidates": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/2_95ee6822-904b-4b43-861b-4cce09f39058.jpg?v=1766151224",
+        "altText": "Foldable canvas laundry bag showing handles, zipped top or folded storage",
+        "exactMatchEvidence": "Current primary DeoDap gallery attached to exact SKU 6186_15in_foldable_laundry_bag; original photographic filename matches demo product gallery. HTTP 200 and image decoded; contact sheet visually inspected. Excludes conflicting-dimension and unsupported promotional graphics."
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/9_21156ac4-10bd-4486-a9b5-178e4b6b8993.jpg?v=1766151224",
+        "altText": "Foldable canvas laundry bag showing handles, zipped top or folded storage",
+        "exactMatchEvidence": "Current primary DeoDap gallery attached to exact SKU 6186_15in_foldable_laundry_bag; original photographic filename matches demo product gallery. HTTP 200 and image decoded; contact sheet visually inspected. Excludes conflicting-dimension and unsupported promotional graphics."
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/5_ec7c7c59-e1d1-4ca4-b73b-af3faba9c509.jpg?v=1766151224",
+        "altText": "Foldable canvas laundry bag showing handles, zipped top or folded storage",
+        "exactMatchEvidence": "Current primary DeoDap gallery attached to exact SKU 6186_15in_foldable_laundry_bag; original photographic filename matches demo product gallery. HTTP 200 and image decoded; contact sheet visually inspected. Excludes conflicting-dimension and unsupported promotional graphics."
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/7_405cc988-f411-4552-ac25-c8e3587e1d01.jpg?v=1766151224",
+        "altText": "Foldable canvas laundry bag showing handles, zipped top or folded storage",
+        "exactMatchEvidence": "Current primary DeoDap gallery attached to exact SKU 6186_15in_foldable_laundry_bag; original photographic filename matches demo product gallery. HTTP 200 and image decoded; contact sheet visually inspected. Excludes conflicting-dimension and unsupported promotional graphics."
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/3_97a952f8-01e6-407f-9e95-375e16491315.jpg?v=1766151224",
+        "altText": "Foldable canvas laundry bag showing handles, zipped top or folded storage",
+        "exactMatchEvidence": "Current primary DeoDap gallery attached to exact SKU 6186_15in_foldable_laundry_bag; original photographic filename matches demo product gallery. HTTP 200 and image decoded; contact sheet visually inspected. Excludes conflicting-dimension and unsupported promotional graphics."
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/8_18c574ed-1416-4cdc-8fa1-73fd7c73e30f.jpg?v=1766151224",
+        "altText": "Foldable canvas laundry bag showing handles, zipped top or folded storage",
+        "exactMatchEvidence": "Current primary DeoDap gallery attached to exact SKU 6186_15in_foldable_laundry_bag; original photographic filename matches demo product gallery. HTTP 200 and image decoded; contact sheet visually inspected. Excludes conflicting-dimension and unsupported promotional graphics."
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/6_fb72aaf8-dab0-4ab6-ae6c-19d8308de172.jpg?v=1766151224",
+        "altText": "Foldable canvas laundry bag showing handles, zipped top or folded storage",
+        "exactMatchEvidence": "Current primary DeoDap gallery attached to exact SKU 6186_15in_foldable_laundry_bag; original photographic filename matches demo product gallery. HTTP 200 and image decoded; contact sheet visually inspected. Excludes conflicting-dimension and unsupported promotional graphics."
+      }
+    ],
+    "publictitle": "Foldable Canvas Laundry and Storage Bag",
+    "descriptionHtml": "<p>Keep laundry, toys and everyday household items together in a foldable canvas storage bag. The cylindrical bag has carrying handles and a zipped top, and folds down for storage when empty.</p><ul><li>Flexible canvas body for household storage.</li><li>Handles for carrying the bag.</li><li>Collapsible design and zipped top.</li></ul><p>Wipe with a damp cloth and allow it to air dry. Avoid harsh cleaners and machine washing. Patterns shown are examples; confirm the supplied design before ordering.</p>",
+    "sourceUrl": "https://deodap.in/products/6186-canvas-laundry-bag-toy-storage-laundry-storage",
+    "sourceEvidence": [
+      "Current primary DeoDap product JSON identifies exact SKU 6186_15in_foldable_laundry_bag.",
+      "All 14 current gallery URLs returned HTTP 200 and decoded. Visually inspected gallery includes original foldable floral bag, handles, zipper and assorted patterns.",
+      "Current source care instructions specify damp cloth, air drying and avoiding harsh cleaners/machine washing."
+    ],
+    "uncertainties": [
+      "Conflicting sizes: page 35x35x45cm, FAQ 37cm diameter/45cm height, image 35cm diameter/40cm height. No numerical size or capacity reproduced.",
+      "Weight conflict: variant 9320g, body188g, workbook185g. No weight claim reproduced.",
+      "Waterproof percentage, country of origin, performance claims and media rights not independently verified.",
+      "Page sold out is current supplier-page availability, not store allocated stock. Pattern selection unknown.",
+      "The original eight photos already exist in Shopify; additional gallery media is optional and should not duplicate existing images."
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/10257843519680",
+    "originalTitle": "2792 Coffee Mug And Warmer For Having Coffee Along With The Warmer That Keeps It Hot.",
+    "sourceAccessDate": "2026-10-08",
+    "imageCandidates": [],
+    "publictitle": "Coffee Mug Warmer",
+    "descriptionHtml": "<p>A desktop warming base intended for use with a compatible coffee mug.</p><p>Follow the instructions supplied with the unit for use and cleaning.</p>",
+    "sourceUrl": "https://kovelo.online/products/2792-coffee-mug-and-warmer-for-having-coffee-along-with-the-warmer-that-keeps-it-hot",
+    "sourceEvidence": [
+      "Primary Kovelo product endpoint identifies exact SKU 2792_coffee_mug_and_warmer and same original title/body, with one Default Title variant and images:[].",
+      "Exact MIVAA merchant product page has the same title; the product image is generic category-def.jpg.",
+      "Current DeoDap model 2942_coffee_mug_warmer is a different SKU and was excluded as a replacement."
+    ],
+    "uncertainties": [
+      "Mug inclusion is not visually or operationally verified; public title avoids promising a set.",
+      "Power connection, voltage, temperature, wattage, automatic switch and safety claims are unverified and omitted.",
+      "Seven original gallery images return 404; no authentic exact-SKU replacement gallery found. imageCandidates intentionally empty.",
+      "Current merchant pages repeat old catalogue copy, not proof of DeoDap stock, supplier terms or media rights."
+    ]
+  }
+]

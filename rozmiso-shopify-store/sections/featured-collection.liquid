@@ -1,0 +1,125 @@
+<section class="fk-container" style="margin-top: 16px;">
+  <!-- Flipkart-Style Deals of the Day Strip Header -->
+  <div class="fk-deal-header">
+    <div class="fk-deal-title-wrap">
+      <h2 class="fk-deal-title">
+        <span>⚡ Deals of the Day</span>
+      </h2>
+      <div class="fk-deal-timer">
+        <span>⏳ Ends in:</span>
+        <span class="timer-box" data-fk-timer>04h : 35m : 12s</span>
+      </div>
+    </div>
+    <a href="{{ routes.all_products_collection_url }}" class="fk-view-all-btn">
+      VIEW ALL
+    </a>
+  </div>
+
+  <!-- Product Grid -->
+  <div class="fk-products-grid">
+    {% assign selected_collection_handle = section.settings.collection %}
+    {% if selected_collection_handle != blank and collections[selected_collection_handle] != blank %}
+      {% assign target_collection = collections[selected_collection_handle] %}
+    {% else %}
+      {% assign target_collection = collections.all %}
+    {% endif %}
+
+    {% if target_collection != blank and target_collection.products.size > 0 %}
+      {% for product in target_collection.products limit: section.settings.products_to_show %}
+        <div class="fk-product-card">
+          <!-- Wishlist Heart Toggle -->
+          <button class="fk-wishlist-icon" aria-label="Add to Wishlist">
+            ♥
+          </button>
+
+          <!-- Product Image Link -->
+          <a href="{{ product.url }}" class="fk-product-img-wrap" aria-label="{{ product.title | escape }}">
+            {% if product.featured_image %}
+              <img 
+                src="{{ product.featured_image | image_url: width: 360 }}" 
+                alt="{{ product.title | escape }}" 
+                width="360" 
+                height="360" 
+                loading="lazy"
+              >
+            {% else %}
+              {{ 'product-1' | placeholder_svg_tag }}
+            {% endif %}
+          </a>
+
+          <!-- Rozmiso Assured Badge -->
+          <div class="fk-assured-badge">
+            <span>Rozmiso</span>
+            <span class="check">Assured ★</span>
+          </div>
+
+          <!-- Title -->
+          <a href="{{ product.url }}" class="fk-product-title">
+            {{ product.title }}
+          </a>
+
+          <!-- Rating -->
+          <div class="fk-rating-row">
+            <span class="fk-rating-pill">4.8 ★</span>
+            <span class="fk-rating-count">(420+)</span>
+          </div>
+
+          <!-- Price Row -->
+          <div class="fk-price-row">
+            <span class="fk-price-current">{{ product.price | money }}</span>
+            {% if product.compare_at_price > product.price %}
+              <span class="fk-price-original">{{ product.compare_at_price | money }}</span>
+              <span class="fk-price-discount">
+                {{ product.compare_at_price | minus: product.price | times: 100 | divided_by: product.compare_at_price }}% off
+              </span>
+            {% endif %}
+          </div>
+
+          <!-- Free Delivery & COD Tag -->
+          <div class="fk-delivery-tag">
+            <span class="free">Free delivery</span>
+            <span>&bull; COD Available</span>
+          </div>
+
+          <!-- Card Actions -->
+          <div class="fk-card-actions">
+            <a href="{{ product.url }}" class="fk-btn-card fk-btn-buy">
+              ⚡ Order Now &bull; COD
+            </a>
+          </div>
+        </div>
+      {% endfor %}
+    {% else %}
+      <div style="grid-column: 1 / -1; text-align: center; padding: 40px; color: #878787;">
+        <p>No products found in this collection.</p>
+      </div>
+    {% endif %}
+  </div>
+</section>
+
+{% schema %}
+{
+  "name": "Deals & Products Grid",
+  "settings": [
+    {
+      "type": "collection",
+      "id": "collection",
+      "label": "Featured Collection"
+    },
+    {
+      "type": "range",
+      "id": "products_to_show",
+      "min": 2,
+      "max": 12,
+      "step": 2,
+      "default": 6,
+      "label": "Products to show"
+    }
+  ],
+  "presets": [
+    {
+      "name": "Deals & Products Grid"
+    }
+  ]
+}
+{% endschema %}

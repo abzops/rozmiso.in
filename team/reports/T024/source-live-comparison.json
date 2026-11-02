@@ -1,0 +1,110 @@
+[
+  {
+    "file": "assets/studio.css",
+    "match": true
+  },
+  {
+    "file": "assets/studio.js",
+    "match": true
+  },
+  {
+    "file": "config/settings_data.json",
+    "match": true
+  },
+  {
+    "file": "config/settings_schema.json",
+    "match": true
+  },
+  {
+    "file": "layout/theme.liquid",
+    "match": true
+  },
+  {
+    "file": "locales/en.default.json",
+    "match": true
+  },
+  {
+    "file": "sections/studio-collection.liquid",
+    "match": true
+  },
+  {
+    "file": "sections/studio-edit.liquid",
+    "match": true
+  },
+  {
+    "file": "sections/studio-faq.liquid",
+    "match": true
+  },
+  {
+    "file": "sections/studio-footer.liquid",
+    "match": true
+  },
+  {
+    "file": "sections/studio-header.liquid",
+    "match": true
+  },
+  {
+    "file": "sections/studio-hero.liquid",
+    "match": true
+  },
+  {
+    "file": "sections/studio-product.liquid",
+    "match": true
+  },
+  {
+    "file": "sections/studio-story.liquid",
+    "match": true
+  },
+  {
+    "file": "snippets/studio-card.liquid",
+    "match": true
+  },
+  {
+    "file": "snippets/studio-icon.liquid",
+    "match": true
+  },
+  {
+    "file": "snippets/studio-logo.liquid",
+    "match": true
+  },
+  {
+    "file": "snippets/studio-product-videos.liquid",
+    "match": false
+  },
+  {
+    "file": "templates/404.liquid",
+    "match": true
+  },
+  {
+    "file": "templates/cart.liquid",
+    "match": true
+  },
+  {
+    "file": "templates/collection.json",
+    "match": true
+  },
+  {
+    "file": "templates/index.json",
+    "match": true
+  },
+  {
+    "file": "templates/list-collections.liquid",
+    "match": true
+  },
+  {
+    "file": "templates/page.contact.liquid",
+    "match": true
+  },
+  {
+    "file": "templates/page.liquid",
+    "match": true
+  },
+  {
+    "file": "templates/product.json",
+    "match": true
+  },
+  {
+    "file": "templates/search.liquid",
+    "match": true
+  }
+]

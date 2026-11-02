@@ -1,0 +1,98 @@
+{
+  "date": "2026-10-13",
+  "tool": "builtin image_gen.imagegen",
+  "status": "BLOCKED",
+  "error": "image generation failed: connection failed: error sending request",
+  "sourceAuthority": "Original references inspected for both products; current premium covers reused by root",
+  "styleReference": "F:/Dropshipping/team/reports/T029/social/juicer-premium-poster.png",
+  "assets": [
+    {
+      "productId": "10253181419712",
+      "plannedOutput": "F:/Dropshipping/team/reports/T029/social/carousels/10253181419712/02-details.png",
+      "prompt": "Generate ONE premium portrait 4:5 Instagram carousel slide. Reference1 is exact product authority; reference2 is style only. Ivory background, forest-green serif heading, polished macro photo, restrained fine-line callouts, footer @rozmiso.in. Burgundy long narrow handheld upholstery brush, cream end cap with hole, dense straight dark brown bristles underneath. Close diagonal detail photo of bristle roots and handle, preserve exact shape. Verbatim text: \"Designed for everyday upkeep.\" \"Handheld Upholstery Cleaning Brush\" \"Long brush head\" \"Dark bristles\" \"Hanging hole\" Footer \"AI-generated illustration\". Do not invent dimensions, removable parts, powered mechanisms, performance promises. Photograph distinct from cover.",
+      "status": "BLOCKED_CONNECTION_FAILURE",
+      "references": [
+        "F:/Dropshipping/team/reports/T028/reference-review/10253181419712/reference-1.png",
+        "F:/Dropshipping/team/reports/T028/reference-review/10253181419712/reference-2.png"
+      ],
+      "generatedOutput": null
+    },
+    {
+      "productId": "10253181419712",
+      "plannedOutput": "F:/Dropshipping/team/reports/T029/social/carousels/10253181419712/03-usecase.png",
+      "prompt": "Use case: ads-marketing. ONE portrait 4:5 Instagram carousel slide, AI generated only. Exact product reference is authority, juicer poster is visual style only. Premium ivory, forest-green serif heading, clear short sans-serif body, accurate photorealistic product, restrained layout. Footer @rozmiso.in and AI-generated illustration. No dimensions, invented technical specs, discounts, stock or performance claims. Props are not included. Exact product: long narrow burgundy brush head and sculpted burgundy handle, cream end cap with hanging hole, dense straight dark-brown bristles beneath head. Preserve shape and color. Scene: hand holding handle to gently brush gray woven sofa cushion; bristles contact fabric, entire brush visible. Text verbatim: \"A simple sofa-care routine.\" \"Brush gently along the fabric.\" \"Test a discreet area first.\" Footer \"AI-generated illustration • Styling props not included\". No exaggerated dust cloud or before/after.",
+      "status": "NOT_ATTEMPTED",
+      "references": [
+        "F:/Dropshipping/team/reports/T028/reference-review/10253181419712/reference-1.png",
+        "F:/Dropshipping/team/reports/T028/reference-review/10253181419712/reference-2.png"
+      ],
+      "generatedOutput": null
+    },
+    {
+      "productId": "10253181419712",
+      "plannedOutput": "F:/Dropshipping/team/reports/T029/social/carousels/10253181419712/04-context.png",
+      "prompt": "Use case: ads-marketing. ONE portrait 4:5 Instagram carousel slide, AI generated only. Exact product reference is authority, juicer poster is visual style only. Premium ivory, forest-green serif heading, clear short sans-serif body, accurate photorealistic product, restrained layout. Footer @rozmiso.in and AI-generated illustration. No dimensions, invented technical specs, discounts, stock or performance claims. Props are not included. Exact product: long narrow burgundy brush head and sculpted burgundy handle, cream end cap with hanging hole, dense straight dark-brown bristles beneath head. Preserve shape and color. Scene: brush placed beside folded cream upholstery throw in tidy sunlit home-care corner; show entire product from alternate side angle, bristle contact with worktop. Text verbatim: \"Ready for the next tidy-up.\" \"Keep with your home-care essentials.\" Footer \"AI-generated illustration • Styling props not included\".",
+      "status": "NOT_ATTEMPTED",
+      "references": [
+        "F:/Dropshipping/team/reports/T028/reference-review/10253181419712/reference-1.png",
+        "F:/Dropshipping/team/reports/T028/reference-review/10253181419712/reference-2.png"
+      ],
+      "generatedOutput": null
+    },
+    {
+      "productId": "10253181419712",
+      "plannedOutput": "F:/Dropshipping/team/reports/T029/social/carousels/10253181419712/05-care.png",
+      "prompt": "Use case: ads-marketing. ONE portrait 4:5 Instagram carousel slide, AI generated only. Exact product reference is authority, juicer poster is visual style only. Premium ivory, forest-green serif heading, clear short sans-serif body, accurate photorealistic product, restrained layout. Footer @rozmiso.in and AI-generated illustration. No dimensions, invented technical specs, discounts, stock or performance claims. Props are not included. Exact product: long narrow burgundy brush head and sculpted burgundy handle, cream end cap with hanging hole, dense straight dark-brown bristles beneath head. Preserve shape and color. Scene: accurate isolated brush, restrained care icons and spacious typography. Text verbatim: \"Care, kept simple.\" \"Remove trapped debris after use.\" \"Store clean and dry.\" \"Follow the fabric's care guidance.\" Footer \"AI-generated illustration\". No washing, chemicals or unsupported compatibility claims.",
+      "status": "NOT_ATTEMPTED",
+      "references": [
+        "F:/Dropshipping/team/reports/T028/reference-review/10253181419712/reference-1.png",
+        "F:/Dropshipping/team/reports/T028/reference-review/10253181419712/reference-2.png"
+      ],
+      "generatedOutput": null
+    },
+    {
+      "productId": "10253181518016",
+      "plannedOutput": "F:/Dropshipping/team/reports/T029/social/carousels/10253181518016/02-details.png",
+      "prompt": "Use case: ads-marketing. ONE portrait 4:5 Instagram carousel slide, AI generated only. Exact product reference is authority, juicer poster is visual style only. Premium ivory, forest-green serif heading, clear short sans-serif body, accurate photorealistic product, restrained layout. Footer @rozmiso.in and AI-generated illustration. No dimensions, invented technical specs, discounts, stock or performance claims. Props are not included. Exact beige foldable hanging organizer: white S-hook held by short central top fabric loop; two rectangular hook-and-loop patches on top; one clear upper zip compartment; narrow mesh middle pocket; large rounded zip mesh lower compartment; bottom fold flap with rectangular hook-and-loop patch. Do not add straps or compartments. Front view open organizer on ivory studio background. Sparse callout lines to actual components. Text verbatim: \"Everything has a place.\" \"Foldable Hanging Travel Organizer\" \"Clear upper pocket\" \"Mesh compartments\" \"White hanging hook\" Footer \"AI-generated illustration • Contents not included\". Use few unbranded toiletry props, no medicines.",
+      "status": "NOT_ATTEMPTED",
+      "references": [
+        "F:/Dropshipping/team/reports/T028/reference-review/10253181518016/reference-1.jpg",
+        "F:/Dropshipping/team/reports/T028/reference-review/10253181518016/reference-2.jpg"
+      ],
+      "generatedOutput": null
+    },
+    {
+      "productId": "10253181518016",
+      "plannedOutput": "F:/Dropshipping/team/reports/T029/social/carousels/10253181518016/03-usecase.png",
+      "prompt": "Use case: ads-marketing. ONE portrait 4:5 Instagram carousel slide, AI generated only. Exact product reference is authority, juicer poster is visual style only. Premium ivory, forest-green serif heading, clear short sans-serif body, accurate photorealistic product, restrained layout. Footer @rozmiso.in and AI-generated illustration. No dimensions, invented technical specs, discounts, stock or performance claims. Props are not included. Exact beige foldable hanging organizer: white S-hook held by short central top fabric loop; two rectangular hook-and-loop patches on top; one clear upper zip compartment; narrow mesh middle pocket; large rounded zip mesh lower compartment; bottom fold flap with rectangular hook-and-loop patch. Do not add straps or compartments. Front view open organizer in premium bathroom, WHITE S-HOOK TOP CURVE WRAPS OVER A THIN HORIZONTAL WALL RAIL; hook bottom curve holds organizer's short top loop. No separate invented suspension strap, don't hang through a solid wall. Show exact three-pocket layout with sparse unbranded toiletries. Text: \"Unfold. Hang. Organize.\" \"Keep daily essentials within reach.\" Footer \"AI-generated illustration • Contents not included\".",
+      "status": "NOT_ATTEMPTED",
+      "references": [
+        "F:/Dropshipping/team/reports/T028/reference-review/10253181518016/reference-1.jpg",
+        "F:/Dropshipping/team/reports/T028/reference-review/10253181518016/reference-2.jpg"
+      ],
+      "generatedOutput": null
+    },
+    {
+      "productId": "10253181518016",
+      "plannedOutput": "F:/Dropshipping/team/reports/T029/social/carousels/10253181518016/04-context.png",
+      "prompt": "Use case: ads-marketing. ONE portrait 4:5 Instagram carousel slide, AI generated only. Exact product reference is authority, juicer poster is visual style only. Premium ivory, forest-green serif heading, clear short sans-serif body, accurate photorealistic product, restrained layout. Footer @rozmiso.in and AI-generated illustration. No dimensions, invented technical specs, discounts, stock or performance claims. Props are not included. Exact beige foldable hanging organizer: white S-hook held by short central top fabric loop; two rectangular hook-and-loop patches on top; one clear upper zip compartment; narrow mesh middle pocket; large rounded zip mesh lower compartment; bottom fold flap with rectangular hook-and-loop patch. Do not add straps or compartments. Product CLOSED matching original closed reference: square soft beige rounded front flap, stitched border, short top carry handle, no extra exterior zipped pockets. Place closed organizer next to open suitcase on hotel bench, distinct context. Text: \"Pack for the next stay.\" \"Fold the organizer for travel.\" Footer \"AI-generated illustration • Styling props not included\".",
+      "status": "NOT_ATTEMPTED",
+      "references": [
+        "F:/Dropshipping/team/reports/T028/reference-review/10253181518016/reference-1.jpg",
+        "F:/Dropshipping/team/reports/T028/reference-review/10253181518016/reference-2.jpg"
+      ],
+      "generatedOutput": null
+    },
+    {
+      "productId": "10253181518016",
+      "plannedOutput": "F:/Dropshipping/team/reports/T029/social/carousels/10253181518016/05-care.png",
+      "prompt": "Use case: ads-marketing. ONE portrait 4:5 Instagram carousel slide, AI generated only. Exact product reference is authority, juicer poster is visual style only. Premium ivory, forest-green serif heading, clear short sans-serif body, accurate photorealistic product, restrained layout. Footer @rozmiso.in and AI-generated illustration. No dimensions, invented technical specs, discounts, stock or performance claims. Props are not included. Exact beige foldable hanging organizer: white S-hook held by short central top fabric loop; two rectangular hook-and-loop patches on top; one clear upper zip compartment; narrow mesh middle pocket; large rounded zip mesh lower compartment; bottom fold flap with rectangular hook-and-loop patch. Do not add straps or compartments. Open empty organizer on clean ivory backdrop, exact pocket layout. Text verbatim: \"A little care goes a long way.\" \"Empty pockets before cleaning.\" \"Wipe gently and let it dry.\" \"Avoid overfilling.\" Footer \"AI-generated illustration\". No waterproof/machine wash/material/dimension claims.",
+      "status": "NOT_ATTEMPTED",
+      "references": [
+        "F:/Dropshipping/team/reports/T028/reference-review/10253181518016/reference-1.jpg",
+        "F:/Dropshipping/team/reports/T028/reference-review/10253181518016/reference-2.jpg"
+      ],
+      "generatedOutput": null
+    }
+  ]
+}

@@ -1,0 +1,716 @@
+{
+  "task": "T029",
+  "lane": "B",
+  "assets": [
+    {
+      "id": "10257843355840",
+      "kind": "details",
+      "refs": [
+        "F:/Dropshipping/team/reports/T028/generated/10257843355840/studio.png"
+      ],
+      "prompt": "Create one separate square premium ecommerce detail photograph of the EXACT juicer in reference. Red plastic bowl with broad left handle/small right spout, white radial slotted strainer and red conical ridged reamer. Preserve exact component geometry/colors/proportions, no motor or lever. Alternate elevated nearly top-down angle showing radial strainer openings and reamer ridges, entire assembled juicer visible with breathing room on ivory studio surface. Soft side daylight and real subtle shadows, premium macro texture. No text, branding, codes, props, watermarks, invented component or collage. One product only, square1024.",
+      "dest": "F:/Dropshipping/team/reports/T028/generated/10257843355840/details.png",
+      "status": "GENERATED_ROOT_REVIEW_PENDING",
+      "output": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a11a26-4db4-7ac3-8772-a48334ced97b\\exec-167bf082-0b8d-471e-bf01-dcea74e26824.png"
+    },
+    {
+      "id": "10257843355840",
+      "kind": "context",
+      "refs": [
+        "F:/Dropshipping/team/reports/T028/generated/10257843355840/studio.png"
+      ],
+      "prompt": "One separate square premium lifestyle photograph of the EXACT red and white manual citrus juicer in reference. Preserve red bowl, broad left handle, right pouring spout, white radial slotted strainer, red tall ridged conical reamer. On a pale wooden breakfast table, juicer in foreground beside two lime halves and a plain empty drinking glass, neutral linen napkin softly out of focus behind. One product, entirely visible, natural morning light. Alternate wider lower angle distinct from existing ivory studio image; product is dominant. No motor, added pressing lever or different juicer shape. Props clearly separate from product. No text, suppliercode, watermarks, brand, health or performance claim. Square1024.",
+      "dest": "F:/Dropshipping/team/reports/T028/generated/10257843355840/context.png",
+      "status": "GENERATED_ROOT_REVIEW_PENDING",
+      "output": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a11a26-4db4-7ac3-8772-a48334ced97b\\exec-afaab4ea-299b-404b-ad35-14e5c83ac63f.png"
+    },
+    {
+      "id": "10257843355840",
+      "kind": "features",
+      "refs": [
+        "F:/Dropshipping/team/reports/T028/generated/10257843355840/studio.png"
+      ],
+      "prompt": "Create ONE separate premium square ecommerce product-feature graphic1024. Warm ivory background, tasteful dark charcoal large legible editorial sans-serif text on left, photorealistic exact reference red-and-white juicer on right/lower half. Keep complete product visible: red bowl broadleft handle/rightspout, white radialslotted removable strainer, red tall ridgedreamer. Preserve geometry colors and component count, no motor/lever. Verbatim exact text only: headline 'Manual Citrus Juicer'; short three lines 'Manual operation' / 'Removable strainer' / 'Bowl with pouring spout'. Spacious composition and clearly readable typography, no tiny paragraphs. No other text, supplier codes, watermark, logos, measurements, certification, performance, origin or guarantee claims. One product; no collage duplicate.",
+      "dest": "F:/Dropshipping/team/reports/T028/generated/10257843355840/features.png",
+      "status": "GENERATED_ROOT_REVIEW_PENDING",
+      "output": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a11a26-4db4-7ac3-8772-a48334ced97b\\exec-8f84c0f8-1169-411a-acd6-b3481836937c.png"
+    },
+    {
+      "id": "10257843355840",
+      "kind": "care",
+      "refs": [
+        "F:/Dropshipping/team/reports/T028/generated/10257843355840/studio.png"
+      ],
+      "prompt": "Create ONE separate square premium ecommerce care/specification graphic1024. Light neutral warm-gray background. Photograph exact reference manual juicer in side threequarter view in lower half with whole product and clear margins: red bowl broadleft handle/rightspout, white radial slotted strainer, tall red ridged reamer. Preserve shape, color and component count. Large legible charcoal sansserif typography at top/left, verbatim text only: headline 'Details & care'; three short lines 'Manual, non-electric design' / 'Rinse after use' / 'Dry before storing'. Minimal premium layout, space between lines, no extra text. No dimensions, food-grade claim, certifications, dishwasher claim, country, suppliercode, logo or watermark. One assembled product; no invented exploded mechanism.",
+      "dest": "F:/Dropshipping/team/reports/T028/generated/10257843355840/care.png",
+      "status": "GENERATED_ROOT_REVIEW_PENDING",
+      "output": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a11a26-4db4-7ac3-8772-a48334ced97b\\exec-3b973799-b2b6-4f84-b51c-ac368c9e612a.png"
+    },
+    {
+      "id": "10257843355840",
+      "kind": "studio",
+      "dest": "F:/Dropshipping/team/reports/T028/generated/10257843355840/studio.png",
+      "status": "REUSED_EXISTING_VISUAL_PASS",
+      "refs": [
+        "F:/Dropshipping/team/reports/T028/pilot/juicer-reference.jpg"
+      ],
+      "prompt": "Reused original T028 built-in image; exact red bowl/white strainer/red reamer verified."
+    },
+    {
+      "id": "10257843355840",
+      "kind": "usecase",
+      "dest": "F:/Dropshipping/team/reports/T028/generated/10257843355840/usecase.png",
+      "status": "REUSED_EXISTING_VISUAL_PASS",
+      "refs": [
+        "F:/Dropshipping/team/reports/T028/pilot/juicer-reference.jpg"
+      ],
+      "prompt": "Reused original T028 built-in image; exact red bowl/white strainer/red reamer verified."
+    },
+    {
+      "id": "10253181583552",
+      "kind": "details",
+      "refs": [
+        "F:/Dropshipping/team/reports/T028/reference-review/10253181583552/reference-2.jpg"
+      ],
+      "prompt": "One separate square premium ecommerce detail photograph1024 of exact reference: limegreen flexible flower-shaped shallow drain basket with scalloped petal rim, perforated round innerbowl and central upright shortstem with spherical liftingknob. Preserve exact shallowbowl geometry, scallops, perforations, color and proportions; no added suctioncups or generic flatmat. Topdown alternateangle showing bowl holes and rim clearly, wholeproduct on warmivory studiosurface, softsidelight, realistictexture/contactshadow. Onecatcher, no text, props, labels, watermark or claims.",
+      "dest": "F:/Dropshipping/team/reports/T028/generated/10253181583552/details.png",
+      "status": "GENERATED_ROOT_REVIEW_PENDING",
+      "output": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a11a26-4db4-7ac3-8772-a48334ced97b\\exec-fe3cbca1-8c28-4f03-8a87-1895443e0945.png"
+    },
+    {
+      "id": "10253181583552",
+      "kind": "context",
+      "refs": [
+        "F:/Dropshipping/team/reports/T028/reference-review/10253181583552/reference-2.jpg"
+      ],
+      "prompt": "One separate square premium realistic lifestylephoto1024. Exact limegreen scalloped flower shallow drainbasket, perforated innerbowl, central uprightstem sphericalknob as reference. Same color, shape, proportions and perforations, no suctioncups, no genericflatmat. Place the single catcher in a compatible circular drain of a plain white ceramic bathroomwashbasin, drysurface with softmorningdaylight. Slightly wider framing than studio shows tap softly blurred behind, small neutralsoap dish farbackground, productprominent. No runningwater, watertightseal or unclogging outcome. Entire productvisible, no hands or text, watermark, logos or claims.",
+      "dest": "F:/Dropshipping/team/reports/T028/generated/10253181583552/context.png",
+      "status": "GENERATED_ROOT_REVIEW_PENDING",
+      "output": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a11a26-4db4-7ac3-8772-a48334ced97b\\exec-e222ecb3-12e5-4f57-901b-7ceae7ebce12.png"
+    },
+    {
+      "id": "10253181583552",
+      "kind": "features",
+      "refs": [
+        "F:/Dropshipping/team/reports/T028/reference-review/10253181583552/reference-2.jpg"
+      ],
+      "prompt": "One separate square premium ecommerce featuregraphic1024, warmivory background, large readable charcoal sansserif typography at top/left, exact photorealistic limegreen flower-shaped shallow drainbasket lowerhalf/right. Preserve scallopedrim, perforated innerbowl and center upright spherical liftingknob, same geometry/color/proportions as reference. Oneproduct, fullobject with margin. Verbatim text only: headline 'Flower-Shaped Drain Catcher'; three shortlines 'Perforated bowl' / 'Centre lifting knob' / 'For a compatible drain'. Spacious composition, no small paragraphs. No dimensions, suctioncups, leakproof/clog-prevention claim, advertisingcodes, brands, watermark or other text.",
+      "dest": "F:/Dropshipping/team/reports/T028/generated/10253181583552/features.png",
+      "status": "PREMIUM_REPLACEMENT_GENERATED_ROOT_REVIEW_PENDING",
+      "output": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a13435-9f1e-76c0-971b-7be09148de41\\exec-d776f126-c8af-4762-80cb-ab9abdeb5563.png"
+    },
+    {
+      "id": "10253181583552",
+      "kind": "studio",
+      "dest": "F:/Dropshipping/team/reports/T028/generated/10253181583552/studio.png",
+      "status": "REUSED_EXISTING_VISUAL_PASS",
+      "refs": [
+        "F:/Dropshipping/team/reports/T028/reference-review/10253181583552/reference-2.jpg"
+      ],
+      "prompt": "Reused accepted T028 built-in asset. Original geometry and color verified."
+    },
+    {
+      "id": "10253181583552",
+      "kind": "usecase",
+      "dest": "F:/Dropshipping/team/reports/T028/generated/10253181583552/usecase.png",
+      "status": "REUSED_EXISTING_VISUAL_PASS",
+      "refs": [
+        "F:/Dropshipping/team/reports/T028/reference-review/10253181583552/reference-2.jpg"
+      ],
+      "prompt": "Reused accepted T028 built-in asset. Original geometry and color verified."
+    },
+    {
+      "id": "10253181681856",
+      "kind": "details",
+      "refs": [
+        "F:/Dropshipping/team/reports/T028/reference-review/10253181681856/reference-2.jpg"
+      ],
+      "prompt": "One separate square premium alternateangle detail photograph1024 of EXACT reference orange foldable bottlelid cleaner. Rounded orange twinbody with circular raisedbumps/teardrophangingcutout, greenbristles left, whitefoldout narrowhook rightpivot, ovalsilver wireloop with whitebristles right. Preserve all THREE cleaningtools/components/count/colors/proportions. Elevated threequarter nearlytopdown view wholetool open on ivorysurface, showing hinge and brush textures sharply, generousmargin/softdaylight. No text, leaves, props, watermarks, logos, extra brush or genericdevice.",
+      "dest": "F:/Dropshipping/team/reports/T028/generated/10253181681856/details.png",
+      "status": "GENERATED_ROOT_REVIEW_PENDING",
+      "output": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a11a26-4db4-7ac3-8772-a48334ced97b\\exec-a1bfd7c3-b034-45ab-9d2f-d943e18b933c.png"
+    },
+    {
+      "id": "10253181681856",
+      "kind": "context",
+      "refs": [
+        "F:/Dropshipping/team/reports/T028/reference-review/10253181681856/reference-2.jpg"
+      ],
+      "prompt": "One separate square premium realistic lifestyle photograph1024. Exact reference orange foldable cleaningtool: raisedbumps/teardropcutout, greenbristles left, whitefoldouthook at rightpivot and oval wireloop whitebrush right. Same physicalgeometry/componentcount/proportions/colors. Place open tool on a lightwood kitchen drying area beside a plain inverted travelcup lid and a small folded towel, softmorninglight with sinkblurredbackground. Wholetool clearlyvisible prominent, no hand or cleaning-result/performanceclaim. Contextprops separate from includedproduct. No added brush/attachment, labels, logos, watermark or text.",
+      "dest": "F:/Dropshipping/team/reports/T028/generated/10253181681856/context.png",
+      "status": "GENERATED_ROOT_REVIEW_PENDING",
+      "output": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a11a26-4db4-7ac3-8772-a48334ced97b\\exec-607d27f0-5a34-4d0c-95c0-8a591af5e953.png"
+    },
+    {
+      "id": "10253181681856",
+      "kind": "features",
+      "refs": [
+        "F:/Dropshipping/team/reports/T028/reference-review/10253181681856/reference-2.jpg"
+      ],
+      "prompt": "One separate square premium ecommerce featuregraphic1024, warmivorybackground. Largelegible charcoal sansserif exacttext at top: '3-in-1 Bottle Lid Cleaning Tool'; three shortlines 'Brush' / 'Narrow-opening brush' / 'Crevice hook'. Photorealistic EXACT reference open orangefolding cleaner below, greenbristlebrushleft, whitefoldouthookrightpivot, ovalwireloop whitebrushright, raisedbumps/teardropcutout. Preserve exact colors geometry proportions and threefeatures; oneproduct fullyvisible. Spaciouscomposition, no additionaltext/labels, dimensions, sterilization or safetyclaim, watermark, suppliercode, logo or extraattachment.",
+      "dest": "F:/Dropshipping/team/reports/T028/generated/10253181681856/features.png",
+      "status": "PREMIUM_REPLACEMENT_GENERATED_ROOT_REVIEW_PENDING",
+      "output": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a13435-9f1e-76c0-971b-7be09148de41\\exec-30e68aa6-0be9-40f7-84c4-cfa3ba4d0c4e.png"
+    },
+    {
+      "id": "10253181681856",
+      "kind": "studio",
+      "dest": "F:/Dropshipping/team/reports/T028/generated/10253181681856/studio.png",
+      "status": "REUSED_EXISTING_VISUAL_PASS",
+      "refs": [
+        "F:/Dropshipping/team/reports/T028/reference-review/10253181681856/reference-2.jpg"
+      ],
+      "prompt": "Reused accepted T028 built-in asset; exact original shape and colors visually verified."
+    },
+    {
+      "id": "10253181681856",
+      "kind": "usecase",
+      "dest": "F:/Dropshipping/team/reports/T028/generated/10253181681856/usecase.png",
+      "status": "REUSED_EXISTING_VISUAL_PASS",
+      "refs": [
+        "F:/Dropshipping/team/reports/T028/reference-review/10253181681856/reference-2.jpg"
+      ],
+      "prompt": "Reused accepted T028 built-in asset; exact original shape and colors visually verified."
+    },
+    {
+      "id": "10253181845696",
+      "kind": "details",
+      "prompt": "Generate one separate square premium ecommerce detail photograph of exact cream cable organizer strip in reference. One long rounded rectangular strip, decorative raised rounded ends, exactly FIVE flower-shaped slotted cable retainers across front, same proportions and cream color. Elevated oblique studio angle on warm ivory stone, complete object visible, crisp tactile glossy plastic surface, soft contact shadow and natural daylight, no cables or packaging. No extra flowers, clips, strips, text, logos, supplier codes or count claims. One representative strip only, not entire set.",
+      "refs": [
+        "F:/Dropshipping/team/reports/T028/reference-review/10253181845696/reference-2.jpg"
+      ],
+      "output": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a13435-9f1e-76c0-971b-7be09148de41\\exec-fd407fb7-848e-4494-b074-7e7331d1cf73.png",
+      "dest": "F:/Dropshipping/team/reports/T028/generated/10253181845696/details.png",
+      "status": "GENERATED_ROOT_REVIEW_PENDING"
+    },
+    {
+      "id": "10253181845696",
+      "kind": "context",
+      "prompt": "One separate square premium lifestyle photograph. Exact cream cable organizer strip in reference, long rounded base decorative raised ends, exactly FIVE flower retainers. Preserve geometry, proportions and color. Installed horizontally on side of warmwhite bedside table, holding two plain charging cables passing in gaps between flower retainers; cable connectors outside frame, not invented electrical products. Bed linen blurred in background, soft morning daylight. Whole single strip visible prominent, realistic contactshadow; distinct from desk usecase. No text, brands, logos, extra flowers or packcount claims. Cables/table are separate props.",
+      "refs": [
+        "F:/Dropshipping/team/reports/T028/reference-review/10253181845696/reference-2.jpg"
+      ],
+      "output": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a13435-9f1e-76c0-971b-7be09148de41\\exec-847efc54-8b4e-4fa6-80d9-ffd8c91a19c0.png",
+      "dest": "F:/Dropshipping/team/reports/T028/generated/10253181845696/context.png",
+      "status": "GENERATED_ROOT_REVIEW_PENDING"
+    },
+    {
+      "id": "10253181845696",
+      "kind": "features",
+      "prompt": "Generate one premium portrait4:5 ecommerce Rozmiso poster. Image1 style reference ONLY: ivory/forestgreen sophisticated serif heading, clean featureicons and elegant layout, small R footer. Image2 exact cream adhesive cable organizer strip: long rounded rectangle with decorative raised rounded ends and exactly FIVE flower-shaped slotted retainers. One representative strip large lowerhalf lying on ivory stone, soft premium realistic studio daylight. Preserve product geometry color proportions, no cables/connector tips, no additional loose clips. Exact text: 'ROZMISO / THE EVERYDAY EDIT'; serif headline 'A place for\\nyour cables.'; subtitle 'Adhesive Cable Organizer Clips'; three feature labels 'Flower-shaped guides' / 'Adhesive backing' / 'Set of 20 strips'; footer 'Explore the collection' and '@rozmiso.in'; disclosure 'AI-generated illustration • One strip shown'. Elegant type, useful negative space, product fully visible, no dimensions/holdingstrength/universalfitclaims. Do not show juicer/citrus.",
+      "refs": [
+        "F:/Dropshipping/team/reports/T029/social/juicer-premium-poster.png",
+        "F:/Dropshipping/team/reports/T028/reference-review/10253181845696/reference-2.jpg"
+      ],
+      "output": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a13435-9f1e-76c0-971b-7be09148de41\\exec-65a26feb-cd2b-4333-b739-d5ce1c2cb075.png",
+      "dest": "F:/Dropshipping/team/reports/T028/generated/10253181845696/features.png",
+      "status": "GENERATED_ROOT_REVIEW_PENDING"
+    },
+    {
+      "id": "10253181845696",
+      "kind": "care",
+      "prompt": "Generate one square premium ecommerce care graphic matching ivory/forestgreen Rozmiso editorial quality. Exact reference cream adhesive cable strip, long base decorative rounded raised ends and FIVE flower retainers, same geometry/proportions/color. One representative product prominent lowerhalf in elevated view, no cables or props; soft studio daylight. Elegant moderate forestgreen serif headline 'Placement & care'; three large clearly readable sansserif lines 'Use on a clean, dry surface' / 'Check surface compatibility' / 'Wipe gently with a soft cloth'. Small bottom disclaimer 'AI-generated illustration • One strip shown'. Graceful divider lines and simple tiny lineicons, spacious high-end composition, no fabricated strength, dimensions, residue-free guarantee, supplier codes or watermark.",
+      "refs": [
+        "F:/Dropshipping/team/reports/T028/reference-review/10253181845696/reference-2.jpg"
+      ],
+      "output": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a13435-9f1e-76c0-971b-7be09148de41\\exec-cb238b8a-34ff-45c8-9137-9dd3867bd02b.png",
+      "dest": "F:/Dropshipping/team/reports/T028/generated/10253181845696/care.png",
+      "status": "GENERATED_ROOT_REVIEW_PENDING"
+    },
+    {
+      "id": "10253181944000",
+      "kind": "details",
+      "prompt": "Generate one separate square premium ecommerce alternate detail photograph of EXACT woven household wiping cloths in reference. Exactly THREE folded rectangular cloths, two pink/red striped and one green/yellow striped, each with cream/brown floral motif band and white bound edges. Preserve pattern/color/woven texture. Topdown elegant staggered arrangement on ivory stone, clearly distinct from front threequarter studio hero, complete threecloths visible, close tactile focus, soft daylight shadows. No other cloth, props, text, logos, packaging, suppliercodes, invented fiber composition or claims.",
+      "refs": [
+        "F:/Dropshipping/team/reports/T028/reference-review/10253181944000/reference-2.jpg",
+        "F:/Dropshipping/team/reports/T028/generated/10253181944000/studio.png"
+      ],
+      "output": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a13435-9f1e-76c0-971b-7be09148de41\\exec-72f28cdb-1d2c-4099-b40d-0df6a2bf7d9a.png",
+      "dest": "F:/Dropshipping/team/reports/T028/generated/10253181944000/details.png",
+      "status": "GENERATED_ROOT_REVIEW_PENDING"
+    },
+    {
+      "id": "10253181944000",
+      "kind": "usecase",
+      "prompt": "One separate square premium natural lifestyle photograph of exactly THREE reference wiping cloths: one pink/red striped cloth with brown/cream floral band and whiteedge being gently used by a realistic hand on a plain glass cabinet door; two other folded cloths on counter behind, onepink/red and onegreen/yellow with samefloralband. Total THREE cloths only, no fourth cloth. Preserve exact weave patterns and colors. Soft daylight contemporary ivory kitchen, product textile clear and dominant, realistic natural skin/anatomy hand fivefingers, no miraculous beforeafter or spotlesspromise. No text, labels, codes, watermark, logos, extra props in foreground.",
+      "refs": [
+        "F:/Dropshipping/team/reports/T028/reference-review/10253181944000/reference-2.jpg"
+      ],
+      "output": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a13435-9f1e-76c0-971b-7be09148de41\\exec-632922b4-82aa-44a4-b25c-fb3f46e34d81.png",
+      "dest": "F:/Dropshipping/team/reports/T028/generated/10253181944000/usecase.png",
+      "status": "GENERATED_ROOT_REVIEW_PENDING"
+    },
+    {
+      "id": "10253181944000",
+      "kind": "context",
+      "prompt": "One separate square premium lifestyle photograph of EXACT THREE woven household wiping cloths from reference. Two pink/red striped, one green/yellow striped, each brown/cream floralband whiteboundedge. One green cloth draped open naturally over edge of ivory kitchen sink drying area; two pink cloths folded together nearby. Exactlythreecloths, nofourth. Preserve patternedwovenmaterial, no plain microfiber. Whole textile identifiable, alternatewidecontext distinct from glasswiping image, neutralstone/softsidewindowlight, faucetblurredbackground, nohands/cleaningresults. No text logoslabels suppliercodes.",
+      "refs": [
+        "F:/Dropshipping/team/reports/T028/reference-review/10253181944000/reference-2.jpg"
+      ],
+      "output": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a13435-9f1e-76c0-971b-7be09148de41\\exec-63789f0d-b003-4d44-bfac-dc38277ba58b.png",
+      "dest": "F:/Dropshipping/team/reports/T028/generated/10253181944000/context.png",
+      "status": "GENERATED_ROOT_REVIEW_PENDING"
+    },
+    {
+      "id": "10253181944000",
+      "kind": "features",
+      "prompt": "Generate one premium portrait4:5 Rozmiso ecommerce poster. Image1 STYLE ONLY ivory/forestgreen editorialserif heading, featureicons, smallR/footer consistency; nojuicer/citrus. Image2 exactproduct: THREE woven wipingcloths, TWO pink/red striped ONE green/yellow striped, each brown/creamflower motifband and whiteboundedge. Preserve countpatterncolors and wovenmaterial, no plainmicrofiber. Show three folded cloths beautifully staggered lowerhalf on ivory stone softdaylight. Exactreadabletext: 'ROZMISO / THE EVERYDAY EDIT'; serifheadline 'Everyday care,\\na colourful touch.'; subtitle 'Household Wiping Cloths'; labels 'Set of 3' / 'Woven texture' / 'Bound edges'; footer 'Explore the collection' and '@rozmiso.in'; disclosure 'AI-generated product illustration'. High-end trustingdesign clearproduct completelyvisible nofibercomposition/dimensions/disinfectionclaims, logos suppliercode or extra cloth.",
+      "refs": [
+        "F:/Dropshipping/team/reports/T029/social/juicer-premium-poster.png",
+        "F:/Dropshipping/team/reports/T028/reference-review/10253181944000/reference-2.jpg"
+      ],
+      "output": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a13435-9f1e-76c0-971b-7be09148de41\\exec-8bacf834-127b-4315-b10f-824e06b1784d.png",
+      "dest": "F:/Dropshipping/team/reports/T028/generated/10253181944000/features.png",
+      "status": "GENERATED_ROOT_REVIEW_PENDING"
+    },
+    {
+      "id": "10253181944000",
+      "kind": "care",
+      "prompt": "One square premium ecommerce care graphic, sophisticated ivoryforestgreen editorialserif and legible sansseriflayout. Exact THREE referencewoven wipingcloths, two pink/red stripes and onegreen/yellow stripes with browncreamflowerband andwhiteboundedges, foldedstaggered lowerhalf allvisible. Softstudio naturaltexture. Verbatimtext: headline 'Everyday care'; lines 'Rinse after use' / 'Air-dry thoroughly' / 'Keep cloths for separate tasks'; smallfooter 'AI-generated product illustration'. Three subtlelineicons anddividers, balancedspacing, moderateheading, nofibercomposition measurements antimicrobial/dishwasherclaim suppliercode logo or fourthcloth.",
+      "refs": [
+        "F:/Dropshipping/team/reports/T028/reference-review/10253181944000/reference-2.jpg"
+      ],
+      "output": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a13435-9f1e-76c0-971b-7be09148de41\\exec-726c96b5-79e1-4465-a14d-91541436ebe4.png",
+      "dest": "F:/Dropshipping/team/reports/T028/generated/10253181944000/care.png",
+      "status": "GENERATED_ROOT_REVIEW_PENDING"
+    },
+    {
+      "id": "10253182009536",
+      "kind": "studio",
+      "prompt": "One square premium ecommerce studio photograph. Exact reference single cylindrical structured laundry wash bag: bright yellow vertical ribbed mesh wall, sky-blue round mesh lid, white perimeter zipper binding, short cylinder proportions. Preserve exact structure, colors and dimensions as visually shown; not flat envelope. Closed lid, elevated threequarter angle, entire bag on ivory stone, no contents, soft daylight realistic fibers/shadows. No text props label logo codes.",
+      "refs": [
+        "F:/Dropshipping/team/reports/T028/reference-review/10253182009536/reference-2.jpg"
+      ],
+      "status": "GENERATED_ROOT_REVIEW_PENDING",
+      "output": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a13435-9f1e-76c0-971b-7be09148de41\\exec-975380ab-1da9-46cc-9bbc-bef2df03bd49.png",
+      "dest": "F:/Dropshipping/team/reports/T028/generated/10253182009536/studio.png"
+    },
+    {
+      "id": "10253182009536",
+      "kind": "details",
+      "prompt": "One square premium ecommerce detail photograph. Exact reference single cylindrical structured laundry wash bag: bright yellow vertical ribbed mesh wall, sky-blue round mesh lid, white perimeter zipper binding, short cylinder proportions. Preserve exact structure, colors and dimensions as visually shown; not flat envelope. Closer elevated angle with lid unzipped and standing partly upright to show zipper and yellow mesh inside, empty bag, wholeobjectvisible on ivorysurface. No extra bag/contents/text/logos.",
+      "refs": [
+        "F:/Dropshipping/team/reports/T028/reference-review/10253182009536/reference-2.jpg"
+      ],
+      "status": "GENERATED_ROOT_REVIEW_PENDING",
+      "output": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a13435-9f1e-76c0-971b-7be09148de41\\exec-5375a8cb-cedf-4f56-bcaf-25dbc49bf84b.png",
+      "dest": "F:/Dropshipping/team/reports/T028/generated/10253182009536/details.png"
+    },
+    {
+      "id": "10253182009536",
+      "kind": "usecase",
+      "prompt": "One square premium lifestylephoto. Exact reference single cylindrical structured laundry wash bag: bright yellow vertical ribbed mesh wall, sky-blue round mesh lid, white perimeter zipper binding, short cylinder proportions. Preserve exact structure, colors and dimensions as visually shown; not flat envelope. Closed single bag in foreground on a pale laundry counter beside an open unbranded washing machine, folded beige towel farbackground as separate prop. No extra bag, no washer labeling/text, no protection/resultguarantee. Softdaylight.",
+      "refs": [
+        "F:/Dropshipping/team/reports/T028/reference-review/10253182009536/reference-2.jpg"
+      ],
+      "status": "GENERATED_ROOT_REVIEW_PENDING",
+      "output": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a13435-9f1e-76c0-971b-7be09148de41\\exec-00102940-8f8d-42ea-a543-67f651aabc9f.png",
+      "dest": "F:/Dropshipping/team/reports/T028/generated/10253182009536/usecase.png"
+    },
+    {
+      "id": "10253181583552",
+      "kind": "care",
+      "prompt": "One square premium ecommerce caregraphic. Reference1 STYLEONLY, refined ivory/forestgreen Rozmiso. Restrained SMALL serifheading 'Use & care', concise readable sans-serif lines and three smalllineicons atleft, completephotorealproduct right/lowerhalf, generous emptyspace andlightdaylight. Exact limegreen shallow flower-shaped perforated drain catcher, scalloped petal rim, central stem spherical liftingknob, same geometry/color/count. Verbatim threecarelines 'Check drain fit before use' / 'Empty and rinse regularly' / 'Not a watertight plug'. Small Rfooter and 'ROZMISO', small disclosure 'AI-generated product illustration'. No giantblackwalltext, no additionalclaims/codes/dimensions. Precisegeometry retained.",
+      "refs": [
+        "F:/Dropshipping/team/reports/T029/social/juicer-premium-poster.png",
+        "F:/Dropshipping/team/reports/T028/reference-review/10253181583552/reference-2.jpg"
+      ],
+      "status": "PREMIUM_REPLACEMENT_GENERATED_ROOT_REVIEW_PENDING",
+      "output": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a13435-9f1e-76c0-971b-7be09148de41\\exec-9f04f259-d58e-45d1-a240-757363328a21.png",
+      "dest": "F:/Dropshipping/team/reports/T028/generated/10253181583552/care.png"
+    },
+    {
+      "id": "10253181681856",
+      "kind": "care",
+      "prompt": "One square premium ecommerce caregraphic. Reference1 STYLEONLY, refined ivory/forestgreen Rozmiso. Restrained SMALL serifheading 'Use & care', concise readable sans-serif lines and three smalllineicons atleft, completephotorealproduct right/lowerhalf, generous emptyspace andlightdaylight. Exact orangefoldable bottlelid cleaningtool, raisedbumps/teardropcutout, greenbrushleft, ovalwireloop whitebrushright, narrowwhitefoldout hookatrightpivot, same THREE components/proportions/colors. Verbatim threecarelines 'Use gently' / 'Test on a hidden area' / 'Rinse and air-dry'. Small Rfooter and 'ROZMISO', small disclosure 'AI-generated product illustration'. No giantblackwalltext, no additionalclaims/codes/dimensions. Precisegeometry retained.",
+      "refs": [
+        "F:/Dropshipping/team/reports/T029/social/juicer-premium-poster.png",
+        "F:/Dropshipping/team/reports/T028/reference-review/10253181681856/reference-2.jpg"
+      ],
+      "status": "PREMIUM_REPLACEMENT_GENERATED_ROOT_REVIEW_PENDING",
+      "output": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a13435-9f1e-76c0-971b-7be09148de41\\exec-588c57b1-f31d-4350-adce-dfa8744fd614.png",
+      "dest": "F:/Dropshipping/team/reports/T028/generated/10253181681856/care.png"
+    },
+    {
+      "id": "10253182009536",
+      "kind": "context",
+      "prompt": "One square premium natural lifestylephoto. Exact reference single cylindrical structured laundry wash bag brightyellow verticalribbed meshwall, skyblue roundmeshlid, whiteperimeter zipperbinding. Preserve cylindercolorsgeometry, no flatbag. Closed singlebag placed on a pale wooden laundryshelf with plain unfolded fabric clothing softlyblurred separately behind. Alternate lowerangle wholebagvisible, softer lateafternoondaylight. No textlogos/codes/extra bag, no protection guarantee.",
+      "refs": [
+        "F:/Dropshipping/team/reports/T028/reference-review/10253182009536/reference-2.jpg"
+      ],
+      "status": "GENERATED_ROOT_REVIEW_PENDING",
+      "output": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a13435-9f1e-76c0-971b-7be09148de41\\exec-6a2ceff4-0920-4e5e-8d02-2c6d3d1acf54.png",
+      "dest": "F:/Dropshipping/team/reports/T028/generated/10253182009536/context.png"
+    },
+    {
+      "id": "10253182009536",
+      "kind": "features",
+      "prompt": "One premium portrait4:5 Rozmiso ecommerceposter matching style reference ivoryforestgreen editorialserif refinedheading icons/footer. Exact reference single cylindrical structured laundry wash bag brightyellow verticalribbed meshwall, skyblue roundmeshlid, whiteperimeter zipperbinding. Preserve cylindercolorsgeometry, no flatbag. Closed entire bag lowerhalf on ivorystone softnatural light, no laundryprops. Verbatimtext 'ROZMISO / THE EVERYDAY EDIT'; headline 'A little structure\\nfor laundry day.'; subtitle 'Structured Mesh Laundry Wash Bag'; labels 'Cylindrical shape' / 'Mesh lid' / 'Zipper closure'; footer 'Explore the collection' and '@rozmiso.in'; 'AI-generated product illustration'. No dimensions/protection/performanceclaims.",
+      "refs": [
+        "F:/Dropshipping/team/reports/T029/social/juicer-premium-poster.png",
+        "F:/Dropshipping/team/reports/T028/reference-review/10253182009536/reference-2.jpg"
+      ],
+      "status": "GENERATED_ROOT_REVIEW_PENDING",
+      "output": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a13435-9f1e-76c0-971b-7be09148de41\\exec-bccc9416-2a3c-4527-a4c1-efc31c0507a4.png",
+      "dest": "F:/Dropshipping/team/reports/T028/generated/10253182009536/features.png"
+    },
+    {
+      "id": "10253182009536",
+      "kind": "care",
+      "prompt": "One square premium ecommerce caregraphic matching ivoryforestgreen refinededitorialstyle. Exact reference single cylindrical structured laundry wash bag brightyellow verticalribbed meshwall, skyblue roundmeshlid, whiteperimeter zipperbinding. Preserve cylindercolorsgeometry, no flatbag. Wholeclosedbag right/lowerhalf, small moderate serifheading 'Use & care' lefttop. Concise three sansseriflines withsimpleicons 'Close zipper before washing' / 'Follow garment care labels' / 'Air-dry after use'. Rmarkfooter 'ROZMISO' and 'AI-generated product illustration'. No durability/protectionguarantees or otherclaims/codes.",
+      "refs": [
+        "F:/Dropshipping/team/reports/T029/social/juicer-premium-poster.png",
+        "F:/Dropshipping/team/reports/T028/reference-review/10253182009536/reference-2.jpg"
+      ],
+      "status": "GENERATED_ROOT_REVIEW_PENDING",
+      "output": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a13435-9f1e-76c0-971b-7be09148de41\\exec-2962682a-c294-4430-9727-71b383b14904.png",
+      "dest": "F:/Dropshipping/team/reports/T028/generated/10253182009536/care.png"
+    },
+    {
+      "id": "10257843060928",
+      "kind": "studio",
+      "prompt": "One square premium ecommerce studiophoto. Exact reference product ONE thin flat translucent flexible rectangular keyboard cover sheet, matte pale transparent film, no molded key outlines/no printedkeys/electronics. Preserve flat film and gentle curling edge. Sheet alone resting with one corner softlycurled on contrasting palegreige stone to reveal transparency, whole rectangularoutline visible. Soft sidelight/contactshadow, no textpropslabelsbluepackagingcodes.",
+      "refs": [
+        "F:/Dropshipping/team/reports/T028/reference-review/10257843060928/reference-2.jpg"
+      ],
+      "status": "GENERATED_ROOT_REVIEW_PENDING",
+      "output": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a13435-9f1e-76c0-971b-7be09148de41\\exec-1962f7ca-fc45-428a-a126-ff854991f0a9.png",
+      "dest": "F:/Dropshipping/team/reports/T028/generated/10257843060928/studio.png"
+    },
+    {
+      "id": "10257843060928",
+      "kind": "usecase",
+      "prompt": "One square premium lifestylephoto. Exact reference product ONE thin flat translucent flexible rectangular keyboard cover sheet, matte pale transparent film, no molded key outlines/no printedkeys/electronics. Preserve flat film and gentle curling edge. Single sheet resting flat over unbranded silver laptop keyboard, productedge clearly visible, keys underneath remainpartof laptop PROP, no moldedkeycover. Warmminimaldesk sidewindowlight, whole cover/laptopkeyboardvisible, no labels/brands/codes/compatibilityguarantee.",
+      "refs": [
+        "F:/Dropshipping/team/reports/T028/reference-review/10257843060928/reference-2.jpg"
+      ],
+      "status": "GENERATED_ROOT_REVIEW_PENDING",
+      "output": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a13435-9f1e-76c0-971b-7be09148de41\\exec-cff27145-c62a-4235-8809-9131a353cc76.png",
+      "dest": "F:/Dropshipping/team/reports/T028/generated/10257843060928/usecase.png"
+    },
+    {
+      "id": "10257843060928",
+      "kind": "context",
+      "prompt": "One square premium lifestylephoto. Exact one flat translucent flexible rectangular keyboard cover sheet, matte transparentfilm, gentlycurlingcorner, no moldedkeyoutline/printedkeys/electronics. Sheet alone resting beside closed unbranded silverlaptop on minimalist ivory desk nextto plainnotebook separateprops, contrast film clearlyvisible, completeoutline with20%margin. Naturaldaylight, no textlogos.",
+      "refs": [
+        "F:/Dropshipping/team/reports/T028/reference-review/10257843060928/reference-2.jpg"
+      ],
+      "status": "GENERATED_ROOT_REVIEW_PENDING",
+      "output": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a13435-9f1e-76c0-971b-7be09148de41\\exec-51fb0c27-798c-4963-8d06-83dd1ae4893c.png",
+      "dest": "F:/Dropshipping/team/reports/T028/generated/10257843060928/context.png"
+    },
+    {
+      "id": "10257843060928",
+      "kind": "features",
+      "prompt": "One premium portrait4:5 Rozmiso ecommerceposter matchingstyleimage1 ivoryforestgreen refinedserificons/footer. Exact one flat translucent flexible rectangular keyboard cover sheet, matte transparentfilm, gentlycurlingcorner, no moldedkeyoutline/printedkeys/electronics. Single sheet lowerhalf on charcoal graymat toshowtransparency, entireoutline20%margin, nogadgets. Exacttext 'ROZMISO / THE EVERYDAY EDIT'; headline 'A simple layer\\nfor your keyboard.'; subtitle 'Keyboard Cover'; labels 'Flexible sheet' / 'Transparent finish' / 'Check keyboard fit'; footer 'Explore the collection' and '@rozmiso.in'; 'AI-generated product illustration'. Nouniversalfit/ waterproofclaims or moldedkeys.",
+      "refs": [
+        "F:/Dropshipping/team/reports/T029/social/juicer-premium-poster.png",
+        "F:/Dropshipping/team/reports/T028/reference-review/10257843060928/reference-2.jpg"
+      ],
+      "status": "GENERATED_ROOT_REVIEW_PENDING",
+      "output": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a13435-9f1e-76c0-971b-7be09148de41\\exec-bb6c00c9-563d-4a4d-935f-f0b6e9c5f484.png",
+      "dest": "F:/Dropshipping/team/reports/T028/generated/10257843060928/features.png"
+    },
+    {
+      "id": "10257843060928",
+      "kind": "care",
+      "prompt": "One square premium ecommerce caregraphic matchingstyleimage1 ivoryforestgreen, modestserifheading 'Use & care', threeshort sansseriflines withsmallicons 'Check keyboard fit' / 'Wipe with a soft cloth' / 'Allow to dry before use'. Exact one flat translucent flexible rectangular keyboard cover sheet, matte transparentfilm, gentlycurlingcorner, no moldedkeyoutline/printedkeys/electronics. Whole sheet with20%margin lowerhalf atopcharcoalmat, noprintedkeys/devices. Small Rfooter 'ROZMISO', 'AI-generated product illustration'. No oversizedblacktext/claims/logos/codes.",
+      "refs": [
+        "F:/Dropshipping/team/reports/T029/social/juicer-premium-poster.png",
+        "F:/Dropshipping/team/reports/T028/reference-review/10257843060928/reference-2.jpg"
+      ],
+      "status": "GENERATED_ROOT_REVIEW_PENDING",
+      "output": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a13435-9f1e-76c0-971b-7be09148de41\\exec-d272613b-6b02-4c6c-9f1f-5e96c8ef5814.png",
+      "dest": "F:/Dropshipping/team/reports/T028/generated/10257843060928/care.png"
+    },
+    {
+      "id": "10257843060928",
+      "kind": "details",
+      "prompt": "One square premium alternateangle detailphotograph of exact reference thin flat translucent flexible rectangular keyboard film cover. Sheet alone on charcoalmat, completely visible all FOUR CORNERS with generous 20percent margin EVERYedge, camera pulledback, elevated angle showing transparency and onegentlecurledcorner. Flatfilm no moldedkeyoutlines/printedkeys/electronics. Softdaylightrealistic texture, no props/text/logos/packaging.",
+      "refs": [
+        "F:/Dropshipping/team/reports/T028/reference-review/10257843060928/reference-2.jpg"
+      ],
+      "status": "CROP_CORRECTION_ROOT_REVIEW_PENDING",
+      "output": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a13435-9f1e-76c0-971b-7be09148de41\\exec-a21c87ca-7181-41e5-9779-8ddf64d5e565.png",
+      "dest": "F:/Dropshipping/team/reports/T028/generated/10257843060928/details.png"
+    },
+    {
+      "id": "10257843159232",
+      "kind": "studio",
+      "prompt": "One square premium ecommerce studio photograph. One two-tier kitchen storage rack from supplied references. Reference1 authoritative actual DARK BROWN two rectangular slatted grid shelf platforms with thin shiny metal wire legs/supports; reference2 ONLY assembled arrangement guide TWO raised platforms with space beneath, NOT white color. Preserve brown slattedplatforms and thinwireframes samewidth, no three/fourplatforms, no allmetalrack. Entire empty assembledrack on ivorystone with generous margins softdaylight, no jarsboxeslabelsprops. Honestphoto, no textlogos.",
+      "refs": [
+        "F:/Dropshipping/team/reports/T028/reference-review/10257843159232/reference-1.jpg",
+        "F:/Dropshipping/team/reports/T028/reference-review/10257843159232/reference-2.jpg"
+      ],
+      "status": "GENERATED_ROOT_REVIEW_PENDING",
+      "output": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a13435-9f1e-76c0-971b-7be09148de41\\exec-178c077c-6dff-42a6-bc8f-764270752aef.png",
+      "dest": "F:/Dropshipping/team/reports/T028/generated/10257843159232/studio.png"
+    },
+    {
+      "id": "10257843159232",
+      "kind": "details",
+      "prompt": "One square premium alternate elevated detailphoto. One two-tier kitchen storage rack from supplied references. Reference1 authoritative actual DARK BROWN two rectangular slatted grid shelf platforms with thin shiny metal wire legs/supports; reference2 ONLY assembled arrangement guide TWO raised platforms with space beneath, NOT white color. Preserve brown slattedplatforms and thinwireframes samewidth, no three/fourplatforms, no allmetalrack. Entireemptyassembledrack topdown oblique angle shows brownslats and shelf wire leg attachment, completeobjectvisible on ivorystone, no props textcodes.",
+      "refs": [
+        "F:/Dropshipping/team/reports/T028/reference-review/10257843159232/reference-1.jpg",
+        "F:/Dropshipping/team/reports/T028/reference-review/10257843159232/reference-2.jpg"
+      ],
+      "status": "GENERATED_ROOT_REVIEW_PENDING",
+      "output": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a13435-9f1e-76c0-971b-7be09148de41\\exec-35f67779-88f1-447d-8fb2-a9c57294b1f2.png",
+      "dest": "F:/Dropshipping/team/reports/T028/generated/10257843159232/details.png"
+    },
+    {
+      "id": "10257843159232",
+      "kind": "usecase",
+      "prompt": "One square premium lifestylephoto. One two-tier kitchen storage rack from supplied references. Reference1 authoritative actual DARK BROWN two rectangular slatted grid shelf platforms with thin shiny metal wire legs/supports; reference2 ONLY assembled arrangement guide TWO raised platforms with space beneath, NOT white color. Preserve brown slattedplatforms and thinwireframes samewidth, no three/fourplatforms, no allmetalrack. Entireassembledrack on brightneutral kitchen countertop with TWO small plain unlabeled spicejars ontop and plain mug onlowerplatform, items separateprops, no thirdplatform, no claimed loadcapacity. Softdaylight slightsideangle, no labelslogos text.",
+      "refs": [
+        "F:/Dropshipping/team/reports/T028/reference-review/10257843159232/reference-1.jpg",
+        "F:/Dropshipping/team/reports/T028/reference-review/10257843159232/reference-2.jpg"
+      ],
+      "status": "GENERATED_ROOT_REVIEW_PENDING",
+      "output": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a13435-9f1e-76c0-971b-7be09148de41\\exec-985f562e-514e-4241-a3c8-473d87576506.png",
+      "dest": "F:/Dropshipping/team/reports/T028/generated/10257843159232/usecase.png"
+    },
+    {
+      "id": "10257843159232",
+      "kind": "context",
+      "prompt": "One square premium lifestylephotograph. Exact reference DARK BROWN two-tier storage rack, TWO rectangular slatted grid platforms with thin shiny metal wire legs/supports, raised lowerplatform and spacebeneath, no third/fourthplatform. Color fromreference1 actualbrown, arrangementreference2 only. Rack entirevisible inside warmivory pantry shelf, oneplainceramic canister ontop and two small unlabeled glassjars onlower shelf, separateprops. Differenteye-level frontalangle with20%margin, softdaylight, no labels/capacityclaims.",
+      "refs": [
+        "F:/Dropshipping/team/reports/T028/reference-review/10257843159232/reference-1.jpg",
+        "F:/Dropshipping/team/reports/T028/reference-review/10257843159232/reference-2.jpg"
+      ],
+      "status": "GENERATED_ROOT_REVIEW_PENDING",
+      "output": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a13435-9f1e-76c0-971b-7be09148de41\\exec-62c6e613-485d-41d9-9854-2410bb48451a.png",
+      "dest": "F:/Dropshipping/team/reports/T028/generated/10257843159232/context.png"
+    },
+    {
+      "id": "10257843159232",
+      "kind": "features",
+      "prompt": "One premiumportrait4:5 Rozmiso ecommerceposter matchstyleimage1 ivoryforestgreen editorialserificons/footer. Exact reference DARK BROWN two-tier storage rack, TWO rectangular slatted grid platforms with thin shiny metal wire legs/supports, raised lowerplatform and spacebeneath, no third/fourthplatform. Color fromreference1 actualbrown, arrangementreference2 only. Completeemptyrack lowerhalf large onivorystone. Exacttext 'ROZMISO / THE EVERYDAY EDIT'; headline 'Give your essentials\\na little room.'; subtitle 'Two-Tier Kitchen Storage Rack'; labels 'Two shelf platforms' / 'Slatted surfaces' / 'Wire supports'; footer 'Explore the collection' and '@rozmiso.in'; 'AI-generated product illustration'. No dimension/loadclaims.",
+      "refs": [
+        "F:/Dropshipping/team/reports/T029/social/juicer-premium-poster.png",
+        "F:/Dropshipping/team/reports/T028/reference-review/10257843159232/reference-1.jpg",
+        "F:/Dropshipping/team/reports/T028/reference-review/10257843159232/reference-2.jpg"
+      ],
+      "status": "GENERATED_ROOT_REVIEW_PENDING",
+      "output": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a13435-9f1e-76c0-971b-7be09148de41\\exec-7015eeaa-38f7-4126-9d36-36dc7e868519.png",
+      "dest": "F:/Dropshipping/team/reports/T028/generated/10257843159232/features.png"
+    },
+    {
+      "id": "10257843159232",
+      "kind": "care",
+      "prompt": "One square premium ecommercecaregraphic ivoryforestgreen restrainedsmall serifheading 'Use & care', concise sansseriflineswithsmallicons 'Place on a level surface' / 'Distribute items evenly' / 'Wipe and dry after cleaning'. Exact reference DARK BROWN two-tier storage rack, TWO rectangular slatted grid platforms with thin shiny metal wire legs/supports, raised lowerplatform and spacebeneath, no third/fourthplatform. Color fromreference1 actualbrown, arrangementreference2 only. Entireemptyrack right/lowerhalf margins. SmallRfooter 'ROZMISO' and 'AI-generated product illustration'. No loadcapacity/assemblyguarantee/otherclaims.",
+      "refs": [
+        "F:/Dropshipping/team/reports/T029/social/juicer-premium-poster.png",
+        "F:/Dropshipping/team/reports/T028/reference-review/10257843159232/reference-1.jpg",
+        "F:/Dropshipping/team/reports/T028/reference-review/10257843159232/reference-2.jpg"
+      ],
+      "status": "GENERATED_ROOT_REVIEW_PENDING",
+      "output": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a13435-9f1e-76c0-971b-7be09148de41\\exec-9a2e9c8c-6062-4ad4-a167-5a3415b96590.png",
+      "dest": "F:/Dropshipping/team/reports/T028/generated/10257843159232/care.png"
+    },
+    {
+      "id": "10257843224768",
+      "kind": "studio",
+      "prompt": "One square premium ecommerce studiophoto. Exact reference ONE black electric hair straightening brush, elongated ovalhead denselyspaced parallel curvedblack bristles, long blackhandle THREE silver/white roundbuttons and indicator dots, silverring at cordexit, attacheddark cord, reargold/yellow ovalrim. Preserve head/controlgeometrycolors/count. Reference front/back shows SAME singlebrush not twopack, noflatiron.Frontbristleview singlebrush diagonally onivorystone, completehandle/head and modestcoilofattachedcord visible with margins. Softsidestudiolight, no textlabels/logos/codes/extra brush.",
+      "refs": [
+        "F:/Dropshipping/team/reports/T028/reference-review/10257843224768/reference-1.jpg"
+      ],
+      "status": "GENERATED_ROOT_REVIEW_PENDING",
+      "output": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a13435-9f1e-76c0-971b-7be09148de41\\exec-bda70418-1727-4e7e-bace-d3867c53877f.png",
+      "dest": "F:/Dropshipping/team/reports/T028/generated/10257843224768/studio.png"
+    },
+    {
+      "id": "10257843224768",
+      "kind": "details",
+      "prompt": "One square premium alternateangled productdetailphoto. Exact reference ONE black electric hair straightening brush, elongated ovalhead denselyspaced parallel curvedblack bristles, long blackhandle THREE silver/white roundbuttons and indicator dots, silverring at cordexit, attacheddark cord, reargold/yellow ovalrim. Preserve head/controlgeometrycolors/count. Reference front/back shows SAME singlebrush not twopack, noflatiron.Elevatedobliqueview emphasizesbristles, THREEroundbuttons visible, entirebrush withcordexit uncropped and smallcord portion visible. Charcoalgreige backdrop/softlight. No markingsextra attachments/text.",
+      "refs": [
+        "F:/Dropshipping/team/reports/T028/reference-review/10257843224768/reference-1.jpg"
+      ],
+      "status": "GENERATED_ROOT_REVIEW_PENDING",
+      "output": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a13435-9f1e-76c0-971b-7be09148de41\\exec-44404dcd-e9ae-414f-889e-d7f3c29db38c.png",
+      "dest": "F:/Dropshipping/team/reports/T028/generated/10257843224768/details.png"
+    },
+    {
+      "id": "10257843224768",
+      "kind": "usecase",
+      "prompt": "One square premium lifestylephoto. Exact reference ONE black electric hair straightening brush, elongated ovalhead denselyspaced parallel curvedblack bristles, long blackhandle THREE silver/white roundbuttons and indicator dots, silverring at cordexit, attacheddark cord, reargold/yellow ovalrim. Preserve head/controlgeometrycolors/count. Reference front/back shows SAME singlebrush not twopack, noflatiron.Singlebrush OFF resting safely on dry neutralvanity beside plainclosed cosmeticpouch as separateprop, mirror blurredbackground, wholebrushdominant and attachedcord visible. No water/faces/hairbeforeafter/resultclaims, warmnaturaldaylight, no logoslabels.",
+      "refs": [
+        "F:/Dropshipping/team/reports/T028/reference-review/10257843224768/reference-1.jpg"
+      ],
+      "status": "GENERATED_ROOT_REVIEW_PENDING",
+      "output": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a13435-9f1e-76c0-971b-7be09148de41\\exec-24589bb4-3eac-4330-be4a-b4f404e05623.png",
+      "dest": "F:/Dropshipping/team/reports/T028/generated/10257843224768/usecase.png"
+    },
+    {
+      "id": "10257843224768",
+      "kind": "care",
+      "prompt": "One square premium ecommercecaregraphic ivoryforestgreen, restrainedserifheading 'Use & care', concisesansserif lines/smallicons 'Follow the product instructions' / 'Unplug and allow to cool' / 'Keep away from water'. Exactreference ONEblack electricstraighteningbrush elongatedovalhead denselyspaced curvedparallelblackbristles, longblackhandle THREEsilverroundbuttons indicatordots, silverringcordexit attacheddarkcord, reargoldrim. Preserveparts/colors/proportions, notflatiron/twopack. Singlebrush entirefrontview lowerhalf dryivorystone cordportion visible, small Rfooter 'ROZMISO' and 'AI-generated product illustration'. No heatresult/safetycertificationclaims.",
+      "refs": [
+        "F:/Dropshipping/team/reports/T029/social/juicer-premium-poster.png",
+        "F:/Dropshipping/team/reports/T028/reference-review/10257843224768/reference-1.jpg"
+      ],
+      "status": "GENERATED_ROOT_REVIEW_PENDING",
+      "output": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a13435-9f1e-76c0-971b-7be09148de41\\exec-1447629a-e911-418e-b369-4d6fecdba6d4.png",
+      "dest": "F:/Dropshipping/team/reports/T028/generated/10257843224768/care.png"
+    },
+    {
+      "id": "10257843224768",
+      "kind": "context",
+      "prompt": "One square premium lifestyle photograph of exact ONE black corded straighteningbrush from reference. Rearview with gold/yellow oval rim and smooth BLACK REAR HANDLE WITHOUT BUTTONS: actual threebuttons only FRONT and should NOT be visible in rearview. Singlebrush lies on dryivoryvanity, neutralclothside, attachedcord/silverringexit. Entirebrushvisible, no water/faces/results/text/logos/extraobject.",
+      "refs": [
+        "F:/Dropshipping/team/reports/T028/reference-review/10257843224768/reference-1.jpg"
+      ],
+      "status": "QA_CORRECTION_ROOT_REVIEW_PENDING",
+      "output": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a13435-9f1e-76c0-971b-7be09148de41\\exec-f8705b3f-24de-4802-b6bc-123f4e32defd.png",
+      "dest": "F:/Dropshipping/team/reports/T028/generated/10257843224768/context.png"
+    },
+    {
+      "id": "10257843224768",
+      "kind": "features",
+      "prompt": "One portrait4:5premium Rozmiso poster matching ivoryforestgreenstyle. EXACT blackcordedstraighteningbrush frontview with ovalparallelcurvedbristles THREEsilverbuttons/indicatordots andsilvercordexitring, wholebrush displayed DIAGONALLY LOWERHALF BELOW alltext/icons, no overlaps. Exacttext at top 'ROZMISO / THE EVERYDAY EDIT'; serifheadline 'A brush-shaped\\nstyling tool.'; subtitle 'Electric Hair Straightening Brush'; ALL THREE labels readable acrossrow abovebrush 'Oval brush head' / 'Handle controls' / 'Corded design'. Product must not coverANYlabels. Footer Rmark 'Explore the collection' '@rozmiso.in' 'AI-generated product illustration'. No otherclaimstext.",
+      "refs": [
+        "F:/Dropshipping/team/reports/T029/social/juicer-premium-poster.png",
+        "F:/Dropshipping/team/reports/T028/reference-review/10257843224768/reference-1.jpg"
+      ],
+      "status": "QA_CORRECTION_ROOT_REVIEW_PENDING",
+      "output": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a13435-9f1e-76c0-971b-7be09148de41\\exec-047f4eb1-d14d-4554-8c63-0e96cdb9395b.png",
+      "dest": "F:/Dropshipping/team/reports/T028/generated/10257843224768/features.png"
+    },
+    {
+      "id": "10257843257536",
+      "kind": "studio",
+      "prompt": "One square premium ecommerce studio photograph. Exactreference ONE straightcylindrical gray/taupe metallicwaterbottle, matchingroundedflattop cylindricalscrewlid, narrowglossyblackneckseam, blackbottomband. Sameproportions/color, no handle/straw/display/extras. Closed singlebottle upright on ivoryneutralstone, wholeobjectvisible20%margin, softstudio highlights show metallicfinish, no packagingtextlogosprops.",
+      "refs": [
+        "F:/Dropshipping/team/reports/T028/reference-review/10257843257536/reference-1.jpg"
+      ],
+      "status": "GENERATED_ROOT_REVIEW_PENDING",
+      "output": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a13435-9f1e-76c0-971b-7be09148de41\\exec-bbfddc37-711b-498e-876d-c10da214934e.png",
+      "dest": "F:/Dropshipping/team/reports/T028/generated/10257843257536/studio.png"
+    },
+    {
+      "id": "10257843257536",
+      "kind": "details",
+      "prompt": "One square premium alternate elevateddetailphoto. Exactreference ONE straightcylindrical gray/taupe metallicwaterbottle, matchingroundedflattop cylindricalscrewlid, narrowglossyblackneckseam, blackbottomband. Sameproportions/color, no handle/straw/display/extras. Closedbottle diagonallyresting on stone, show flatlid andblackseam clearly, wholeobjectwithmargins, naturalmetaltexture nobranding, no openedinternalsinvented.",
+      "refs": [
+        "F:/Dropshipping/team/reports/T028/reference-review/10257843257536/reference-1.jpg"
+      ],
+      "status": "GENERATED_ROOT_REVIEW_PENDING",
+      "output": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a13435-9f1e-76c0-971b-7be09148de41\\exec-57ed5a9d-a2c2-44e5-b3a8-d05316aa17a0.png",
+      "dest": "F:/Dropshipping/team/reports/T028/generated/10257843257536/details.png"
+    },
+    {
+      "id": "10257843257536",
+      "kind": "usecase",
+      "prompt": "One square premium lifestylephoto. Exactreference ONE straightcylindrical gray/taupe metallicwaterbottle, matchingroundedflattop cylindricalscrewlid, narrowglossyblackneckseam, blackbottomband. Sameproportions/color, no handle/straw/display/extras. Singleclosedbottle upright on warmwoodoffice desk beside closedplainnotebook/unbrandedlaptop softlyblurred separateprops, softmorningdaylight, wholebottledominant, no temperature/insulation/leakproofclaim/textlogo.",
+      "refs": [
+        "F:/Dropshipping/team/reports/T028/reference-review/10257843257536/reference-1.jpg"
+      ],
+      "status": "GENERATED_ROOT_REVIEW_PENDING",
+      "output": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a13435-9f1e-76c0-971b-7be09148de41\\exec-565db356-b9bd-423c-95cd-8a426b91f55a.png",
+      "dest": "F:/Dropshipping/team/reports/T028/generated/10257843257536/usecase.png"
+    },
+    {
+      "id": "10257843257536",
+      "kind": "context",
+      "prompt": "One square premium lifestylephoto. Exactreference ONE gray/taupe metallicstraightcylindrical bottle, matchingroundflattop screwcap, narrowglossyblackneckseam blackbottomband, sameproportions. No straw/handle/display.Closedbottle on lightwoodentryway shelf beside plaincanvas totebag softlyblurredbackground as separateprop, relaxednaturaldaylight wholebottle prominentuncropped. No insulation/leakproof claims/textlogos/packaging.",
+      "refs": [
+        "F:/Dropshipping/team/reports/T028/reference-review/10257843257536/reference-1.jpg"
+      ],
+      "status": "GENERATED_ROOT_REVIEW_PENDING",
+      "output": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a13435-9f1e-76c0-971b-7be09148de41\\exec-6861ad4a-b907-44a8-9e48-38fd47bed210.png",
+      "dest": "F:/Dropshipping/team/reports/T028/generated/10257843257536/context.png"
+    },
+    {
+      "id": "10257843257536",
+      "kind": "features",
+      "prompt": "One portrait4:5 premium Rozmiso ecommerceposter matchstyleimage1 ivoryforestgreen serificonsfooter. Exactreference ONE gray/taupe metallicstraightcylindrical bottle, matchingroundflattop screwcap, narrowglossyblackneckseam blackbottomband, sameproportions. No straw/handle/display.Singleclosedbottle large lowerhalf upright ivorystone. Verbatimtext 'ROZMISO / THE EVERYDAY EDIT'; headline 'A simple bottle\\nfor everyday moments.'; subtitle 'Stainless Steel Water Bottle'; labels 'Approx. 360 ml' / 'Screw-top lid' / 'Cylindrical shape'; footer 'Explore the collection' '@rozmiso.in'; 'AI-generated product illustration'. No insulation/foodgrade/leakproofclaims/extraunits.",
+      "refs": [
+        "F:/Dropshipping/team/reports/T029/social/juicer-premium-poster.png",
+        "F:/Dropshipping/team/reports/T028/reference-review/10257843257536/reference-1.jpg"
+      ],
+      "status": "GENERATED_ROOT_REVIEW_PENDING",
+      "output": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a13435-9f1e-76c0-971b-7be09148de41\\exec-b1c0c0f9-5f0a-4130-87a6-30e256df59ec.png",
+      "dest": "F:/Dropshipping/team/reports/T028/generated/10257843257536/features.png"
+    },
+    {
+      "id": "10257843257536",
+      "kind": "care",
+      "prompt": "One square premium ecommercecaregraphic ivoryforestgreen restrainedserifheading 'Use & care' three concise sansseriflineswithicons 'Wash before first use' / 'Rinse and dry after use' / 'Check lid closure before carrying'. Exactreference ONE gray/taupe metallicstraightcylindrical bottle, matchingroundflattop screwcap, narrowglossyblackneckseam blackbottomband, sameproportions. No straw/handle/display.Singleclosedwholebottle right/lowerhalf, modestRfooter 'ROZMISO' 'AI-generated product illustration'. No inventedinterior/temperatureclaims.",
+      "refs": [
+        "F:/Dropshipping/team/reports/T029/social/juicer-premium-poster.png",
+        "F:/Dropshipping/team/reports/T028/reference-review/10257843257536/reference-1.jpg"
+      ],
+      "status": "GENERATED_ROOT_REVIEW_PENDING",
+      "output": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a13435-9f1e-76c0-971b-7be09148de41\\exec-fff8d913-9298-402b-be8b-0b6a7aa5e909.png",
+      "dest": "F:/Dropshipping/team/reports/T028/generated/10257843257536/care.png"
+    },
+    {
+      "id": "10257843454144",
+      "kind": "studio",
+      "prompt": "One square premium ecommerce studiophoto. Exact one reference2 collapsible cylindrical floral fabric laundry/storagebag, TURQUOISE dense multicolor pink/red/yellow/white floral pattern, circularzippered fabriclid WHITEzipperrim, TWO creamwebbing handles at opposite sides, flexiblesoftbody. Use this shownpattern consistently no navy/yellowdaisies fromotherSKUview. Preserve proportions/structurepattern, no rigidframe/wheels/extras.Singleuprightclosedbag entirevisible on ivorystone, softstudio daylight naturalfabrictexture, margins20%, no contents/props/textlogos/insets/codes.",
+      "refs": [
+        "F:/Dropshipping/team/reports/T028/reference-review/10257843454144/reference-2.jpg"
+      ],
+      "status": "GENERATED_ROOT_REVIEW_PENDING",
+      "output": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a13435-9f1e-76c0-971b-7be09148de41\\exec-f0ba9693-9bda-4a73-9495-22fee8f67614.png",
+      "dest": "F:/Dropshipping/team/reports/T028/generated/10257843454144/studio.png"
+    },
+    {
+      "id": "10257843454144",
+      "kind": "details",
+      "prompt": "One square premium alternate elevateddetailphoto. Exact one reference2 collapsible cylindrical floral fabric laundry/storagebag, TURQUOISE dense multicolor pink/red/yellow/white floral pattern, circularzippered fabriclid WHITEzipperrim, TWO creamwebbing handles at opposite sides, flexiblesoftbody. Use this shownpattern consistently no navy/yellowdaisies fromotherSKUview. Preserve proportions/structurepattern, no rigidframe/wheels/extras.Uprightbag withlid partlyunzipped/flippedopen revealing emptyfabricinterior andzipperrim, entirebag andboth handles visible. Softivoryneutralstudio, no extra bags/textlogos.",
+      "refs": [
+        "F:/Dropshipping/team/reports/T028/reference-review/10257843454144/reference-2.jpg"
+      ],
+      "status": "GENERATED_ROOT_REVIEW_PENDING",
+      "output": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a13435-9f1e-76c0-971b-7be09148de41\\exec-21a209b3-2f1c-4e2b-9547-b8b5de83278b.png",
+      "dest": "F:/Dropshipping/team/reports/T028/generated/10257843454144/details.png"
+    },
+    {
+      "id": "10257843454144",
+      "kind": "usecase",
+      "prompt": "One square premium lifestylephoto. Exact one reference2 collapsible cylindrical floral fabric laundry/storagebag, TURQUOISE dense multicolor pink/red/yellow/white floral pattern, circularzippered fabriclid WHITEzipperrim, TWO creamwebbing handles at opposite sides, flexiblesoftbody. Use this shownpattern consistently no navy/yellowdaisies fromotherSKUview. Preserve proportions/structurepattern, no rigidframe/wheels/extras.Uprightbag lidopen containing two plainfolded laundryitems slightlyvisible inside, beside naturalwooddresser, neutralbedroom light, productdominantwholebagvisible. Clothingseparateprops, noextra basket/text/logos/codes.",
+      "refs": [
+        "F:/Dropshipping/team/reports/T028/reference-review/10257843454144/reference-2.jpg"
+      ],
+      "status": "GENERATED_ROOT_REVIEW_PENDING",
+      "output": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a13435-9f1e-76c0-971b-7be09148de41\\exec-956a2c13-585e-405d-b771-347e790924da.png",
+      "dest": "F:/Dropshipping/team/reports/T028/generated/10257843454144/usecase.png"
+    },
+    {
+      "id": "10257843454144",
+      "kind": "context",
+      "prompt": "One square premium lifestylephoto. Exactone reference2 collapsiblecylindrical floral fabriclaundrybag, TURQUOISEdense multicolor pinkredyellowwhite floralpattern, circularfabriczipperedlid whitezipperrim TWOcreamwebbinghandles flexiblebody. Samepatternproportionsgeometry noframewheels/extras. Single CLOSED uprightbag nextto lightwoodstorage shelf with plainbooks and toyblocks softlyblurredbackground separateprops. Wholebag20%margin lowerangle sunnyneutralhome, no extra bag/textlogos.",
+      "refs": [
+        "F:/Dropshipping/team/reports/T028/reference-review/10257843454144/reference-2.jpg"
+      ],
+      "status": "GENERATED_ROOT_REVIEW_PENDING",
+      "output": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a13435-9f1e-76c0-971b-7be09148de41\\exec-bae11d6b-07a7-4e16-844c-fcd3228dabb4.png",
+      "dest": "F:/Dropshipping/team/reports/T028/generated/10257843454144/context.png"
+    },
+    {
+      "id": "10257843454144",
+      "kind": "features",
+      "prompt": "Oneportrait4:5premium Rozmiso poster matchstyleimage1 ivoryforestgreen serif/iconsfooter. Exactone reference2 collapsiblecylindrical floral fabriclaundrybag, TURQUOISEdense multicolor pinkredyellowwhite floralpattern, circularfabriczipperedlid whitezipperrim TWOcreamwebbinghandles flexiblebody. Samepatternproportionsgeometry noframewheels/extras. Singleclosedwholebag lowerhalf with20%margin. Exacttext 'ROZMISO / THE EVERYDAY EDIT'; headline 'A home for\\neveryday odds and ends.'; subtitle 'Foldable Laundry & Storage Bag'; labels 'Fabric body' / 'Zippered lid' / 'Carry handles'; footer 'Explore the collection' '@rozmiso.in'; 'AI-generated illustration • Prints may vary'. No selectablevariant/weight/dimensions/rigidframeclaim.",
+      "refs": [
+        "F:/Dropshipping/team/reports/T029/social/juicer-premium-poster.png",
+        "F:/Dropshipping/team/reports/T028/reference-review/10257843454144/reference-2.jpg"
+      ],
+      "status": "GENERATED_ROOT_REVIEW_PENDING",
+      "output": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a13435-9f1e-76c0-971b-7be09148de41\\exec-78e4edcf-9994-4c84-94f5-2316189f871c.png",
+      "dest": "F:/Dropshipping/team/reports/T028/generated/10257843454144/features.png"
+    },
+    {
+      "id": "10257843454144",
+      "kind": "care",
+      "prompt": "One squarepremium ecommercecaregraphic ivoryforestgreen restrainserifheading 'Use & care', threesansseriflines simpleicons 'Keep contents dry' / 'Wipe gently with a damp cloth' / 'Air-dry before storing'. Exactone reference2 collapsiblecylindrical floral fabriclaundrybag, TURQUOISEdense multicolor pinkredyellowwhite floralpattern, circularfabriczipperedlid whitezipperrim TWOcreamwebbinghandles flexiblebody. Samepatternproportionsgeometry noframewheels/extras. Singleclosedwholebag right/lowerhalf, noextraunit. SmallRfooter 'ROZMISO' 'AI-generated illustration • Prints may vary'. No loadcapacity/washmachineclaim.",
+      "refs": [
+        "F:/Dropshipping/team/reports/T029/social/juicer-premium-poster.png",
+        "F:/Dropshipping/team/reports/T028/reference-review/10257843454144/reference-2.jpg"
+      ],
+      "status": "GENERATED_ROOT_REVIEW_PENDING",
+      "output": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a13435-9f1e-76c0-971b-7be09148de41\\exec-8a4e2424-adff-4be4-8112-179dec44f907.png",
+      "dest": "F:/Dropshipping/team/reports/T028/generated/10257843454144/care.png"
+    }
+  ]
+}

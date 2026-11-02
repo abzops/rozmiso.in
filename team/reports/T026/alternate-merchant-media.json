@@ -1,0 +1,46 @@
+[
+  {
+    "sku": "2792",
+    "pageUrl": "https://mydukaan.io/mivaaemart/products/2792-coffee-mug-and-warmer-for-having-coffee-along-with-the-warmer-that-keeps-it-hot",
+    "httpStatus": 200,
+    "imageUrls": [
+      "https://api-enterprise.mydukaan.io/static/images/category-def.jpg",
+      "https://api.mydukaan.io/static/images/category-def.jpg",
+      "https://dms.mydukaan.io/original/webp/media/24b10fd7-bd7c-42d4-9075-e5375bea8e16.png",
+      "https://dukaan-core-file-service.s3.ap-southeast-1.amazonaws.com/upload_file_service/039da9f9-271b-41ae-80c0-520ff0f8c624/1669530089708.jpeg",
+      "https://dukaan-core-file-service.s3.ap-southeast-1.amazonaws.com/upload_file_service/05100566-e2f1-42d7-b28b-9fa6bc237063/1669812430660.jpeg",
+      "https://dukaan-core-file-service.s3.ap-southeast-1.amazonaws.com/upload_file_service/a80d4cb3-a814-4710-8f22-d7178f154618/1669530915702.jpeg",
+      "https://dukaan-core-file-service.s3.ap-southeast-1.amazonaws.com/upload_file_service/dc6f55ec-66d7-4ea0-8b69-8a773771814a/1670481586984.jpeg",
+      "https://dukaan-core-file-service.s3.ap-southeast-1.amazonaws.com/upload_file_service/fae95455-1c8d-41a8-96f2-44118c28b6f1/1669788674994.jpeg",
+      "https://dukaan.b-cdn.net/200x200/webp/upload_file_service/dc6f55ec-66d7-4ea0-8b69-8a773771814a/1670481586984.jpeg",
+      "https://dukaan.b-cdn.net/300x300/webp/upload_file_service/dc6f55ec-66d7-4ea0-8b69-8a773771814a/1670481586984.jpeg",
+      "https://mydukaan.io/favicon.png",
+      "https://og-image.mydukaan.io/og-image?from=product&image_url=https://api.mydukaan.io/static/images/category-def.jpg",
+      "https://og-image.mydukaan.io/og-image?from=store&image_url=https://dukaan-core-file-service.s3.ap-southeast-1.amazonaws.com/upload_file_service/dc6f55ec-66d7-4ea0-8b69-8a773771814a/1670481586984.jpeg",
+      "https://projecteagle.s3.ap-south-1.amazonaws.com/images/43ff7de4-49f9-4613-b2ce-b63e1a455806.jpg"
+    ],
+    "observation": "Exact product page. Product gallery uses category-def.jpg; no authenticated exact-product image."
+  },
+  {
+    "sku": "7271",
+    "pageUrl": "https://mydukaan.io/mivaaemart/products/7271-phone-earphones-with-microphone",
+    "httpStatus": 200,
+    "imageUrls": [
+      "https://api-enterprise.mydukaan.io/static/images/category-def.jpg",
+      "https://api.mydukaan.io/static/images/category-def.jpg",
+      "https://dms.mydukaan.io/original/webp/media/24b10fd7-bd7c-42d4-9075-e5375bea8e16.png",
+      "https://dukaan-core-file-service.s3.ap-southeast-1.amazonaws.com/upload_file_service/039da9f9-271b-41ae-80c0-520ff0f8c624/1669530089708.jpeg",
+      "https://dukaan-core-file-service.s3.ap-southeast-1.amazonaws.com/upload_file_service/05100566-e2f1-42d7-b28b-9fa6bc237063/1669812430660.jpeg",
+      "https://dukaan-core-file-service.s3.ap-southeast-1.amazonaws.com/upload_file_service/a80d4cb3-a814-4710-8f22-d7178f154618/1669530915702.jpeg",
+      "https://dukaan-core-file-service.s3.ap-southeast-1.amazonaws.com/upload_file_service/dc6f55ec-66d7-4ea0-8b69-8a773771814a/1670481586984.jpeg",
+      "https://dukaan-core-file-service.s3.ap-southeast-1.amazonaws.com/upload_file_service/fae95455-1c8d-41a8-96f2-44118c28b6f1/1669788674994.jpeg",
+      "https://dukaan.b-cdn.net/200x200/webp/upload_file_service/dc6f55ec-66d7-4ea0-8b69-8a773771814a/1670481586984.jpeg",
+      "https://dukaan.b-cdn.net/300x300/webp/upload_file_service/dc6f55ec-66d7-4ea0-8b69-8a773771814a/1670481586984.jpeg",
+      "https://mydukaan.io/favicon.png",
+      "https://og-image.mydukaan.io/og-image?from=product&image_url=https://api.mydukaan.io/static/images/category-def.jpg",
+      "https://og-image.mydukaan.io/og-image?from=store&image_url=https://dukaan-core-file-service.s3.ap-southeast-1.amazonaws.com/upload_file_service/dc6f55ec-66d7-4ea0-8b69-8a773771814a/1670481586984.jpeg",
+      "https://projecteagle.s3.ap-south-1.amazonaws.com/images/43ff7de4-49f9-4613-b2ce-b63e1a455806.jpg"
+    ],
+    "observation": "Exact product page. Product gallery uses category-def.jpg; no authenticated exact-product image."
+  }
+]

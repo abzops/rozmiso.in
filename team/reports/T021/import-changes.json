@@ -1,0 +1,152 @@
+[
+  {
+    "row": 2,
+    "field": "Published",
+    "from": "TRUE",
+    "to": "FALSE"
+  },
+  {
+    "row": 2,
+    "field": "Status",
+    "from": "active",
+    "to": "draft"
+  },
+  {
+    "row": 2,
+    "field": "Variant Inventory Qty",
+    "from": "500",
+    "to": "0"
+  },
+  {
+    "row": 10,
+    "field": "Published",
+    "from": "TRUE",
+    "to": "FALSE"
+  },
+  {
+    "row": 10,
+    "field": "Status",
+    "from": "active",
+    "to": "draft"
+  },
+  {
+    "row": 10,
+    "field": "Variant Inventory Qty",
+    "from": "180",
+    "to": "0"
+  },
+  {
+    "row": 13,
+    "field": "Google Shopping / Condition",
+    "from": "`",
+    "to": ""
+  },
+  {
+    "row": 21,
+    "field": "Published",
+    "from": "TRUE",
+    "to": "FALSE"
+  },
+  {
+    "row": 21,
+    "field": "Status",
+    "from": "active",
+    "to": "draft"
+  },
+  {
+    "row": 21,
+    "field": "Variant Inventory Qty",
+    "from": "23",
+    "to": "0"
+  },
+  {
+    "row": 31,
+    "field": "Published",
+    "from": "TRUE",
+    "to": "FALSE"
+  },
+  {
+    "row": 31,
+    "field": "Status",
+    "from": "active",
+    "to": "draft"
+  },
+  {
+    "row": 31,
+    "field": "Variant Inventory Qty",
+    "from": "68",
+    "to": "0"
+  },
+  {
+    "row": 39,
+    "field": "Published",
+    "from": "TRUE",
+    "to": "FALSE"
+  },
+  {
+    "row": 39,
+    "field": "Status",
+    "from": "active",
+    "to": "draft"
+  },
+  {
+    "row": 39,
+    "field": "Variant Inventory Qty",
+    "from": "432",
+    "to": "0"
+  },
+  {
+    "row": 48,
+    "field": "Published",
+    "from": "TRUE",
+    "to": "FALSE"
+  },
+  {
+    "row": 48,
+    "field": "Status",
+    "from": "active",
+    "to": "draft"
+  },
+  {
+    "row": 48,
+    "field": "Variant Inventory Qty",
+    "from": "620",
+    "to": "0"
+  },
+  {
+    "row": 55,
+    "field": "Published",
+    "from": "TRUE",
+    "to": "FALSE"
+  },
+  {
+    "row": 55,
+    "field": "Status",
+    "from": "active",
+    "to": "draft"
+  },
+  {
+    "row": 55,
+    "field": "Variant Inventory Qty",
+    "from": "60",
+    "to": "0"
+  },
+  {
+    "row": 65,
+    "field": "Published",
+    "from": "TRUE",
+    "to": "FALSE"
+  },
+  {
+    "row": 65,
+    "field": "Status",
+    "from": "active",
+    "to": "draft"
+  },
+  {
+    "row": 65,
+    "field": "Variant Inventory Qty",
+    "from": "30",
+    "to": "0"
+  }
+]

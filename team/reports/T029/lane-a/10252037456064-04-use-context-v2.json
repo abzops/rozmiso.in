@@ -1,0 +1,14 @@
+{
+  "id": "10252037456064",
+  "slot": "04-use-context",
+  "prompt": "Create ONE square premium ecommerce rear/detail context photo of this exact pink bear-shaped soap brush. Turn entire brush OVER so the flat gray BRISTLE FACE points toward camera (the printed bear face is on opposite concealed side). One palm-size oval gray densely bristled back rimmed by pink plastic body, two pink rounded ear corners barely visible at far edge, white side cap on pink rim. Put brush bristle-side up flat on an ivory folded towel beside pale stone sink. Overhead oblique view. No upright frontal bear face. Reference1 physical authority, second generated identity. Natural refined daylight, precise realistic nylon bristle fibers and pink plastic sidewall. No detached parts, extra brush, nozzle, pump, text or claims. This must be a clearly different backside view from frontal hero.",
+  "referencePaths": [
+    "F:/Dropshipping/team/reports/T028/reference-review/10252037456064/reference-1.jpg",
+    "F:/Dropshipping/team/reports/T028/generated/10252037456064/01-studio.png"
+  ],
+  "sourcePath": "C:/Users/Abhinand/.codex/generated_images/01a13435-490b-7431-997e-e0d931fa0e75/exec-2ecda891-af2a-4fbf-9880-d281a31def0c.png",
+  "path": "F:/Dropshipping/team/reports/T028/generated/10252037456064/04-use-context-v2.png",
+  "mode": "built-in imagegen",
+  "qa": "PASS_local_visual_root_review_pending",
+  "date": "2026-10-13"
+}
