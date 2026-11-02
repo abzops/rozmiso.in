@@ -1,0 +1,46 @@
+# Local authentication, browser profiles and private databases
+.chrome-data/
+.chrome-session/
+**/.env
+**/.env.*
+!**/.env.example
+!**/.env.sample
+**/.auth-token
+**/.encryption.key
+*.sqlite3*
+*.db
+*.db-*
+*.pem
+*.key
+**/redacted*/
+
+# Reinstallable dependencies, caches and generated runtime output
+node_modules/
+.venv/
+venv/
+__pycache__/
+*.pyc
+.next/
+*.log
+.DS_Store
+Thumbs.db
+
+# Private source conversations and raw account settings
+/Files/Drop shipping Committee.zip
+/team/reports/T024/live-settings/
+/team/reports/T024/checkout-saved.png
+/team/reports/T024/seo-saved.png
+/outputs/**/BUSINESS-DETAILS.md
+
+# Supplier response captures containing embedded token-like values
+/team/reports/T026/catalog-page-1.json
+/team/reports/T026/native-search-results.json
+/team/reports/T026/search-mug-warmer.json
+/team/reports/T026/sitemap-matches.json
+/team/reports/T037/01-6186-canvas-laundry-bag-toy-storage-laundry-storage/SUPPLIER-VIDEO-FEED.json
+/team/reports/T037/10-3-in-1-bottle-lid-cleaning-tool/SUPPLIER-VIDEO-FEED.json
+/team/reports/T037/12-foldable-hanging-travel-organizer/SUPPLIER-VIDEO-FEED.json
+/team/reports/T037/14-window-groove-cleaning-brush/SUPPLIER-VIDEO-FEED.json
+/team/reports/T037/16-reusable-bag-locking-ties-set-of-3/SUPPLIER-VIDEO-FEED.json
+/team/reports/T037/SUPPLIER-HTML-SAMPLE.html
+/team/reports/T037/WHATMORE-PRODUCT-10.json
