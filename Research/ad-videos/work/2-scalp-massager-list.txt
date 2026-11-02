@@ -1,0 +1,5 @@
+file 'C:/StacknStock/Research/Rozmiso/Research/ad-videos/work/2-scalp-massager-s1.mp4'
+file 'C:/StacknStock/Research/Rozmiso/Research/ad-videos/work/2-scalp-massager-s2.mp4'
+file 'C:/StacknStock/Research/Rozmiso/Research/ad-videos/work/2-scalp-massager-s3.mp4'
+file 'C:/StacknStock/Research/Rozmiso/Research/ad-videos/work/2-scalp-massager-s4.mp4'
+file 'C:/StacknStock/Research/Rozmiso/Research/ad-videos/work/2-scalp-massager-s5.mp4'

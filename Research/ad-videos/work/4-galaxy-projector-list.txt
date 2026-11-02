@@ -1,0 +1,5 @@
+file 'C:/StacknStock/Research/Rozmiso/Research/ad-videos/work/4-galaxy-projector-s1.mp4'
+file 'C:/StacknStock/Research/Rozmiso/Research/ad-videos/work/4-galaxy-projector-s2.mp4'
+file 'C:/StacknStock/Research/Rozmiso/Research/ad-videos/work/4-galaxy-projector-s3.mp4'
+file 'C:/StacknStock/Research/Rozmiso/Research/ad-videos/work/4-galaxy-projector-s4.mp4'
+file 'C:/StacknStock/Research/Rozmiso/Research/ad-videos/work/4-galaxy-projector-s5.mp4'

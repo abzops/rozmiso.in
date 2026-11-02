@@ -1,0 +1,27 @@
+[
+  {
+    "name": "theme_info",
+    "theme_name": "Rozmiso Studio",
+    "theme_version": "2.0.0",
+    "theme_author": "Rozmiso",
+    "theme_documentation_url": "https://help.shopify.com/en/manual/online-store/themes",
+    "theme_support_url": "https://help.shopify.com/"
+  },
+  {
+    "name": "Brand",
+    "settings": [
+      {
+        "type": "textarea",
+        "id": "brand_description",
+        "label": "Brand description",
+        "default": "Practical finds for a little more ease in your everyday."
+      },
+      {
+        "type": "checkbox",
+        "id": "prelaunch_mode",
+        "label": "Show collection preview notice",
+        "default": true
+      }
+    ]
+  }
+]
