@@ -1,0 +1,91 @@
+{
+  "productId": "10257843224768",
+  "title": "Electric Hair Straightening Brush",
+  "productUrl": "https://rozmiso.in/products/6168-hqt-909b-hair-straightener-used-while-massaging-hair-scalps-and-head-1",
+  "replacesPost": null,
+  "status": "ASSETS_COMPLETE_CROP_REVIEW_PENDING",
+  "slides": [
+    {
+      "order": 1,
+      "role": "Cover and features",
+      "path": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10257843224768\\01-slide.png",
+      "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10257843224768\\01-square-v4.png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "sha256": "70b821fbdf2b5540c33ed9b81db85d843845542585991c0cef275db2a8bb9670",
+      "altText": "Electric Hair Straightening Brush: cover and features. Context props are not included."
+    },
+    {
+      "order": 2,
+      "role": "Product detail",
+      "path": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10257843224768\\02-slide.png",
+      "source": "F:\\Dropshipping\\team\\reports\\T028\\generated\\10257843224768\\details.png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "sha256": "ef508554a7bb1a49037b2209c8629b5b9184673353d08b68e1fa687378aba608",
+      "altText": "Electric Hair Straightening Brush: product detail. Context props are not included."
+    },
+    {
+      "order": 3,
+      "role": "Primary use",
+      "path": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10257843224768\\03-slide.png",
+      "source": "F:\\Dropshipping\\team\\reports\\T028\\generated\\10257843224768\\usecase.png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "sha256": "f905a464d7e0f6133cd427b0e807b961cb0b7bab6fcce705dad654b8010b41cf",
+      "altText": "Electric Hair Straightening Brush: primary use. Context props are not included."
+    },
+    {
+      "order": 4,
+      "role": "Second context",
+      "path": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10257843224768\\04-slide.png",
+      "source": "F:\\Dropshipping\\team\\reports\\T028\\generated\\10257843224768\\context.png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "sha256": "f922a50b05143ccf7dfae6cb88e24ea38e31460147749f3882b8be3c3e496477",
+      "altText": "Electric Hair Straightening Brush: second context. Context props are not included."
+    },
+    {
+      "order": 5,
+      "role": "Care guidance",
+      "path": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10257843224768\\05-slide.png",
+      "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10257843224768\\05-care-v4.png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "sha256": "75a411fb79866e251dd5a8aa19ab5cae5139a0625ab113861e427b9d5e15ab5b",
+      "altText": "Electric Hair Straightening Brush: care guidance. Context props are not included."
+    },
+    {
+      "order": 6,
+      "role": "Product link",
+      "path": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10257843224768\\06-slide.png",
+      "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\shared\\06-product-link-in.png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "sha256": "23e858c33b087c1d637c4489fc6bb1297dfc4b08f75755f670185d79e9d0127a",
+      "altText": "Electric Hair Straightening Brush: product link. Context props are not included."
+    }
+  ],
+  "missing": [],
+  "mixedAspectRatios": false,
+  "caption": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10257843224768\\caption.txt",
+  "aiLabel": false,
+  "facebookPersonalCrosspost": false,
+  "facebookPageCrosspostRequired": true,
+  "facebookPageId": "61595107991994",
+  "livePublished": false,
+  "publishedVersionMayDiffer": false,
+  "theme": "Rozmiso Everyday Edit / ivory and forest green"
+}

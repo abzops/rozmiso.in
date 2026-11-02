@@ -1,0 +1,5 @@
+{% doc %}
+Renders a product card.
+@param {product} item - Product
+{% enddoc %}
+<article class="product-card" data-category="{{ item.type | handleize }}" data-product-price="{{ item.price }}" data-available="{% if settings.prelaunch_mode %}false{% else %}{{ item.available }}{% endif %}"><a class="card-image" href="{{ item.url }}" aria-label="{{ item.title | escape }}">{% if item.featured_image %}{{ item.featured_image | image_url: width: 700 | image_tag: loading: 'lazy', widths: '250, 400, 700', sizes: '(min-width: 900px) 25vw, 50vw', alt: item.title }}{% else %}{{ 'product-1' | placeholder_svg_tag }}{% endif %}</a><div class="card-meta"><p class="eyebrow">{{ item.type | escape }}</p><h3><a href="{{ item.url }}">{{ item.title | escape }}</a></h3><p class="card-price">{% if item.price_varies %}{{ 'product.from' | t }} {% endif %}{{ item.price | money }}</p>{% if settings.prelaunch_mode or item.available == false %}<p class="card-availability">{{ 'product.sold_out' | t }}</p>{% endif %}<a class="card-shop-link" href="{{ item.url }}">{{ 'product.view' | t }} {% render 'studio-icon', name: 'arrow-right' %}</a></div></article>

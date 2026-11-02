@@ -1,0 +1,6 @@
+{% doc %}
+Renders the approved Rozmiso logo.
+@param {boolean} [reversed] - Use the light logo
+{% enddoc %}
+{% if reversed %}{% assign logo_asset = 'rozmiso-primary-reversed.svg' %}{% else %}{% assign logo_asset = 'rozmiso-primary.svg' %}{% endif %}
+<img class="brand-logo" src="{{ logo_asset | asset_url }}" alt="{{ shop.name | escape }}" width="454" height="120">

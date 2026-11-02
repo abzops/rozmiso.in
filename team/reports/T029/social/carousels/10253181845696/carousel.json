@@ -1,0 +1,91 @@
+{
+  "productId": "10253181845696",
+  "title": "Adhesive Cable Organizer Strips, Set of 20",
+  "productUrl": "https://rozmiso.in/products/adhesive-cable-organizer-clips-set-of-20",
+  "replacesPost": null,
+  "status": "ASSETS_COMPLETE_CROP_REVIEW_PENDING",
+  "slides": [
+    {
+      "order": 1,
+      "role": "Cover and features",
+      "path": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253181845696\\01-slide.png",
+      "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253181845696\\01-square-v4.png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "sha256": "a30209a8461c5e9c49d782fef8531b801812fa5e299b98351f4afd33176b1f13",
+      "altText": "Adhesive Cable Organizer Strips, Set of 20: cover and features. Context props are not included."
+    },
+    {
+      "order": 2,
+      "role": "Product detail",
+      "path": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253181845696\\02-slide.png",
+      "source": "F:\\Dropshipping\\team\\reports\\T028\\generated\\10253181845696\\details.png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "sha256": "af2d01fd37d608559e8d0fc47f22b288492c4c4cb6893f61e4c7a48c9392992d",
+      "altText": "Adhesive Cable Organizer Strips, Set of 20: product detail. Context props are not included."
+    },
+    {
+      "order": 3,
+      "role": "Primary use",
+      "path": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253181845696\\03-slide.png",
+      "source": "F:\\Dropshipping\\team\\reports\\T028\\generated\\10253181845696\\usecase.png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "sha256": "cf83426953c665cc14a8d65e25745964acf4da5933c4b2ee2920db2afacfb5f0",
+      "altText": "Adhesive Cable Organizer Strips, Set of 20: primary use. Context props are not included."
+    },
+    {
+      "order": 4,
+      "role": "Second context",
+      "path": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253181845696\\04-slide.png",
+      "source": "F:\\Dropshipping\\team\\reports\\T028\\generated\\10253181845696\\context.png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "sha256": "34d074d6025c9a627d0a0b780d0fab3ed5ef68baf24166e652367b0cf60a4e7e",
+      "altText": "Adhesive Cable Organizer Strips, Set of 20: second context. Context props are not included."
+    },
+    {
+      "order": 5,
+      "role": "Care guidance",
+      "path": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253181845696\\05-slide.png",
+      "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253181845696\\05-care-v4.png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "sha256": "1d18807b38585226917cc13ab5ef5ce533142c6a2abccab6d5d0c7710e232140",
+      "altText": "Adhesive Cable Organizer Strips, Set of 20: care guidance. Context props are not included."
+    },
+    {
+      "order": 6,
+      "role": "Product link",
+      "path": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253181845696\\06-slide.png",
+      "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\shared\\06-product-link-in.png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "sha256": "23e858c33b087c1d637c4489fc6bb1297dfc4b08f75755f670185d79e9d0127a",
+      "altText": "Adhesive Cable Organizer Strips, Set of 20: product link. Context props are not included."
+    }
+  ],
+  "missing": [],
+  "mixedAspectRatios": false,
+  "caption": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253181845696\\caption.txt",
+  "aiLabel": false,
+  "facebookPersonalCrosspost": false,
+  "facebookPageCrosspostRequired": true,
+  "facebookPageId": "61595107991994",
+  "livePublished": false,
+  "publishedVersionMayDiffer": false,
+  "theme": "Rozmiso Everyday Edit / ivory and forest green"
+}

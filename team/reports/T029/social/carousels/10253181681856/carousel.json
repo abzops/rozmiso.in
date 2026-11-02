@@ -1,0 +1,91 @@
+{
+  "productId": "10253181681856",
+  "title": "3-in-1 Bottle Lid Cleaning Tool",
+  "productUrl": "https://rozmiso.in/products/3-in-1-bottle-lid-cleaning-tool",
+  "replacesPost": null,
+  "status": "ASSETS_COMPLETE_CROP_REVIEW_PENDING",
+  "slides": [
+    {
+      "order": 1,
+      "role": "Cover and features",
+      "path": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253181681856\\01-slide.png",
+      "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253181681856\\01-square-v4.png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "sha256": "88e7f31105ae3246f0c349c9889c4108f795958209ac03f3d7b9ab0229716a80",
+      "altText": "3-in-1 Bottle Lid Cleaning Tool: cover and features. Context props are not included."
+    },
+    {
+      "order": 2,
+      "role": "Product detail",
+      "path": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253181681856\\02-slide.png",
+      "source": "F:\\Dropshipping\\team\\reports\\T028\\generated\\10253181681856\\details.png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "sha256": "7e2f1f307b4dcbed290e5896608c2d7d12ba853a059191b5fc95038889208d35",
+      "altText": "3-in-1 Bottle Lid Cleaning Tool: product detail. Context props are not included."
+    },
+    {
+      "order": 3,
+      "role": "Primary use",
+      "path": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253181681856\\03-slide.png",
+      "source": "F:\\Dropshipping\\team\\reports\\T028\\generated\\10253181681856\\usecase.png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "sha256": "f6c9ae809709f0a6c3ad7c4158f4dd2106c71caba8573c18cf1bfe9c126464e3",
+      "altText": "3-in-1 Bottle Lid Cleaning Tool: primary use. Context props are not included."
+    },
+    {
+      "order": 4,
+      "role": "Second context",
+      "path": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253181681856\\04-slide.png",
+      "source": "F:\\Dropshipping\\team\\reports\\T028\\generated\\10253181681856\\context.png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "sha256": "8b717304ba2974f80ff196dc47f690524607feaf5ee1604df1c8d646a4342cd4",
+      "altText": "3-in-1 Bottle Lid Cleaning Tool: second context. Context props are not included."
+    },
+    {
+      "order": 5,
+      "role": "Care guidance",
+      "path": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253181681856\\05-slide.png",
+      "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253181681856\\05-care-v4.png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "sha256": "345ce799da8d02b1fad7551c173c4ea69bc8b9f45096f27d01ecae012e62325c",
+      "altText": "3-in-1 Bottle Lid Cleaning Tool: care guidance. Context props are not included."
+    },
+    {
+      "order": 6,
+      "role": "Product link",
+      "path": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253181681856\\06-slide.png",
+      "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\shared\\06-product-link-in.png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "sha256": "23e858c33b087c1d637c4489fc6bb1297dfc4b08f75755f670185d79e9d0127a",
+      "altText": "3-in-1 Bottle Lid Cleaning Tool: product link. Context props are not included."
+    }
+  ],
+  "missing": [],
+  "mixedAspectRatios": false,
+  "caption": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253181681856\\caption.txt",
+  "aiLabel": false,
+  "facebookPersonalCrosspost": false,
+  "facebookPageCrosspostRequired": true,
+  "facebookPageId": "61595107991994",
+  "livePublished": false,
+  "publishedVersionMayDiffer": false,
+  "theme": "Rozmiso Everyday Edit / ivory and forest green"
+}

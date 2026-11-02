@@ -1,0 +1,91 @@
+{
+  "productId": "10253181944000",
+  "title": "Household Wiping Cloths, Set of 3",
+  "productUrl": "https://rozmiso.in/products/household-wiping-cloths-set-of-3",
+  "replacesPost": null,
+  "status": "ASSETS_COMPLETE_CROP_REVIEW_PENDING",
+  "slides": [
+    {
+      "order": 1,
+      "role": "Cover and features",
+      "path": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253181944000\\01-slide.png",
+      "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253181944000\\01-square-v4.png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "sha256": "17ec806e3e14fddb62eb1a9a6e798253448f8345f93f35a154d90ab5148fe143",
+      "altText": "Household Wiping Cloths, Set of 3: cover and features. Context props are not included."
+    },
+    {
+      "order": 2,
+      "role": "Product detail",
+      "path": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253181944000\\02-slide.png",
+      "source": "F:\\Dropshipping\\team\\reports\\T028\\generated\\10253181944000\\details.png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "sha256": "c6615a22626f8a8761878b75cb3a2e0b0ab7eccc2bfd42f27d56ad7c8316aa60",
+      "altText": "Household Wiping Cloths, Set of 3: product detail. Context props are not included."
+    },
+    {
+      "order": 3,
+      "role": "Primary use",
+      "path": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253181944000\\03-slide.png",
+      "source": "F:\\Dropshipping\\team\\reports\\T028\\generated\\10253181944000\\usecase.png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "sha256": "526abd2d72b59d1db168a895ed8341902b81e3ea72a66d761f51a5de858b5db4",
+      "altText": "Household Wiping Cloths, Set of 3: primary use. Context props are not included."
+    },
+    {
+      "order": 4,
+      "role": "Second context",
+      "path": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253181944000\\04-slide.png",
+      "source": "F:\\Dropshipping\\team\\reports\\T028\\generated\\10253181944000\\context.png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "sha256": "19981539c98e312c3cbbb5355ddd21b7400fee4c3fdd5ca3ed8e52fc9987f16b",
+      "altText": "Household Wiping Cloths, Set of 3: second context. Context props are not included."
+    },
+    {
+      "order": 5,
+      "role": "Care guidance",
+      "path": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253181944000\\05-slide.png",
+      "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253181944000\\05-care-v4.png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "sha256": "0ea6bbea4f106b80b23a04fff9a9399c2389dc9ec7e434772683583601a76907",
+      "altText": "Household Wiping Cloths, Set of 3: care guidance. Context props are not included."
+    },
+    {
+      "order": 6,
+      "role": "Product link",
+      "path": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253181944000\\06-slide.png",
+      "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\shared\\06-product-link-in.png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "sha256": "23e858c33b087c1d637c4489fc6bb1297dfc4b08f75755f670185d79e9d0127a",
+      "altText": "Household Wiping Cloths, Set of 3: product link. Context props are not included."
+    }
+  ],
+  "missing": [],
+  "mixedAspectRatios": false,
+  "caption": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253181944000\\caption.txt",
+  "aiLabel": false,
+  "facebookPersonalCrosspost": false,
+  "facebookPageCrosspostRequired": true,
+  "facebookPageId": "61595107991994",
+  "livePublished": false,
+  "publishedVersionMayDiffer": false,
+  "theme": "Rozmiso Everyday Edit / ivory and forest green"
+}

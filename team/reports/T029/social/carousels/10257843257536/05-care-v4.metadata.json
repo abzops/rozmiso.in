@@ -1,0 +1,9 @@
+{
+  "date": "2026-10-14",
+  "tool": "builtin imagegen",
+  "source": "05-slide.png",
+  "output": "05-care-v4.png",
+  "generatedSource": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a11a24-fa90-7301-83f3-7aea32cd5e82\\exec-3178e889-ecc3-4266-8c7e-e18252916787.png",
+  "prompt": "Edit this existing square premium Rozmiso Stainless Steel Water Bottle care graphic. Remove ONLY 'AI-generated product illustration.'. Preserve exact gray cylindrical bottle with matching cap and black base/ring, every factual instruction/icon, serif headings, ivory background/forest-green typography and existing brand elements. Seamlessly restore background behind deleted text. No AI wording or new claims. Maintain square 1:1. One finished premium graphic.",
+  "qa": "Root visual PASS: unwanted wording removed; product details, factual copy and premium theme preserved"
+}

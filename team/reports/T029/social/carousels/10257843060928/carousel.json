@@ -1,0 +1,91 @@
+{
+  "productId": "10257843060928",
+  "title": "Keyboard Cover",
+  "productUrl": "https://rozmiso.in/products/6187-keyboard-cover-for-computer-pc-for-desktop-computer",
+  "replacesPost": null,
+  "status": "ASSETS_COMPLETE_CROP_REVIEW_PENDING",
+  "slides": [
+    {
+      "order": 1,
+      "role": "Cover and features",
+      "path": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10257843060928\\01-slide.png",
+      "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10257843060928\\01-square-v4.png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "sha256": "0c1dd532d3db69a591636ceac3c5ffd400643d2ee7adf6cf71bfad95b1da67a4",
+      "altText": "Keyboard Cover: cover and features. Context props are not included."
+    },
+    {
+      "order": 2,
+      "role": "Product detail",
+      "path": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10257843060928\\02-slide.png",
+      "source": "F:\\Dropshipping\\team\\reports\\T028\\generated\\10257843060928\\details.png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "sha256": "cbbe91d1f5a60f6bbae2725c0adb02385bfbfd052726ff4c5ddc5f1e5c751e5c",
+      "altText": "Keyboard Cover: product detail. Context props are not included."
+    },
+    {
+      "order": 3,
+      "role": "Primary use",
+      "path": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10257843060928\\03-slide.png",
+      "source": "F:\\Dropshipping\\team\\reports\\T028\\generated\\10257843060928\\usecase.png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "sha256": "7b4209abc0ffdb5dd44b2c36834f12a70447bbf1b0dadc28a5351c202838c7f5",
+      "altText": "Keyboard Cover: primary use. Context props are not included."
+    },
+    {
+      "order": 4,
+      "role": "Second context",
+      "path": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10257843060928\\04-slide.png",
+      "source": "F:\\Dropshipping\\team\\reports\\T028\\generated\\10257843060928\\context.png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "sha256": "6eb9f3c46890449631d71aa3e08957f485f1966bfa33ce148dd6e0401653493b",
+      "altText": "Keyboard Cover: second context. Context props are not included."
+    },
+    {
+      "order": 5,
+      "role": "Care guidance",
+      "path": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10257843060928\\05-slide.png",
+      "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10257843060928\\05-care-v4.png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "sha256": "5436e71a57b7139e44a69fc28fab5c008bc238d563b144083cf54749ea7ab11f",
+      "altText": "Keyboard Cover: care guidance. Context props are not included."
+    },
+    {
+      "order": 6,
+      "role": "Product link",
+      "path": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10257843060928\\06-slide.png",
+      "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\shared\\06-product-link-in.png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "sha256": "23e858c33b087c1d637c4489fc6bb1297dfc4b08f75755f670185d79e9d0127a",
+      "altText": "Keyboard Cover: product link. Context props are not included."
+    }
+  ],
+  "missing": [],
+  "mixedAspectRatios": false,
+  "caption": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10257843060928\\caption.txt",
+  "aiLabel": false,
+  "facebookPersonalCrosspost": false,
+  "facebookPageCrosspostRequired": true,
+  "facebookPageId": "61595107991994",
+  "livePublished": false,
+  "publishedVersionMayDiffer": false,
+  "theme": "Rozmiso Everyday Edit / ivory and forest green"
+}

@@ -1,0 +1,91 @@
+{
+  "productId": "10253181518016",
+  "title": "Foldable Hanging Travel Organizer",
+  "productUrl": "https://rozmiso.in/products/foldable-hanging-travel-organizer",
+  "replacesPost": null,
+  "status": "ASSETS_COMPLETE_CROP_REVIEW_PENDING",
+  "slides": [
+    {
+      "order": 1,
+      "role": "Cover and features",
+      "path": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253181518016\\01-slide.png",
+      "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253181518016\\01-cover-v3.png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "sha256": "af13dc8b25c5f9c5678a7a759e63669dd1576d0800b2b2686eea4d0f48948e30",
+      "altText": "Foldable Hanging Travel Organizer: cover and features. Context props are not included."
+    },
+    {
+      "order": 2,
+      "role": "Product detail",
+      "path": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253181518016\\02-slide.png",
+      "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253181518016\\02-square-v4.png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "sha256": "bf5793724b977be23f4b26a02e8993ac7d4a6ec8cbe772adf50b730bba7d4e2f",
+      "altText": "Foldable Hanging Travel Organizer: product detail. Context props are not included."
+    },
+    {
+      "order": 3,
+      "role": "Primary use",
+      "path": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253181518016\\03-slide.png",
+      "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253181518016\\03-square-v4.png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "sha256": "b2fcc59413e3598fe2c39e75426cca68bbc372584ac96a496778e61f891a77f1",
+      "altText": "Foldable Hanging Travel Organizer: primary use. Context props are not included."
+    },
+    {
+      "order": 4,
+      "role": "Second context",
+      "path": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253181518016\\04-slide.png",
+      "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253181518016\\04-square-v4.png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "sha256": "4c93f4c3ec0360733f86ebf2d49e9079e8ca68820d3bd7ba7bd3298ced4e6219",
+      "altText": "Foldable Hanging Travel Organizer: second context. Context props are not included."
+    },
+    {
+      "order": 5,
+      "role": "Care guidance",
+      "path": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253181518016\\05-slide.png",
+      "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253181518016\\05-square-v4.png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "sha256": "7e623100afad0045ffdd272c0cf29187cb400237ebccf959aa7569cc0a551dfb",
+      "altText": "Foldable Hanging Travel Organizer: care guidance. Context props are not included."
+    },
+    {
+      "order": 6,
+      "role": "Product link",
+      "path": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253181518016\\06-slide.png",
+      "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\shared\\06-product-link-in.png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "sha256": "23e858c33b087c1d637c4489fc6bb1297dfc4b08f75755f670185d79e9d0127a",
+      "altText": "Foldable Hanging Travel Organizer: product link. Context props are not included."
+    }
+  ],
+  "missing": [],
+  "mixedAspectRatios": false,
+  "caption": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253181518016\\caption.txt",
+  "aiLabel": false,
+  "facebookPersonalCrosspost": false,
+  "facebookPageCrosspostRequired": true,
+  "facebookPageId": "61595107991994",
+  "livePublished": false,
+  "publishedVersionMayDiffer": false,
+  "theme": "Rozmiso Everyday Edit / ivory and forest green"
+}

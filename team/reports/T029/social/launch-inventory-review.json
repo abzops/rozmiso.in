@@ -1,0 +1,650 @@
+{
+  "date": "2026-10-13",
+  "source": "Live Shopify Admin GraphQL; schema discovered and operation validated",
+  "data": {
+    "products": {
+      "nodes": [
+        {
+          "id": "gid://shopify/Product/10249094922432",
+          "title": "2-in-1 Cordless High-Power Car Vacuum Cleaner & Air Duster",
+          "status": "DRAFT",
+          "variants": {
+            "nodes": [
+              {
+                "id": "gid://shopify/ProductVariant/50402719203520",
+                "inventoryQuantity": 150,
+                "inventoryPolicy": "DENY",
+                "inventoryItem": {
+                  "tracked": true
+                }
+              },
+              {
+                "id": "gid://shopify/ProductVariant/50402719236288",
+                "inventoryQuantity": 100,
+                "inventoryPolicy": "DENY",
+                "inventoryItem": {
+                  "tracked": true
+                }
+              },
+              {
+                "id": "gid://shopify/ProductVariant/50402719269056",
+                "inventoryQuantity": 50,
+                "inventoryPolicy": "DENY",
+                "inventoryItem": {
+                  "tracked": true
+                }
+              }
+            ],
+            "pageInfo": {
+              "hasNextPage": false,
+              "endCursor": "eyJsYXN0X2lkIjo1MDQwMjcxOTI2OTA1NiwibGFzdF92YWx1ZSI6M30="
+            }
+          }
+        },
+        {
+          "id": "gid://shopify/Product/10249094955200",
+          "title": "EMS Bio-Electric Acupoint Foot Massager Mat",
+          "status": "DRAFT",
+          "variants": {
+            "nodes": [
+              {
+                "id": "gid://shopify/ProductVariant/50402719301824",
+                "inventoryQuantity": 200,
+                "inventoryPolicy": "DENY",
+                "inventoryItem": {
+                  "tracked": true
+                }
+              },
+              {
+                "id": "gid://shopify/ProductVariant/50402719334592",
+                "inventoryQuantity": 120,
+                "inventoryPolicy": "DENY",
+                "inventoryItem": {
+                  "tracked": true
+                }
+              }
+            ],
+            "pageInfo": {
+              "hasNextPage": false,
+              "endCursor": "eyJsYXN0X2lkIjo1MDQwMjcxOTMzNDU5MiwibGFzdF92YWx1ZSI6Mn0="
+            }
+          }
+        },
+        {
+          "id": "gid://shopify/Product/10249094987968",
+          "title": "Mini Portable Bluetooth Inkless Pocket Printer",
+          "status": "DRAFT",
+          "variants": {
+            "nodes": [
+              {
+                "id": "gid://shopify/ProductVariant/50402719367360",
+                "inventoryQuantity": 100,
+                "inventoryPolicy": "DENY",
+                "inventoryItem": {
+                  "tracked": true
+                }
+              },
+              {
+                "id": "gid://shopify/ProductVariant/50402719400128",
+                "inventoryQuantity": 80,
+                "inventoryPolicy": "DENY",
+                "inventoryItem": {
+                  "tracked": true
+                }
+              }
+            ],
+            "pageInfo": {
+              "hasNextPage": false,
+              "endCursor": "eyJsYXN0X2lkIjo1MDQwMjcxOTQwMDEyOCwibGFzdF92YWx1ZSI6Mn0="
+            }
+          }
+        },
+        {
+          "id": "gid://shopify/Product/10249095053504",
+          "title": "USB Rechargeable Electric Fabric Shaver & Lint Remover",
+          "status": "DRAFT",
+          "variants": {
+            "nodes": [
+              {
+                "id": "gid://shopify/ProductVariant/50402719465664",
+                "inventoryQuantity": 250,
+                "inventoryPolicy": "DENY",
+                "inventoryItem": {
+                  "tracked": true
+                }
+              },
+              {
+                "id": "gid://shopify/ProductVariant/50402719498432",
+                "inventoryQuantity": 150,
+                "inventoryPolicy": "DENY",
+                "inventoryItem": {
+                  "tracked": true
+                }
+              }
+            ],
+            "pageInfo": {
+              "hasNextPage": false,
+              "endCursor": "eyJsYXN0X2lkIjo1MDQwMjcxOTQ5ODQzMiwibGFzdF92YWx1ZSI6Mn0="
+            }
+          }
+        },
+        {
+          "id": "gid://shopify/Product/10249095086272",
+          "title": "Astronaut 360° Rotating Galaxy Nebula Night Projector",
+          "status": "DRAFT",
+          "variants": {
+            "nodes": [
+              {
+                "id": "gid://shopify/ProductVariant/50402719531200",
+                "inventoryQuantity": 90,
+                "inventoryPolicy": "DENY",
+                "inventoryItem": {
+                  "tracked": true
+                }
+              },
+              {
+                "id": "gid://shopify/ProductVariant/50402719563968",
+                "inventoryQuantity": 60,
+                "inventoryPolicy": "DENY",
+                "inventoryItem": {
+                  "tracked": true
+                }
+              }
+            ],
+            "pageInfo": {
+              "hasNextPage": false,
+              "endCursor": "eyJsYXN0X2lkIjo1MDQwMjcxOTU2Mzk2OCwibGFzdF92YWx1ZSI6Mn0="
+            }
+          }
+        },
+        {
+          "id": "gid://shopify/Product/10252037324992",
+          "title": "USB Rechargeable Fabric Shaver",
+          "status": "ACTIVE",
+          "variants": {
+            "nodes": [
+              {
+                "id": "gid://shopify/ProductVariant/50418576883904",
+                "inventoryQuantity": 0,
+                "inventoryPolicy": "DENY",
+                "inventoryItem": {
+                  "tracked": true
+                }
+              }
+            ],
+            "pageInfo": {
+              "hasNextPage": false,
+              "endCursor": "eyJsYXN0X2lkIjo1MDQxODU3Njg4MzkwNCwibGFzdF92YWx1ZSI6MX0="
+            }
+          }
+        },
+        {
+          "id": "gid://shopify/Product/10252037357760",
+          "title": "5-in-1 Rechargeable Cleaning Brush",
+          "status": "ACTIVE",
+          "variants": {
+            "nodes": [
+              {
+                "id": "gid://shopify/ProductVariant/50418576916672",
+                "inventoryQuantity": 0,
+                "inventoryPolicy": "DENY",
+                "inventoryItem": {
+                  "tracked": true
+                }
+              }
+            ],
+            "pageInfo": {
+              "hasNextPage": false,
+              "endCursor": "eyJsYXN0X2lkIjo1MDQxODU3NjkxNjY3MiwibGFzdF92YWx1ZSI6MX0="
+            }
+          }
+        },
+        {
+          "id": "gid://shopify/Product/10252037390528",
+          "title": "Everyday Travel Organizer Pouch",
+          "status": "ACTIVE",
+          "variants": {
+            "nodes": [
+              {
+                "id": "gid://shopify/ProductVariant/50418576949440",
+                "inventoryQuantity": 0,
+                "inventoryPolicy": "DENY",
+                "inventoryItem": {
+                  "tracked": true
+                }
+              }
+            ],
+            "pageInfo": {
+              "hasNextPage": false,
+              "endCursor": "eyJsYXN0X2lkIjo1MDQxODU3Njk0OTQ0MCwibGFzdF92YWx1ZSI6MX0="
+            }
+          }
+        },
+        {
+          "id": "gid://shopify/Product/10252037456064",
+          "title": "2-in-1 Soap Dispensing Cleaning Brush",
+          "status": "ACTIVE",
+          "variants": {
+            "nodes": [
+              {
+                "id": "gid://shopify/ProductVariant/50418577014976",
+                "inventoryQuantity": 0,
+                "inventoryPolicy": "DENY",
+                "inventoryItem": {
+                  "tracked": true
+                }
+              }
+            ],
+            "pageInfo": {
+              "hasNextPage": false,
+              "endCursor": "eyJsYXN0X2lkIjo1MDQxODU3NzAxNDk3NiwibGFzdF92YWx1ZSI6MX0="
+            }
+          }
+        },
+        {
+          "id": "gid://shopify/Product/10253181026496",
+          "title": "Microfiber Cleaning Cloth — 40 × 40 cm",
+          "status": "ACTIVE",
+          "variants": {
+            "nodes": [
+              {
+                "id": "gid://shopify/ProductVariant/50427735212224",
+                "inventoryQuantity": 0,
+                "inventoryPolicy": "DENY",
+                "inventoryItem": {
+                  "tracked": true
+                }
+              }
+            ],
+            "pageInfo": {
+              "hasNextPage": false,
+              "endCursor": "eyJsYXN0X2lkIjo1MDQyNzczNTIxMjIyNCwibGFzdF92YWx1ZSI6MX0="
+            }
+          }
+        },
+        {
+          "id": "gid://shopify/Product/10253181092032",
+          "title": "Reusable Bag Locking Ties — Set of 3",
+          "status": "ACTIVE",
+          "variants": {
+            "nodes": [
+              {
+                "id": "gid://shopify/ProductVariant/50427735277760",
+                "inventoryQuantity": 0,
+                "inventoryPolicy": "DENY",
+                "inventoryItem": {
+                  "tracked": true
+                }
+              }
+            ],
+            "pageInfo": {
+              "hasNextPage": false,
+              "endCursor": "eyJsYXN0X2lkIjo1MDQyNzczNTI3Nzc2MCwibGFzdF92YWx1ZSI6MX0="
+            }
+          }
+        },
+        {
+          "id": "gid://shopify/Product/10253181255872",
+          "title": "Compact Cable Winder Case",
+          "status": "ACTIVE",
+          "variants": {
+            "nodes": [
+              {
+                "id": "gid://shopify/ProductVariant/50427735408832",
+                "inventoryQuantity": 0,
+                "inventoryPolicy": "DENY",
+                "inventoryItem": {
+                  "tracked": true
+                }
+              }
+            ],
+            "pageInfo": {
+              "hasNextPage": false,
+              "endCursor": "eyJsYXN0X2lkIjo1MDQyNzczNTQwODgzMiwibGFzdF92YWx1ZSI6MX0="
+            }
+          }
+        },
+        {
+          "id": "gid://shopify/Product/10253181321408",
+          "title": "Window Groove Cleaning Brush",
+          "status": "ACTIVE",
+          "variants": {
+            "nodes": [
+              {
+                "id": "gid://shopify/ProductVariant/50427735474368",
+                "inventoryQuantity": 0,
+                "inventoryPolicy": "DENY",
+                "inventoryItem": {
+                  "tracked": true
+                }
+              }
+            ],
+            "pageInfo": {
+              "hasNextPage": false,
+              "endCursor": "eyJsYXN0X2lkIjo1MDQyNzczNTQ3NDM2OCwibGFzdF92YWx1ZSI6MX0="
+            }
+          }
+        },
+        {
+          "id": "gid://shopify/Product/10253181419712",
+          "title": "Handheld Upholstery Cleaning Brush",
+          "status": "ACTIVE",
+          "variants": {
+            "nodes": [
+              {
+                "id": "gid://shopify/ProductVariant/50427735605440",
+                "inventoryQuantity": 0,
+                "inventoryPolicy": "DENY",
+                "inventoryItem": {
+                  "tracked": true
+                }
+              }
+            ],
+            "pageInfo": {
+              "hasNextPage": false,
+              "endCursor": "eyJsYXN0X2lkIjo1MDQyNzczNTYwNTQ0MCwibGFzdF92YWx1ZSI6MX0="
+            }
+          }
+        },
+        {
+          "id": "gid://shopify/Product/10253181518016",
+          "title": "Foldable Hanging Travel Organizer",
+          "status": "ACTIVE",
+          "variants": {
+            "nodes": [
+              {
+                "id": "gid://shopify/ProductVariant/50427735736512",
+                "inventoryQuantity": 0,
+                "inventoryPolicy": "DENY",
+                "inventoryItem": {
+                  "tracked": true
+                }
+              }
+            ],
+            "pageInfo": {
+              "hasNextPage": false,
+              "endCursor": "eyJsYXN0X2lkIjo1MDQyNzczNTczNjUxMiwibGFzdF92YWx1ZSI6MX0="
+            }
+          }
+        },
+        {
+          "id": "gid://shopify/Product/10253181583552",
+          "title": "Flexible Flower-Shaped Drain Catcher",
+          "status": "ACTIVE",
+          "variants": {
+            "nodes": [
+              {
+                "id": "gid://shopify/ProductVariant/50427735834816",
+                "inventoryQuantity": 0,
+                "inventoryPolicy": "DENY",
+                "inventoryItem": {
+                  "tracked": true
+                }
+              }
+            ],
+            "pageInfo": {
+              "hasNextPage": false,
+              "endCursor": "eyJsYXN0X2lkIjo1MDQyNzczNTgzNDgxNiwibGFzdF92YWx1ZSI6MX0="
+            }
+          }
+        },
+        {
+          "id": "gid://shopify/Product/10253181681856",
+          "title": "3-in-1 Bottle Lid Cleaning Tool",
+          "status": "ACTIVE",
+          "variants": {
+            "nodes": [
+              {
+                "id": "gid://shopify/ProductVariant/50427735900352",
+                "inventoryQuantity": 0,
+                "inventoryPolicy": "DENY",
+                "inventoryItem": {
+                  "tracked": true
+                }
+              }
+            ],
+            "pageInfo": {
+              "hasNextPage": false,
+              "endCursor": "eyJsYXN0X2lkIjo1MDQyNzczNTkwMDM1MiwibGFzdF92YWx1ZSI6MX0="
+            }
+          }
+        },
+        {
+          "id": "gid://shopify/Product/10253181845696",
+          "title": "Adhesive Cable Organizer Clips — Set of 20",
+          "status": "ACTIVE",
+          "variants": {
+            "nodes": [
+              {
+                "id": "gid://shopify/ProductVariant/50427736064192",
+                "inventoryQuantity": 0,
+                "inventoryPolicy": "DENY",
+                "inventoryItem": {
+                  "tracked": true
+                }
+              }
+            ],
+            "pageInfo": {
+              "hasNextPage": false,
+              "endCursor": "eyJsYXN0X2lkIjo1MDQyNzczNjA2NDE5MiwibGFzdF92YWx1ZSI6MX0="
+            }
+          }
+        },
+        {
+          "id": "gid://shopify/Product/10253181944000",
+          "title": "Household Wiping Cloths — Set of 3",
+          "status": "ACTIVE",
+          "variants": {
+            "nodes": [
+              {
+                "id": "gid://shopify/ProductVariant/50427736162496",
+                "inventoryQuantity": 0,
+                "inventoryPolicy": "DENY",
+                "inventoryItem": {
+                  "tracked": true
+                }
+              }
+            ],
+            "pageInfo": {
+              "hasNextPage": false,
+              "endCursor": "eyJsYXN0X2lkIjo1MDQyNzczNjE2MjQ5NiwibGFzdF92YWx1ZSI6MX0="
+            }
+          }
+        },
+        {
+          "id": "gid://shopify/Product/10253182009536",
+          "title": "Structured Mesh Laundry Wash Bag",
+          "status": "ACTIVE",
+          "variants": {
+            "nodes": [
+              {
+                "id": "gid://shopify/ProductVariant/50427736260800",
+                "inventoryQuantity": 0,
+                "inventoryPolicy": "DENY",
+                "inventoryItem": {
+                  "tracked": true
+                }
+              }
+            ],
+            "pageInfo": {
+              "hasNextPage": false,
+              "endCursor": "eyJsYXN0X2lkIjo1MDQyNzczNjI2MDgwMCwibGFzdF92YWx1ZSI6MX0="
+            }
+          }
+        },
+        {
+          "id": "gid://shopify/Product/10257843060928",
+          "title": "Keyboard Cover",
+          "status": "ACTIVE",
+          "variants": {
+            "nodes": [
+              {
+                "id": "gid://shopify/ProductVariant/50443620843712",
+                "inventoryQuantity": 0,
+                "inventoryPolicy": "DENY",
+                "inventoryItem": {
+                  "tracked": true
+                }
+              }
+            ],
+            "pageInfo": {
+              "hasNextPage": false,
+              "endCursor": "eyJsYXN0X2lkIjo1MDQ0MzYyMDg0MzcxMiwibGFzdF92YWx1ZSI6MX0="
+            }
+          }
+        },
+        {
+          "id": "gid://shopify/Product/10257843159232",
+          "title": "Two-Tier Kitchen Storage Rack",
+          "status": "ACTIVE",
+          "variants": {
+            "nodes": [
+              {
+                "id": "gid://shopify/ProductVariant/50443620909248",
+                "inventoryQuantity": 0,
+                "inventoryPolicy": "DENY",
+                "inventoryItem": {
+                  "tracked": true
+                }
+              }
+            ],
+            "pageInfo": {
+              "hasNextPage": false,
+              "endCursor": "eyJsYXN0X2lkIjo1MDQ0MzYyMDkwOTI0OCwibGFzdF92YWx1ZSI6MX0="
+            }
+          }
+        },
+        {
+          "id": "gid://shopify/Product/10257843224768",
+          "title": "Electric Hair Straightening Brush",
+          "status": "ACTIVE",
+          "variants": {
+            "nodes": [
+              {
+                "id": "gid://shopify/ProductVariant/50443621761216",
+                "inventoryQuantity": 0,
+                "inventoryPolicy": "DENY",
+                "inventoryItem": {
+                  "tracked": true
+                }
+              }
+            ],
+            "pageInfo": {
+              "hasNextPage": false,
+              "endCursor": "eyJsYXN0X2lkIjo1MDQ0MzYyMTc2MTIxNiwibGFzdF92YWx1ZSI6MX0="
+            }
+          }
+        },
+        {
+          "id": "gid://shopify/Product/10257843257536",
+          "title": "Stainless Steel Water Bottle — Approx. 360 ml",
+          "status": "ACTIVE",
+          "variants": {
+            "nodes": [
+              {
+                "id": "gid://shopify/ProductVariant/50443621793984",
+                "inventoryQuantity": 0,
+                "inventoryPolicy": "DENY",
+                "inventoryItem": {
+                  "tracked": true
+                }
+              }
+            ],
+            "pageInfo": {
+              "hasNextPage": false,
+              "endCursor": "eyJsYXN0X2lkIjo1MDQ0MzYyMTc5Mzk4NCwibGFzdF92YWx1ZSI6MX0="
+            }
+          }
+        },
+        {
+          "id": "gid://shopify/Product/10257843355840",
+          "title": "Manual Citrus Juicer with Strainer",
+          "status": "ACTIVE",
+          "variants": {
+            "nodes": [
+              {
+                "id": "gid://shopify/ProductVariant/50443621859520",
+                "inventoryQuantity": 0,
+                "inventoryPolicy": "DENY",
+                "inventoryItem": {
+                  "tracked": true
+                }
+              }
+            ],
+            "pageInfo": {
+              "hasNextPage": false,
+              "endCursor": "eyJsYXN0X2lkIjo1MDQ0MzYyMTg1OTUyMCwibGFzdF92YWx1ZSI6MX0="
+            }
+          }
+        },
+        {
+          "id": "gid://shopify/Product/10257843421376",
+          "title": "Wired Earphones with Microphone",
+          "status": "DRAFT",
+          "variants": {
+            "nodes": [
+              {
+                "id": "gid://shopify/ProductVariant/50443621957824",
+                "inventoryQuantity": 0,
+                "inventoryPolicy": "DENY",
+                "inventoryItem": {
+                  "tracked": true
+                }
+              }
+            ],
+            "pageInfo": {
+              "hasNextPage": false,
+              "endCursor": "eyJsYXN0X2lkIjo1MDQ0MzYyMTk1NzgyNCwibGFzdF92YWx1ZSI6MX0="
+            }
+          }
+        },
+        {
+          "id": "gid://shopify/Product/10257843454144",
+          "title": "Foldable Canvas Laundry and Storage Bag",
+          "status": "ACTIVE",
+          "variants": {
+            "nodes": [
+              {
+                "id": "gid://shopify/ProductVariant/50443621990592",
+                "inventoryQuantity": 0,
+                "inventoryPolicy": "DENY",
+                "inventoryItem": {
+                  "tracked": true
+                }
+              }
+            ],
+            "pageInfo": {
+              "hasNextPage": false,
+              "endCursor": "eyJsYXN0X2lkIjo1MDQ0MzYyMTk5MDU5MiwibGFzdF92YWx1ZSI6MX0="
+            }
+          }
+        },
+        {
+          "id": "gid://shopify/Product/10257843519680",
+          "title": "Coffee Mug Warmer",
+          "status": "DRAFT",
+          "variants": {
+            "nodes": [
+              {
+                "id": "gid://shopify/ProductVariant/50443622056128",
+                "inventoryQuantity": 0,
+                "inventoryPolicy": "DENY",
+                "inventoryItem": {
+                  "tracked": true
+                }
+              }
+            ],
+            "pageInfo": {
+              "hasNextPage": false,
+              "endCursor": "eyJsYXN0X2lkIjo1MDQ0MzYyMjA1NjEyOCwibGFzdF92YWx1ZSI6MX0="
+            }
+          }
+        }
+      ],
+      "pageInfo": {
+        "hasNextPage": false,
+        "endCursor": "eyJsYXN0X2lkIjoxMDI1Nzg0MzUxOTY4MCwibGFzdF92YWx1ZSI6IjEwMjU3ODQzNTE5NjgwIn0="
+      }
+    }
+  }
+}

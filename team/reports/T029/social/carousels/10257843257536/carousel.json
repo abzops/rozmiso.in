@@ -1,0 +1,91 @@
+{
+  "productId": "10257843257536",
+  "title": "Stainless Steel Water Bottle",
+  "productUrl": "https://rozmiso.in/products/6422-stainless-steel-bottle-used-in-all-households-and-official-purposes-for-storing-water-and-beverages-etc-1",
+  "replacesPost": null,
+  "status": "ASSETS_COMPLETE_CROP_REVIEW_PENDING",
+  "slides": [
+    {
+      "order": 1,
+      "role": "Cover and features",
+      "path": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10257843257536\\01-slide.png",
+      "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10257843257536\\01-square-v4.png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "sha256": "bb2ef67395eeb0026c7844f9d7548a0bab33cd762caf64c7b916f7b9875d1c34",
+      "altText": "Stainless Steel Water Bottle: cover and features. Context props are not included."
+    },
+    {
+      "order": 2,
+      "role": "Product detail",
+      "path": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10257843257536\\02-slide.png",
+      "source": "F:\\Dropshipping\\team\\reports\\T028\\generated\\10257843257536\\details.png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "sha256": "840082a39fce7a02c08d16f4826fa401184e14a03d95aa91f92427f5fba50110",
+      "altText": "Stainless Steel Water Bottle: product detail. Context props are not included."
+    },
+    {
+      "order": 3,
+      "role": "Primary use",
+      "path": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10257843257536\\03-slide.png",
+      "source": "F:\\Dropshipping\\team\\reports\\T028\\generated\\10257843257536\\usecase.png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "sha256": "c1098699c5d1e79eb6191302bbd54b506f29b6635b1a011cbdc646af21ded815",
+      "altText": "Stainless Steel Water Bottle: primary use. Context props are not included."
+    },
+    {
+      "order": 4,
+      "role": "Second context",
+      "path": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10257843257536\\04-slide.png",
+      "source": "F:\\Dropshipping\\team\\reports\\T028\\generated\\10257843257536\\context.png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "sha256": "29d257cb803b0fdf42255c7525b68c3aa6743457905d8a28cf7ba909cb158a28",
+      "altText": "Stainless Steel Water Bottle: second context. Context props are not included."
+    },
+    {
+      "order": 5,
+      "role": "Care guidance",
+      "path": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10257843257536\\05-slide.png",
+      "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10257843257536\\05-care-v4.png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "sha256": "1aedd9a757d91c30b0914c609be680188d12070b3aa033ed4472681f9a9a916f",
+      "altText": "Stainless Steel Water Bottle: care guidance. Context props are not included."
+    },
+    {
+      "order": 6,
+      "role": "Product link",
+      "path": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10257843257536\\06-slide.png",
+      "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\shared\\06-product-link-in.png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "sha256": "23e858c33b087c1d637c4489fc6bb1297dfc4b08f75755f670185d79e9d0127a",
+      "altText": "Stainless Steel Water Bottle: product link. Context props are not included."
+    }
+  ],
+  "missing": [],
+  "mixedAspectRatios": false,
+  "caption": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10257843257536\\caption.txt",
+  "aiLabel": false,
+  "facebookPersonalCrosspost": false,
+  "facebookPageCrosspostRequired": true,
+  "facebookPageId": "61595107991994",
+  "livePublished": false,
+  "publishedVersionMayDiffer": false,
+  "theme": "Rozmiso Everyday Edit / ivory and forest green"
+}

@@ -1,0 +1,9 @@
+{
+  "date": "2026-10-14",
+  "tool": "builtin imagegen",
+  "source": "05-slide.png",
+  "output": "05-care-v4.png",
+  "generatedSource": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a11a24-fa90-7301-83f3-7aea32cd5e82\\exec-1a3dafd3-30a8-4390-9427-7fc12eb737b4.png",
+  "prompt": "Edit this existing square premium Rozmiso Electric Hair Straightening Brush care graphic. Remove ONLY 'AI-generated product illustration'. Preserve exact black heated brush, silver buttons, indicator dots and attached cord, every factual instruction/icon, serif headings, ivory background/forest-green typography and existing brand elements. Seamlessly restore background behind deleted text. No AI wording or new claims. Maintain square 1:1. One finished premium graphic.",
+  "qa": "Root visual PASS: unwanted wording removed; product details, factual copy and premium theme preserved"
+}

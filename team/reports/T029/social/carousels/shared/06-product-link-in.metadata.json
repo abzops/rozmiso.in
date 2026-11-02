@@ -1,0 +1,9 @@
+{
+  "date": "2026-10-14",
+  "tool": "builtin imagegen",
+  "input": "F:/Dropshipping/team/reports/T029/social/carousels/shared/06-product-link.png",
+  "output": "06-product-link-in.png",
+  "generatedSource": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a11a24-fa90-7301-83f3-7aea32cd5e82\\exec-2f3a8283-3dc6-4f55-811f-d34b45cd6012.png",
+  "prompt": "Edit the existing square Rozmiso branded CTA graphic. Replace ONLY 'rozmiso.myshopify.com' with the exact domain 'rozmiso.in'. Keep all other wording, forest green serif headlines, ivory background, botanical corners, typography, @rozmiso.in and composition unchanged. No AI wording, preview wording or new claims. One finished square 1:1 premium graphic.",
+  "qa": "Root visually reviewed: required text correction and original design/product preserved"
+}

@@ -1,0 +1,91 @@
+{
+  "productId": "10257843454144",
+  "title": "Foldable Canvas Laundry and Storage Bag",
+  "productUrl": "https://rozmiso.in/products/6186-canvas-laundry-bag-toy-storage-laundry-storage",
+  "replacesPost": null,
+  "status": "ASSETS_COMPLETE_CROP_REVIEW_PENDING",
+  "slides": [
+    {
+      "order": 1,
+      "role": "Cover and features",
+      "path": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10257843454144\\01-slide.png",
+      "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10257843454144\\01-square-v4.png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "sha256": "fafd94f15c67ee01cae63bf419a7b89ead4b65a5731471acd1aa91b35b871bde",
+      "altText": "Foldable Canvas Laundry and Storage Bag: cover and features. Context props are not included."
+    },
+    {
+      "order": 2,
+      "role": "Product detail",
+      "path": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10257843454144\\02-slide.png",
+      "source": "F:\\Dropshipping\\team\\reports\\T028\\generated\\10257843454144\\details.png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "sha256": "208837fe4c4dd00cc9fb6a93cc08aa61c65a59f605247c08cc11510aa12bf3a8",
+      "altText": "Foldable Canvas Laundry and Storage Bag: product detail. Context props are not included."
+    },
+    {
+      "order": 3,
+      "role": "Primary use",
+      "path": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10257843454144\\03-slide.png",
+      "source": "F:\\Dropshipping\\team\\reports\\T028\\generated\\10257843454144\\usecase.png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "sha256": "34bb8689c1bcdc50915edabc2ebba133aa259cb957240c300241a39276ca9d7d",
+      "altText": "Foldable Canvas Laundry and Storage Bag: primary use. Context props are not included."
+    },
+    {
+      "order": 4,
+      "role": "Second context",
+      "path": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10257843454144\\04-slide.png",
+      "source": "F:\\Dropshipping\\team\\reports\\T028\\generated\\10257843454144\\context.png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "sha256": "b1266e9f332eb263a837020eac425df6b182deec03e8764e143c9724f8084b93",
+      "altText": "Foldable Canvas Laundry and Storage Bag: second context. Context props are not included."
+    },
+    {
+      "order": 5,
+      "role": "Care guidance",
+      "path": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10257843454144\\05-slide.png",
+      "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10257843454144\\05-care-v4.png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "sha256": "314ddbf48e8002e575e488fa46aeeb70bc3f9b1fb7fb6dd6859806c2cb534dee",
+      "altText": "Foldable Canvas Laundry and Storage Bag: care guidance. Context props are not included."
+    },
+    {
+      "order": 6,
+      "role": "Product link",
+      "path": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10257843454144\\06-slide.png",
+      "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\shared\\06-product-link-in.png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "sha256": "23e858c33b087c1d637c4489fc6bb1297dfc4b08f75755f670185d79e9d0127a",
+      "altText": "Foldable Canvas Laundry and Storage Bag: product link. Context props are not included."
+    }
+  ],
+  "missing": [],
+  "mixedAspectRatios": false,
+  "caption": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10257843454144\\caption.txt",
+  "aiLabel": false,
+  "facebookPersonalCrosspost": false,
+  "facebookPageCrosspostRequired": true,
+  "facebookPageId": "61595107991994",
+  "livePublished": false,
+  "publishedVersionMayDiffer": false,
+  "theme": "Rozmiso Everyday Edit / ivory and forest green"
+}

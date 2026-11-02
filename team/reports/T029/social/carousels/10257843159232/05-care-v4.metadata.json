@@ -1,0 +1,9 @@
+{
+  "date": "2026-10-14",
+  "tool": "builtin imagegen",
+  "source": "05-slide.png",
+  "output": "05-care-v4.png",
+  "generatedSource": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a11a24-fa90-7301-83f3-7aea32cd5e82\\exec-d0439e65-baff-4ef5-9f77-fd8d35efd683.png",
+  "prompt": "Edit this existing square premium Rozmiso Two-Tier Kitchen Storage Rack care graphic. Remove ONLY 'AI-generated product illustration'. Preserve exact brown two-tier rack with wire shelves and silver legs, every factual instruction/icon, serif headings, ivory background/forest-green typography and existing brand elements. Seamlessly restore background behind deleted text. No AI wording or new claims. Maintain square 1:1. One finished premium graphic.",
+  "qa": "Root visual PASS: unwanted wording removed; product details, factual copy and premium theme preserved"
+}

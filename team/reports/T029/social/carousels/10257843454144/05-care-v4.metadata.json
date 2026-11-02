@@ -1,0 +1,9 @@
+{
+  "date": "2026-10-14",
+  "tool": "builtin imagegen",
+  "source": "05-slide.png",
+  "output": "05-care-v4.png",
+  "generatedSource": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a11a24-fa90-7301-83f3-7aea32cd5e82\\exec-52e1d1b2-001a-41cf-b7f8-1b07e26fde63.png",
+  "prompt": "Edit this existing square premium Rozmiso Foldable Canvas Laundry and Storage Bag care graphic. Replace ONLY 'AI-generated illustration • Prints may vary' with 'Prints may vary'. Preserve exact floral round cylindrical basket, matching lid and two cream handles, every factual instruction/icon, serif headings, ivory background/forest-green typography and existing brand elements. Seamlessly restore background behind deleted text. No AI wording or new claims. Maintain square 1:1. One finished premium graphic.",
+  "qa": "Root visual PASS: unwanted wording removed; product details, factual copy and premium theme preserved"
+}

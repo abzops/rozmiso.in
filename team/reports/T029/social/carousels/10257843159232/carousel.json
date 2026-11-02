@@ -1,0 +1,91 @@
+{
+  "productId": "10257843159232",
+  "title": "Two-Tier Kitchen Storage Rack",
+  "productUrl": "https://rozmiso.in/products/2796-2-layer-kitchen-rack-for-holding-and-placing-types-of-things",
+  "replacesPost": null,
+  "status": "ASSETS_COMPLETE_CROP_REVIEW_PENDING",
+  "slides": [
+    {
+      "order": 1,
+      "role": "Cover and features",
+      "path": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10257843159232\\01-slide.png",
+      "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10257843159232\\01-square-v4.png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "sha256": "2dcd66094c99ef8af570d6bf5f94a2da49a1ab66c224ce9f1cdb8624a19dcf28",
+      "altText": "Two-Tier Kitchen Storage Rack: cover and features. Context props are not included."
+    },
+    {
+      "order": 2,
+      "role": "Product detail",
+      "path": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10257843159232\\02-slide.png",
+      "source": "F:\\Dropshipping\\team\\reports\\T028\\generated\\10257843159232\\details.png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "sha256": "e3c4ee944d6c2460a07725f3968b0cd10bfa6e9237c36f81011532f25b3930c7",
+      "altText": "Two-Tier Kitchen Storage Rack: product detail. Context props are not included."
+    },
+    {
+      "order": 3,
+      "role": "Primary use",
+      "path": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10257843159232\\03-slide.png",
+      "source": "F:\\Dropshipping\\team\\reports\\T028\\generated\\10257843159232\\usecase.png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "sha256": "986221778483073850fb508b2acbc1a1ad536d75fcf90b44874067fb4a522f0a",
+      "altText": "Two-Tier Kitchen Storage Rack: primary use. Context props are not included."
+    },
+    {
+      "order": 4,
+      "role": "Second context",
+      "path": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10257843159232\\04-slide.png",
+      "source": "F:\\Dropshipping\\team\\reports\\T028\\generated\\10257843159232\\context.png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "sha256": "0cb5fbb7c578b80afcf28cfda0efc306e4a98669f6402f5946b65a0a2561db17",
+      "altText": "Two-Tier Kitchen Storage Rack: second context. Context props are not included."
+    },
+    {
+      "order": 5,
+      "role": "Care guidance",
+      "path": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10257843159232\\05-slide.png",
+      "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10257843159232\\05-care-v4.png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "sha256": "b6adec12830242209fa66f569115770d8ca882337d9856a3f27c05076acbe15b",
+      "altText": "Two-Tier Kitchen Storage Rack: care guidance. Context props are not included."
+    },
+    {
+      "order": 6,
+      "role": "Product link",
+      "path": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10257843159232\\06-slide.png",
+      "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\shared\\06-product-link-in.png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "sha256": "23e858c33b087c1d637c4489fc6bb1297dfc4b08f75755f670185d79e9d0127a",
+      "altText": "Two-Tier Kitchen Storage Rack: product link. Context props are not included."
+    }
+  ],
+  "missing": [],
+  "mixedAspectRatios": false,
+  "caption": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10257843159232\\caption.txt",
+  "aiLabel": false,
+  "facebookPersonalCrosspost": false,
+  "facebookPageCrosspostRequired": true,
+  "facebookPageId": "61595107991994",
+  "livePublished": false,
+  "publishedVersionMayDiffer": false,
+  "theme": "Rozmiso Everyday Edit / ivory and forest green"
+}

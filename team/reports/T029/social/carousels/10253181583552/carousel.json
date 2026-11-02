@@ -1,0 +1,91 @@
+{
+  "productId": "10253181583552",
+  "title": "Flexible Flower-Shaped Drain Catcher",
+  "productUrl": "https://rozmiso.in/products/flexible-flower-shaped-drain-catcher",
+  "replacesPost": null,
+  "status": "ASSETS_COMPLETE_CROP_REVIEW_PENDING",
+  "slides": [
+    {
+      "order": 1,
+      "role": "Cover and features",
+      "path": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253181583552\\01-slide.png",
+      "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253181583552\\01-square-v4.png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "sha256": "6332988bad89685d6b2bd1a58ed9eef8011236b021caf9f87f121322a8de1382",
+      "altText": "Flexible Flower-Shaped Drain Catcher: cover and features. Context props are not included."
+    },
+    {
+      "order": 2,
+      "role": "Product detail",
+      "path": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253181583552\\02-slide.png",
+      "source": "F:\\Dropshipping\\team\\reports\\T028\\generated\\10253181583552\\details.png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "sha256": "bce3545ec2c21e1236b3da731272291c9fb4332603c0dd4af10edbd65bfe3174",
+      "altText": "Flexible Flower-Shaped Drain Catcher: product detail. Context props are not included."
+    },
+    {
+      "order": 3,
+      "role": "Primary use",
+      "path": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253181583552\\03-slide.png",
+      "source": "F:\\Dropshipping\\team\\reports\\T028\\generated\\10253181583552\\usecase.png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "sha256": "2b994501072f2cdc6ab98184d247f8acb7eeafbddbeda18b62d8e36f3a0fec07",
+      "altText": "Flexible Flower-Shaped Drain Catcher: primary use. Context props are not included."
+    },
+    {
+      "order": 4,
+      "role": "Second context",
+      "path": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253181583552\\04-slide.png",
+      "source": "F:\\Dropshipping\\team\\reports\\T028\\generated\\10253181583552\\context.png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "sha256": "f8a1d6960553790cc71d6aa19230e4a1c4512225802ad9392b5db2a67b62bd7f",
+      "altText": "Flexible Flower-Shaped Drain Catcher: second context. Context props are not included."
+    },
+    {
+      "order": 5,
+      "role": "Care guidance",
+      "path": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253181583552\\05-slide.png",
+      "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253181583552\\05-care-v4.png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "sha256": "46dd9b15bea4a70ef8eaa03d44455554d18b83f8c237079483784b220653d878",
+      "altText": "Flexible Flower-Shaped Drain Catcher: care guidance. Context props are not included."
+    },
+    {
+      "order": 6,
+      "role": "Product link",
+      "path": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253181583552\\06-slide.png",
+      "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\shared\\06-product-link-in.png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "sha256": "23e858c33b087c1d637c4489fc6bb1297dfc4b08f75755f670185d79e9d0127a",
+      "altText": "Flexible Flower-Shaped Drain Catcher: product link. Context props are not included."
+    }
+  ],
+  "missing": [],
+  "mixedAspectRatios": false,
+  "caption": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253181583552\\caption.txt",
+  "aiLabel": false,
+  "facebookPersonalCrosspost": false,
+  "facebookPageCrosspostRequired": true,
+  "facebookPageId": "61595107991994",
+  "livePublished": false,
+  "publishedVersionMayDiffer": false,
+  "theme": "Rozmiso Everyday Edit / ivory and forest green"
+}

@@ -1,0 +1,9 @@
+{
+  "date": "2026-10-14",
+  "tool": "builtin imagegen",
+  "source": "05-slide.png",
+  "output": "05-care-v4.png",
+  "generatedSource": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a11a24-fa90-7301-83f3-7aea32cd5e82\\exec-9b75cd61-7a14-4533-bd39-612327d0e283.png",
+  "prompt": "Edit this existing square premium Rozmiso Keyboard Cover care graphic. Preserve exact the plain translucent rectangular keyboard cover and folded corner, every factual instruction/icon, forest-green serif heading, ivory background and existing brand logo/text. Remove ONLY the small bottom 'AI-generated product illustration' wording; seamlessly restore its background. No AI wording or new claims. Maintain square 1:1 composition. One finished premium graphic.",
+  "qa": "Root visual PASS: footer removed, original product/factual text/theme preserved"
+}

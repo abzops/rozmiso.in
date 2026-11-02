@@ -1,0 +1,68 @@
+--- LIVE/templates/index.json
+
++++ LOCAL/templates/index.json
+
+@@ -1,11 +1,2 @@
+
+-/*
+- * ------------------------------------------------------------
+- * IMPORTANT: The contents of this file are auto-generated.
+- *
+- * This file may be updated by the Shopify admin theme editor
+- * or related systems. Please exercise caution as any changes
+- * made to this file may be overwritten.
+- * ------------------------------------------------------------
+- */
+ {
+   "sections": {
+--- LIVE/config/settings_data.json
+
++++ LOCAL/config/settings_data.json
+
+@@ -1,11 +1,2 @@
+
+-/*
+- * ------------------------------------------------------------
+- * IMPORTANT: The contents of this file are auto-generated.
+- *
+- * This file may be updated by the Shopify admin theme editor
+- * or related systems. Please exercise caution as any changes
+- * made to this file may be overwritten.
+- * ------------------------------------------------------------
+- */
+ {
+   "current": {
+--- LIVE/templates/product.json
+
++++ LOCAL/templates/product.json
+
+@@ -1,11 +1,2 @@
+
+-/*
+- * ------------------------------------------------------------
+- * IMPORTANT: The contents of this file are auto-generated.
+- *
+- * This file may be updated by the Shopify admin theme editor
+- * or related systems. Please exercise caution as any changes
+- * made to this file may be overwritten.
+- * ------------------------------------------------------------
+- */
+ {
+   "sections": {
+--- LIVE/templates/collection.json
+
++++ LOCAL/templates/collection.json
+
+@@ -1,11 +1,2 @@
+
+-/*
+- * ------------------------------------------------------------
+- * IMPORTANT: The contents of this file are auto-generated.
+- *
+- * This file may be updated by the Shopify admin theme editor
+- * or related systems. Please exercise caution as any changes
+- * made to this file may be overwritten.
+- * ------------------------------------------------------------
+- */
+ {
+   "sections": {

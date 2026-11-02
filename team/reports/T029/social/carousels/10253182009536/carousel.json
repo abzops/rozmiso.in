@@ -1,0 +1,91 @@
+{
+  "productId": "10253182009536",
+  "title": "Structured Mesh Laundry Wash Bag",
+  "productUrl": "https://rozmiso.in/products/structured-mesh-laundry-wash-bag",
+  "replacesPost": null,
+  "status": "ASSETS_COMPLETE_CROP_REVIEW_PENDING",
+  "slides": [
+    {
+      "order": 1,
+      "role": "Cover and features",
+      "path": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253182009536\\01-slide.png",
+      "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253182009536\\01-square-v4.png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "sha256": "dd5bc5b0639527fb8486bcfd49c3744b808e1bd3d67a37ece8743455a92e9796",
+      "altText": "Structured Mesh Laundry Wash Bag: cover and features. Context props are not included."
+    },
+    {
+      "order": 2,
+      "role": "Product detail",
+      "path": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253182009536\\02-slide.png",
+      "source": "F:\\Dropshipping\\team\\reports\\T028\\generated\\10253182009536\\details.png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "sha256": "1dc0ec6609bb8f1c7ad6060da4b79c233a7dd75e7a9c5fefda2bd89986fa11b8",
+      "altText": "Structured Mesh Laundry Wash Bag: product detail. Context props are not included."
+    },
+    {
+      "order": 3,
+      "role": "Primary use",
+      "path": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253182009536\\03-slide.png",
+      "source": "F:\\Dropshipping\\team\\reports\\T028\\generated\\10253182009536\\usecase.png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "sha256": "396971b00e6b380c5a9a3631f6dd58821c4f400d28a9143454c4a0128869fb6e",
+      "altText": "Structured Mesh Laundry Wash Bag: primary use. Context props are not included."
+    },
+    {
+      "order": 4,
+      "role": "Second context",
+      "path": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253182009536\\04-slide.png",
+      "source": "F:\\Dropshipping\\team\\reports\\T028\\generated\\10253182009536\\context.png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "sha256": "025dd6a528b1e9df3e699909fe997b41004ddeef5f855b37ebca6b1f4dd2e798",
+      "altText": "Structured Mesh Laundry Wash Bag: second context. Context props are not included."
+    },
+    {
+      "order": 5,
+      "role": "Care guidance",
+      "path": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253182009536\\05-slide.png",
+      "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253182009536\\05-care-v4.png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "sha256": "6309de90733b0927016a9e6d9cbcecf60683ef1d755f343bcce71af85b762fe7",
+      "altText": "Structured Mesh Laundry Wash Bag: care guidance. Context props are not included."
+    },
+    {
+      "order": 6,
+      "role": "Product link",
+      "path": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253182009536\\06-slide.png",
+      "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\shared\\06-product-link-in.png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "sha256": "23e858c33b087c1d637c4489fc6bb1297dfc4b08f75755f670185d79e9d0127a",
+      "altText": "Structured Mesh Laundry Wash Bag: product link. Context props are not included."
+    }
+  ],
+  "missing": [],
+  "mixedAspectRatios": false,
+  "caption": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253182009536\\caption.txt",
+  "aiLabel": false,
+  "facebookPersonalCrosspost": false,
+  "facebookPageCrosspostRequired": true,
+  "facebookPageId": "61595107991994",
+  "livePublished": false,
+  "publishedVersionMayDiffer": false,
+  "theme": "Rozmiso Everyday Edit / ivory and forest green"
+}
