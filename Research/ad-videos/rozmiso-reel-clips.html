@@ -1,0 +1,38 @@
+<title>Rozmiso Reel Clips</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,800&family=IBM+Plex+Sans:wght@400;600&display=swap">
+<style>
+/* Layout: a row of phone-shaped 9:16 players, one per product, each with what to pair it with. */
+:root{--bg:#f3f4f7;--surface:#fff;--ink:#151a2d;--muted:#5b6175;--line:#dfe2ea;--accent:#ffcc1f;
+  --display:"Bricolage Grotesque","Segoe UI",system-ui,sans-serif;--body:"IBM Plex Sans","Segoe UI",system-ui,sans-serif}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#0f1220;--surface:#181c2e;--ink:#eceef6;--muted:#a2a8bd;--line:#2a3048;color-scheme:dark}}
+:root[data-theme="dark"]{--bg:#0f1220;--surface:#181c2e;--ink:#eceef6;--muted:#a2a8bd;--line:#2a3048;color-scheme:dark}
+*{box-sizing:border-box}
+body{background:var(--bg);color:var(--ink);font:15px/1.55 var(--body)}
+.wrap{max-width:1200px;margin:0 auto;padding-block:28px 56px;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));display:grid;gap:24px}
+h1{font:800 clamp(28px,4.5vw,42px)/1.1 var(--display);margin:0;text-wrap:balance}
+p{margin:0}.lede{color:var(--muted);max-width:70ch}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(210px,1fr));gap:18px}
+figure{margin:0;display:grid;gap:8px;align-content:start;min-width:0}
+video{width:100%;aspect-ratio:9/16;max-width:100%;border-radius:14px;border:5px solid var(--ink);background:#000;display:block}
+figcaption{display:grid;gap:2px;font-size:14px}
+figcaption b{font:800 17px/1.2 var(--display)}
+figcaption span{color:var(--muted)}
+.note{background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:14px 16px;display:grid;gap:6px;font-size:14px;color:var(--muted)}
+.note b{color:var(--ink)}
+</style>
+<div class="wrap">
+  <h1>Reel clips: 5 products</h1>
+  <p class="lede">8-second vertical clips (720p) made in Google Flow, each starting from the DeoDap product photo. Each clip is the hero shot for its Reel. Add the Hindi voiceover, the on-screen text and a price card in CapCut.</p>
+  <div class="grid">
+    <figure><video src="1-heating-belt.mp4" controls playsinline preload="metadata"></video><figcaption><b>1 · Heating belt</b><span>Pair with the voiceover for Reel A, "Hot water bag fail" (Aisiri).</span></figcaption></figure>
+    <figure><video src="2-scalp-massager.mp4" controls playsinline preload="metadata"></video><figcaption><b>2 · Scalp massager</b><span>Use for the ASMR Reel A. Crop out the Bluedea box in the top corner.</span></figcaption></figure>
+    <figure><video src="3-tyre-booster.mp4" controls playsinline preload="metadata"></video><figcaption><b>3 · Tyre booster</b><span>Pair with the voiceover for Reel A, "3 km push" (Ballu).</span></figcaption></figure>
+    <figure><video src="4-galaxy-projector.mp4" controls playsinline preload="metadata"></video><figcaption><b>4 · Galaxy projector</b><span>Pair with the voiceover for Reel B, "Christmas morning" (Supriya).</span></figcaption></figure>
+    <figure><video src="5-usb-juicer.mp4" controls playsinline preload="metadata"></video><figcaption><b>5 · USB juicer</b><span>Pair with the voiceover for Reel A, "Desk smoothie" (Chandni).</span></figcaption></figure>
+  </div>
+  <div class="note"><b>Before these go into ads</b>
+    <span>Watch each clip to the end. AI can change a product's shape, button or colour mid-clip. Don't run any clip where the product looks different from what DeoDap ships, or customers will return it.</span>
+    <span>The files are saved on this computer in <code>C:\StacknStock\Research\Rozmiso\Research\ad-videos</code>. They're also kept in the Google Flow project "Oct 30 - 22:30", where you can download them again or upscale to 1080p.</span>
+  </div>
+</div>
