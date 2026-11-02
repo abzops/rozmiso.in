@@ -1,0 +1,5 @@
+# T038 — Rozmiso Markdown brand guide
+
+31 October2026. Owner asks Markdown file about brand, brand theme, brand guidelines and logos. Root compiles existing identity and supplied decisions; no rebrand/live changes. Output Brand Guidelines/ROZMISO-BRAND-GUIDELINES.md plus portable logos and font licenses. Use authoritative rozmiso-studio-theme logo assets and current CSS, existing reviewed kit for variant exports. Preserve exact product identity, consistent ivory/forest editorial Modern Bento direction, no invented commercial claims.
+
+Bounded independent reviewer: read charter and this brief, inspect logo sources/current source CSS and final Markdown when ready. Verify linked assets exist and logo previews match intended vectors, typography provenance (Manrope outline logo versus Georgia/DM Sans website), color differences explicitly documented. Proposed practical sizing/social rules must be labeled recommendations instead of claiming approval/deployment. Report team/reports/T038/review/WORK-REPORT.md only, no shared/source/guide changes. Root accepts and writes log/board. T037 video research remains a separate incomplete scope; don't call it finished.

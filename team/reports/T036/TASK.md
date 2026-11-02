@@ -1,0 +1,7 @@
+# T036 — Touch product gallery navigation
+
+Owner wants horizontal main-product-image swipes on mobile and tablet. Existing thumbnail selection, zoom tap/keyboard, vertical page scroll, pinch zoom, product identity and commerce remain intact. Scope assets/studio.js only plus own tests/reports. Authoritative source rozmiso-studio-theme. Root sole live/log/board writer; fresh CLI identity and live asset backup required before scoped deployment. No full unpublished Modern Bento publication inferred from this interaction fix.
+
+Root implements shared pointer-event gesture enhancement supporting touch and pen, threshold/direction discrimination, cancellation/multiple pointers and suppression of accidental click-to-zoom after swipes. Uses existing thumbnail clicks for image/alt/pressed-state synchronization, supports any gallery length and empty/one-image safety. Mouse unchanged.
+
+Independent reviewer reads charter and complete brief, checks code and meaningful simulated gesture tests: left/right, threshold, vertical/diagonal, cancel/multitouch, last/first, one/no image, tap zoom, mouse. May write tests/report in T036/review only. No theme/log/board/live writes. Browser disabled previously; root retries supported access, no bypass. Tests are simulated event behavior, not actual iPad/Safari verification. Root may deploy scoped JS fix to freshly backed up live asset after source/behavior checks; do not deploy unrelated draft assets/config.

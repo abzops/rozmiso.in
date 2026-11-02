@@ -1,0 +1,168 @@
+{
+  "id": 8426929815862,
+  "title": "Portable USB Rechargeable 6-Blade Juicer Blender for Fresh Drinks",
+  "body_html": "<p>Experience ultimate convenience and healthy living with the Dabster Portable USB Rechargeable 6-Blade Juicer Blender. This innovative personal blender is designed for busy lifestyles, allowing you to whip up fresh juices, smoothies, and shakes wherever you are. Its powerful 6-blade system ensures smooth blending of fruits and vegetables, while the compact, lightweight design makes it the perfect companion for school, office, travel, or the gym. Enjoy nutritious drinks on demand without being tethered to a power outlet.</p><ul>\n<li>Effortless Blending Power: Features a robust 6-blade system that quickly and efficiently blends fruits, vegetables, and ice into smooth, delicious drinks every time.</li>\n<li>Convenient USB Rechargeability: Easily powers up via any USB port from a power bank, laptop, car, or wall adapter, providing 10-12 uses on a single 3-hour charge.</li>\n<li>Safe &amp; Simple Cleaning: Designed with a smart magnetic sensing switch for ultra-safe operation and a detachable body for hassle-free, thorough cleaning after each use.</li>\n<li>Versatile Drink Preparation: Create a wide array of healthy beverages, including fresh juices, creamy milkshakes, protein shakes, and nutritious baby food blends effortlessly.</li>\n<li>Ultra-Portable Design: Its lightweight and compact body ensures easy carrying to school, the office, parks, or camping trips, empowering you to enjoy healthy drinks anywhere.</li>\n</ul><p>The Dabster Portable USB Rechargeable 6-Blade Juicer Blender is more than just a blender; it's your personal health companion, ready to deliver fresh, nutritious drinks anytime, anywhere. Embrace a healthier, more convenient lifestyle today with this essential gadget.</p>",
+  "vendor": "Dabster",
+  "product_type": "Portable Juicer Blender",
+  "created_at": "2023-06-14T20:05:10+05:30",
+  "handle": "portable-usb-rechargeable-6-blade-juicer-blender",
+  "updated_at": "2026-11-01T19:04:18+05:30",
+  "published_at": "2023-06-14T20:05:01+05:30",
+  "template_suffix": null,
+  "published_scope": "global",
+  "tags": "18%, 26 To 30 Afft, Best Selling, blender, BR, c119, China, color box pack, Cooking Gift, cordless, easy clean, Explore All Gift, Food blenders, Food mixer, fruit mixer, g290, g756, Gift, health, Independence Day, Internal, Juice Maker, juicer, kitchen gadget, kitchen gift, Kitchen Tools, mini, mixer, mixing, Navratri, Navratri 2, on-the-go, p11, personal, shakes, smoothie maker, Special Gift's, summer 2024, summer 2024Gift, summer season, travel, vegetable mixer",
+  "variants": [
+    {
+      "id": 45513117204790,
+      "product_id": 8426929815862,
+      "title": "Default Title",
+      "price": "275.00",
+      "sku": "0131_rechargeable_juiceblender",
+      "position": 1,
+      "compare_at_price": "599.00",
+      "fulfillment_service": "manual",
+      "inventory_management": "shopify",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "created_at": "2023-06-14T20:05:11+05:30",
+      "updated_at": "2026-11-01T19:04:18+05:30",
+      "taxable": true,
+      "barcode": "629782206259",
+      "grams": 383,
+      "image_id": null,
+      "weight": 383.0,
+      "weight_unit": "g",
+      "requires_shipping": true,
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "price_currency": "INR",
+      "compare_at_price_currency": "INR",
+      "quantity_price_breaks": []
+    }
+  ],
+  "options": [
+    {
+      "id": 10658598289718,
+      "product_id": 8426929815862,
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "id": 59619973300534,
+      "product_id": 8426929815862,
+      "position": 1,
+      "created_at": "2026-08-07T18:35:23+05:30",
+      "updated_at": "2026-08-07T18:35:25+05:30",
+      "alt": "A blue portable juicer blender filled with a strawberry smoothie sits next to a glass of the same smoothie and fresh fruit.",
+      "width": 1254,
+      "height": 1254,
+      "src": "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/0131.png?v=1786107925",
+      "variant_ids": []
+    },
+    {
+      "id": 41790134911286,
+      "product_id": 8426929815862,
+      "position": 2,
+      "created_at": "2023-06-14T20:05:10+05:30",
+      "updated_at": "2025-01-23T17:34:51+05:30",
+      "alt": "A blue portable juicer blender stands next to two tall glasses of yellow smoothies with straws on a white table.",
+      "width": 1500,
+      "height": 1500,
+      "src": "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/3_939edde0-e20f-4aca-bc7d-98302c2e2ddb.jpg?v=1737633891",
+      "variant_ids": []
+    },
+    {
+      "id": 41790134944054,
+      "product_id": 8426929815862,
+      "position": 3,
+      "created_at": "2023-06-14T20:05:10+05:30",
+      "updated_at": "2025-01-23T17:34:51+05:30",
+      "alt": "A light blue portable juicer blender with a clear cup and a silver six-blade assembly is centered on a white background.",
+      "width": 1500,
+      "height": 1500,
+      "src": "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/2_193ce9f4-5212-4138-9593-115aadde354b.jpg?v=1737633891",
+      "variant_ids": []
+    },
+    {
+      "id": 41790134976822,
+      "product_id": 8426929815862,
+      "position": 4,
+      "created_at": "2023-06-14T20:05:10+05:30",
+      "updated_at": "2025-01-23T17:34:51+05:30",
+      "alt": "A blue portable juicer blender stands next to a glass of orange juice and sliced papaya on a white marble surface.",
+      "width": 1500,
+      "height": 1500,
+      "src": "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/4_e6262ca7-311c-448e-98a8-3b532d61deef.jpg?v=1737633891",
+      "variant_ids": []
+    },
+    {
+      "id": 41790135009590,
+      "product_id": 8426929815862,
+      "position": 5,
+      "created_at": "2023-06-14T20:05:10+05:30",
+      "updated_at": "2025-01-23T17:34:51+05:30",
+      "alt": "A blue portable juicer blender with a clear cup and six-blade assembly is shown with its height and width dimensions.",
+      "width": 1500,
+      "height": 1500,
+      "src": "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/5_1a71f132-c29b-4612-b225-c5fcfd0441d9.jpg?v=1737633891",
+      "variant_ids": []
+    },
+    {
+      "id": 41790135042358,
+      "product_id": 8426929815862,
+      "position": 6,
+      "created_at": "2023-06-14T20:05:10+05:30",
+      "updated_at": "2025-01-23T17:34:51+05:30",
+      "alt": "A close-up of the light blue base of the portable juicer blender shows its power button and USB charging port.",
+      "width": 1500,
+      "height": 1500,
+      "src": "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/7_c605b5eb-d238-4340-82ed-6c2385124805.jpg?v=1737633891",
+      "variant_ids": []
+    },
+    {
+      "id": 41790134878518,
+      "product_id": 8426929815862,
+      "position": 7,
+      "created_at": "2023-06-14T20:05:10+05:30",
+      "updated_at": "2025-01-23T17:34:51+05:30",
+      "alt": "A blue portable juicer blender and its white USB charging cable are on a brown surface next to its green and white box.",
+      "width": 1500,
+      "height": 1500,
+      "src": "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/1_053f895f-9457-4120-941d-ed2e340f346e.jpg?v=1737633891",
+      "variant_ids": []
+    },
+    {
+      "id": 51006949884214,
+      "product_id": 8426929815862,
+      "position": 8,
+      "created_at": "2024-09-18T17:26:38+05:30",
+      "updated_at": "2025-01-23T17:34:51+05:30",
+      "alt": "A green portable juicer blender with a white USB cable is next to its box on a blue towel, surrounded by cardboard boxes.",
+      "width": 720,
+      "height": 1280,
+      "src": "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/c83c07c1-e0a6-4e7e-88b9-9221c1b75ffb.jpg?v=1737633891",
+      "variant_ids": []
+    }
+  ],
+  "image": {
+    "id": 59619973300534,
+    "product_id": 8426929815862,
+    "position": 1,
+    "created_at": "2026-08-07T18:35:23+05:30",
+    "updated_at": "2026-08-07T18:35:25+05:30",
+    "alt": "A blue portable juicer blender filled with a strawberry smoothie sits next to a glass of the same smoothie and fresh fruit.",
+    "width": 1254,
+    "height": 1254,
+    "src": "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/0131.png?v=1786107925",
+    "variant_ids": []
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "themeId": 159555977408,
+  "state": "UNPUBLISHED",
+  "file": "layout/theme.liquid",
+  "normalized_match": true,
+  "source_sha256": "28dee6c2473e558236be6a3195cd9ff8351587ee2c8a9cdca1ad6d170d946a1f",
+  "pulled_sha256": "28dee6c2473e558236be6a3195cd9ff8351587ee2c8a9cdca1ad6d170d946a1f",
+  "official_strict_theme_check": "No findings"
+}

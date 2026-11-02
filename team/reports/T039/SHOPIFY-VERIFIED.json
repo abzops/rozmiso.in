@@ -1,0 +1,165 @@
+[
+  {
+    "key": "heating-belt",
+    "product": {
+      "key": "heating-belt",
+      "id": "gid://shopify/Product/10310413156544",
+      "title": "Rechargeable Heating Belt with Vibration",
+      "vendor": "Rozmiso",
+      "status": "DRAFT",
+      "productType": "Personal care",
+      "descriptionHtml": "<p>A rechargeable waist belt that combines adjustable warmth with a gentle vibration setting. The compact front unit sits on an adjustable strap for use around the waist.</p><ul>\n<li>Rechargeable design for cordless use.</li>\n<li>Heating and vibration functions.</li>\n<li>Adjustable waist strap and digital display.</li>\n</ul><p>Follow the supplied instructions for charging, temperature settings and safe use. Keep the electronic unit dry. Colour and packed accessories should be confirmed before ordering.</p>",
+      "tags": [
+        "final-v5",
+        "launch-review",
+        "T039"
+      ],
+      "totalInventory": 0,
+      "featuredImageUrl": null,
+      "images": [],
+      "totalVariants": 1,
+      "variants": [
+        {
+          "id": "gid://shopify/ProductVariant/50665315696832",
+          "title": "Default Title",
+          "sku": "13483_smart_warm_belt_1pc",
+          "price": "999.00",
+          "inventoryQuantity": 0
+        }
+      ],
+      "currencyCode": "INR"
+    }
+  },
+  {
+    "key": "scalp-massager",
+    "product": {
+      "key": "scalp-massager",
+      "id": "gid://shopify/Product/10310413254848",
+      "title": "USB Rechargeable Scalp Massager with Four Heads",
+      "vendor": "Rozmiso",
+      "status": "DRAFT",
+      "productType": "Personal care",
+      "descriptionHtml": "<p>A compact rechargeable scalp massager with four rotating silicone heads and a handheld shape. A top button controls operation, while the detachable heads allow access for cleaning.</p><ul>\n<li>Four rotating silicone massage heads.</li>\n<li>USB rechargeable for cordless use.</li>\n<li>Detachable heads and one-button control.</li>\n</ul><p>Use gently and follow the supplied instructions for operation and cleaning. Keep the charging connection dry. Stop use if it causes discomfort.</p>",
+      "tags": [
+        "final-v5",
+        "launch-review",
+        "T039"
+      ],
+      "totalInventory": 0,
+      "featuredImageUrl": null,
+      "images": [],
+      "totalVariants": 1,
+      "variants": [
+        {
+          "id": "gid://shopify/ProductVariant/50665315926208",
+          "title": "Default Title",
+          "sku": "13556_smart_scalp_massager_1pc",
+          "price": "999.00",
+          "inventoryQuantity": 0
+        }
+      ],
+      "currencyCode": "INR"
+    }
+  },
+  {
+    "key": "tyre-booster",
+    "product": {
+      "key": "tyre-booster",
+      "id": "gid://shopify/Product/10310413320384",
+      "title": "Motorcycle Flat-Tyre Support Dolly",
+      "vendor": "Rozmiso",
+      "status": "DRAFT",
+      "productType": "Travel essentials",
+      "descriptionHtml": "<p>A compact wheeled support designed to help reposition a two-wheeler with a flat tyre. The metal cradle supports the tyre while its small wheels help it roll during careful manual movement.</p><ul>\n<li>Galvanized steel support frame.</li>\n<li>Compact wheeled cradle.</li>\n<li>Intended as a temporary movement aid for a flat tyre.</li>\n</ul><p>Check tyre fit and follow the supplied instructions before use. Push manually on a suitable level surface. Do not ride the vehicle with the dolly fitted. This tool does not repair or inflate a tyre.</p>",
+      "tags": [
+        "final-v5",
+        "launch-review",
+        "T039"
+      ],
+      "totalInventory": 0,
+      "featuredImageUrl": null,
+      "images": [],
+      "totalVariants": 1,
+      "variants": [
+        {
+          "id": "gid://shopify/ProductVariant/50665316057280",
+          "title": "Default Title",
+          "sku": "1683_emergency_wheel_puller",
+          "price": "899.00",
+          "inventoryQuantity": 0
+        }
+      ],
+      "currencyCode": "INR"
+    }
+  },
+  {
+    "key": "galaxy-projector",
+    "product": {
+      "key": "galaxy-projector",
+      "id": "gid://shopify/Product/10249095086272",
+      "title": "Astronaut Galaxy Projector with Remote",
+      "vendor": "Rozmiso",
+      "status": "DRAFT",
+      "productType": "Decor",
+      "descriptionHtml": "<p>A tabletop galaxy projector in a standing astronaut design. It creates decorative star and nebula lighting, with an adjustable head to change the direction of the projection.</p><ul>\n<li>Standing astronaut body on a moon-style base.</li>\n<li>Adjustable projection angle.</li>\n<li>Remote control for lighting settings.</li>\n</ul><p>Place on a stable surface and follow the supplied power and operating instructions. Keep dry and avoid looking directly into the light source. Projection images are illustrative; the effect depends on the room and ambient light.</p>",
+      "tags": [
+        "bestseller",
+        "decor",
+        "gift",
+        "kids"
+      ],
+      "totalInventory": 150,
+      "featuredImageUrl": null,
+      "images": [],
+      "totalVariants": 2,
+      "variants": [
+        {
+          "id": "gid://shopify/ProductVariant/50402719531200",
+          "title": "1 Piece (Astronaut Projector)",
+          "sku": "ROZ-ASTRO-01",
+          "price": "1299.00",
+          "inventoryQuantity": 90
+        },
+        {
+          "id": "gid://shopify/ProductVariant/50402719563968",
+          "title": "2 Pieces (Bedroom + Gift Bundle - Save ₹300!)",
+          "sku": "ROZ-ASTRO-02",
+          "price": "1899.00",
+          "inventoryQuantity": 60
+        }
+      ],
+      "currencyCode": "INR"
+    }
+  },
+  {
+    "key": "usb-juicer",
+    "product": {
+      "key": "usb-juicer",
+      "id": "gid://shopify/Product/10310413418688",
+      "title": "Portable USB Rechargeable Blender — 380 ml",
+      "vendor": "Rozmiso",
+      "status": "DRAFT",
+      "productType": "Kitchen",
+      "descriptionHtml": "<p>A compact USB rechargeable blender for single-serving fruit drinks and shakes. The clear 380 ml jar sits on a pink motor base, and the lid has a carry strap.</p><ul>\n<li>380 ml jar capacity.</li>\n<li>USB rechargeable design and carry strap.</li>\n</ul><p>Use small pieces of soft fruit with sufficient liquid and follow the supplied instructions. Keep hands away from the blades, switch off before cleaning, and keep the motor base and charging port dry. Do not use hot liquids.</p>",
+      "tags": [
+        "final-v5",
+        "launch-review",
+        "T039"
+      ],
+      "totalInventory": 0,
+      "featuredImageUrl": null,
+      "images": [],
+      "totalVariants": 1,
+      "variants": [
+        {
+          "id": "gid://shopify/ProductVariant/50665316352192",
+          "title": "Default Title",
+          "sku": "0133_usb_juicer_6blade",
+          "price": "749.00",
+          "inventoryQuantity": 0
+        }
+      ],
+      "currencyCode": "INR"
+    }
+  }
+]

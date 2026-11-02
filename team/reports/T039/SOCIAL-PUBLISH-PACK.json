@@ -1,0 +1,87 @@
+{
+  "task": "T039",
+  "state": "PUBLISHED_INSTAGRAM_AND_FACEBOOK_VERIFIED_IN_META_PUBLISHED",
+  "destinations": [
+    "Instagram @rozmiso.in",
+    "Rozmiso Facebook Page"
+  ],
+  "publicationHold": null,
+  "domain": "rozmiso.in DNS NXDOMAIN at check; no broken URL in published captions",
+  "products": [
+    {
+      "key": "heating-belt",
+      "title": "Rechargeable Heating Belt with Vibration",
+      "priceINR": 999,
+      "productId": "gid://shopify/Product/10310413156544",
+      "sourceVideo": "C:/Users/Abhinand/Downloads/final-v5/1-heating-belt.mp4",
+      "caption": "Cash on Delivery is currently unavailable. The COD offer shown in this video does not apply. Hot-water bottle routine? Meet your rechargeable alternative. ✨ Adjustable warmth, gentle vibration and a digital display in one compact waist belt. Follow the supplied instructions for safe use. ₹999 · Rozmiso Save this find for your next wind-down routine. #Rozmiso #EverydayEssentials #SelfCare #UsefulFinds",
+      "published": true,
+      "metaDraftSaved": false,
+      "metaContentId": "122114908521503599",
+      "platforms": [
+        "Instagram",
+        "Facebook"
+      ]
+    },
+    {
+      "key": "scalp-massager",
+      "title": "USB Rechargeable Scalp Massager with Four Heads",
+      "priceINR": 999,
+      "productId": "gid://shopify/Product/10310413254848",
+      "sourceVideo": "C:/Users/Abhinand/Downloads/final-v5/2-scalp-massager.mp4",
+      "caption": "Cash on Delivery is currently unavailable. The COD offer shown in this video does not apply. Your daily pause, in the palm of your hand. ✨ Four rotating silicone heads. One-button control. Rechargeable for cordless use. Meet the Rozmiso Scalp Massager. Use gently and follow the supplied instructions. ₹999 · Rozmiso Save it for your self-care routine. #Rozmiso #SelfCare #ScalpMassager #EverydayEssentials",
+      "published": true,
+      "metaDraftSaved": false,
+      "metaContentId": "122114909649503599",
+      "platforms": [
+        "Instagram",
+        "Facebook"
+      ]
+    },
+    {
+      "key": "tyre-booster",
+      "title": "Motorcycle Flat-Tyre Support Dolly",
+      "priceINR": 899,
+      "productId": "gid://shopify/Product/10310413320384",
+      "sourceVideo": "C:/Users/Abhinand/Downloads/final-v5/3-tyre-booster.mp4",
+      "caption": "Cash on Delivery is currently unavailable. The COD offer shown in this video does not apply. Flat tyre? A small tool worth knowing about. 🛵 This support dolly helps with careful manual repositioning of a two-wheeler on a suitable level surface. It does not repair or inflate a tyre. Never ride with it fitted. Check tyre fit before use. ₹899 · Rozmiso Save this for your two-wheeler toolkit. #Rozmiso #TwoWheeler #MotorcycleEssentials #UsefulFinds",
+      "published": true,
+      "metaDraftSaved": false,
+      "metaContentId": "122114909889503599",
+      "platforms": [
+        "Instagram",
+        "Facebook"
+      ]
+    },
+    {
+      "key": "galaxy-projector",
+      "title": "Astronaut Galaxy Projector with Remote",
+      "priceINR": 1299,
+      "productId": "gid://shopify/Product/10249095086272",
+      "sourceVideo": "C:/Users/Abhinand/Downloads/final-v5/4-galaxy-projector.mp4",
+      "caption": "Cash on Delivery is currently unavailable. The COD offer shown in this video does not apply. A little astronaut. A different evening atmosphere. 🌌 Decorative star and nebula lighting, an adjustable projection angle and remote control. The video includes imaginative scenes; actual projection effects vary with the room and ambient light. ₹1,299 · Rozmiso Save this for your room-lighting ideas. #Rozmiso #GalaxyProjector #HomeLighting #RoomInspiration",
+      "published": true,
+      "metaDraftSaved": false,
+      "metaContentId": "122114909997503599",
+      "platforms": [
+        "Instagram",
+        "Facebook"
+      ]
+    },
+    {
+      "key": "usb-juicer",
+      "title": "Portable USB Rechargeable Blender — 380 ml",
+      "priceINR": 749,
+      "productId": "gid://shopify/Product/10310413418688",
+      "sourceVideo": "C:/Users/Abhinand/Downloads/final-v5/5-usb-juicer.mp4",
+      "caption": "Cash on Delivery is currently unavailable. The COD offer shown in this video does not apply. One serving. Less fuss. 🍓 Meet the compact 380 ml USB rechargeable blender with a carry strap. Use small pieces of soft fruit with enough liquid, and follow the supplied instructions. Keep the motor base dry and avoid hot liquids. ₹749 · Rozmiso What would you blend first? Save this for your kitchen wish list. #Rozmiso #PortableBlender #KitchenEssentials #EverydayFinds",
+      "published": true,
+      "metaDraftSaved": false,
+      "metaContentId": "122114910111503599",
+      "platforms": [
+        "Instagram",
+        "Facebook"
+      ]
+    }
+  ]
+}

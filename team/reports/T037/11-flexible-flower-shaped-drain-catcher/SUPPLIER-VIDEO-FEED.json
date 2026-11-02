@@ -1,0 +1,60 @@
+{
+  "events": [
+    {
+      "event_id": 409077,
+      "storyset_id": null,
+      "storyset_name": null,
+      "storyset_thumbnail_image": null,
+      "storyset_event_rank": null,
+      "storyset_event_map_id": null,
+      "storyset_dynamic_thumbnail": false,
+      "meta_actions": null,
+      "products": [
+        {
+          "product_id": 315247,
+          "brand": "DeoDap",
+          "product_link": "https://deodap.in/products/flexible-silicone-sink-strainer-drain-hair-catcher",
+          "client_product_id": "10465255096630",
+          "price": "29.00",
+          "currency": "INR",
+          "title": "Silicone Sink Strainer \u2013 Flexible, Anti-Clog Hair Catcher",
+          "description": "",
+          "thumbnail_image": "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/Silicone-sink-stainer-01.jpg?v=1764734709",
+          "compare_price": "99.00",
+          "product_metadata": null,
+          "product_status": "active"
+        }
+      ],
+      "cta": [
+        {
+          "cta_id": 1893,
+          "cta_link": "https://whatmore.ai",
+          "client_cta_id": "https://whatmore.ai",
+          "cta_title": "",
+          "thumbnail_image": "",
+          "cta_type": ""
+        }
+      ],
+      "title": "",
+      "brand": "DeoDap",
+      "scheduled_date": "2026-09-21",
+      "status": "upcoming",
+      "thumbnail_image": "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/tn_13c47342-1e27-467c-b7f6-1f32993a19e9.mp4?v=1789966029",
+      "event_hls_url": "https://cdn.shopify.com/videos/c/vp/4f605d856cf946e3b426d1157ef9ad81/4f605d856cf946e3b426d1157ef9ad81.HD-720p-3.0Mbps-95034669.mp4",
+      "event_type": "video",
+      "is_active": false,
+      "rank": 9406,
+      "event_state": "ready",
+      "expiration_date": null,
+      "poster_image": "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/poster_13c47342-1e27-467c-b7f6-1f32993a19e9.webp?v=1789966033",
+      "gif_image": "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/gif_13c47342-1e27-467c-b7f6-1f32993a19e9.gif?v=1789966039",
+      "event_m3u8_url": "https://cdn.shopify.com/videos/c/vp/4f605d856cf946e3b426d1157ef9ad81/4f605d856cf946e3b426d1157ef9ad81.m3u8",
+      "hd_video_url": "https://cdn.shopify.com/videos/c/vp/4f605d856cf946e3b426d1157ef9ad81/4f605d856cf946e3b426d1157ef9ad81.HD-1080p-4.8Mbps-95034669.mp4",
+      "total_views": 50,
+      "total_like": 0,
+      "total_share": 0,
+      "total_whatsapp": 0,
+      "in_stock": true
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "supplier_product_id": "8431344156982",
+  "source_api": "https://cdn-consumer.whatmore.live/v2/brand/78232846646/product-events?client_product_id=8431344156982&status=live,upcoming&event_type=video,image",
+  "permission_source": "https://deodap.in/blogs/news/earn-passive-income-online-in-india-with-deodap-dropshipping",
+  "rights": "SUPPLIER_REUSE_STATEMENT_PRESENT_MUSIC_AND_THIRD_PARTY_RIGHTS_NOT_VERIFIED",
+  "videos": [
+    {
+      "event_id": 328197,
+      "video_url": "https://cdn.shopify.com/videos/c/vp/7acc3140436d429c9b2614fa430a8666/7acc3140436d429c9b2614fa430a8666.HD-720p-1.6Mbps-78560945.mp4",
+      "downloadPath": "F:\\Dropshipping\\team\\reports\\T037\\01-6186-canvas-laundry-bag-toy-storage-laundry-storage\\videos\\supplier-328197.mp4",
+      "contactSheet": "F:\\Dropshipping\\team\\reports\\T037\\01-6186-canvas-laundry-bag-toy-storage-laundry-storage\\videos\\supplier-328197-frames.jpg",
+      "sha256": "e774a4e61dd77a95ab48878ac5fc3acb069764e5172fb2483033a99c06881b94",
+      "metadata": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "h264",
+            "codec_type": "video",
+            "width": 404,
+            "height": 720
+          },
+          {
+            "codec_name": "aac",
+            "codec_type": "audio"
+          }
+        ],
+        "format": {
+          "duration": "22.466667",
+          "size": "4695104"
+        }
+      },
+      "supplier_event_active": true,
+      "matchStatus": "PENDING_FRAME_REVIEW",
+      "source_product_url": "https://deodap.in/products/6186-canvas-laundry-bag-toy-storage-laundry-storage"
+    }
+  ],
+  "status": "DOWNLOADED_PENDING_IDENTITY_REVIEW"
+}

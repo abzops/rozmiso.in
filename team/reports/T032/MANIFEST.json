@@ -1,0 +1,112 @@
+[
+  {
+    "number": 1,
+    "name": "Editorial Classic",
+    "path": "F:\\Dropshipping\\team\\reports\\T032\\concepts\\01-editorial-classic.png",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "sha256": "e59f9d5d1afe5a836b85818c4bdab30b9bcfe69f64cc5c443962b50f4014292a",
+    "status": "OWNER_APPROVAL_CONCEPT_NOT_LIVE"
+  },
+  {
+    "number": 2,
+    "name": "Quiet Gallery",
+    "path": "F:\\Dropshipping\\team\\reports\\T032\\concepts\\02-quiet-gallery.png",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "sha256": "8ca3f21185293d313a63bbac50e1efb0229f10c8a2175bbabdec81952c50265b",
+    "status": "OWNER_APPROVAL_CONCEPT_NOT_LIVE"
+  },
+  {
+    "number": 3,
+    "name": "Warm Lifestyle",
+    "path": "F:\\Dropshipping\\team\\reports\\T032\\concepts\\03-warm-lifestyle.png",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "sha256": "b6e7316fa11f99c7979114258115ce3690f3ec1908d7c4e74ffddf9e7d46f6e0",
+    "status": "OWNER_APPROVAL_CONCEPT_NOT_LIVE"
+  },
+  {
+    "number": 4,
+    "name": "Precision Utility",
+    "path": "F:\\Dropshipping\\team\\reports\\T032\\concepts\\04-precision-utility.png",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "sha256": "d6efbd81a2a43b682fb081e2186f87f824e5a114dfefaa04b1588875f532263c",
+    "status": "OWNER_APPROVAL_CONCEPT_NOT_LIVE"
+  },
+  {
+    "number": 5,
+    "name": "Modern Bento",
+    "path": "F:\\Dropshipping\\team\\reports\\T032\\concepts\\05-modern-bento.png",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "sha256": "2092f4869ed868a16dfbb0aca9e58a362fa375ba0d0a5f462dc4bf883b71972e",
+    "status": "OWNER_APPROVAL_CONCEPT_NOT_LIVE"
+  },
+  {
+    "number": 6,
+    "name": "Botanical Calm",
+    "path": "F:\\Dropshipping\\team\\reports\\T032\\concepts\\06-botanical-calm.png",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "sha256": "8807d89b572d1e877c9c2d783f59ef0aac2dda71c0004bad666ceae35ee339b4",
+    "status": "OWNER_APPROVAL_CONCEPT_NOT_LIVE"
+  },
+  {
+    "number": 7,
+    "name": "Heritage Catalogue",
+    "path": "F:\\Dropshipping\\team\\reports\\T032\\concepts\\07-heritage-catalogue.png",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "sha256": "2cac533a00d230f4b74b94a7c2dbb0460b2d477d2b21520d5f47b3db776fe078",
+    "status": "OWNER_APPROVAL_CONCEPT_NOT_LIVE"
+  },
+  {
+    "number": 8,
+    "name": "Studio Contrast",
+    "path": "F:\\Dropshipping\\team\\reports\\T032\\concepts\\08-studio-contrast.png",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "sha256": "28d939e7c64b49fafe94515b6d33ad84b2e31686d273346ef48b2271dccb3a42",
+    "status": "OWNER_APPROVAL_CONCEPT_NOT_LIVE"
+  },
+  {
+    "number": 9,
+    "name": "Story-led Split",
+    "path": "F:\\Dropshipping\\team\\reports\\T032\\concepts\\09-story-led-split.png",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "sha256": "a7592963edcc557ad6843c51da269d0a8035eb6a5600c11c4eb695bb4dac5ef5",
+    "status": "OWNER_APPROVAL_CONCEPT_NOT_LIVE"
+  },
+  {
+    "number": 10,
+    "name": "Minimal Conversion",
+    "path": "F:\\Dropshipping\\team\\reports\\T032\\concepts\\10-minimal-conversion.png",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "sha256": "aeac27ddb150688c1ddf4bd5e954511a446435070f6ec0609b2183465e9f650e",
+    "status": "OWNER_APPROVAL_CONCEPT_NOT_LIVE"
+  }
+]

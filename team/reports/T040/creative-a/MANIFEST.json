@@ -1,0 +1,263 @@
+{
+  "task": "T040",
+  "lane": "Creative A",
+  "status": "SUBMITTED",
+  "generator": "Built-in image_gen only",
+  "generatorStatus": "SUCCESS: 10 separate calls; 10 separate PNG assets persisted; no retries or CLI/API fallback.",
+  "requestedResolution": "1536x1536",
+  "actualResolution": "1254x1254 for all ten. Built-in tool exposed prompt/reference controls but no size argument; no shell upscaling or image editing performed.",
+  "theme": "Warm ivory #F5F0E7 / deep forest #173E33, Georgia-like headings and clear sans body. Plain generated Rozmiso text is not an official logo.",
+  "products": [
+    {
+      "key": "heating-belt",
+      "sku": "13483_smart_warm_belt_1pc",
+      "sourceURL": "https://deodap.in/products/menstrual-cramp-relief-belt-rechargeable-heating-pad",
+      "sourceURLs": [
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/05_7dbbb4d3-7b75-40d2-b21d-141cc334a909.jpg?v=1763972293",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/13483_1500x1500_6836d22f-8402-4927-ac2f-db7db915837a.jpg?v=1786169132"
+      ],
+      "facts": [
+        "Supplier lists a rechargeable waist warming belt with heating and vibration functions.",
+        "Adjustable waist fit and controls are described by supplier.",
+        "Product photograph confirms lavender oval shell, black pill display, side oval button/tab, grey strap and pictured USB cable."
+      ],
+      "excludedClaims": [
+        "Menstrual/back pain relief, improved circulation and therapeutic efficacy.",
+        "Long battery life, prolonged-wear safety and hypoallergenic/irritation-free guarantees.",
+        "Exact heat levels, temperature range, timer, battery capacity or charging duration.",
+        "Washable/removable electronic unit claims; physical disassembly and care instructions not verified.",
+        "Included cable guarantee; pictured cable is not a complete packing-list confirmation.",
+        "187g supplier variant weight is not accepted as measured net product weight."
+      ],
+      "supplierDetails": {
+        "supplierTitle": "Menstrual Cramp Relief Belt – Rechargeable Heating Pad | Velvet Wellness",
+        "colour": "Lavender front unit with grey strap, photo evidence",
+        "power": "Rechargeable; USB cable shown in exact product photo",
+        "functions": [
+          "Heating",
+          "Vibration"
+        ],
+        "fit": "Adjustable waist strap",
+        "controls": "Black digital display and side oval control visible",
+        "packQuantity": "1 belt, per 1pc supplier SKU",
+        "includedItemsConfirmed": [
+          "One heating-belt unit with strap"
+        ],
+        "includedItemsUnconfirmed": [
+          "Charging cable inclusion",
+          "Printed manual",
+          "Other accessories"
+        ],
+        "dimensions": null,
+        "batteryCapacity": null,
+        "temperatureRange": null,
+        "stock": "Not adopted or verified"
+      },
+      "html": "<h2>Overview</h2><p>A rechargeable waist belt that combines adjustable warmth with vibration. Its lavender front unit has a black digital display and sits on an adjustable grey strap for use around the waist.</p><h2>Features</h2><ul><li>Rechargeable design for cordless use.</li><li>Heating and vibration functions.</li><li>Adjustable waist strap.</li><li>Digital display and simple controls.</li></ul><h2>Product details</h2><table><tbody><tr><th>Product type</th><td>Rechargeable waist warming belt</td></tr><tr><th>Colour shown</th><td>Lavender with grey strap</td></tr><tr><th>Functions</th><td>Heating and vibration</td></tr><tr><th>Fit</th><td>Adjustable waist strap</td></tr><tr><th>Pack quantity</th><td>1 belt</td></tr></tbody></table><h2>Included item</h2><p>One heating belt with its waist strap. Confirm the packed charging accessories before ordering.</p><h2>How to use</h2><ol><li>Read the supplied instructions before charging or first use.</li><li>Charge using the connection and power source specified in those instructions.</li><li>Position the belt around the waist and adjust the strap for a comfortable fit.</li><li>Use the controls to select the setting described in the instructions. Stop if the belt feels uncomfortable or too warm.</li><li>Switch off after use.</li></ol><h2>Care</h2><p>Switch off and disconnect before cleaning. Keep the electronic unit and charging connection dry. Follow the supplied cleaning instructions; do not assume that the complete unit can be washed or immersed.</p>",
+      "verificationDate": "2026-11-01",
+      "verificationBasis": "Fresh public DeoDap product JSON downloaded; target SKU matched; original photographs viewed. Supplier-listed facts are not physical testing/certification.",
+      "referencePaths": [
+        "F:/Dropshipping/team/reports/T040/creative-a/heating-belt/references/reference-1.jpg",
+        "F:/Dropshipping/team/reports/T040/creative-a/heating-belt/references/reference-2.jpg"
+      ],
+      "freshJSONPath": "F:/Dropshipping/team/reports/T040/creative-a/heating-belt/references/supplier-fresh.json",
+      "images": [
+        {
+          "path": "F:/Dropshipping/team/reports/T040/creative-a/heating-belt/01-hero.png",
+          "role": "studio hero",
+          "prompt": "Use case: product-mockup. Create ONE square 1536x1536 premium ecommerce studio hero photograph for Rozmiso. Input image 1 is the authoritative EXACT product photograph, not style inspiration: preserve this same lavender elongated oval heat belt, proportions, embossed inset border, black pill display near upper centre, side oval button/tab and grey woven adjustable strap. Keep the existing camera angle and product geometry; do not invent unseen parts. Place product alone on a seamless warm ivory #F5F0E7 background with a restrained soft grounded shadow and refined diffuse studio light, product occupying 75% of frame, generous balanced breathing room. No cable or other accessories. NO text, logos, claims, prices, badges or graphic borders. Colour stays lavender. Do not substitute or redesign the product.",
+          "originalGeneratedPath": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a1974f-ebcd-76a2-8f4d-15062453b7e4\\exec-9fc3b9a8-7829-4700-8759-528f1d786036.png",
+          "referencePaths": [
+            "F:/Dropshipping/team/reports/T040/creative-a/heating-belt/references/reference-1.jpg"
+          ],
+          "width": 1254,
+          "height": 1254,
+          "inspection": "Viewed generated image against exact source photograph. Product colour/shape/control arrangement preserved; text readable and no commerce/medical/waterproof/runtime claims.",
+          "qualityNotes": "Digital segments are stylized and must not be treated as a temperature or specification."
+        },
+        {
+          "path": "F:/Dropshipping/team/reports/T040/creative-a/heating-belt/02-context.png",
+          "role": "realistic context",
+          "prompt": "Create ONE separate square 1536x1536 premium Rozmiso ecommerce image, warm ivory #F5F0E7 and deep forest #173E33, restrained Georgia-like serif heading and clean DM Sans-like body if text is requested. Soft natural studio light, product dominant, readable short text, generous whitespace, calm uncluttered editorial composition. No price, COD, stock, discounts, ratings, badges, medical claims, fake manufacturer logo, water effects or hidden invented geometry. Input image 1 is the exact authoritative product photograph: preserve lavender elongated oval heat-belt shell, embossed inset border, black pill display at upper centre, single oval side button/tab, grey woven adjustable strap and all proportions. Do not redesign, recolour or add controls/accessories. Input image 2 provides verified over-clothing wearing geometry. Show one adult woman seated at a quiet ivory home desk, the same lavender belt correctly wrapped over a cream knit top at waist level and clearly visible. Natural neutral expression, no pain-to-relief narrative, no thermal glow. No text. The product is the focus; human face secondary.",
+          "originalGeneratedPath": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a1974f-ebcd-76a2-8f4d-15062453b7e4\\exec-c7ad4db2-62f5-4763-87a6-a0c9c30f7328.png",
+          "referencePaths": [
+            "F:/Dropshipping/team/reports/T040/creative-a/heating-belt/references/reference-1.jpg",
+            "F:/Dropshipping/team/reports/T040/creative-a/heating-belt/references/reference-2.jpg"
+          ],
+          "width": 1254,
+          "height": 1254,
+          "inspection": "Viewed generated image against exact source photograph. Product colour/shape/control arrangement preserved; text readable and no commerce/medical/waterproof/runtime claims.",
+          "qualityNotes": "Digital segments are stylized and must not be treated as a temperature or specification."
+        },
+        {
+          "path": "F:/Dropshipping/team/reports/T040/creative-a/heating-belt/03-features.png",
+          "role": "feature panel",
+          "prompt": "Create ONE separate square 1536x1536 premium Rozmiso ecommerce image, warm ivory #F5F0E7 and deep forest #173E33, restrained Georgia-like serif heading and clean DM Sans-like body if text is requested. Soft natural studio light, product dominant, readable short text, generous whitespace, calm uncluttered editorial composition. No price, COD, stock, discounts, ratings, badges, medical claims, fake manufacturer logo, water effects or hidden invented geometry. Input image 1 is the exact authoritative product photograph: preserve lavender elongated oval heat-belt shell, embossed inset border, black pill display at upper centre, single oval side button/tab, grey woven adjustable strap and all proportions. Do not redesign, recolour or add controls/accessories. Use the same product three-quarter angle, shown large in lower two-thirds on ivory. Add small plain Rozmiso text upper left, heading 'Everyday warmth' and exactly three short forest-green labels in a clean single column: 'Digital display', 'Adjustable strap', 'USB rechargeable'. No specification values, heat glows, exploded views or diagrams. One clear product only.",
+          "originalGeneratedPath": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a1974f-ebcd-76a2-8f4d-15062453b7e4\\exec-68839643-56ae-4bad-a724-39b3c68bbedc.png",
+          "referencePaths": [
+            "F:/Dropshipping/team/reports/T040/creative-a/heating-belt/references/reference-1.jpg"
+          ],
+          "width": 1254,
+          "height": 1254,
+          "inspection": "Viewed generated image against exact source photograph. Product colour/shape/control arrangement preserved; text readable and no commerce/medical/waterproof/runtime claims.",
+          "qualityNotes": "Digital segments are stylized and must not be treated as a temperature or specification."
+        },
+        {
+          "path": "F:/Dropshipping/team/reports/T040/creative-a/heating-belt/04-control-detail.png",
+          "role": "design/control closeup",
+          "prompt": "Create ONE separate square 1536x1536 premium Rozmiso ecommerce image, warm ivory #F5F0E7 and deep forest #173E33, restrained Georgia-like serif heading and clean DM Sans-like body if text is requested. Soft natural studio light, product dominant, readable short text, generous whitespace, calm uncluttered editorial composition. No price, COD, stock, discounts, ratings, badges, medical claims, fake manufacturer logo, water effects or hidden invented geometry. Input image 1 is the exact authoritative product photograph: preserve lavender elongated oval heat-belt shell, embossed inset border, black pill display at upper centre, single oval side button/tab, grey woven adjustable strap and all proportions. Do not redesign, recolour or add controls/accessories. A precise premium photographic closeup of the EXISTING upper-centre black pill display and nearby lavender embossed border. Keep display and genuine button locations as reference, no new switches. Crop photograph deliberately for a detail view while showing enough lavender shell to identify product. Heading 'A closer look' and small subtitle 'Digital display'. Plain small Rozmiso text. No diagram or invented temperature readings.",
+          "originalGeneratedPath": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a1974f-ebcd-76a2-8f4d-15062453b7e4\\exec-80907b4b-591b-4409-8312-c1528935c819.png",
+          "referencePaths": [
+            "F:/Dropshipping/team/reports/T040/creative-a/heating-belt/references/reference-1.jpg"
+          ],
+          "width": 1254,
+          "height": 1254,
+          "inspection": "Viewed generated image against exact source photograph. Product colour/shape/control arrangement preserved; text readable and no commerce/medical/waterproof/runtime claims.",
+          "qualityNotes": "Digital segments are stylized and must not be treated as a temperature or specification."
+        },
+        {
+          "path": "F:/Dropshipping/team/reports/T040/creative-a/heating-belt/05-care.png",
+          "role": "use/care panel",
+          "prompt": "Create ONE separate square 1536x1536 premium Rozmiso ecommerce image, warm ivory #F5F0E7 and deep forest #173E33, restrained Georgia-like serif heading and clean DM Sans-like body if text is requested. Soft natural studio light, product dominant, readable short text, generous whitespace, calm uncluttered editorial composition. No price, COD, stock, discounts, ratings, badges, medical claims, fake manufacturer logo, water effects or hidden invented geometry. Input image 1 is the exact authoritative product photograph: preserve lavender elongated oval heat-belt shell, embossed inset border, black pill display at upper centre, single oval side button/tab, grey woven adjustable strap and all proportions. Do not redesign, recolour or add controls/accessories. Use complete product at existing angle on right lower two-thirds, no accessories. Editorial forest text upper left: heading 'Use with care', then exactly 'Follow the supplied instructions', 'Keep the electronic unit dry', 'Stop if uncomfortable'. Plain small Rozmiso text at top. Product remains large, no warning symbols, medical body diagrams or unverified wash claims.",
+          "originalGeneratedPath": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a1974f-ebcd-76a2-8f4d-15062453b7e4\\exec-6bd8c4b3-78fc-48cb-b399-f0b9a84dfeb8.png",
+          "referencePaths": [
+            "F:/Dropshipping/team/reports/T040/creative-a/heating-belt/references/reference-1.jpg"
+          ],
+          "width": 1254,
+          "height": 1254,
+          "inspection": "Viewed generated image against exact source photograph. Product colour/shape/control arrangement preserved; text readable and no commerce/medical/waterproof/runtime claims.",
+          "qualityNotes": "Digital segments are stylized and must not be treated as a temperature or specification."
+        }
+      ],
+      "generatorStatus": "SUCCESS: five separate built-in calls, five saved PNGs, all visually inspected."
+    },
+    {
+      "key": "scalp-massager",
+      "sku": "13556_smart_scalp_massager_1pc",
+      "sourceURL": "https://deodap.in/products/smart-electric-scalp-massager-1-pc",
+      "sourceURLs": [
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/SmartScalpMassager-04.jpg?v=1793000116",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/SmartScalpMassager-01.jpg?v=1793000109"
+      ],
+      "facts": [
+        "Fresh supplier lists four detachable heads and soft silicone bristles.",
+        "Fresh supplier lists USB rechargeable battery and plastic body.",
+        "Exact reference confirms white domed rounded triangular shell, silver perimeter band, round grey top button and grey massage heads.",
+        "Rotating head operation is corroborated in prior supplier/photo evidence and owner creative, not independently performance-tested."
+      ],
+      "excludedClaims": [
+        "IPX6 supplier text versus IPX7 original graphic contradiction; no waterproof/wet-use claim.",
+        "Up to one week battery runtime.",
+        "10-minute automatic shutoff lacks exact-model/manual confirmation.",
+        "Hair growth, headache/pain relief and medical efficacy.",
+        "Safe for all hair types/no pulling/no fatigue guarantees.",
+        "298g supplier variant weight is not accepted as measured net product weight.",
+        "Cable inclusion not explicitly established by packing list."
+      ],
+      "supplierDetails": {
+        "supplierTitle": "Electric Scalp Massager – Portable USB Rechargeable with 4 Heads",
+        "colour": "White shell, silver trim and grey heads",
+        "materials": "Plastic body and silicone massage bristles, supplier stated",
+        "power": "USB rechargeable",
+        "headCount": 4,
+        "heads": "Detachable",
+        "controls": "One round top button",
+        "packQuantity": "1 unit, per 1pc supplier SKU",
+        "includedItemsConfirmed": [
+          "One massager unit with four massage heads"
+        ],
+        "includedItemsUnconfirmed": [
+          "USB cable inclusion",
+          "Printed manual",
+          "Extra replacement heads"
+        ],
+        "dimensions": null,
+        "batteryCapacity": null,
+        "waterproofRating": null,
+        "stock": "Not adopted or verified"
+      },
+      "html": "<h2>Overview</h2><p>A compact USB rechargeable scalp massager with a rounded white shell, silver trim and four grey massage heads. The handheld design has a single top button for operation.</p><h2>Features</h2><ul><li>Four detachable massage heads with soft silicone bristles.</li><li>USB rechargeable for cordless use.</li><li>Rounded handheld body.</li><li>One-button control.</li><li>Detachable heads provide access for cleaning.</li></ul><h2>Product details</h2><table><tbody><tr><th>Product type</th><td>Electric scalp massager</td></tr><tr><th>Colour shown</th><td>White with silver trim and grey heads</td></tr><tr><th>Body</th><td>Plastic, as listed by the supplier</td></tr><tr><th>Massage bristles</th><td>Silicone, as listed by the supplier</td></tr><tr><th>Heads</th><td>4 detachable massage heads</td></tr><tr><th>Power</th><td>USB rechargeable</td></tr><tr><th>Control</th><td>One top button</td></tr><tr><th>Pack quantity</th><td>1 massager</td></tr></tbody></table><h2>Included item</h2><p>One scalp massager with four massage heads. Confirm the packed charging accessories before ordering.</p><h2>How to use</h2><ol><li>Read the supplied instructions and charge as directed before use.</li><li>Hold the unit comfortably and use the top button as instructed.</li><li>Place the heads gently against the scalp and move slowly without pressing hard.</li><li>Stop if it catches the hair or causes discomfort.</li><li>Switch off after use.</li></ol><h2>Care</h2><p>Switch off and disconnect before cleaning. The supplier recommends wiping the silicone heads with a damp cloth and avoiding harsh chemicals. Follow the supplied instructions for removing and refitting heads. Keep the body and charging connection dry; do not immerse the unit or assume it is suitable for shower use.</p>",
+      "verificationDate": "2026-11-01",
+      "verificationBasis": "Fresh public DeoDap product JSON downloaded; target SKU matched; original photographs viewed. Supplier-listed facts are not physical testing/certification.",
+      "referencePaths": [
+        "F:/Dropshipping/team/reports/T040/creative-a/scalp-massager/references/reference-1.jpg",
+        "F:/Dropshipping/team/reports/T040/creative-a/scalp-massager/references/reference-2.jpg"
+      ],
+      "freshJSONPath": "F:/Dropshipping/team/reports/T040/creative-a/scalp-massager/references/supplier-fresh.json",
+      "images": [
+        {
+          "path": "F:/Dropshipping/team/reports/T040/creative-a/scalp-massager/01-hero.png",
+          "role": "studio hero",
+          "prompt": "Create ONE separate square 1536x1536 premium Rozmiso ecommerce image, warm ivory #F5F0E7 and deep forest #173E33, restrained Georgia-like serif heading and clean DM Sans-like body if text is requested. Soft natural studio light, product dominant, readable short text, generous whitespace, calm uncluttered editorial composition. No price, COD, stock, discounts, ratings, badges, medical claims, fake manufacturer logo, water effects or hidden invented geometry. Input image 1 is the exact authoritative product photograph: preserve white rounded triangular domed shell, thin silver perimeter band, single round grey top button and FOUR grey massage head assemblies underneath. Keep existing angle when underside hidden; do not invent extra heads, LED display, controls or attachments. Product-mockup studio hero: product alone on warm ivory seamless background, same three-quarter angle, 72 percent frame width, soft grounded shadow. Absolutely NO text, logo, cable, box, hands, props or additional accessories.",
+          "originalGeneratedPath": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a1974f-ebcd-76a2-8f4d-15062453b7e4\\exec-fdc5ddab-037a-421c-8d9d-4d3ef14346d5.png",
+          "referencePaths": [
+            "F:/Dropshipping/team/reports/T040/creative-a/scalp-massager/references/reference-1.jpg"
+          ],
+          "width": 1254,
+          "height": 1254,
+          "inspection": "Viewed generated image against exact source photograph. Product colour/shape/control arrangement preserved; text readable and no commerce/medical/waterproof/runtime claims.",
+          "qualityNotes": "Hidden fourth head stays occluded in original three-quarter angle; no extra heads added."
+        },
+        {
+          "path": "F:/Dropshipping/team/reports/T040/creative-a/scalp-massager/02-context.png",
+          "role": "realistic context",
+          "prompt": "Create ONE separate square 1536x1536 premium Rozmiso ecommerce image, warm ivory #F5F0E7 and deep forest #173E33, restrained Georgia-like serif heading and clean DM Sans-like body if text is requested. Soft natural studio light, product dominant, readable short text, generous whitespace, calm uncluttered editorial composition. No price, COD, stock, discounts, ratings, badges, medical claims, fake manufacturer logo, water effects or hidden invented geometry. Input image 1 is the exact authoritative product photograph: preserve white rounded triangular domed shell, thin silver perimeter band, single round grey top button and FOUR grey massage head assemblies underneath. Keep existing angle when underside hidden; do not invent extra heads, LED display, controls or attachments. Realistic quiet home use: one adult woman holds this exact white massager gently on top of her scalp with four grey heads contacting hair, over a cream sofa and ivory interior. Show the product large and identifiable, neutral relaxed everyday moment without cure/recovery narrative. Natural hand anatomy, no exaggerated glow, hair-growth effects or wet use. No text.",
+          "originalGeneratedPath": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a1974f-ebcd-76a2-8f4d-15062453b7e4\\exec-486c7dd5-4f96-42b6-8801-060cd3c954bf.png",
+          "referencePaths": [
+            "F:/Dropshipping/team/reports/T040/creative-a/scalp-massager/references/reference-1.jpg"
+          ],
+          "width": 1254,
+          "height": 1254,
+          "inspection": "Viewed generated image against exact source photograph. Product colour/shape/control arrangement preserved; text readable and no commerce/medical/waterproof/runtime claims.",
+          "qualityNotes": "Hidden fourth head stays occluded in original three-quarter angle; no extra heads added."
+        },
+        {
+          "path": "F:/Dropshipping/team/reports/T040/creative-a/scalp-massager/03-features.png",
+          "role": "feature panel",
+          "prompt": "Create ONE separate square 1536x1536 premium Rozmiso ecommerce image, warm ivory #F5F0E7 and deep forest #173E33, restrained Georgia-like serif heading and clean DM Sans-like body if text is requested. Soft natural studio light, product dominant, readable short text, generous whitespace, calm uncluttered editorial composition. No price, COD, stock, discounts, ratings, badges, medical claims, fake manufacturer logo, water effects or hidden invented geometry. Input image 1 is the exact authoritative product photograph: preserve white rounded triangular domed shell, thin silver perimeter band, single round grey top button and FOUR grey massage head assemblies underneath. Keep existing angle when underside hidden; do not invent extra heads, LED display, controls or attachments. Large product in lower two-thirds at same reference angle, no invented underside views. Small plain Rozmiso text upper left; heading 'Thoughtful details'. Exactly three forest text labels: 'Four massage heads', 'One-button control', 'USB rechargeable'. Minimal editorial typography, no arrows or illustrated components, no waterproof/runtime claims.",
+          "originalGeneratedPath": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a1974f-ebcd-76a2-8f4d-15062453b7e4\\exec-8ad59fe2-bacc-40a6-b788-eee01492b6f8.png",
+          "referencePaths": [
+            "F:/Dropshipping/team/reports/T040/creative-a/scalp-massager/references/reference-1.jpg"
+          ],
+          "width": 1254,
+          "height": 1254,
+          "inspection": "Viewed generated image against exact source photograph. Product colour/shape/control arrangement preserved; text readable and no commerce/medical/waterproof/runtime claims.",
+          "qualityNotes": "Hidden fourth head stays occluded in original three-quarter angle; no extra heads added."
+        },
+        {
+          "path": "F:/Dropshipping/team/reports/T040/creative-a/scalp-massager/04-control-detail.png",
+          "role": "design/control closeup",
+          "prompt": "Create ONE separate square 1536x1536 premium Rozmiso ecommerce image, warm ivory #F5F0E7 and deep forest #173E33, restrained Georgia-like serif heading and clean DM Sans-like body if text is requested. Soft natural studio light, product dominant, readable short text, generous whitespace, calm uncluttered editorial composition. No price, COD, stock, discounts, ratings, badges, medical claims, fake manufacturer logo, water effects or hidden invented geometry. Input image 1 is the exact authoritative product photograph: preserve white rounded triangular domed shell, thin silver perimeter band, single round grey top button and FOUR grey massage head assemblies underneath. Keep existing angle when underside hidden; do not invent extra heads, LED display, controls or attachments. Premium photographic closeup of the EXISTING round grey top button and smooth white domed shell with silver edge visible. Keep geometry and finish exact. Heading 'Simple control', small subtitle 'One top button', small plain Rozmiso text. No added controls, power readouts, display or accessories. Warm ivory space around deliberate product detail.",
+          "originalGeneratedPath": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a1974f-ebcd-76a2-8f4d-15062453b7e4\\exec-e6cc6886-86e0-476f-af57-9b62d28bfc84.png",
+          "referencePaths": [
+            "F:/Dropshipping/team/reports/T040/creative-a/scalp-massager/references/reference-1.jpg"
+          ],
+          "width": 1254,
+          "height": 1254,
+          "inspection": "Viewed generated image against exact source photograph. Product colour/shape/control arrangement preserved; text readable and no commerce/medical/waterproof/runtime claims.",
+          "qualityNotes": "Control-focused composition retains most of product rather than a tight macro; deliberate full product crop, no new geometry."
+        },
+        {
+          "path": "F:/Dropshipping/team/reports/T040/creative-a/scalp-massager/05-care.png",
+          "role": "use/care panel",
+          "prompt": "Create ONE separate square 1536x1536 premium Rozmiso ecommerce image, warm ivory #F5F0E7 and deep forest #173E33, restrained Georgia-like serif heading and clean DM Sans-like body if text is requested. Soft natural studio light, product dominant, readable short text, generous whitespace, calm uncluttered editorial composition. No price, COD, stock, discounts, ratings, badges, medical claims, fake manufacturer logo, water effects or hidden invented geometry. Input image 1 is the exact authoritative product photograph: preserve white rounded triangular domed shell, thin silver perimeter band, single round grey top button and FOUR grey massage head assemblies underneath. Keep existing angle when underside hidden; do not invent extra heads, LED display, controls or attachments. Large complete massager at the same reference angle on right/lower two-thirds. Heading 'Use with care', then exactly 'Use gently on the scalp', 'Stop if uncomfortable', 'Keep the charging connection dry'. Small plain Rozmiso text. Clear forest/ivory editorial layout, no shower, water, submerged product or medical imagery.",
+          "originalGeneratedPath": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a1974f-ebcd-76a2-8f4d-15062453b7e4\\exec-c9c2a2be-0b70-4641-8f89-9c471d397d13.png",
+          "referencePaths": [
+            "F:/Dropshipping/team/reports/T040/creative-a/scalp-massager/references/reference-1.jpg"
+          ],
+          "width": 1254,
+          "height": 1254,
+          "inspection": "Viewed generated image against exact source photograph. Product colour/shape/control arrangement preserved; text readable and no commerce/medical/waterproof/runtime claims.",
+          "qualityNotes": "Hidden fourth head stays occluded in original three-quarter angle; no extra heads added."
+        }
+      ],
+      "generatorStatus": "SUCCESS: five separate built-in calls, five saved PNGs, all visually inspected."
+    }
+  ],
+  "limitations": [
+    "Generated product images are supplier-reference-based creative illustrations, not photographs of independently inspected samples.",
+    "Physical stock, current landed costs, exact accessories, payment/dispatch/coverage remain outside this lane.",
+    "Root independent visual review and acceptance required before upload.",
+    "Output resolution below requested 1536; actual1254 explicitly reported."
+  ]
+}

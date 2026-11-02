@@ -1,0 +1,36 @@
+{
+  "index": 7,
+  "id": 10253182009536,
+  "title": "Structured Mesh Laundry Wash Bag",
+  "handle": "structured-mesh-laundry-wash-bag",
+  "variant_skus": [
+    "23306_mesh_underwear_wash_bag"
+  ],
+  "source_reference_images": [
+    "F:\\Dropshipping\\team\\reports\\T028\\reference-review\\10253182009536\\reference-1.jpg",
+    "F:\\Dropshipping\\team\\reports\\T028\\reference-review\\10253182009536\\reference-2.jpg"
+  ],
+  "physical_invariants": "Small cylindrical structured laundry wash bag, yellow vertical ribbed/mesh sidewall, sky-blue round mesh lid, white perimeter zipper binding. Single bag.",
+  "supplier_leads": [
+    {
+      "title": "Structured Mesh Laundry Wash Bag",
+      "url": "https://deodap.in/products/protective-mesh-underwear-laundry-wash-bag-with-zipper-for-machine-wash-1-pc",
+      "sku": "23306_mesh_underwear_wash_bag",
+      "title_similarity": 1.0
+    },
+    {
+      "title": "Compact Cable Winder Case",
+      "url": "https://deodap.in/products/compact-plastic-cable-organizer-case-1-pc",
+      "sku": "21062_plastic_small_cable_holder_1pc",
+      "title_similarity": 0.32
+    }
+  ],
+  "live_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/23306-mesh-underwear-wash-bag-1.jpg?v=1791302661",
+    "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/23306-mesh-underwear-wash-bag-2.jpg?v=1791302915",
+    "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/23306-mesh-underwear-wash-bag-4.jpg?v=1791302936",
+    "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/23306-mesh-underwear-wash-bag-3.jpg?v=1791302934"
+  ],
+  "folder": "F:\\Dropshipping\\team\\reports\\T037\\07-structured-mesh-laundry-wash-bag",
+  "status": "READY"
+}

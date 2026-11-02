@@ -1,0 +1,52 @@
+{
+  "productId": 10253181845696,
+  "title": "Adhesive Cable Organizer Clips — Set of 20",
+  "checkedAt": "2026-10-29",
+  "queries": [
+    "\"23602\" \"cable\" video",
+    "\"flower\" \"cable organizer\" site:instagram.com/reel",
+    "flower cable organizer clips video instagram",
+    "Deodap flower cable clip 20 pieces video",
+    "\"flower\" \"cable\" \"clips\" \"6\" video",
+    "\"cable organizer\" \"flower\" \"reel\"",
+    "\"wire\" \"flower\" \"deodap\" video",
+    "\"cable organizer\" \"6 pcs\" flower video"
+  ],
+  "candidates": [
+    {
+      "url": "https://www.lazada.com.ph/videodetail/?video_id=8000078232785",
+      "platform": "Lazada",
+      "title": "FUJIAS3 3 6 PCS Cute Desktop Cable Organizer Holder Winder Clips Desk Suction Cup Mobile Phone Data Cable Management Wire Cord Holder",
+      "downloadPath": null,
+      "downloadStatus": "DOWNLOAD_NOT_AVAILABLE",
+      "rightsStatus": "REFERENCE_ONLY_RIGHTS_UNCONFIRMED",
+      "rightsEvidenceUrl": null,
+      "matchStatus": "UNVERIFIED",
+      "matchEvidence": "Search listing describes suction-cup mounting and selectable 3/6 pieces. Target uses adhesive-backed long cream strip with five flower guides and package of twenty. No actual video frames inspected, so identical model is not established.",
+      "qualityNotes": "No playback or native download inspected; resolution, aspect ratio, hook and watermarks unverified.",
+      "videoMetadata": null
+    },
+    {
+      "url": "https://in.pinterest.com/pin/1030691064733733776/",
+      "platform": "Pinterest / Instagram reference",
+      "title": "Gskbuy on Instagram: Organize your cables easily with magnetic clips",
+      "downloadPath": null,
+      "downloadStatus": "DOWNLOAD_NOT_AVAILABLE",
+      "rightsStatus": "REFERENCE_ONLY_RIGHTS_UNCONFIRMED",
+      "rightsEvidenceUrl": null,
+      "matchStatus": "UNVERIFIED",
+      "matchEvidence": "Indexed description says magnetic clips; target is adhesive flower-guide strip. No actual video frames inspected. Excluded from exact selection.",
+      "qualityNotes": "Public discovery link only; no playback or video metadata verified.",
+      "videoMetadata": null
+    }
+  ],
+  "bestCandidate": null,
+  "outcome": "NO_VERIFIED_EXACT_REUSABLE_VIDEO",
+  "supplierEvidence": {
+    "url": "https://deodap.in/products/self-adhesive-plastic-wire-cable-organizer-clips-for-home-and-office-20-pieces",
+    "observed": "Exact supplier SKU and twenty-piece title; supplied native product JSON contains only image media, no embedded video or description-video links.",
+    "sku": "23602_plastic_wire_cable_clip_20pc"
+  },
+  "referenceViewed": "F:/Dropshipping/team/reports/T028/reference-review/10253181845696/reference-1.jpg",
+  "packageCaveat": "Set of 20 is authoritative. A set of 6 is a different bundle even if individual holder geometry later matches. Never present six-piece offers or overlay claims as twenty."
+}

@@ -1,0 +1,41 @@
+--- before/sections/studio-collection.liquid
++++ after/sections/studio-collection.liquid
+@@ -4,7 +4,15 @@
+ {% if collection.description != blank %}<div class="rte">{{ collection.description }}</div>{% endif %}
+ {% paginate collection.products by 24 %}
+ <div class="collection-toolbar"><p role="status" data-result-count>{{ collection.products_count }} {% if collection.products_count == 1 %}{{ 'product.item' | t }}{% else %}{{ 'product.items' | t }}{% endif %}</p><form method="get">{% for filter in collection.filters %}{% for value in filter.active_values %}<input type="hidden" name="{{ value.param_name | escape }}" value="{{ value.value | escape }}">{% endfor %}{% if filter.type == 'price_range' %}{% if filter.min_value.value %}<input type="hidden" name="{{ filter.min_value.param_name | escape }}" value="{{ filter.min_value.value | divided_by: 100.0 }}">{% endif %}{% if filter.max_value.value %}<input type="hidden" name="{{ filter.max_value.param_name | escape }}" value="{{ filter.max_value.value | divided_by: 100.0 }}">{% endif %}{% endif %}{% endfor %}<label for="SortBy">{{ 'product.sort' | t }}</label><select id="SortBy" name="sort_by" data-auto-sort>{% assign current_sort = collection.sort_by | default: collection.default_sort_by %}{% for option in collection.sort_options %}<option value="{{ option.value }}" {% if option.value == current_sort %}selected{% endif %}>{{ option.name }}</option>{% endfor %}</select><noscript><button class="text-link" type="submit">{{ 'general.apply' | t }}</button></noscript></form></div>
+-{% if collection.all_products_count <= 24 and collection.products_count > 0 %}{% assign product_types = collection.products | map: 'type' | uniq %}<div class="category-filters" role="group" aria-label="{{ 'product.categories' | t }}" hidden data-category-filters><button type="button" class="category-filter" aria-pressed="true" data-filter="all">{{ 'product.all' | t }}</button>{% for product_type in product_types %}{% if product_type != blank %}<button type="button" class="category-filter" aria-pressed="false" data-filter="{{ product_type | handleize }}">{{ product_type | escape }}</button>{% endif %}{% endfor %}</div>{% endif %}
++{% if collection.all_products_count <= 24 and collection.products_count > 0 %}
++{% capture present_categories %}{% for category_product in collection.products %}|{% render 'studio-category', item: category_product %}|{% endfor %}{% endcapture %}
++<div class="category-filters" role="group" aria-label="{{ 'product.categories' | t }}" hidden data-category-filters><button type="button" class="category-filter" aria-pressed="true" data-filter="all">{{ 'product.all' | t }}</button>
++{% assign category_keys = 'home-care,kitchen-essentials,travel-essentials,personal-care,other-essentials' | split: ',' %}
++{% for category_key in category_keys %}{% capture category_token %}|{{ category_key }}|{% endcapture %}{% if present_categories contains category_token %}
++{% case category_key %}{% when 'home-care' %}{% assign category_label = 'general.home_care' %}{% when 'kitchen-essentials' %}{% assign category_label = 'general.kitchen' %}{% when 'travel-essentials' %}{% assign category_label = 'general.travel' %}{% when 'personal-care' %}{% assign category_label = 'general.personal_care' %}{% else %}{% assign category_label = 'general.other_essentials' %}{% endcase %}
++<button type="button" class="category-filter" aria-pressed="false" data-filter="{{ category_key }}">{{ category_label | t }}</button>
++{% endif %}{% endfor %}</div>
++{% endif %}
+ {% if collection.all_products_count <= 24 and collection.products_count > 0 %}<div class="catalog-refinements" hidden data-catalog-refinements><div><label for="MinPrice">{{ 'product.price_min' | t }}</label><input id="MinPrice" type="number" min="0" step="1" inputmode="numeric" placeholder="₹0" data-price-min></div><div><label for="MaxPrice">{{ 'product.price_max' | t }}</label><input id="MaxPrice" type="number" min="0" step="1" inputmode="numeric" placeholder="{{ 'product.any_price' | t }}" data-price-max></div><label class="available-filter"><input type="checkbox" data-only-available> {{ 'product.available_only' | t }}</label><button class="text-link" type="button" data-filter-reset>{{ 'product.clear_filters' | t }}</button></div><p hidden class="filter-empty" role="status" data-filter-empty>{{ 'product.filter_empty' | t }}</p>{% endif %}{% if collection.all_products_count > 24 and collection.filters.size > 0 %}
+ <form action="{{ collection.url }}" method="get" class="catalog-refinements" data-native-filters>
+ <input type="hidden" name="sort_by" value="{{ current_sort | escape }}">
+--- before/snippets/studio-card.liquid
++++ after/snippets/studio-card.liquid
+@@ -2,4 +2,6 @@
+ Renders a product card.
+ @param {product} item - Product
+ {% enddoc %}
+-<article class="product-card" data-category="{{ item.type | handleize }}" data-product-price="{{ item.price }}" data-available="{% if settings.prelaunch_mode %}false{% else %}{{ item.available }}{% endif %}"><a class="card-image" href="{{ item.url }}" aria-label="{{ item.title | escape }}">{% if item.featured_image %}{{ item.featured_image | image_url: width: 700 | image_tag: loading: 'lazy', widths: '250, 400, 700', sizes: '(min-width: 900px) 25vw, 50vw', alt: item.title }}{% else %}{{ 'product-1' | placeholder_svg_tag }}{% endif %}</a><div class="card-meta"><p class="eyebrow">{{ item.type | escape }}</p><h3><a href="{{ item.url }}">{{ item.title | escape }}</a></h3><p class="card-price">{% if item.price_varies %}{{ 'product.from' | t }} {% endif %}{{ item.price | money }}</p>{% if settings.prelaunch_mode or item.available == false %}<p class="card-availability">{{ 'product.sold_out' | t }}</p>{% endif %}<a class="card-shop-link" href="{{ item.url }}">{{ 'product.view' | t }} {% render 'studio-icon', name: 'arrow-right' %}</a></div></article>
++{% capture category_key %}{% render 'studio-category', item: item %}{% endcapture %}{% assign category_key = category_key | strip %}
++{% case category_key %}{% when 'home-care' %}{% assign category_label = 'general.home_care' %}{% when 'kitchen-essentials' %}{% assign category_label = 'general.kitchen' %}{% when 'travel-essentials' %}{% assign category_label = 'general.travel' %}{% when 'personal-care' %}{% assign category_label = 'general.personal_care' %}{% else %}{% assign category_label = 'general.other_essentials' %}{% endcase %}
++<article class="product-card" data-category="{{ category_key }}" data-product-price="{{ item.price }}" data-available="{% if settings.prelaunch_mode %}false{% else %}{{ item.available }}{% endif %}"><a class="card-image" href="{{ item.url }}" aria-label="{{ item.title | escape }}">{% if item.featured_image %}{{ item.featured_image | image_url: width: 700 | image_tag: loading: 'lazy', widths: '250, 400, 700', sizes: '(min-width: 900px) 25vw, 50vw', alt: item.title }}{% else %}{{ 'product-1' | placeholder_svg_tag }}{% endif %}</a><div class="card-meta"><p class="eyebrow">{{ category_label | t }}</p><h3><a href="{{ item.url }}">{{ item.title | escape }}</a></h3><p class="card-price">{% if item.price_varies %}{{ 'product.from' | t }} {% endif %}{{ item.price | money }}</p>{% if settings.prelaunch_mode or item.available == false %}<p class="card-availability">{{ 'product.sold_out' | t }}</p>{% endif %}<a class="card-shop-link" href="{{ item.url }}">{{ 'product.view' | t }} {% render 'studio-icon', name: 'arrow-right' %}</a></div></article>
+--- before/snippets/studio-category.liquid
++++ after/snippets/studio-category.liquid
+@@ -0,0 +1,9 @@
++{%- comment -%}Customer-facing category key. Unknown or blank supplier types retain an explicit fallback.{%- endcomment -%}
++{%- assign supplier_type = item.type | remove: ',' | strip | downcase -%}
++{%- case supplier_type -%}
++{%- when 'home care', 'home improvement' -%}home-care
++{%- when 'kitchen', 'kitchen essentials', 'kitchen storage container & rack' -%}kitchen-essentials
++{%- when 'travel essentials' -%}travel-essentials
++{%- when 'beauty health & personal care' -%}personal-care
++{%- else -%}other-essentials
++{%- endcase -%}

@@ -1,0 +1,22 @@
+[
+  {
+    "path": "assets/studio.js",
+    "beforeSha256": "d2239b9f2a1798f6fdc4339424d81684161696eda52578aae995662e15f44edb",
+    "afterSha256": "e92d0936b339126ac97c7acc1628d91a2d4fd408bfe828e4e244dbba9dc39dc5"
+  },
+  {
+    "path": "templates/search.liquid",
+    "beforeSha256": "1a5191f88c614bb10f8117a3704ae6c1acb4adea192c17d810511c473eff7ce0",
+    "afterSha256": "a2a2d894f7f4407b9e5b5e1b1c4cc14cda7e5cceb4768bdfc556673246d139a2"
+  },
+  {
+    "path": "sections/studio-product.liquid",
+    "beforeSha256": "be935d9b1839811ccfde649bfe6e4bc418fa19e152b805a52b9fcb4e673b7a30",
+    "afterSha256": "bb5d30e9e9b6f3856c3b303948be61ce58ecfe59d467845e51b069304c35cb79"
+  },
+  {
+    "path": "sections/studio-header.liquid",
+    "beforeSha256": "f942286a0282a2a6f19299f19650fc3807889cf45a2db75ff5083a42bf44fd61",
+    "afterSha256": "a414888bbda06e877df1e3f198ccd8d1665d20091632d281e453e06f6ffb2dc8"
+  }
+]

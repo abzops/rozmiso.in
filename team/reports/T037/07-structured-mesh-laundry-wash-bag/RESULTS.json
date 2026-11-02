@@ -1,0 +1,69 @@
+{
+  "productId": 10253182009536,
+  "title": "Structured Mesh Laundry Wash Bag",
+  "checkedAt": "2026-10-29T00:31:38.6701048+05:30",
+  "sku": "23306_mesh_underwear_wash_bag",
+  "queries": [
+    "\"23306\" \"wash bag\" video",
+    "\"yellow\" \"blue\" \"mesh underwear\" \"wash bag\" video site:youtube.com",
+    "site:instagram.com \"deodap\" \"laundry\" \"bag\"",
+    "\"laundry wash bag\" \"yellow\" \"blue\" video",
+    "\"cylindrical\" \"wash bag\" site:instagram.com/reel",
+    "\"underwear wash bag\" site:youtube.com/shorts",
+    "mesh bra wash bag cylindrical yellow blue instagram reel",
+    "deodap underwear laundry bag youtube video 23306",
+    "chenille bra washing bag yellow blue video"
+  ],
+  "candidates": [
+    {
+      "url": "https://www.bilibili.com/video/BV1XmaAzfEBc/",
+      "platform": "Bilibili",
+      "title": "No one wants to come home after work and still have to hand-wash underwear and socks! Just toss your undergarments into the laundry cup!",
+      "downloadPath": null,
+      "downloadStatus": "DOWNLOAD_NOT_AVAILABLE",
+      "rightsStatus": "REFERENCE_ONLY_RIGHTS_UNCONFIRMED",
+      "rightsEvidenceUrl": null,
+      "matchStatus": "UNVERIFIED",
+      "matchEvidence": "Search result describes a laundry cup for underwear. Page fetch HTTP 412; no actual frames observed, no exact SKU or distinguishing geometry verified. No restriction bypass attempted.",
+      "qualityNotes": "Resolution, aspect ratio, hook, overlays, watermark and actual demo not inspected.",
+      "videoMetadata": null
+    },
+    {
+      "url": "https://vimeo.com/1156368101",
+      "platform": "Vimeo / DeoDap",
+      "title": "useful washbag.",
+      "downloadPath": null,
+      "downloadStatus": "DOWNLOAD_NOT_AVAILABLE",
+      "rightsStatus": "REFERENCE_ONLY_RIGHTS_UNCONFIRMED",
+      "rightsEvidenceUrl": null,
+      "matchStatus": "UNVERIFIED",
+      "matchEvidence": "Supplier account page description says travel-essential washbag set. This does not establish the single yellow cylindrical laundry bag and is a low relevance lead. No actual frames inspected.",
+      "qualityNotes": "Not selected: travel-set description conflicts with intended product category. No permitted original download offered in accessible page.",
+      "videoMetadata": null
+    },
+    {
+      "url": "https://deodap.in/products/protective-mesh-underwear-laundry-wash-bag-with-zipper-for-machine-wash-1-pc",
+      "platform": "DeoDap",
+      "title": "Protective Mesh Underwear Laundry Wash Bag with Zipper for Machine Wash",
+      "downloadPath": null,
+      "downloadStatus": "DOWNLOAD_NOT_AVAILABLE",
+      "rightsStatus": "REFERENCE_ONLY_RIGHTS_UNCONFIRMED",
+      "rightsEvidenceUrl": null,
+      "matchStatus": "UNVERIFIED",
+      "matchEvidence": "Exact supplier SKU 23306_mesh_underwear_wash_bag established for product; supplier media scan has no videos and live accessible gallery lists nine still images. This is a sourcing reference, not a verified video candidate.",
+      "qualityNotes": "No video found to assess.",
+      "videoMetadata": null
+    }
+  ],
+  "bestCandidate": null,
+  "outcome": "NO_VERIFIED_EXACT_REUSABLE_VIDEO",
+  "downloadCount": 0,
+  "referenceViewed": "F:/Dropshipping/team/reports/T028/reference-review/10253182009536/reference-1.jpg",
+  "invariants": "Single small cylindrical bag; yellow vertical ribbed sidewall; round sky-blue mesh lid; white perimeter zipper binding.",
+  "limitations": [
+    "No exact video frames observed, so no EXACT_VISIBLE_MODEL or EXPLICIT100PERCENT claim.",
+    "Commercial reuse rights not established for any lead.",
+    "Social queries returned no verifiable exact Instagram/YouTube model.",
+    "Root investigating supplier shoppable-video feed separately."
+  ]
+}

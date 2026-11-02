@@ -1,0 +1,9 @@
+{
+  "sections": {
+    "landing": {
+      "type": "studio-landing",
+      "settings": {}
+    }
+  },
+  "order": ["landing"]
+}

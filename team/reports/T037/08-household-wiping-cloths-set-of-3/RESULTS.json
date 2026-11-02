@@ -1,0 +1,67 @@
+{
+  "productId": 10253181944000,
+  "title": "Household Wiping Cloths — Set of 3",
+  "checkedAt": "2026-10-29T00:31:57.2541873+05:30",
+  "worker": "video_08_cloths",
+  "supplierSku": "22402_glass_cleaning_duster_cloth_3pc",
+  "queries": [
+    "\"22402\" \"cloth\" video Deodap",
+    "site.instagram.com \"Deodap\" \"glass\" \"cloth\"",
+    "site.youtube.com \"glass duster cloth\" \"3\"",
+    "\"22402_glass_cleaning\" video",
+    "site.facebook.com \"Deodap\" \"cloth\" video",
+    "site.instagram.com/reel \"striped\" \"cleaning cloth\"",
+    "\"22402\" \"Deodap\" video cloth instagram youtube facebook",
+    "\"glass cleaning duster cloth\" video \"50\"",
+    "site.youtube.com/shorts \"duster cloth\" \"DeoDap\"",
+    "site.instagram.com \"cloth\" \"50x33\""
+  ],
+  "referenceImagesViewed": [
+    "F:/Dropshipping/team/reports/T028/reference-review/10253181944000/reference-1.jpg",
+    "F:/Dropshipping/team/reports/T028/reference-review/10253181944000/reference-2.jpg"
+  ],
+  "physicalInvariants": [
+    "3 rectangular cloths, labeled 50x33 cm",
+    "pink/red and green/yellow stripes with cream/brown floral motif",
+    "white reinforced edges; terry loops and woven reverse"
+  ],
+  "searchCalls": 3,
+  "candidates": [
+    {
+      "url": "https://deodap.in/products/glass-cleaning-duster-cloth-set-for-kitchen-and-window-cleaning-3-pc-50x33-cm",
+      "platform": "Supplier website",
+      "title": "Glass Duster Cloth Set for Kitchen and Window Cleaning, 3 Pc",
+      "candidateKind": "EXACT_SKU_IMAGE_ONLY_SOURCE",
+      "downloadPath": null,
+      "downloadStatus": "DOWNLOAD_NOT_AVAILABLE",
+      "rightsStatus": "NOT_ESTABLISHED",
+      "rightsEvidenceUrl": null,
+      "matchStatus": "UNVERIFIED",
+      "matchEvidence": "Supplier page confirms SKU22402 and 3Pc. Reference label 50x33cm and striped/floral fabric viewed. Supplier JSON lists nine image media entries, no video. No video frames available; exact video identity cannot be claimed.",
+      "qualityNotes": "Images only. No video resolution, hook, overlays, audio or watermark assessment possible.",
+      "videoMetadata": null
+    },
+    {
+      "url": "https://natation.in/products/reusable-glass-cleaning-duster-cloths-for-windows-and-kitchen-6-pc-set",
+      "platform": "Retail website",
+      "title": "Striped Floral Pattern Cleaning Cloths for Kitchen",
+      "candidateKind": "REJECTED_PRODUCT_PAGE_LEAD",
+      "downloadPath": null,
+      "downloadStatus": "DOWNLOAD_NOT_AVAILABLE",
+      "rightsStatus": "NOT_ESTABLISHED",
+      "rightsEvidenceUrl": null,
+      "matchStatus": "SIMILAR_NOT_EXACT",
+      "matchEvidence": "Search result describes striped floral 50x33cm cloths but six-piece package, conflicting with required three-piece set. No video frames reviewed.",
+      "qualityNotes": "Not a verified video; package count mismatch.",
+      "videoMetadata": null
+    }
+  ],
+  "bestCandidate": null,
+  "outcome": "NO_VERIFIED_EXACT_REUSABLE_VIDEO",
+  "blockers": [
+    "No exact-product social video located in bounded search",
+    "No public supplier video/download offer found",
+    "No commercial reuse license established"
+  ],
+  "downloadedVideoCount": 0
+}

@@ -1,0 +1,36 @@
+{
+  "index": 17,
+  "id": 10253181026496,
+  "title": "Microfiber Cleaning Cloth — 40 × 40 cm",
+  "handle": "microfiber-cleaning-cloth-40x40",
+  "variant_skus": [
+    "21974_cleaning_cloth_towel_40x40cm_1pc"
+  ],
+  "source_reference_images": [
+    "F:\\Dropshipping\\team\\reports\\T028\\reference-review\\10253181026496\\reference-1.jpg",
+    "F:\\Dropshipping\\team\\reports\\T028\\reference-review\\10253181026496\\reference-2.jpg"
+  ],
+  "physical_invariants": "Square terry-texture cloth, rounded corners, black stitched bound edge and black corner hanging loop. Reference 1 orange/rust; reference 2 gray. Single cloth design.",
+  "supplier_leads": [
+    {
+      "title": "Microfiber Cleaning Cloth — 40 × 40 cm",
+      "url": "https://deodap.in/products/multipurpose-cleaning-cloth-towel-40x40cm-microfiber-duster-for-kitchen-home-1-pc",
+      "sku": "21974_cleaning_cloth_towel_40x40cm_1pc",
+      "title_similarity": 1.0
+    },
+    {
+      "title": "5-in-1 Rechargeable Cleaning Brush",
+      "url": "https://deodap.in/products/5-in-1-electric-cleaning-brush-rechargeable-spin-scrubber-for-bathroom-1-set",
+      "sku": "6329_5in1_magic_cleaning_brush",
+      "title_similarity": 0.483
+    }
+  ],
+  "live_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/Microfiber_Cloth_1.jpg?v=1791302650",
+    "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/Microfiber_Cloth_7.jpg?v=1791303524",
+    "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/Microfiber_Cloth_2.jpg?v=1791303522",
+    "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/21974.jpg?v=1791303521"
+  ],
+  "folder": "F:\\Dropshipping\\team\\reports\\T037\\17-microfiber-cleaning-cloth-40x40",
+  "status": "READY"
+}

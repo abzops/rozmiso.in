@@ -1,0 +1,225 @@
+{
+  "status": "PREPARATION_ONLY_NOT_LAUNCH_READY",
+  "owner_shipping_instruction": {
+    "amount_inr": 70,
+    "basis": "FLAT_PER_ORDER",
+    "status": "Latest owner correction22October2026: total70INR per order; supersedes previous per-item answer",
+    "calculation": "70 per order regardless of item quantity",
+    "examples": [
+      {
+        "items": 1,
+        "shipping_inr": 70
+      },
+      {
+        "items": 2,
+        "shipping_inr": 70
+      },
+      {
+        "items": 3,
+        "shipping_inr": 70
+      }
+    ],
+    "applied_to_shopify": false
+  },
+  "payment_activation": "NOT_VERIFIED",
+  "dispatch_time": null,
+  "return_terms": null,
+  "products": [
+    {
+      "id": 10257843454144,
+      "handle": "6186-canvas-laundry-bag-toy-storage-laundry-storage",
+      "title": "Foldable Canvas Laundry and Storage Bag",
+      "publicly_available": false,
+      "supplier_confirmed_quantity": null,
+      "native_images": 10,
+      "launch_approved": null
+    },
+    {
+      "id": 10257843355840,
+      "handle": "2793-manual-hand-juicer-for-making-juices-and-beverages-by-using-hands",
+      "title": "Manual Citrus Juicer with Strainer",
+      "publicly_available": false,
+      "supplier_confirmed_quantity": null,
+      "native_images": 6,
+      "launch_approved": null
+    },
+    {
+      "id": 10257843257536,
+      "handle": "6422-stainless-steel-bottle-used-in-all-households-and-official-purposes-for-storing-water-and-beverages-etc-1",
+      "title": "Stainless Steel Water Bottle \u2014 Approx. 360 ml",
+      "publicly_available": false,
+      "supplier_confirmed_quantity": null,
+      "native_images": 8,
+      "launch_approved": null
+    },
+    {
+      "id": 10257843224768,
+      "handle": "6168-hqt-909b-hair-straightener-used-while-massaging-hair-scalps-and-head-1",
+      "title": "Electric Hair Straightening Brush",
+      "publicly_available": false,
+      "supplier_confirmed_quantity": null,
+      "native_images": 9,
+      "launch_approved": null
+    },
+    {
+      "id": 10257843159232,
+      "handle": "2796-2-layer-kitchen-rack-for-holding-and-placing-types-of-things",
+      "title": "Two-Tier Kitchen Storage Rack",
+      "publicly_available": false,
+      "supplier_confirmed_quantity": null,
+      "native_images": 11,
+      "launch_approved": null
+    },
+    {
+      "id": 10257843060928,
+      "handle": "6187-keyboard-cover-for-computer-pc-for-desktop-computer",
+      "title": "Keyboard Cover",
+      "publicly_available": false,
+      "supplier_confirmed_quantity": null,
+      "native_images": 8,
+      "launch_approved": null
+    },
+    {
+      "id": 10253182009536,
+      "handle": "structured-mesh-laundry-wash-bag",
+      "title": "Structured Mesh Laundry Wash Bag",
+      "publicly_available": false,
+      "supplier_confirmed_quantity": null,
+      "native_images": 4,
+      "launch_approved": null
+    },
+    {
+      "id": 10253181944000,
+      "handle": "household-wiping-cloths-set-of-3",
+      "title": "Household Wiping Cloths \u2014 Set of 3",
+      "publicly_available": false,
+      "supplier_confirmed_quantity": null,
+      "native_images": 4,
+      "launch_approved": null
+    },
+    {
+      "id": 10253181845696,
+      "handle": "adhesive-cable-organizer-clips-set-of-20",
+      "title": "Adhesive Cable Organizer Clips \u2014 Set of 20",
+      "publicly_available": false,
+      "supplier_confirmed_quantity": null,
+      "native_images": 4,
+      "launch_approved": null
+    },
+    {
+      "id": 10253181681856,
+      "handle": "3-in-1-bottle-lid-cleaning-tool",
+      "title": "3-in-1 Bottle Lid Cleaning Tool",
+      "publicly_available": false,
+      "supplier_confirmed_quantity": null,
+      "native_images": 2,
+      "launch_approved": null
+    },
+    {
+      "id": 10253181583552,
+      "handle": "flexible-flower-shaped-drain-catcher",
+      "title": "Flexible Flower-Shaped Drain Catcher",
+      "publicly_available": false,
+      "supplier_confirmed_quantity": null,
+      "native_images": 6,
+      "launch_approved": null
+    },
+    {
+      "id": 10253181518016,
+      "handle": "foldable-hanging-travel-organizer",
+      "title": "Foldable Hanging Travel Organizer",
+      "publicly_available": false,
+      "supplier_confirmed_quantity": null,
+      "native_images": 4,
+      "launch_approved": null
+    },
+    {
+      "id": 10253181419712,
+      "handle": "handheld-upholstery-cleaning-brush",
+      "title": "Handheld Upholstery Cleaning Brush",
+      "publicly_available": false,
+      "supplier_confirmed_quantity": null,
+      "native_images": 4,
+      "launch_approved": null
+    },
+    {
+      "id": 10253181321408,
+      "handle": "window-groove-cleaning-brush",
+      "title": "Window Groove Cleaning Brush",
+      "publicly_available": false,
+      "supplier_confirmed_quantity": null,
+      "native_images": 4,
+      "launch_approved": null
+    },
+    {
+      "id": 10253181255872,
+      "handle": "compact-cable-winder-case",
+      "title": "Compact Cable Winder Case",
+      "publicly_available": false,
+      "supplier_confirmed_quantity": null,
+      "native_images": 4,
+      "launch_approved": null
+    },
+    {
+      "id": 10253181092032,
+      "handle": "reusable-bag-locking-ties-set-of-3",
+      "title": "Reusable Bag Locking Ties \u2014 Set of 3",
+      "publicly_available": false,
+      "supplier_confirmed_quantity": null,
+      "native_images": 4,
+      "launch_approved": null
+    },
+    {
+      "id": 10253181026496,
+      "handle": "microfiber-cleaning-cloth-40x40",
+      "title": "Microfiber Cleaning Cloth \u2014 40 \u00d7 40 cm",
+      "publicly_available": false,
+      "supplier_confirmed_quantity": null,
+      "native_images": 4,
+      "launch_approved": null
+    },
+    {
+      "id": 10252037456064,
+      "handle": "2-in-1-soap-dispensing-cleaning-brush",
+      "title": "2-in-1 Soap Dispensing Cleaning Brush",
+      "publicly_available": false,
+      "supplier_confirmed_quantity": null,
+      "native_images": 9,
+      "launch_approved": null
+    },
+    {
+      "id": 10252037390528,
+      "handle": "everyday-travel-organizer-pouch",
+      "title": "Everyday Travel Organizer Pouch",
+      "publicly_available": false,
+      "supplier_confirmed_quantity": null,
+      "native_images": 6,
+      "launch_approved": null
+    },
+    {
+      "id": 10252037357760,
+      "handle": "5-in-1-rechargeable-cleaning-brush",
+      "title": "5-in-1 Rechargeable Cleaning Brush",
+      "publicly_available": false,
+      "supplier_confirmed_quantity": null,
+      "native_images": 6,
+      "launch_approved": null
+    },
+    {
+      "id": 10252037324992,
+      "handle": "usb-rechargeable-fabric-shaver",
+      "title": "USB Rechargeable Fabric Shaver",
+      "publicly_available": false,
+      "supplier_confirmed_quantity": null,
+      "native_images": 6,
+      "launch_approved": null
+    }
+  ],
+  "access": {
+    "theme_cli": "WORKING",
+    "admin_api": "No stored app authentication on read-only CLI query",
+    "browser": "Disabled tool response",
+    "shopify_plugin": "Directory reports installed:false; suggested to owner"
+  },
+  "publication": "Modern Bento remains unpublished; no stock or shipping changes applied"
+}

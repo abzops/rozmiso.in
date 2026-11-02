@@ -1,0 +1,92 @@
+[
+  {
+    "id": "06",
+    "name": "Botanical Calm",
+    "slug": "botanical-calm",
+    "source": "C:/Users/Abhinand/.codex/generated_images/01a16285-24e2-7350-8b4b-f08395119f3d/exec-3e02e8fe-033e-43d4-9ff5-5eb1fd6683b7.png",
+    "notes": "Main product use pose and top cap/rear bristle geometry match. Six thumbnails. Sage card composition distinct. Remove copied unverified push-release wording in summary and step2 before implementation.",
+    "output": "F:/Dropshipping/team/reports/T032/concepts/06-botanical-calm.png",
+    "method": "built-in image_gen",
+    "status": "SUBMITTED_FOR_STYLE_APPROVAL_ONLY",
+    "identityReview": "PASS_WITHIN_VISIBLE_REFERENCE",
+    "live": false,
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "bytes": 1815480,
+    "sha256": "8807d89b572d1e877c9c2d783f59ef0aac2dda71c0004bad666ceae35ee339b4"
+  },
+  {
+    "id": "07",
+    "name": "Heritage Catalogue",
+    "slug": "heritage-catalogue",
+    "source": "C:/Users/Abhinand/.codex/generated_images/01a16285-24e2-7350-8b4b-f08395119f3d/exec-e360c923-5644-4c03-924b-0519ce9cee63.png",
+    "notes": "Large studio hero retains top-between-ears cap/rear bristles. Six vertical thumbnails. Editorial thin-rule numbered chapters distinct. Remove copied push mechanism/press-release wording before implementation; no fake commercial claims seen.",
+    "output": "F:/Dropshipping/team/reports/T032/concepts/07-heritage-catalogue.png",
+    "method": "built-in image_gen",
+    "status": "SUBMITTED_FOR_STYLE_APPROVAL_ONLY",
+    "identityReview": "PASS_WITHIN_VISIBLE_REFERENCE",
+    "live": false,
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "bytes": 1906427,
+    "sha256": "2cac533a00d230f4b74b94a7c2dbb0460b2d477d2b21520d5f47b3db776fe078"
+  },
+  {
+    "id": "08",
+    "name": "Studio Contrast",
+    "slug": "studio-contrast",
+    "source": "C:/Users/Abhinand/.codex/generated_images/01a16285-24e2-7350-8b4b-f08395119f3d/exec-17928285-88cd-4096-8ad3-e696038a18f7.png",
+    "notes": "Approved lifestyle main image; cream-on-forest purchase panel and dark how-to band distinct. Main plus five smaller views. Remove copied push-release wording. Some tiny related-item/footer text has minor raster glyph noise; use verified text during implementation.",
+    "output": "F:/Dropshipping/team/reports/T032/concepts/08-studio-contrast.png",
+    "method": "built-in image_gen",
+    "status": "SUBMITTED_FOR_STYLE_APPROVAL_ONLY",
+    "identityReview": "PASS_WITHIN_VISIBLE_REFERENCE",
+    "live": false,
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "bytes": 1889784,
+    "sha256": "28d939e7c64b49fafe94515b6d33ad84b2e31686d273346ef48b2271dccb3a42"
+  },
+  {
+    "id": "09",
+    "name": "Story-led Split",
+    "slug": "story-led-split",
+    "source": "C:/Users/Abhinand/.codex/generated_images/01a16285-24e2-7350-8b4b-f08395119f3d/exec-fad5e978-3430-4485-9f70-0032c4f3c978.png",
+    "notes": "Large approved use photo and alternating fullwidth story split; sticky purchase strip shown once. Six thumbnails. Top cap/rear bristle identity consistent in visible views. Remove push-release mechanism from summary/use paragraph/step2 before implementation.",
+    "output": "F:/Dropshipping/team/reports/T032/concepts/09-story-led-split.png",
+    "method": "built-in image_gen",
+    "status": "SUBMITTED_FOR_STYLE_APPROVAL_ONLY",
+    "identityReview": "PASS_WITHIN_VISIBLE_REFERENCE",
+    "live": false,
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "bytes": 1987327,
+    "sha256": "a7592963edcc557ad6843c51da269d0a8035eb6a5600c11c4eb695bb4dac5ef5"
+  },
+  {
+    "id": "10",
+    "name": "Minimal Conversion",
+    "slug": "minimal-conversion",
+    "source": "C:/Users/Abhinand/.codex/generated_images/01a16285-24e2-7350-8b4b-f08395119f3d/exec-d6f7f862-d8e2-466e-9c78-e2cb2719b783.png",
+    "notes": "Compact modern sans purchase panel, vertical six-thumbnail gallery, useful tabbed detail block and FAQ. Original studio hero identity retained. No explicit push-release claim seen; gently press and scrub is ordinary use guidance. Minor generated related-title spelling/glyph issues need actual Shopify content during implementation.",
+    "output": "F:/Dropshipping/team/reports/T032/concepts/10-minimal-conversion.png",
+    "method": "built-in image_gen",
+    "status": "SUBMITTED_FOR_STYLE_APPROVAL_ONLY",
+    "identityReview": "PASS_WITHIN_VISIBLE_REFERENCE",
+    "live": false,
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "bytes": 1598705,
+    "sha256": "aeac27ddb150688c1ddf4bd5e954511a446435070f6ec0609b2183465e9f650e"
+  }
+]

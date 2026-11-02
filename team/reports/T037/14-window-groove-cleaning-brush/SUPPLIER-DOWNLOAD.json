@@ -1,0 +1,39 @@
+{
+  "supplier_product_id": "8431736979766",
+  "source_api": "https://cdn-consumer.whatmore.live/v2/brand/78232846646/product-events?client_product_id=8431736979766&status=live,upcoming&event_type=video,image",
+  "permission_source": "https://deodap.in/blogs/news/earn-passive-income-online-in-india-with-deodap-dropshipping",
+  "rights": "SUPPLIER_REUSE_STATEMENT_PRESENT_MUSIC_AND_THIRD_PARTY_RIGHTS_NOT_VERIFIED",
+  "videos": [
+    {
+      "event_id": 76162,
+      "video_url": "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/whatmore_1080p_6cae7fe5-5606-4be7-8b0c-6024a1c496cc.mp4?v=1728025525",
+      "downloadPath": "F:\\Dropshipping\\team\\reports\\T037\\14-window-groove-cleaning-brush\\videos\\supplier-76162.mp4",
+      "contactSheet": "F:\\Dropshipping\\team\\reports\\T037\\14-window-groove-cleaning-brush\\videos\\supplier-76162-frames.jpg",
+      "sha256": "1484b13c8da39eb4dbec239289d769b41bfcfae1277ea3536c5935d4bc8f56a2",
+      "metadata": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "h264",
+            "codec_type": "video",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "codec_name": "aac",
+            "codec_type": "audio"
+          }
+        ],
+        "format": {
+          "duration": "12.618005",
+          "size": "5530218"
+        }
+      },
+      "supplier_event_active": false,
+      "matchStatus": "PENDING_FRAME_REVIEW",
+      "source_product_url": "https://deodap.in/products/window-groove-cleaning-brush-slim-crevice-cleaner"
+    }
+  ],
+  "status": "DOWNLOADED_PENDING_IDENTITY_REVIEW"
+}

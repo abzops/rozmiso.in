@@ -1,0 +1,38 @@
+{
+  "index": 21,
+  "id": 10252037324992,
+  "title": "USB Rechargeable Fabric Shaver",
+  "handle": "usb-rechargeable-fabric-shaver",
+  "variant_skus": [
+    "23469_electric_lint_remover_1pc_no5"
+  ],
+  "source_reference_images": [
+    "F:\\Dropshipping\\team\\reports\\T028\\reference-review\\10252037324992\\reference-1.jpg",
+    "F:\\Dropshipping\\team\\reports\\T028\\reference-review\\10252037324992\\reference-2.jpg"
+  ],
+  "physical_invariants": "Dark green elongated handle, copper-colored circular power button, black round head housing with perforated silver circular shaving grille. White USB cable; two white spare circular cutters and small black brush visible in inset. One appliance.",
+  "supplier_leads": [
+    {
+      "title": "USB Rechargeable Fabric Shaver",
+      "url": "https://deodap.in/products/electric-lint-remover-with-brush-1-pc",
+      "sku": "23469_electric_lint_remover_1pc_no5",
+      "title_similarity": 1.0
+    },
+    {
+      "title": "5-in-1 Rechargeable Cleaning Brush",
+      "url": "https://deodap.in/products/5-in-1-electric-cleaning-brush-rechargeable-spin-scrubber-for-bathroom-1-set",
+      "sku": "6329_5in1_magic_cleaning_brush",
+      "title_similarity": 0.607
+    }
+  ],
+  "live_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/rozmiso-fabric-shaver-ai-10252037324992-studio.png?v=1791872079",
+    "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/rozmiso-fabric-shaver-ai-02-detail.png?v=1791872086",
+    "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/rozmiso-fabric-shaver-ai-03-usecase.png?v=1791872093",
+    "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/rozmiso-fabric-shaver-ai-04-use-context.png?v=1791872102",
+    "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/rozmiso-fabric-shaver-ai-05-title-features.png?v=1791872111",
+    "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/rozmiso-fabric-shaver-ai-06-care.png?v=1791872119"
+  ],
+  "folder": "F:\\Dropshipping\\team\\reports\\T037\\21-usb-rechargeable-fabric-shaver",
+  "status": "READY"
+}

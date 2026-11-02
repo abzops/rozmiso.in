@@ -1,0 +1,56 @@
+{
+  "productId": 10253181321408,
+  "title": "Window Groove Cleaning Brush",
+  "checkedAt": "2026-10-29T00:36:18.3218265+05:30",
+  "queries": [
+    "\"1484\" \"window\" \"Deodap\" video",
+    "site:instagram.com \"window groove\" \"deodap\"",
+    "site:youtube.com \"Deodap\" \"window\" \"brush\"",
+    "site:facebook.com \"Deodap\" \"groove\" cleaning brush",
+    "site:instagram.com/reel \"window groove cleaning brush\""
+  ],
+  "searchOutcome": "Two focused search calls; no indexed exact social-video result returned. Supplier clip evaluated separately.",
+  "candidates": [
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/whatmore_1080p_6cae7fe5-5606-4be7-8b0c-6024a1c496cc.mp4?v=1728025525",
+      "platform": "DeoDap supplier Shopify CDN / public Whatmore product feed",
+      "title": "Official supplier window groove cleaning demonstration, event 76162",
+      "sourceProductUrl": "https://deodap.in/products/window-groove-cleaning-brush-slim-crevice-cleaner",
+      "sourceApi": "https://cdn-consumer.whatmore.live/v2/brand/78232846646/product-events?client_product_id=8431736979766&status=live,upcoming&event_type=video,image",
+      "supplierProductId": "8431736979766",
+      "downloadPath": "F:\\Dropshipping\\team\\reports\\T037\\14-window-groove-cleaning-brush\\videos\\supplier-76162.mp4",
+      "downloadStatus": "DOWNLOADED_VERIFIED",
+      "rightsStatus": "REFERENCE_ONLY_RIGHTS_UNCONFIRMED",
+      "rightsEvidenceUrl": "https://deodap.in/blogs/news/earn-passive-income-online-in-india-with-deodap-dropshipping",
+      "rightsEvidence": "Supplier blog allows downloading product visuals for website/social/marketplace use and includes videos among listing content. Music and third-party rights, paid-ad scope and watermark terms not independently verified; no complete commercial clearance claimed.",
+      "matchStatus": "EXACT_VISIBLE_MODEL",
+      "matchEvidence": "Reference images 1 and 2 viewed against six-frame contact sheet. Same compact rounded plastic grip block, smile-shaped raised side relief, small hinged side clip, gray coarse folded pad and two downward fins. Gray/white bodies in clip correspond to reference 1; aqua appears briefly consistent with reference 2. Window-track and basin demonstrations. Match is limited to visible exterior; package identity, dimensions, materials and hidden structure unverified.",
+      "qualityNotes": "Portrait 9:16, 1080x1920, 12.618s. Direct grime-removal demonstration gives immediate visual hook. DeoDap logo watermark appears upper left in sampled frames; no removal. No new discount/stock/performance claim verified. Six sampled frames inspected; audio not auditioned and no speech transcript claimed.",
+      "videoMetadata": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "h264",
+            "codec_type": "video",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "codec_name": "aac",
+            "codec_type": "audio"
+          }
+        ],
+        "format": {
+          "duration": "12.618005",
+          "size": "5530218"
+        }
+      },
+      "contactSheet": "F:\\Dropshipping\\team\\reports\\T037\\14-window-groove-cleaning-brush\\videos\\supplier-76162-frames.jpg",
+      "sha256": "1484b13c8da39eb4dbec239289d769b41bfcfae1277ea3536c5935d4bc8f56a2",
+      "supplierEventActive": false
+    }
+  ],
+  "bestCandidate": "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/whatmore_1080p_6cae7fe5-5606-4be7-8b0c-6024a1c496cc.mp4?v=1728025525",
+  "outcome": "Exact visible model supplier demo downloaded and visually verified; no fully cleared reusable social ad found."
+}

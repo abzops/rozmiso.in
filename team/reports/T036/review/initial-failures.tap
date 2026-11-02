@@ -1,0 +1,140 @@
+TAP version 13
+# Subtest: native: horizontal swipe selects the next thumbnail and synchronizes source, alt and aria
+ok 1 - native: horizontal swipe selects the next thumbnail and synchronizes source, alt and aria
+  ---
+  duration_ms: 110.3664
+  type: 'test'
+  ...
+# Subtest: native: swipe right/left wraps first and last and never skips an image
+ok 2 - native: swipe right/left wraps first and last and never skips an image
+  ---
+  duration_ms: 18.7806
+  type: 'test'
+  ...
+# Subtest: Bento: horizontal swipe selects the next thumbnail and synchronizes source, alt and aria
+ok 3 - Bento: horizontal swipe selects the next thumbnail and synchronizes source, alt and aria
+  ---
+  duration_ms: 12.9034
+  type: 'test'
+  ...
+# Subtest: Bento: swipe right/left wraps first and last and never skips an image
+ok 4 - Bento: swipe right/left wraps first and last and never skips an image
+  ---
+  duration_ms: 17.0646
+  type: 'test'
+  ...
+# Subtest: real touch tap retains zoom and keyboard Enter/Space remain usable
+ok 5 - real touch tap retains zoom and keyboard Enter/Space remain usable
+  ---
+  duration_ms: 15.1155
+  type: 'test'
+  ...
+# Subtest: synthetic click after swipe is suppressed rather than opening zoom
+ok 6 - synthetic click after swipe is suppressed rather than opening zoom
+  ---
+  duration_ms: 12.2884
+  type: 'test'
+  ...
+# Subtest: vertical, diagonal and short movements leave gallery and native page gesture untouched
+ok 7 - vertical, diagonal and short movements leave gallery and native page gesture untouched
+  ---
+  duration_ms: 55.8553
+  type: 'test'
+  ...
+# Subtest: mouse drags do not select gallery photos or alter click zoom
+ok 8 - mouse drags do not select gallery photos or alter click zoom
+  ---
+  duration_ms: 12.2266
+  type: 'test'
+  ...
+# Subtest: pen swipe uses the same gallery path
+ok 9 - pen swipe uses the same gallery path
+  ---
+  duration_ms: 10.9145
+  type: 'test'
+  ...
+# Subtest: pointer cancellation never selects an image and the next fresh gesture works
+ok 10 - pointer cancellation never selects an image and the next fresh gesture works
+  ---
+  duration_ms: 15.1154
+  type: 'test'
+  ...
+# Subtest: a second touch cancels the gesture even if the first pointer finishes with a large displacement
+ok 11 - a second touch cancels the gesture even if the first pointer finishes with a large displacement
+  ---
+  duration_ms: 11.775
+  type: 'test'
+  ...
+# Subtest: zero or one thumbnail is safe and never interferes with tap zoom
+ok 12 - zero or one thumbnail is safe and never interferes with tap zoom
+  ---
+  duration_ms: 18.8952
+  type: 'test'
+  ...
+# Subtest: thumbnail clicks remain usable before and after swiping
+ok 13 - thumbnail clicks remain usable before and after swiping
+  ---
+  duration_ms: 10.7515
+  type: 'test'
+  ...
+# Subtest: a deliberate new tap immediately after a swipe still opens the chosen image
+not ok 14 - a deliberate new tap immediately after a swipe still opens the chosen image
+  ---
+  duration_ms: 16.8125
+  type: 'test'
+  location: 'F:\\Dropshipping\\team\\reports\\T036\\review\\touch-gallery.test.cjs:66:1'
+  failureType: 'testCodeFailure'
+  error: |-
+    Expected values to be strictly equal:
+    
+    0 !== 1
+    
+  code: 'ERR_ASSERTION'
+  name: 'AssertionError'
+  expected: 1
+  actual: 0
+  operator: 'strictEqual'
+  stack: |-
+    TestContext.<anonymous> (F:\Dropshipping\team\reports\T036\review\touch-gallery.test.cjs:67:149)
+    Test.runInAsyncScope (node:async_hooks:214:14)
+    Test.run (node:internal/test_runner/test:1047:25)
+    Test.processPendingSubtests (node:internal/test_runner/test:744:18)
+    Test.postRun (node:internal/test_runner/test:1173:19)
+    Test.run (node:internal/test_runner/test:1101:12)
+    async Test.processPendingSubtests (node:internal/test_runner/test:744:7)
+  ...
+# Subtest: a second touch does not allow accidental click-to-zoom on gesture completion
+not ok 15 - a second touch does not allow accidental click-to-zoom on gesture completion
+  ---
+  duration_ms: 11.347
+  type: 'test'
+  location: 'F:\\Dropshipping\\team\\reports\\T036\\review\\touch-gallery.test.cjs:69:1'
+  failureType: 'testCodeFailure'
+  error: |-
+    Expected values to be strictly equal:
+    
+    1 !== 0
+    
+  code: 'ERR_ASSERTION'
+  name: 'AssertionError'
+  expected: 0
+  actual: 1
+  operator: 'strictEqual'
+  stack: |-
+    TestContext.<anonymous> (F:\Dropshipping\team\reports\T036\review\touch-gallery.test.cjs:70:254)
+    Test.runInAsyncScope (node:async_hooks:214:14)
+    Test.run (node:internal/test_runner/test:1047:25)
+    Test.processPendingSubtests (node:internal/test_runner/test:744:18)
+    Test.postRun (node:internal/test_runner/test:1173:19)
+    Test.run (node:internal/test_runner/test:1101:12)
+    async Test.processPendingSubtests (node:internal/test_runner/test:744:7)
+  ...
+1..15
+# tests 15
+# suites 0
+# pass 13
+# fail 2
+# cancelled 0
+# skipped 0
+# todo 0
+# duration_ms 379.4488

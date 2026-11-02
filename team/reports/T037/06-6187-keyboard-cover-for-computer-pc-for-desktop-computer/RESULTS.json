@@ -1,0 +1,75 @@
+{
+  "productId": 10257843060928,
+  "title": "Keyboard Cover",
+  "checkedAt": "2026-10-29",
+  "queries": [
+    "\"6187\" \"keyboard cover\" video",
+    "site.youtube.com \"transparent\" \"universal keyboard cover\" laptop",
+    "site.instagram.com deodap \"keyboard cover\"",
+    "\"6187\" \"keyboard\" deodap",
+    "\"keyboard cover\" \"deodap\" video",
+    "site.youtube.com/watch \"universal keyboard protector\" silicone",
+    "\"keyboard cover\" \"silicone\" \"youtube.com/shorts\"",
+    "\"keyboard cover\" \"instagram.com/reel\" transparent",
+    "\"6187_laptop_keyboard_cover\" video"
+  ],
+  "candidates": [
+    {
+      "url": "https://www.lazada.com.ph/videodetail/?video_id=8000140372926",
+      "platform": "Lazada video",
+      "title": "ANAMA Clear 12-17 inch Keypad Protector Universal Keyboard Film",
+      "downloadPath": null,
+      "downloadStatus": "DOWNLOAD_NOT_AVAILABLE",
+      "rightsStatus": "REFERENCE_ONLY_RIGHTS_UNCONFIRMED",
+      "rightsEvidenceUrl": null,
+      "matchStatus": "UNVERIFIED",
+      "matchEvidence": "Search-indexed video-detail page describes transparent single silicone film. Page open returned inaccessible. No video frames inspected; SKU6187 and blue sleeve not established.",
+      "qualityNotes": "No playback/frame review; resolution, aspect, hooks, overlays, watermark and speech unknown.",
+      "videoMetadata": null
+    },
+    {
+      "url": "https://shop-ph.tiktok.com/pdp/keyboard-cover-universal-silicone-protector-for-12-to-17-inch-laptops/1729399523182349703",
+      "platform": "TikTok Shop",
+      "title": "1Pc Universal Keyboard Cover for 12-17 inch Laptop Notebook Silicone Protector Skin",
+      "downloadPath": null,
+      "downloadStatus": "DOWNLOAD_NOT_AVAILABLE",
+      "rightsStatus": "REFERENCE_ONLY_RIGHTS_UNCONFIRMED",
+      "rightsEvidenceUrl": null,
+      "matchStatus": "UNVERIFIED",
+      "matchEvidence": "Social commerce listing only; description includes several colors/sizes. No video frames inspected and no exact SKU/package evidence.",
+      "qualityNotes": "No playback/frame review; resolution, aspect, hooks, overlays, watermark and speech unknown.",
+      "videoMetadata": null
+    },
+    {
+      "url": "https://www.lazada.com.ph/videodetail/?video_id=8000115638069",
+      "platform": "Lazada video",
+      "title": "Universal Keyboard Protector Silicone Dustproof Waterproof Cover 15-17Inches Suitable For Laptops",
+      "downloadPath": null,
+      "downloadStatus": "DOWNLOAD_NOT_AVAILABLE",
+      "rightsStatus": "REFERENCE_ONLY_RIGHTS_UNCONFIRMED",
+      "rightsEvidenceUrl": null,
+      "matchStatus": "UNVERIFIED",
+      "matchEvidence": "Video-detail search result describes purple variant, conflicting with transparent source reference; frames not accessible/inspected. Not verified as exact.",
+      "qualityNotes": "No playback/frame review; resolution, aspect, hooks, overlays, watermark and speech unknown.",
+      "videoMetadata": null
+    }
+  ],
+  "bestCandidate": null,
+  "outcome": "NO_VERIFIED_EXACT_REUSABLE_VIDEO",
+  "originalReferencesViewed": [
+    "F:/Dropshipping/team/reports/T028/reference-review/10257843060928/reference-1.jpg",
+    "F:/Dropshipping/team/reports/T028/reference-review/10257843060928/reference-2.jpg"
+  ],
+  "supplierEvidence": [
+    {
+      "url": "https://deodap.in/products/6187-keyboard-cover-for-computer-pc-for-desktop-computer",
+      "status": "HTTP404_FROM_SAVED_SCAN",
+      "proves": "Supplier endpoint unavailable in saved scan; not proof that all supplier videos are absent."
+    },
+    {
+      "url": "https://skyshopy.com/products/6187-keyboard-cover-for-computer-pc-for-desktop-computer",
+      "status": "SEARCH_RESULT_ONLY",
+      "proves": "Exact SKU found on reseller listing; no ad video or license established."
+    }
+  ]
+}

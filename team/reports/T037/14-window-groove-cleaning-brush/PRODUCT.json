@@ -1,0 +1,36 @@
+{
+  "index": 14,
+  "id": 10253181321408,
+  "title": "Window Groove Cleaning Brush",
+  "handle": "window-groove-cleaning-brush",
+  "variant_skus": [
+    "1484_window_slide_cleaner"
+  ],
+  "source_reference_images": [
+    "F:\\Dropshipping\\team\\reports\\T028\\reference-review\\10253181321408\\reference-1.jpg",
+    "F:\\Dropshipping\\team\\reports\\T028\\reference-review\\10253181321408\\reference-2.jpg"
+  ],
+  "physical_invariants": "Small white/gray plastic hand-grip block with smile-shaped side raised detail, side clip, gray coarse folded cleaning pad underneath with two downward fins. Aqua alternative in reference 2. One tool.",
+  "supplier_leads": [
+    {
+      "title": "Window Groove Cleaning Brush",
+      "url": "https://deodap.in/products/window-groove-cleaning-brush-slim-crevice-cleaner",
+      "sku": "1484_window_slide_cleaner",
+      "title_similarity": 1.0
+    },
+    {
+      "title": "5-in-1 Rechargeable Cleaning Brush",
+      "url": "https://deodap.in/products/5-in-1-electric-cleaning-brush-rechargeable-spin-scrubber-for-bathroom-1-set",
+      "sku": "6329_5in1_magic_cleaning_brush",
+      "title_similarity": 0.63
+    }
+  ],
+  "live_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/01_WindowSlotCleaner.jpg?v=1791302653",
+    "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/03_WindowSlotCleaner.jpg?v=1791303463",
+    "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/02_WindowSlotCleaner.jpg?v=1791303463",
+    "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/05_WindowSlotCleaner.jpg?v=1791305294"
+  ],
+  "folder": "F:\\Dropshipping\\team\\reports\\T037\\14-window-groove-cleaning-brush",
+  "status": "READY"
+}

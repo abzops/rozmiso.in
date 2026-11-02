@@ -1,0 +1,4 @@
+<section class="shell faq-grid section-pad" id="help"><div><p class="eyebrow">{{ 'home.good_to_know' | t }}</p><h2>{{ 'home.questions' | t }}</h2><p>{{ 'home.question_note' | t }}</p><a class="text-link" href="{{ routes.root_url }}pages/contact">{{ 'general.contact' | t }} ↗</a></div><div>{% for block in section.blocks %}<details {{ block.shopify_attributes }}><summary>{{ block.settings.question | escape }}<span aria-hidden="true">+</span></summary><div class="faq-answer">{{ block.settings.answer }}</div></details>{% endfor %}</div></section>
+{% schema %}
+{"name":"Studio questions","settings":[],"blocks":[{"type":"question","name":"Question","settings":[{"type":"text","id":"question","label":"Question"},{"type":"richtext","id":"answer","label":"Answer"}]}],"presets":[{"name":"Studio questions"}]}
+{% endschema %}

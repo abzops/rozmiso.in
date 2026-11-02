@@ -1,0 +1,11 @@
+<section class="shell shop-catalog">
+<p class="eyebrow">{{ 'general.explore' | t }}</p><h1>{{ 'general.search' | t }}</h1>
+<form class="search-form" action="{{ routes.search_url }}" method="get" role="search"><label class="sr-only" for="Search">{{ 'general.search' | t }}</label><input id="Search" type="search" name="q" value="{{ search.terms | escape }}" placeholder="{{ 'general.search_placeholder' | t }}"><input type="hidden" name="type" value="product"><button class="button" type="submit">{{ 'general.search' | t }}</button></form>
+{% if search.performed %}
+{% paginate search.results by 24 %}
+<p class="search-result-count" role="status">{{ search.results_count }} {% if search.results_count == 1 %}{{ 'product.item' | t }}{% else %}{{ 'product.items' | t }}{% endif %}</p>
+<div class="product-grid">{% for item in search.results %}{% if item.object_type == 'product' %}{% render 'studio-card', item: item %}{% endif %}{% else %}<div class="catalog-empty"><p>{{ 'product.no_results' | t }}</p><a class="button" href="{{ routes.all_products_collection_url }}">{{ 'general.shop' | t }} →</a></div>{% endfor %}</div>
+{% if paginate.pages > 1 %}<nav class="pagination" aria-label="{{ 'general.search' | t }}">{{ paginate | default_pagination }}</nav>{% endif %}
+{% endpaginate %}
+{% endif %}
+</section>

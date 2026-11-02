@@ -1,0 +1,55 @@
+{
+  "productId": 10257843454144,
+  "title": "Foldable Canvas Laundry and Storage Bag",
+  "checkedAt": "2026-10-29",
+  "queries": [
+    "\"6186\" \"laundry\" bag video Deodap",
+    "site.instagram.com \"canvas laundry bag\" deodap",
+    "site.youtube.com \"foldable\" \"laundry bag\" \"DeoDap\"",
+    "\"Deodap\" \"laundry\" \"video\"",
+    "site.instagram.com/reel \"laundry bag\" \"floral\"",
+    "\"6186\" \"laundry\" \"youtube\"",
+    "\"laundry bag\" \"DeoDap\" site:facebook.com",
+    "\"canvas laundry\" site:youtube.com/watch",
+    "\"foldable laundry bag\" site:instagram.com/reel/"
+  ],
+  "candidates": [
+    {
+      "url": "https://deodap.in/products/6186-canvas-laundry-bag-toy-storage-laundry-storage",
+      "platform": "Supplier Shopify product page",
+      "title": "Canvas Laundry Bag for Home & Toy Storage – Collapsible | Organivo",
+      "downloadPath": null,
+      "downloadStatus": "DOWNLOAD_NOT_AVAILABLE",
+      "rightsStatus": "RIGHTS_UNCONFIRMED",
+      "rightsEvidenceUrl": null,
+      "matchStatus": "UNVERIFIED",
+      "matchEvidence": "Exact SKU 6186_15in_foldable_laundry_bag confirmed. Public product.js contains 14 media entries, all images, no video. Original source image basename 2_95ee6822-904b-4b43-861b-4cce09f39058.jpg matches supplied original reference. No video frames available to establish video identity.",
+      "qualityNotes": "Not a video candidate; exact supplier lead only. No resolution, hooks or playback assessed.",
+      "videoMetadata": null
+    },
+    {
+      "url": "https://sharechat.com/tag/7JEZPR",
+      "platform": "ShareChat",
+      "title": "DeoDap.com social tag feed — Foldable Collapsible Utility Basket with Handles",
+      "downloadPath": null,
+      "downloadStatus": "DOWNLOAD_NOT_AVAILABLE",
+      "rightsStatus": "REFERENCE_ONLY_RIGHTS_UNCONFIRMED",
+      "rightsEvidenceUrl": null,
+      "matchStatus": "UNVERIFIED",
+      "matchEvidence": "Search snippet reports a supplier social post for foldable utility basket with handles. No exact SKU 6186, circular zipped lid or matching floral design established. Tag feed is not a specific verified clip.",
+      "qualityNotes": "Discovery lead only; frames and playback unavailable. No exact-match claim.",
+      "videoMetadata": null
+    }
+  ],
+  "bestCandidate": null,
+  "outcome": "NO_VERIFIED_EXACT_REUSABLE_VIDEO",
+  "supplierMediaCheck": {
+    "mediaCount": 14,
+    "url": "https://deodap.in/products/6186-canvas-laundry-bag-toy-storage-laundry-storage.js",
+    "videoCount": 0,
+    "mediaTypes": [
+      "image"
+    ]
+  },
+  "downloadedVideoCount": 0
+}

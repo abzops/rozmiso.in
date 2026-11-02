@@ -1,0 +1,75 @@
+{%- assign shop_all = routes.all_products_collection_url -%}
+{%- assign home_url = collections['home-care'].url | default: shop_all -%}
+{%- assign kitchen_url = collections['kitchen-essentials'].url | default: shop_all -%}
+{%- assign travel_url = collections['travel-essentials'].url | default: shop_all -%}
+<div class="rl-landing">
+  <section class="rl-hero" aria-labelledby="LandingHeroTitle">
+    <img class="rl-hero-image" src="{{ 'landing-hero.webp' | asset_url }}" width="2400" height="1000" alt="A rechargeable cleaning brush and interchangeable heads in a sunlit home" fetchpriority="high" loading="eager">
+    <div class="rl-hero-inner">
+      <div class="rl-hero-copy">
+        <p class="rl-eyebrow">THE EVERYDAY EDIT</p>
+        <h1 id="LandingHeroTitle">Thoughtful<br>finds for a<br> brighter everyday.</h1>
+        <p class="rl-hero-description">Practical essentials for your home, kitchen and days away. Explore the details and choose what fits your routine.</p>
+        <a class="rl-button" href="{{ shop_all }}">Shop all products {% render 'landing-icon', name: 'arrow-right' %}</a>
+      </div>
+      <ul class="rl-hero-points" role="list">
+        <li>{% render 'landing-icon', name: 'seal' %}<span>Useful<br>&amp; considered</span></li>
+        <li>{% render 'landing-icon', name: 'truck' %}<span>Home, travel<br>and beyond</span></li>
+        <li>{% render 'landing-icon', name: 'care' %}<span>Selected<br>with care</span></li>
+        <li>{% render 'landing-icon', name: 'support' %}<span>Questions?<br>Get in touch</span></li>
+      </ul>
+    </div>
+    <a href="#landing-categories" class="rl-down" aria-label="Explore product categories">{% render 'landing-icon', name: 'arrow-down' %}</a>
+  </section>
+
+  <nav class="rl-categories rl-container" id="landing-categories" aria-label="Shop by category">
+    <a class="rl-category" href="{{ home_url }}"><img src="{{ 'landing-category-home.webp' | asset_url }}" alt="Cleaning essentials for the home" width="480" height="330" loading="lazy"><span>Home care {% render 'landing-icon' %}</span></a>
+    <a class="rl-category" href="{{ kitchen_url }}"><img src="{{ 'landing-category-kitchen.webp' | asset_url }}" alt="Manual citrus juicer with fresh citrus" width="480" height="330" loading="lazy"><span>Kitchen {% render 'landing-icon' %}</span></a>
+    <a class="rl-category" href="{{ travel_url }}"><img src="{{ 'landing-category-travel.webp' | asset_url }}" alt="Travel organizer pouch with an insulated lining" width="480" height="330" loading="lazy"><span>Travel {% render 'landing-icon' %}</span></a>
+    <a class="rl-category" href="{{ shop_all }}?category=personal-care"><img src="{{ 'landing-category-personal.webp' | asset_url }}" alt="Personal care essentials" width="480" height="330" loading="lazy"><span>Personal care {% render 'landing-icon' %}</span></a>
+    <a class="rl-category" href="{{ shop_all }}?category=other-essentials"><img src="{{ 'landing-category-other.webp' | asset_url }}" alt="Everyday cable organization" width="480" height="330" loading="lazy"><span>Other essentials {% render 'landing-icon' %}</span></a>
+  </nav>
+
+  <section class="rl-featured rl-container" id="landing-featured" aria-labelledby="LandingFeaturedTitle">
+    <div class="rl-section-heading">
+      <div><p class="rl-eyebrow">FEATURED PRODUCTS</p><h2 id="LandingFeaturedTitle">Everyday essentials,<br>handpicked for you.</h2></div>
+      <div class="rl-featured-aside"><p>Practical, good-looking and made for real life.<br>Explore our everyday picks.</p><div class="rl-carousel-controls"><button type="button" data-landing-prev aria-label="Previous featured products" aria-controls="LandingFeaturedTrack">{% render 'landing-icon', name: 'arrow-left' %}</button><button type="button" data-landing-next aria-label="Next featured products" aria-controls="LandingFeaturedTrack">{% render 'landing-icon' %}</button></div></div>
+    </div>
+    <div class="rl-products" id="LandingFeaturedTrack" data-landing-track tabindex="0" aria-label="Featured products">
+      {%- assign featured_handles = '2-in-1-soap-dispensing-cleaning-brush|3-in-1-bottle-lid-cleaning-tool|5-in-1-rechargeable-cleaning-brush|adhesive-cable-organizer-clips-set-of-20' | split: '|' -%}
+      {%- assign featured_assets = 'landing-product-soap.webp|landing-product-lid.webp|landing-product-brush.webp|landing-product-cable.webp' | split: '|' -%}
+      {%- assign featured_categories = 'Kitchen|Kitchen|Home care|Home care' | split: '|' -%}
+      {%- for product_handle in featured_handles -%}
+        {%- assign item = all_products[product_handle] -%}
+        {%- if item != blank -%}
+          {%- assign asset_name = featured_assets[forloop.index0] -%}
+          <article class="rl-product">
+            <a class="rl-product-image" href="{{ item.url }}" aria-label="{{ item.title | escape }}"><img src="{{ asset_name | asset_url }}" alt="{{ item.title | escape }}" width="600" height="500" loading="lazy"></a>
+            <div class="rl-product-info"><p class="rl-product-category">{{ featured_categories[forloop.index0] }}</p><h3><a href="{{ item.url }}">{{ item.title | escape }}</a></h3><div class="rl-product-bottom"><div><p class="rl-price">{{ item.price | money }}</p><p class="rl-availability">{% if item.available and settings.prelaunch_mode != true %}View product details{% else %}Currently unavailable{% endif %}</p></div><a href="{{ item.url }}" class="rl-product-bag" aria-label="View {{ item.title | escape }}">{% render 'studio-icon', name: 'bag' %}</a></div></div>
+          </article>
+        {%- endif -%}
+      {%- endfor -%}
+    </div>
+  </section>
+
+  <section class="rl-home-banner" aria-labelledby="LandingHomeTitle">
+    <img src="{{ 'landing-home.webp' | asset_url }}" width="2400" height="650" alt="Natural textures, a soap dispenser and greenery beside a sunlit kitchen sink" loading="lazy">
+    <div class="rl-home-copy"><h2 id="LandingHomeTitle">Make everyday<br>spaces feel better.</h2><p>Simple, functional and beautiful finds<br>for a cleaner, brighter home.</p><a class="rl-button rl-button-light" href="{{ home_url }}">Explore home care {% render 'landing-icon' %}</a></div>
+  </section>
+
+  <section class="rl-benefits rl-container" id="our-approach" aria-labelledby="LandingWhyTitle">
+    <div class="rl-benefits-heading"><p class="rl-eyebrow">WHY ROZMISO</p><h2 id="LandingWhyTitle">Little details.<br>A better everyday.</h2></div>
+    <div class="rl-benefit">{% render 'landing-icon', name: 'leaf' %}<h3>Curated<br>essentials</h3><p>Thoughtful picks<br>for your daily life.</p></div>
+    <div class="rl-benefit">{% render 'landing-icon', name: 'truck' %}<h3>Delivery<br>details</h3><p>Explore delivery options<br>before you order.</p></div>
+    <div class="rl-benefit">{% render 'landing-icon', name: 'shield' %}<h3>Considered<br>choices</h3><p>Product details to help<br>you choose well.</p></div>
+    <div class="rl-benefit">{% render 'landing-icon', name: 'support' %}<h3>Helpful<br>support</h3><p><a href="{{ routes.root_url }}pages/contact">Get in touch</a> with<br>your questions.</p></div>
+  </section>
+
+  <section class="rl-travel-banner" aria-labelledby="LandingTravelTitle">
+    <img src="{{ 'landing-travel.webp' | asset_url }}" width="2400" height="700" alt="An organizer pouch being packed with everyday essentials for a trip" loading="lazy">
+    <div class="rl-travel-copy"><p class="rl-eyebrow">FOR HOME, KITCHEN &amp; TRAVEL</p><h2 id="LandingTravelTitle">Essentials<br> for wherever life<br>takes you.</h2><p>From daily routines to weekend getaways,<br>find the little things that make a big difference.</p><a class="rl-button" href="{{ travel_url }}">Shop travel essentials {% render 'landing-icon' %}</a></div>
+  </section>
+</div>
+{% schema %}
+{"name":"Reference landing page","settings":[],"presets":[{"name":"Reference landing page"}]}
+{% endschema %}

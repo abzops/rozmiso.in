@@ -1,0 +1,62 @@
+{
+  "productId": 10253181518016,
+  "title": "Foldable Hanging Travel Organizer",
+  "checkedAt": "2026-10-29T00:33:30.620654+05:30",
+  "queries": [
+    "\"20058\" \"travel\" bag video Deodap",
+    "site.instagram.com deodap \"hanging\" \"toiletry\"",
+    "site.youtube.com \"foldable\" \"travel\" \"DeoDap\"",
+    "site.instagram.com/reel/ \"beige\" \"hanging\" \"toiletry\" bag",
+    "site.youtube.com/shorts \"beige\" \"toiletry\" hanging",
+    "\"20058_foldable_travel_storage_bag\" video",
+    "hanging toiletry bag cream white hook mesh pocket instagram reel",
+    "Deodap 20058 toiletry video youtube",
+    "\"foldable travel pouch\" video"
+  ],
+  "candidates": [
+    {
+      "url": "https://deodap.in/products/premium-foldable-travel-pouch-bag-hanging-toiletry-organiser-kit-1-pc",
+      "platform": "Supplier product page",
+      "title": "Premium Foldable Travel Pouch Bag Hanging Toiletry Organiser Kit",
+      "downloadPath": null,
+      "downloadStatus": "DOWNLOAD_NOT_AVAILABLE",
+      "rightsStatus": "REFERENCE_ONLY_RIGHTS_UNCONFIRMED",
+      "rightsEvidenceUrl": null,
+      "matchStatus": "UNVERIFIED",
+      "matchEvidence": "Supplier page identifies exact SKU 20058_foldable_travel_storage_bag. Saved JSON media scan found zero videos. This is a still-image supplier lead, not a verified video.",
+      "qualityNotes": "No demo video or downloadable offered video found. Resolution, aspect, overlays, speech and watermark cannot be assessed.",
+      "videoMetadata": null
+    },
+    {
+      "url": "https://www.made-in-china.com/video-channel/bagslebon_JuTrkiIxmgVz_Hanging-Toiletry-Bag-with-Multiple-Compartments-and-Carry-Handles.html",
+      "platform": "Made-in-China video channel",
+      "title": "Hanging Toiletry Bag with Multiple Compartments and Carry Handles",
+      "downloadPath": null,
+      "downloadStatus": "DOWNLOAD_NOT_AVAILABLE",
+      "rightsStatus": "REFERENCE_ONLY_RIGHTS_UNCONFIRMED",
+      "rightsEvidenceUrl": null,
+      "matchStatus": "UNVERIFIED",
+      "matchEvidence": "Search/open page describes beige bag with metal hook and twin handles; target has white plastic S-hook. No frames inspected; exact identity unverified with a described hook mismatch.",
+      "qualityNotes": "Reject as an exact-match deliverable. No offered download or commercial advertising permission established.",
+      "videoMetadata": null
+    },
+    {
+      "url": "https://pictame.com/en/discover/hashtag/toilet-bag",
+      "platform": "Social-search index",
+      "title": "Toilet Bag Instagram Reels index",
+      "downloadPath": null,
+      "downloadStatus": "DOWNLOAD_NOT_AVAILABLE",
+      "rightsStatus": "REFERENCE_ONLY_RIGHTS_UNCONFIRMED",
+      "rightsEvidenceUrl": null,
+      "matchStatus": "UNVERIFIED",
+      "matchEvidence": "Search results list hanging-bag reels but provide no exact 20058 identity or inspected frames. Index only, not an identified exact-product reel.",
+      "qualityNotes": "No original social clip saved. Public discovery listing does not establish ownership or reuse permission.",
+      "videoMetadata": null
+    }
+  ],
+  "bestCandidate": null,
+  "outcome": "NO_VERIFIED_EXACT_REUSABLE_VIDEO",
+  "referenceViewed": "F:\\Dropshipping\\team\\reports\\T028\\reference-review\\10253181518016\\reference-1.jpg",
+  "downloadedVideoCount": 0,
+  "searchCallCount": 3
+}

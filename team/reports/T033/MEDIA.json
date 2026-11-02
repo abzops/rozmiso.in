@@ -1,0 +1,85 @@
+[
+  {
+    "name": "use",
+    "source": "F:\\Dropshipping\\team\\reports\\T031\\generated\\soap-corrected.png",
+    "review": "ROOT_AND_INDEPENDENT_VISIBLE_IDENTITY_PASS",
+    "saved": "F:\\Dropshipping\\team\\reports\\T033\\generated\\use.png",
+    "asset": "bento-soap-use.webp",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "bytes": 150084,
+    "sha256": "c71edbd41b0362e42fb99bfe197c6dd1af7a78e890a2b178bb6ca5485cbea788"
+  },
+  {
+    "name": "studio",
+    "prompt": "Edit Image1 studio product photo. Preserve EXACT product silhouette, 3quarter angle, printed face/eyes/belly/ears/paws, cap TOP BETWEEN EARS, gray flat bristle plane BEHIND face parallel to face, merely peeking on left. Do NOT add bristles below feet or white sidebutton. Replace only white background with warm ivory premium seamless tabletop, subtle soft sunlit shadow. One product alone, no text, no hands, no accessories. Square professional ecommercephoto.",
+    "source": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a11a24-fa90-7301-83f3-7aea32cd5e82\\exec-e33aa857-824a-4450-9fd5-74e6e652cf8e.png",
+    "review": "ROOT_VISIBLE_GEOMETRY_PASS",
+    "saved": "F:\\Dropshipping\\team\\reports\\T033\\generated\\studio.png",
+    "asset": "bento-soap-studio.webp",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "bytes": 53674,
+    "sha256": "0444a000bb9d3dc655f47da06f14846cbea0f34dcf96bb451310657536ebff6b"
+  },
+  {
+    "name": "rinse",
+    "prompt": "Edit Image2 exact side-use/rinsing photograph, preserve physical brush, gray bristle bed REAR underside, horizontal faceup shell, white cap on end correspondingbetweenears, same handgrip/pose and runningwater. Refine only surroundings/lighting to premium warm ivory sunlit sink with plantblur. No changes physicalfeatures, no extra handles/buttons. Square highend product usephoto, no words/graphics.",
+    "source": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a11a24-fa90-7301-83f3-7aea32cd5e82\\exec-787fdfe2-967d-44db-bcc5-730e8fce2d85.png",
+    "review": "ROOT_VISIBLE_GEOMETRY_PASS",
+    "saved": "F:\\Dropshipping\\team\\reports\\T033\\generated\\rinse.png",
+    "asset": "bento-soap-rinse.webp",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "bytes": 161356,
+    "sha256": "0a48bcb41155ef8e58eef177f7cc794e73a6bab272862a28e4307a5572e9fa43"
+  },
+  {
+    "name": "rear",
+    "prompt": "Generate square premium ecommerce detail photo of EXACT pink brush shown Image1+2+3. Physicalidentity invariant: pink shallow bearface shell, face on one broadside, dense flat graybristlebed on OPPOSITE REAR broadside paralleltoface, white cylindrical topfillcapbetweenears. Show SAME side-angle as Image2 with its flat rear bristles clearly visible, NO HAND, floating? no: rest product on its side on clean warmivory tabletop at3quarter rear-side angle. Do not invent bristle arrangement beyond visible dense rows. No text, accessories, sidecap or footbristles. Product only, preserveactualmolded silhouette.",
+    "source": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a11a24-fa90-7301-83f3-7aea32cd5e82\\exec-e688b6a8-80c8-438e-a962-41184af855ea.png",
+    "review": "ROOT_VISIBLE_GEOMETRY_PASS",
+    "saved": "F:\\Dropshipping\\team\\reports\\T033\\generated\\rear.png",
+    "asset": "bento-soap-rear.webp",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "bytes": 60430,
+    "sha256": "08aa576344b4246076edcc11a0a4d0e12a962f7e6d8830bbb0ee89000ab885cd"
+  },
+  {
+    "name": "cap",
+    "prompt": "Generate square extreme closeup macro product photo using Image1 authority. Show white cylindrical fillcap BETWEEN two pink bear ears on TOP of EXACT brush, cap CLOSED, topedge/seam and upper printed eyes partially visible. Preserve molded shape, texture, color. No opening/refillmechanism invented. No text, hand/accessories, sidecap, extrafeatures. Warm ivory premium studio background and soft daylight. Photoonly.",
+    "source": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a11a24-fa90-7301-83f3-7aea32cd5e82\\exec-31ec7251-8aad-4bc0-945e-ace4e68804b7.png",
+    "review": "ROOT_VISIBLE_GEOMETRY_PASS",
+    "saved": "F:\\Dropshipping\\team\\reports\\T033\\generated\\cap.png",
+    "asset": "bento-soap-cap.webp",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "bytes": 71330,
+    "sha256": "53f1ebb0e2667139bcf6fdf71c1328e450fe8be5e83b4d48471b5ba6be3bd8ba"
+  },
+  {
+    "name": "context",
+    "prompt": "Edit Image1 exact3quarter upright brush unchanged: face/body/ears/paws/belly, white capbetweenears and rearbristles peekingleft, NOT brushfeet. Place sameproduct on oatmeal linen beside ivory sink and blurred greenplant, warm sunlit cream bathroom. No extra product, no bottle, no accessories, no text. Square professional ecommerce contextphoto. Preservegeometry over aesthetics.",
+    "source": "C:\\Users\\Abhinand\\.codex\\generated_images\\01a11a24-fa90-7301-83f3-7aea32cd5e82\\exec-f6558abe-a305-4a34-bfa6-1b9d41d25f33.png",
+    "review": "ROOT_VISIBLE_GEOMETRY_PASS",
+    "saved": "F:\\Dropshipping\\team\\reports\\T033\\generated\\context.png",
+    "asset": "bento-soap-context.webp",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "bytes": 141928,
+    "sha256": "0590e6352a9c57e21ac3ca4c208db291f4a55167cd4e10fc6af206c325933dcc"
+  }
+]

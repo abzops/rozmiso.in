@@ -1,0 +1,35 @@
+{
+  "id": "gid://shopify/Product/10249095086272",
+  "title": "Astronaut Galaxy Projector with Remote",
+  "vendor": "Rozmiso",
+  "status": "DRAFT",
+  "productType": "Decor",
+  "descriptionHtml": "<p>A tabletop galaxy projector in a standing astronaut design. It creates decorative star and nebula lighting, with an adjustable head to change the direction of the projection.</p><ul>\n<li>Standing astronaut body on a moon-style base.</li>\n<li>Adjustable projection angle.</li>\n<li>Remote control for lighting settings.</li>\n</ul><p>Place on a stable surface and follow the supplied power and operating instructions. Keep dry and avoid looking directly into the light source. Projection images are illustrative; the effect depends on the room and ambient light.</p>",
+  "tags": [
+    "bestseller",
+    "decor",
+    "gift",
+    "kids"
+  ],
+  "totalInventory": 150,
+  "featuredImageUrl": null,
+  "images": [],
+  "totalVariants": 2,
+  "variants": [
+    {
+      "id": "gid://shopify/ProductVariant/50402719531200",
+      "title": "1 Piece (Astronaut Projector)",
+      "sku": "ROZ-ASTRO-01",
+      "price": "1299.00",
+      "inventoryQuantity": 90
+    },
+    {
+      "id": "gid://shopify/ProductVariant/50402719563968",
+      "title": "2 Pieces (Bedroom + Gift Bundle - Save ₹300!)",
+      "sku": "ROZ-ASTRO-02",
+      "price": "1899.00",
+      "inventoryQuantity": 60
+    }
+  ],
+  "currencyCode": "INR"
+}

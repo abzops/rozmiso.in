@@ -1,0 +1,86 @@
+{
+  "task": "T039",
+  "status": "SUBMITTED",
+  "review_date": "2026-11-01",
+  "method": "Reviewed new 1fps candidate sheets spanning 0-24 seconds, then extracted exact timestamps below from originals at 1080x1920 and inspected selected-frame contact sheets. Frames are unchanged video extracts; no product generation, compositing, crop, retouch or upload.",
+  "source_folder": "C:/Users/Abhinand/Downloads/final-v5",
+  "proof_root": "F:/Dropshipping/team/reports/T039/video-review/gallery-proof",
+  "common_limits": [
+    "These are owner creative frames, not independently verified physical sample photographs.",
+    "No selected frame includes Cash on Delivery wording or the final offer/end card.",
+    "Many selected frames retain subtitles and sparkle/diamond marks from the original; preserve provenance. Subtitle claims remain creative claims, not verified catalog specifications.",
+    "Six selected timestamps are not six unique camera setups. Similar closeups are explicitly noted. None of the selected hero frames establishes battery, materials, load ratings or clinical performance."
+  ],
+  "products": [
+    {
+      "video": "1-heating-belt.mp4",
+      "selected_count": 6,
+      "six_available": true,
+      "frames": [
+        {"seconds": 6.5, "file": "1-heating-belt/frame-01.jpg", "view": "Lavender front panel held horizontally, black display unlit", "text": "Water-free/no-leak claim"},
+        {"seconds": 7.5, "file": "1-heating-belt/frame-02.jpg", "view": "Angled front panel, strap edge, hand for scale", "text": "Water-free/no-leak claim", "note": "Similar setup to frame 1"},
+        {"seconds": 10.5, "file": "1-heating-belt/frame-03.jpg", "view": "Lit digital display closeup", "text": "USB charging/wrap around waist"},
+        {"seconds": 13.5, "file": "1-heating-belt/frame-04.jpg", "view": "Seated wearer with belt visible over clothing", "text": "Press button/heating starts"},
+        {"seconds": 17.5, "file": "1-heating-belt/frame-05.jpg", "view": "Closer worn-belt view showing strap and panel", "text": "Comfortable under clothes claim"},
+        {"seconds": 21.5, "file": "1-heating-belt/frame-06.jpg", "view": "Desk-use lifestyle view with waist strap and panel", "text": "Office/college/home work context"}
+      ],
+      "quality_note": "Clear product identity across six extracts; two early hand-held angles are similar. Retained performance subtitles need the same factual treatment as the video."
+    },
+    {
+      "video": "2-scalp-massager.mp4",
+      "selected_count": 6,
+      "six_available": true,
+      "frames": [
+        {"seconds": 5.5, "file": "2-scalp-massager/frame-01.jpg", "view": "Product, cable and supplier box on table", "text": "Hold in hand/press button"},
+        {"seconds": 6.5, "file": "2-scalp-massager/frame-02.jpg", "view": "Tabletop front angle with underside heads and cable", "text": "Four heads rotate slowly", "note": "Similar setup to frame 1"},
+        {"seconds": 8.5, "file": "2-scalp-massager/frame-03.jpg", "view": "Closer rounded shell, grey trim and underside heads", "text": "Four heads rotate slowly"},
+        {"seconds": 10.5, "file": "2-scalp-massager/frame-04.jpg", "view": "Close white shell and top control with cable foreground", "text": "Soft silicone/comfort claim"},
+        {"seconds": 15.5, "file": "2-scalp-massager/frame-05.jpg", "view": "Woman holds unit to scalp; handheld size context", "text": "Neck/shoulder use claim"},
+        {"seconds": 21.5, "file": "2-scalp-massager/frame-06.jpg", "view": "Another person applies unit to seated man's scalp", "text": "TV-use context"}
+      ],
+      "new_brand_evidence": "Full-resolution 5.5-second frame shows SMART SCALP MASSAGER on a green/white box. Brand lettering appears to begin Blueide; final letters are soft/ambiguous, so do not assert exact brand/model without supplier corroboration. This corrects earlier sampled-review statement that no other brand was legible.",
+      "quality_note": "Six product-visible extracts, with repeated tabletop setup. Material/rotation/body-use subtitles remain unverified claims."
+    },
+    {
+      "video": "3-tyre-booster.mp4",
+      "selected_count": 6,
+      "six_available": true,
+      "frames": [
+        {"seconds": 5.5, "file": "3-tyre-booster/frame-01.jpg", "view": "Top-down open metal cradle and four wheels", "text": "₹899 product identification"},
+        {"seconds": 6.5, "file": "3-tyre-booster/frame-02.jpg", "view": "Top-down cradle with hand touching crossbar", "text": "₹899 product identification", "note": "Similar setup to frame 1"},
+        {"seconds": 8.5, "file": "3-tyre-booster/frame-03.jpg", "view": "Handheld underside/side wheel and folded steel structure", "text": "Galvanized steel claim"},
+        {"seconds": 19.5, "file": "3-tyre-booster/frame-04.jpg", "view": "Tabletop cradle with separate tyre behind", "text": "Carry with bike/usefulness context"},
+        {"seconds": 20.5, "file": "3-tyre-booster/frame-05.jpg", "view": "Closer tabletop pink-hub wheel and cradle", "text": "Carry with bike/usefulness context", "note": "Similar setup to frame 4"},
+        {"seconds": 23.5, "file": "3-tyre-booster/frame-06.jpg", "view": "Clean tabletop oblique cradle and four-wheel view", "text": "No subtitle text; faint original translucent strip remains", "recommended_hero": true}
+      ],
+      "quality_note": "Avoid 21-22 seconds because those tabletop shots carry COD subtitles. Early wheels have plain hubs and later tabletop units have pink hubs; confirm supplied variant. No riding/support-load claim accepted."
+    },
+    {
+      "video": "4-galaxy-projector.mp4",
+      "selected_count": 2,
+      "clear_product_hero_count": 1,
+      "partial_lifestyle_count": 1,
+      "six_available": false,
+      "frames": [
+        {"seconds": 5.5, "file": "4-galaxy-projector/frame-01.jpg", "view": "Clear tabletop white astronaut, dark visor, base, hand scale", "text": "Place on bedside table/press button", "recommended_hero": true},
+        {"seconds": 20.5, "file": "4-galaxy-projector/frame-02.jpg", "view": "Child unboxing; only part of astronaut visible in box", "text": "Christmas/birthday gift context", "note": "Supporting lifestyle image only; not a clear full-product gallery detail"}
+      ],
+      "quality_note": "Only one clear independent product scene plus one partial lifestyle scene meet the requested exclusions. Times 5-7 seconds are near-duplicates of the same tabletop angle, not six distinct useful views. Approximately 8-18 seconds includes unsupported rich projection/space effects. Approximately 21-23 seconds includes COD text. Later product card excluded as requested. Do not pad gallery to six with near-duplicates or unsupported effects."
+    },
+    {
+      "video": "5-usb-juicer.mp4",
+      "selected_count": 6,
+      "six_available": true,
+      "frames": [
+        {"seconds": 23.5, "file": "5-usb-juicer/frame-01.jpg", "view": "Clear empty pink blender bottle on desk, wrist loop/blades/cable visible", "text": "No subtitle text; original translucent strip remains", "recommended_hero": true},
+        {"seconds": 5.5, "file": "5-usb-juicer/frame-02.jpg", "view": "Open bottle with fruit being added", "text": "Portable USB juicer label"},
+        {"seconds": 7.5, "file": "5-usb-juicer/frame-03.jpg", "view": "Lid held above fruit-filled bottle, control panel visible", "text": "Add fruit/milk/close lid"},
+        {"seconds": 8.5, "file": "5-usb-juicer/frame-04.jpg", "view": "Lid fitted, wrist loop and front panel visible", "text": "Add fruit/milk/close lid"},
+        {"seconds": 13.5, "file": "5-usb-juicer/frame-05.jpg", "view": "Woman holds open bottle with blended contents", "text": "Smoothie/no separate glass context"},
+        {"seconds": 19.5, "file": "5-usb-juicer/frame-06.jpg", "view": "Wider desk view with laptop and charging cable", "text": "Laptop/power-bank charging claim"}
+      ],
+      "quality_note": "Avoid 9-11 seconds because subtitles claim six blades, inconsistent with four exposed blade arms in product card. Selected frames retain other preparation/charging claims; exact performance still needs verification."
+    }
+  ],
+  "overall_result": "26 exact source frames selected and saved locally. Four products have six candidates each. Projector has one clear hero and one partial lifestyle candidate, not six acceptable distinct views."
+}

@@ -1,0 +1,39 @@
+{
+  "supplier_product_id": "10733139820854",
+  "source_api": "https://cdn-consumer.whatmore.live/v2/brand/78232846646/product-events?client_product_id=10733139820854&status=live,upcoming&event_type=video,image",
+  "permission_source": "https://deodap.in/blogs/news/earn-passive-income-online-in-india-with-deodap-dropshipping",
+  "rights": "SUPPLIER_REUSE_STATEMENT_PRESENT_MUSIC_AND_THIRD_PARTY_RIGHTS_NOT_VERIFIED",
+  "videos": [
+    {
+      "event_id": 398452,
+      "video_url": "https://cdn.shopify.com/videos/c/vp/a253acfe0df24569b7f7474d93c3b854/a253acfe0df24569b7f7474d93c3b854.HD-720p-1.6Mbps-92944021.mp4",
+      "downloadPath": "F:\\Dropshipping\\team\\reports\\T037\\19-everyday-travel-organizer-pouch\\videos\\supplier-398452.mp4",
+      "contactSheet": "F:\\Dropshipping\\team\\reports\\T037\\19-everyday-travel-organizer-pouch\\videos\\supplier-398452-frames.jpg",
+      "sha256": "4187bc25352e192be84102d35710814786c50f5dfdedb68bad2f99b7b0dcfcde",
+      "metadata": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "h264",
+            "codec_type": "video",
+            "width": 404,
+            "height": 720
+          },
+          {
+            "codec_name": "aac",
+            "codec_type": "audio"
+          }
+        ],
+        "format": {
+          "duration": "19.700000",
+          "size": "4344059"
+        }
+      },
+      "supplier_event_active": false,
+      "matchStatus": "PENDING_FRAME_REVIEW",
+      "source_product_url": "https://deodap.in/products/multipurpose-travel-organizer-bag-lightweight-storage-pouch-for-travel-1-pc"
+    }
+  ],
+  "status": "DOWNLOADED_PENDING_IDENTITY_REVIEW"
+}

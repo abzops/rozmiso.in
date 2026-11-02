@@ -1,0 +1,58 @@
+{
+  "productId": 10257843355840,
+  "title": "Manual Citrus Juicer with Strainer",
+  "sku": "2793_manual_hand_juicer",
+  "checkedAt": "2026-10-29T00:28:09.9790554+05:30",
+  "queries": [
+    "\"2793\" \"manual hand juicer\" video",
+    "site.youtube.com \"DeoDap\" \"manual\" \"juicer\"",
+    "site.instagram.com \"2793\" juicer",
+    "\"2793_manual_hand_juicer\"",
+    "site.facebook.com \"manual hand juicer\" \"DeoDap\"",
+    "site.youtube.com \"red\" \"white strainer\" \"juicer\"",
+    "site.tiktok.com \"manual citrus juicer\" red",
+    "\"2793\" \"juicer\" \"video\" deodap",
+    "site.facebook.com/reel \"juicer\" \"red\" \"strainer\"",
+    "site.instagram.com/reel \"Deodap\" \"juicer\"",
+    "site.youtube.com/watch \"2793\" juicer"
+  ],
+  "candidates": [
+    {
+      "url": "https://www.tradeindia.com/products/manual-hand-juicer-for-making-juices-and-beverages-by-using-hands-2793-c9061264.html",
+      "downloadStatus": "DOWNLOAD_NOT_AVAILABLE",
+      "rightsStatus": "REFERENCE_ONLY_RIGHTS_UNCONFIRMED",
+      "matchStatus": "UNVERIFIED",
+      "platform": "TradeIndia supplier listing",
+      "title": "Manual Hand Juicer For Making Juices And Beverages By Using Hands (2793)",
+      "matchEvidence": "Exact model 2793 supplier listing corroborates red plastic hand juicer, but no playable video or actual video frames were found. Listing identity does not verify a video.",
+      "videoMetadata": null,
+      "qualityNotes": "Product still listing, not a professional video deliverable.",
+      "rightsEvidenceUrl": null,
+      "downloadPath": null
+    },
+    {
+      "url": "https://t.me/s/DeoDap?before=28098",
+      "downloadStatus": "DOWNLOAD_NOT_AVAILABLE",
+      "rightsStatus": "REFERENCE_ONLY_RIGHTS_UNCONFIRMED",
+      "matchStatus": "UNVERIFIED",
+      "platform": "Telegram supplier public channel",
+      "title": "Manual Fruit & Veg Juicer – Strong Suction Base, Easy Clean",
+      "matchEvidence": "Rejected lead: channel describes suction-base fruit/vegetable model 0168; target is red round bowl with red cone and white radial strainer SKU2793. No actual frames inspected; no exact clip verified.",
+      "videoMetadata": null,
+      "qualityNotes": "Generic supplier channel evidence only; no exact clip or professional quality established.",
+      "rightsEvidenceUrl": null,
+      "downloadPath": null
+    }
+  ],
+  "bestCandidate": null,
+  "outcome": "NO_VERIFIED_EXACT_REUSABLE_VIDEO",
+  "referenceViewed": "F:/Dropshipping/team/reports/T028/reference-review/10257843355840/reference-1.jpg",
+  "limitations": [
+    "No exact video frames available to compare.",
+    "Exact Deodap legacy product URL and product JSON returned unavailable/404.",
+    "Villia indexed exact-model listing failed live open with 404.",
+    "Fuzzy PRODUCT.json supplier leads are unrelated drain catcher/cloth and were rejected.",
+    "No download or explicit commercial video reuse license found."
+  ],
+  "downloadedFiles": []
+}

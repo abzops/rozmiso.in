@@ -1,0 +1,266 @@
+[
+  {
+    "path": "assets/bento-soap-cap.webp",
+    "sha256": "53f1ebb0e2667139bcf6fdf71c1328e450fe8be5e83b4d48471b5ba6be3bd8ba"
+  },
+  {
+    "path": "assets/bento-soap-context.webp",
+    "sha256": "0590e6352a9c57e21ac3ca4c208db291f4a55167cd4e10fc6af206c325933dcc"
+  },
+  {
+    "path": "assets/bento-soap-rear.webp",
+    "sha256": "08aa576344b4246076edcc11a0a4d0e12a962f7e6d8830bbb0ee89000ab885cd"
+  },
+  {
+    "path": "assets/bento-soap-rinse.webp",
+    "sha256": "0a48bcb41155ef8e58eef177f7cc794e73a6bab272862a28e4307a5572e9fa43"
+  },
+  {
+    "path": "assets/bento-soap-studio.webp",
+    "sha256": "0444a000bb9d3dc655f47da06f14846cbea0f34dcf96bb451310657536ebff6b"
+  },
+  {
+    "path": "assets/bento-soap-use.webp",
+    "sha256": "c71edbd41b0362e42fb99bfe197c6dd1af7a78e890a2b178bb6ca5485cbea788"
+  },
+  {
+    "path": "assets/DM-Sans-OFL.txt",
+    "sha256": "9af36190332437f5ecd09974de43c1f7c77a310a996cdd8ceb25628b458840e1"
+  },
+  {
+    "path": "assets/DMSans-Variable.ttf",
+    "sha256": "8cd08d97e89c24d0aa92edd2f0f4c8ee6195eee9b7c9f154865a58b02f0c1c0d"
+  },
+  {
+    "path": "assets/favicon-16.png",
+    "sha256": "30efb3537cb7f27282678850a5a770e4144d57d84d92dc50543f3ebff0fa2a2d"
+  },
+  {
+    "path": "assets/favicon-180.png",
+    "sha256": "49df2f1236a6e0961cb8179e964a9c804ac1a9de736517209bedd53952887873"
+  },
+  {
+    "path": "assets/favicon-32.png",
+    "sha256": "0892c17cdd758d8bc048d893ff6be07cea2cd0829aec961651984f1acbdddda7"
+  },
+  {
+    "path": "assets/favicon.ico",
+    "sha256": "dafb79fd68bfc2603d3230c12a67a7e04d7336a8194405ea9779fb3773e2d271"
+  },
+  {
+    "path": "assets/landing-category-home.webp",
+    "sha256": "e989b69791e1bd493109b9bb8a001bb62395de6f0e53e365bb9acbaae860a7f0"
+  },
+  {
+    "path": "assets/landing-category-kitchen.webp",
+    "sha256": "706de62c489f1f5821d30906bbb0201fbb35712ad1f62a7375953032eefe4c48"
+  },
+  {
+    "path": "assets/landing-category-other.webp",
+    "sha256": "53bb111dd3858de6299827ab8049f8c39aca3b6829ef46f7d0adff2ca581132d"
+  },
+  {
+    "path": "assets/landing-category-personal.webp",
+    "sha256": "403e927836e1cf1e3685b1ad492a1692de72fb0c661fec0392f444e06cb0d2c1"
+  },
+  {
+    "path": "assets/landing-category-travel.webp",
+    "sha256": "42e1cd7bad37caba5bfd0fe2ab049e30ac310fc7b891596aaf5896d4a8f0bb70"
+  },
+  {
+    "path": "assets/landing-chrome.css",
+    "sha256": "19b7aa5eef6910e8b2df87b81e694175381fe305272139b359166cb2d179a1ba"
+  },
+  {
+    "path": "assets/landing-hero.webp",
+    "sha256": "e5844550ead52d93b95976522da5cc5547819e59dda8d4dfecd0c7b1f33db7a2"
+  },
+  {
+    "path": "assets/landing-home.webp",
+    "sha256": "8293f5bbd13c5a6f30355eb4693f87d6b3327ed2b278ec8a10820d8c6946338e"
+  },
+  {
+    "path": "assets/landing-product-brush.webp",
+    "sha256": "d2fe144bd7e1dce644c79443c74e89cacea56110121a610be6def93a9b169f74"
+  },
+  {
+    "path": "assets/landing-product-cable.webp",
+    "sha256": "53bb111dd3858de6299827ab8049f8c39aca3b6829ef46f7d0adff2ca581132d"
+  },
+  {
+    "path": "assets/landing-product-lid.webp",
+    "sha256": "b1ddaba237f6bcaf772a7295213909f21ed868d1bd5ce4bf80c4bf570fd777fd"
+  },
+  {
+    "path": "assets/landing-product-soap.webp",
+    "sha256": "1957aa2f996c20d79ff184b0a2a28b579f707c4e55e3ef9603ae9a6c42103684"
+  },
+  {
+    "path": "assets/landing-travel.webp",
+    "sha256": "282aeb31fbd4738b2c94c68be4b817e157734071792fde4f2707da110d0ecc7d"
+  },
+  {
+    "path": "assets/landing.css",
+    "sha256": "f46fb76c977d38870dae3daa9b2d9df54ba7a052c0284f9b055f54c123f0d4d9"
+  },
+  {
+    "path": "assets/landing.js",
+    "sha256": "2d4cc7daddbd56e157966d07bdb0c1b413a9a4ae97b5652a294c88b8d0c479c0"
+  },
+  {
+    "path": "assets/Manrope-OFL.txt",
+    "sha256": "58172e0c0fac2cda8a37b348164bb55e44b0e69051e557e92b1d3f6910141f7b"
+  },
+  {
+    "path": "assets/Manrope-Variable.ttf",
+    "sha256": "3ae11c49db0455a3cc33e37d380f20fdb8c7f8b41dc07625c177e3d87a9d6ae6"
+  },
+  {
+    "path": "assets/product-bento.css",
+    "sha256": "77d6e8f6a361d6d593f751983754563099dd0603cca15c97cd6cb27646c2d6c1"
+  },
+  {
+    "path": "assets/product-bento.js",
+    "sha256": "05f715f1da3d458cd253eeb578f44d8dccf733a4515b935e279828087d84babc"
+  },
+  {
+    "path": "assets/rozmiso-mark.svg",
+    "sha256": "f7ec199253b35e0d201b1b710f04edda6c8bcfc068727d9a37126e0b60df94d3"
+  },
+  {
+    "path": "assets/rozmiso-primary-reversed.svg",
+    "sha256": "b2ef0c5a8d44f084098b4ddd93777bf35f4c621af666f7ccf01a6f6da9a3f2c0"
+  },
+  {
+    "path": "assets/rozmiso-primary.svg",
+    "sha256": "4a65b24211573f23877efe73750efee3455b1188a29dd89905c9eee288c7c141"
+  },
+  {
+    "path": "assets/rozmiso-share.png",
+    "sha256": "1d7738eef1088afa4987722dada97e74331881383359280c5d79262257f4d10e"
+  },
+  {
+    "path": "assets/studio.css",
+    "sha256": "4ed26bb86d66a840a8cfc2541147b9fe76ae7d932d77a7bd2e7d280fe2fe5a46"
+  },
+  {
+    "path": "assets/studio.js",
+    "sha256": "e92d0936b339126ac97c7acc1628d91a2d4fd408bfe828e4e244dbba9dc39dc5"
+  },
+  {
+    "path": "config/settings_data.json",
+    "sha256": "e5a0516f2ea8f305ceb41130d7beea6738b6df23df21ee5392f458c27e09fe50"
+  },
+  {
+    "path": "config/settings_schema.json",
+    "sha256": "24f63bb10928e1cd9fd94284e8070e1573b1ca622b98744293bad01def103020"
+  },
+  {
+    "path": "layout/theme.liquid",
+    "sha256": "0dcf15ff5eda3c5edb2c570dcae89b9c526afeb7dc2d4857e749d6112db95e8d"
+  },
+  {
+    "path": "locales/en.default.json",
+    "sha256": "a3ad7de8befc3a9a82d962b3f522ef4e1629ea5ddc703bc51687a2538836b931"
+  },
+  {
+    "path": "sections/studio-collection.liquid",
+    "sha256": "356eea02c23796185068731a7e4e5f5a1048e3d3c17a46942f88bc4452afa0aa"
+  },
+  {
+    "path": "sections/studio-edit.liquid",
+    "sha256": "042f629e49242a56313a84cd0706d9b13a53c9dad42cc9df7d0941a14c2dcdf1"
+  },
+  {
+    "path": "sections/studio-faq.liquid",
+    "sha256": "835ab7fe86b799ab3fbc31bd05c0b2032358cac03e6a90f7c4e4b13b8d8af714"
+  },
+  {
+    "path": "sections/studio-footer.liquid",
+    "sha256": "aca8054cbed55fc62d2a911fe2aa93ffb46f6746f34a3ea9795164044e1cbfd5"
+  },
+  {
+    "path": "sections/studio-header.liquid",
+    "sha256": "79ee2de8b432246316e7551d966f90255a8ce20489a42fd2881f08c528f3a498"
+  },
+  {
+    "path": "sections/studio-hero.liquid",
+    "sha256": "99c52167fff509a97ae95f359a58bf53a36a43e1b389c10830056ff259b66e3d"
+  },
+  {
+    "path": "sections/studio-landing.liquid",
+    "sha256": "9b9d8d937bfcc08352a5850b735ae5b30be37d2ed9abf0ea3779ea3d170ec408"
+  },
+  {
+    "path": "sections/studio-product.liquid",
+    "sha256": "6e6244d30c13f158aed75e4b4a1772538e17b8f434958b30c74118a8eaf59964"
+  },
+  {
+    "path": "sections/studio-story.liquid",
+    "sha256": "8daf6a818328455155886191ad81bcbb439023f8a2c08d456abb0e9438095cac"
+  },
+  {
+    "path": "snippets/bento-icon.liquid",
+    "sha256": "defb29d0c5217f254284152d422ffa6e7f3505f790c23a8df38186a538966b93"
+  },
+  {
+    "path": "snippets/landing-icon.liquid",
+    "sha256": "8fd3d9129fa618f92c08322f70fbd0536c928f6a852e44ef2b87db8348e63bfc"
+  },
+  {
+    "path": "snippets/studio-card.liquid",
+    "sha256": "d5266b8a097631f2653f1f0e481b4317ea2bff457c3ae786bf0202d4f00b2abf"
+  },
+  {
+    "path": "snippets/studio-category.liquid",
+    "sha256": "9ed191d0bcc22fafa7a2dcbae2c39c3e2f90abe60dcb0668a83f1511c78d12b4"
+  },
+  {
+    "path": "snippets/studio-icon.liquid",
+    "sha256": "bd38705b3dbb7ff290f9477ab9eadfcd5d20fc0114091b2f9b512ac257cba233"
+  },
+  {
+    "path": "snippets/studio-logo.liquid",
+    "sha256": "c0b262280d11cdd4d5ef19a59eb785135c606b9f3c687ed0d55e74475e3e4338"
+  },
+  {
+    "path": "snippets/studio-product-videos.liquid",
+    "sha256": "a103e7a7b42d8fe2929cde0690a5f9e7d8593e2aeaa009d5a50068dfb25a7c81"
+  },
+  {
+    "path": "templates/404.liquid",
+    "sha256": "f3bc48917b7a66bdf23e6d828231a2b1e5029e75cfd6675d66d4931bdd9a823c"
+  },
+  {
+    "path": "templates/cart.liquid",
+    "sha256": "ab970eef4188d4f9198109948f315b421c85f90abcf5c112c2e16d351b4ebcd6"
+  },
+  {
+    "path": "templates/collection.json",
+    "sha256": "3b0e5b5b2ea32617e4a5ba4fe23f35c8772726912db941a17d554597577c5c10"
+  },
+  {
+    "path": "templates/index.json",
+    "sha256": "67720c0025531cf49e3ca6dd149ea57bb26a52fe5bbab7559000e7df3e58a403"
+  },
+  {
+    "path": "templates/list-collections.liquid",
+    "sha256": "2a7a2c78758270f29a4b11dd35fd5a9a1da8413ee38d13c6c5839ad2a55118c6"
+  },
+  {
+    "path": "templates/page.contact.liquid",
+    "sha256": "22be4dfd875d66ed9df3e4072a8621f6acb19d49f479fcf150737323c26072ed"
+  },
+  {
+    "path": "templates/page.liquid",
+    "sha256": "22ff91fc2b1524edc32a24cc82a515f4e779f2a0673e582e9ac5a6258928d146"
+  },
+  {
+    "path": "templates/product.json",
+    "sha256": "3d0fae100ea4e43c3936a53b8f7a5d9c0111259cf96ee472a19c972f588765a2"
+  },
+  {
+    "path": "templates/search.liquid",
+    "sha256": "a2a2d894f7f4407b9e5b5e1b1c4cc14cda7e5cceb4768bdfc556673246d139a2"
+  }
+]

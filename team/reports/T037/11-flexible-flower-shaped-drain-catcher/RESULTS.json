@@ -1,0 +1,86 @@
+{
+  "productId": 10253181583552,
+  "title": "Flexible Flower-Shaped Drain Catcher",
+  "checkedAt": "2026-10-29T00:33:35.548842+05:30",
+  "queries": [
+    "\"10624\" \"flower\" \"strainer\" video",
+    "site.instagram.com \"flower\" \"sink strainer\" knob",
+    "site.youtube.com flower sink strainer green silicone drain catcher demo",
+    "\"10624_flower_shape_kitchen_sink_strainer\"",
+    "site.facebook.com \"flower\" \"sink strainer\" video",
+    "site.instagram.com/reel \"flower\" \"sink strainer\"",
+    "\"DeoDap\" \"10624\" video",
+    "\"flower shape kitchen sink strainer\" video instagram facebook"
+  ],
+  "candidates": [
+    {
+      "url": "https://cdn.shopify.com/videos/c/vp/4f605d856cf946e3b426d1157ef9ad81/4f605d856cf946e3b426d1157ef9ad81.HD-720p-3.0Mbps-95034669.mp4",
+      "platform": "DeoDap official supplier / Whatmore",
+      "title": "Supplier SKU10624 presenter demonstration",
+      "downloadPath": "F:\\Dropshipping\\team\\reports\\T037\\11-flexible-flower-shaped-drain-catcher\\videos\\supplier-409077.mp4",
+      "downloadStatus": "DOWNLOADED_PUBLIC_SUPPLIER_ORIGINAL",
+      "rightsStatus": "SUPPLIER_REUSE_STATEMENT_PRESENT_MUSIC_AND_THIRD_PARTY_RIGHTS_NOT_VERIFIED",
+      "rightsEvidenceUrl": "https://deodap.in/blogs/news/earn-passive-income-online-in-india-with-deodap-dropshipping",
+      "matchStatus": "EXACT_VISIBLE_MODEL",
+      "matchEvidence": "Viewed 8-frame contactsheet and individual 14-second frame against original. Lime green scalloped flower rim, recessed perforated bowl, short central grip, and same radial hole layout match. On-video SKU10624 agrees with exact supplier source. Rear/measurements not proved.",
+      "qualityNotes": "23.04s portrait 404x720 H264/AAC. Presenter holds and flexes catcher; DeoDap wholesale watermark and SKU10624 persist. Colour Options and Waste overlays visible. Low native resolution, small product presentation. No transcript/listening review; no audio rights clearance.",
+      "videoMetadata": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "h264",
+            "codec_type": "video",
+            "width": 404,
+            "height": 720
+          },
+          {
+            "codec_name": "aac",
+            "codec_type": "audio"
+          }
+        ],
+        "format": {
+          "duration": "23.040000",
+          "size": "8984149"
+        }
+      }
+    },
+    {
+      "url": "https://www.lazada.com.my/videodetail/?video_id=30211442733",
+      "platform": "Lazada",
+      "title": "Kitchen Sewer Drainage Anti-Clogging Filter Net Waterway Food Residue Sink Strainer Hair Sink Floor Drain Cover (Flower)",
+      "downloadPath": null,
+      "downloadStatus": "DOWNLOAD_NOT_AVAILABLE",
+      "rightsStatus": "REFERENCE_ONLY_RIGHTS_UNCONFIRMED",
+      "rightsEvidenceUrl": null,
+      "matchStatus": "UNVERIFIED",
+      "matchEvidence": "Product-video page and flower/handle description found; actual video frames unavailable in returned page. No visual identity assertion. No exact SKU connection.",
+      "qualityNotes": "Playback, resolution, aspect, hook, watermark and audio not inspected.",
+      "videoMetadata": null
+    },
+    {
+      "url": "https://www.lazada.com.ph/videodetail/?video_id=30373502566",
+      "platform": "Lazada",
+      "title": "Flower-Shaped Drain Plug Flippable Drain Filter Screen Silicone Hair Filter Catcher Sink Anti-Blocking Strainer Kitchen Bathroom Drain Stopper",
+      "downloadPath": null,
+      "downloadStatus": "DOWNLOAD_NOT_AVAILABLE",
+      "rightsStatus": "REFERENCE_ONLY_RIGHTS_UNCONFIRMED",
+      "rightsEvidenceUrl": null,
+      "matchStatus": "UNVERIFIED",
+      "matchEvidence": "Public product-video page found. Flip-top plug description differs from fixed central stem in reference, but no actual frames viewed; cannot assign visual match.",
+      "qualityNotes": "No actual frames, playback, dimensions or watermark verification.",
+      "videoMetadata": null
+    }
+  ],
+  "bestCandidate": "https://cdn.shopify.com/videos/c/vp/4f605d856cf946e3b426d1157ef9ad81/4f605d856cf946e3b426d1157ef9ad81.HD-720p-3.0Mbps-95034669.mp4",
+  "outcome": "EXACT_VISIBLE_MODEL_DOWNLOADED_RIGHTS_QUALIFIED",
+  "supplierEvidence": {
+    "note": "Product JSON media array alone missed separate Whatmore supplier feed. Root discovered product-linked event409077, downloaded public Shopify CDN MP4 and sampled frames.",
+    "sku": "10624_flower_shape_kitchen_sink_strainer",
+    "videoCount": 0,
+    "evidence": "SUPPLIER-MEDIA-SCAN.json",
+    "url": "https://deodap.in/products/flexible-silicone-sink-strainer-drain-hair-catcher"
+  },
+  "referenceViewed": "F:/Dropshipping/team/reports/T028/reference-review/10253181583552/reference-1.jpg",
+  "downloadCount": 1
+}

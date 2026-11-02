@@ -1,0 +1,182 @@
+{
+  "product": {
+    "id": 10277080039734,
+    "title": "Electric Scalp Massager – Portable USB Rechargeable with 4 Heads",
+    "body_html": "<p>Experience soothing comfort with our Electric Scalp Massager, designed to gently stimulate your scalp and relax your body anytime. This portable massager features soft silicone bristles and four detachable heads for versatile massage across scalp, neck, shoulders, and other areas.</p>\n<h2>Key features</h2>\n<ul>\n<li>Four detachable massage heads for customizable relief on different body parts.</li>\n<li>Soft silicone bristles prevent hair pulling and offer a gentle massage safe for all hair types.</li>\n<li>USB rechargeable battery provides up to one week of convenient use per charge.</li>\n<li>IPX6 waterproof rating allows use in wet and dry conditions, including shower and bath.</li>\n<li>Ergonomic lightweight design ensures comfort and easy handling without hand fatigue.</li>\n<li>Smart auto shut-off after 10 minutes helps avoid overuse and saves battery life.</li>\n</ul>\n<h2>Materials &amp; care</h2>\n<p>The scalp massager is crafted with soft silicone bristles and durable plastic. To maintain hygiene, clean the silicone heads with a damp cloth after use and avoid harsh chemicals.</p>\n<h2>FAQ</h2>\n<dl>\n<dt>Q1: How do the interchangeable heads work?</dt>\n<dd>A: The massager comes with four detachable heads for targeted massage, allowing you to select the best fit for your desired area.</dd>\n<dt>Q2: Is this massager suitable for all hair types?</dt>\n<dd>A: Yes, the soft silicone bristles ensure gentle care without tangling or pulling, making it safe for everyone.</dd>\n<dt>Q3: How long does the battery last on a single charge?</dt>\n<dd>A: With a USB rechargeable battery, you can enjoy up to one week of use before recharging.</dd>\n<dt>Q4: Can I use this massager in the shower?</dt>\n<dd>A: Yes, it is IPX6 waterproof rated, so it’s safe for wet use during showers or baths.</dd>\n<dt>Q5: Does it have any safety features?</dt>\n<dd>A: It automatically shuts off after 10 minutes of continuous use to protect from overuse and conserve battery.</dd>\n</dl>",
+    "vendor": "Velvet Wellness",
+    "product_type": "Electric Massager",
+    "created_at": "2025-07-12T10:03:54+05:30",
+    "handle": "smart-electric-scalp-massager-1-pc",
+    "updated_at": "2026-11-01T19:36:59+05:30",
+    "published_at": "2025-07-12T10:05:26+05:30",
+    "template_suffix": "",
+    "published_scope": "global",
+    "tags": "21 To 30 Afft, above198, AP, AS, Beauty, Beauty  Health Grocery, Best Selling, BR, c163, c97, China, clearance sale, color box pack, DL, g290, g522, GJ, Hair Accessories, head massager, Health & Beauty, Health & Beauty Accessories, Health & Personal Care, Health Essentials, HP, HR, Internal, JH, KL, massager, MH, MP, Navratri, p10, payday, Personal Care, Personal Care Gadgets, RJ, stock, TN, TS, UK, UP, Viral Gadget, WB",
+    "variants": [
+      {
+        "id": 52389198266678,
+        "product_id": 10277080039734,
+        "title": "Default Title",
+        "price": "377.00",
+        "sku": "13556_smart_scalp_massager_1pc",
+        "position": 1,
+        "compare_at_price": "999.00",
+        "fulfillment_service": "manual",
+        "inventory_management": "shopify",
+        "option1": "Default Title",
+        "option2": null,
+        "option3": null,
+        "created_at": "2025-07-12T10:03:54+05:30",
+        "updated_at": "2026-11-01T19:36:59+05:30",
+        "taxable": true,
+        "barcode": "629783684360",
+        "grams": 298,
+        "image_id": null,
+        "weight": 298.0,
+        "weight_unit": "g",
+        "requires_shipping": true,
+        "quantity_rule": {
+          "min": 1,
+          "max": null,
+          "increment": 1
+        },
+        "price_currency": "INR",
+        "compare_at_price_currency": "INR",
+        "quantity_price_breaks": []
+      }
+    ],
+    "options": [
+      {
+        "id": 12892845179190,
+        "product_id": 10277080039734,
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "id": 60599573545270,
+        "product_id": 10277080039734,
+        "position": 1,
+        "created_at": "2026-10-26T13:05:09+05:30",
+        "updated_at": "2026-10-26T13:05:09+05:30",
+        "alt": null,
+        "width": 1500,
+        "height": 1500,
+        "src": "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/SmartScalpMassager-01.jpg?v=1793000109",
+        "variant_ids": []
+      },
+      {
+        "id": 60599574331702,
+        "product_id": 10277080039734,
+        "position": 2,
+        "created_at": "2026-10-26T13:05:11+05:30",
+        "updated_at": "2026-10-26T13:05:11+05:30",
+        "alt": null,
+        "width": 1500,
+        "height": 1500,
+        "src": "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/SmartScalpMassager-03.jpg?v=1793000111",
+        "variant_ids": []
+      },
+      {
+        "id": 60599574757686,
+        "product_id": 10277080039734,
+        "position": 3,
+        "created_at": "2026-10-26T13:05:12+05:30",
+        "updated_at": "2026-10-26T13:05:13+05:30",
+        "alt": null,
+        "width": 1500,
+        "height": 1500,
+        "src": "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/SmartScalpMassager-size.jpg?v=1793000113",
+        "variant_ids": []
+      },
+      {
+        "id": 60599575085366,
+        "product_id": 10277080039734,
+        "position": 4,
+        "created_at": "2026-10-26T13:05:14+05:30",
+        "updated_at": "2026-10-26T13:05:14+05:30",
+        "alt": null,
+        "width": 1500,
+        "height": 1500,
+        "src": "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/SmartScalpMassager-02.jpg?v=1793000114",
+        "variant_ids": []
+      },
+      {
+        "id": 60599575249206,
+        "product_id": 10277080039734,
+        "position": 5,
+        "created_at": "2026-10-26T13:05:16+05:30",
+        "updated_at": "2026-10-26T13:05:16+05:30",
+        "alt": null,
+        "width": 1500,
+        "height": 1500,
+        "src": "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/SmartScalpMassager-04.jpg?v=1793000116",
+        "variant_ids": []
+      },
+      {
+        "id": 60599575576886,
+        "product_id": 10277080039734,
+        "position": 6,
+        "created_at": "2026-10-26T13:05:17+05:30",
+        "updated_at": "2026-10-26T13:05:17+05:30",
+        "alt": null,
+        "width": 1500,
+        "height": 1500,
+        "src": "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/SmartScalpMassager-05.jpg?v=1793000117",
+        "variant_ids": []
+      },
+      {
+        "id": 60599576068406,
+        "product_id": 10277080039734,
+        "position": 7,
+        "created_at": "2026-10-26T13:05:19+05:30",
+        "updated_at": "2026-10-26T13:05:19+05:30",
+        "alt": null,
+        "width": 1500,
+        "height": 1500,
+        "src": "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/SmartScalpMassager-06.jpg?v=1793000119",
+        "variant_ids": []
+      },
+      {
+        "id": 60599576297782,
+        "product_id": 10277080039734,
+        "position": 8,
+        "created_at": "2026-10-26T13:05:20+05:30",
+        "updated_at": "2026-10-26T13:05:20+05:30",
+        "alt": null,
+        "width": 1500,
+        "height": 1500,
+        "src": "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/sku_121c0536-8084-4219-837c-5d45c94b8495.jpg?v=1793000120",
+        "variant_ids": []
+      },
+      {
+        "id": 60599576789302,
+        "product_id": 10277080039734,
+        "position": 9,
+        "created_at": "2026-10-26T13:05:22+05:30",
+        "updated_at": "2026-10-26T13:05:22+05:30",
+        "alt": null,
+        "width": 1500,
+        "height": 1500,
+        "src": "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/SmartScalpMassager-live.jpg?v=1793000122",
+        "variant_ids": []
+      }
+    ],
+    "image": {
+      "id": 60599573545270,
+      "product_id": 10277080039734,
+      "position": 1,
+      "created_at": "2026-10-26T13:05:09+05:30",
+      "updated_at": "2026-10-26T13:05:09+05:30",
+      "alt": null,
+      "width": 1500,
+      "height": 1500,
+      "src": "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/SmartScalpMassager-01.jpg?v=1793000109",
+      "variant_ids": []
+    }
+  }
+}

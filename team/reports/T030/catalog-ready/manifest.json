@@ -1,0 +1,1476 @@
+{
+  "date": "2026-10-14",
+  "boundary": "Six product-specific images per gallery; shared social CTA excluded. AI-generated imagery based on supplied references. No live edits performed by this script.",
+  "products": [
+    {
+      "productId": "10252037324992",
+      "title": "USB Rechargeable Fabric Shaver",
+      "productUrl": "https://rozmiso.in/products/usb-rechargeable-fabric-shaver",
+      "images": [
+        {
+          "order": 1,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10252037324992\\01-product.png",
+          "source": "F:\\Dropshipping\\team\\reports\\T028\\generated\\10252037324992\\10252037324992-studio.png",
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "sha256": "9ad9f67c781a4ca7c87baf741c0b3e382026bc165bbd2b5d437bea04e3a3355e"
+        },
+        {
+          "order": 2,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10252037324992\\02-product.png",
+          "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10252037324992\\02-slide.png",
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "sha256": "b236e08881e27510d5baae1a82b649ab147ae5efb4070c2880f74e562adf28da"
+        },
+        {
+          "order": 3,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10252037324992\\03-product.png",
+          "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10252037324992\\03-slide.png",
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "sha256": "ce4380b3c8801e147dad75730cd26d4951a933004fa3e4bbbff41089e6158072"
+        },
+        {
+          "order": 4,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10252037324992\\04-product.png",
+          "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10252037324992\\04-slide.png",
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "sha256": "d690ed88093bb747418ae9996615fe79c50fc51c6fc754d61e692133aa5f93d8"
+        },
+        {
+          "order": 5,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10252037324992\\05-product.png",
+          "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10252037324992\\01-slide.png",
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "sha256": "79f277e94897e930389f53388a832a5d6da34e96b2ae448590f876ac9e3bb240"
+        },
+        {
+          "order": 6,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10252037324992\\06-product.png",
+          "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10252037324992\\05-slide.png",
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "sha256": "334ab969f370dd49cd2d8d3c63ff5bd011661ada23d642db6f07715f34216bb9"
+        }
+      ],
+      "missing": [],
+      "state": "LOCAL_READY_NOT_UPLOADED",
+      "descriptionHtml": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10252037324992\\description.html"
+    },
+    {
+      "productId": "10252037357760",
+      "title": "5-in-1 Rechargeable Cleaning Brush",
+      "productUrl": "https://rozmiso.in/products/5-in-1-rechargeable-cleaning-brush",
+      "images": [
+        {
+          "order": 1,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10252037357760\\01-product.png",
+          "source": "F:\\Dropshipping\\team\\reports\\T028\\generated\\10252037357760\\01-studio-no-cable.png",
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "sha256": "bcbaf868635d12e0c206b6a52e457c3dd4b853bfb1326ee12baa588042b41730"
+        },
+        {
+          "order": 2,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10252037357760\\02-product.png",
+          "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10252037357760\\02-slide.png",
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "sha256": "a90c5981f8c072927ad46a181acbe05c215cf98a99c2243e4285e7d4e7490eb4"
+        },
+        {
+          "order": 3,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10252037357760\\03-product.png",
+          "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10252037357760\\03-slide.png",
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "sha256": "6f253fb83500c5d582edba057fd69aa2f5417cacb6ab2a25f76ccff4f591b4e3"
+        },
+        {
+          "order": 4,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10252037357760\\04-product.png",
+          "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10252037357760\\04-slide.png",
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "sha256": "e81647cc53bf613550e76cba0eaf82369fa2d8cefbcd070e96e89033669c0512"
+        },
+        {
+          "order": 5,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10252037357760\\05-product.png",
+          "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10252037357760\\01-slide.png",
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "sha256": "0786aaad404a11cd7e3289278029f04e7ddad65f722db92f79edc087570f6a49"
+        },
+        {
+          "order": 6,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10252037357760\\06-product.png",
+          "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10252037357760\\05-slide.png",
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "sha256": "b45cfe1232fd05dd7fd93180f104f86ac735ca57c6e1e055aa13e5152fa28b62"
+        }
+      ],
+      "missing": [],
+      "state": "LOCAL_READY_NOT_UPLOADED",
+      "descriptionHtml": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10252037357760\\description.html"
+    },
+    {
+      "productId": "10252037390528",
+      "title": "Everyday Travel Organizer Pouch",
+      "productUrl": "https://rozmiso.in/products/everyday-travel-organizer-pouch",
+      "images": [
+        {
+          "order": 1,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10252037390528\\01-product.png",
+          "source": "F:\\Dropshipping\\team\\reports\\T028\\generated\\10252037390528\\01-studio-v2.png",
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "sha256": "ea943c7a92d58bee74a3be88b97cc30027680d83c62ba227cad5929f3d17fffd"
+        },
+        {
+          "order": 2,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10252037390528\\02-product.png",
+          "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10252037390528\\02-slide.png",
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "sha256": "978ae6933e3b657473f357b2208bc13c7714739740c5b8020e4c7dea44e5e6e9"
+        },
+        {
+          "order": 3,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10252037390528\\03-product.png",
+          "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10252037390528\\03-slide.png",
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "sha256": "7609fbb20d530cbc2e491db5c6aa6f34bb4cdf675092e5526f4ac8100fbf5cb9"
+        },
+        {
+          "order": 4,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10252037390528\\04-product.png",
+          "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10252037390528\\04-slide.png",
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "sha256": "bd7c0b21b48fb0f9ab0274a40378fd08e0f1a0f727d53bd67c113544a60478cb"
+        },
+        {
+          "order": 5,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10252037390528\\05-product.png",
+          "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10252037390528\\01-slide.png",
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "sha256": "039241ee16e31094dee3598d9443874c8c67ea6a2228ab811a091c35cc947a04"
+        },
+        {
+          "order": 6,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10252037390528\\06-product.png",
+          "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10252037390528\\05-slide.png",
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "sha256": "7814a4e32368e37d1a7737b429eda000bef5a3134a29ccc0b93a5788ab7ecf48"
+        }
+      ],
+      "missing": [],
+      "state": "LOCAL_READY_NOT_UPLOADED",
+      "descriptionHtml": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10252037390528\\description.html"
+    },
+    {
+      "productId": "10252037456064",
+      "title": "2-in-1 Soap Dispensing Cleaning Brush",
+      "productUrl": "https://rozmiso.in/products/2-in-1-soap-dispensing-cleaning-brush",
+      "images": [
+        {
+          "order": 1,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10252037456064\\01-product.png",
+          "source": "F:\\Dropshipping\\team\\reports\\T028\\generated\\10252037456064\\01-studio.png",
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "sha256": "0b8e1355f3062f09d4b59706742be99fda5256d7c2ad8c6bf326bb54b4086be9"
+        },
+        {
+          "order": 2,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10252037456064\\02-product.png",
+          "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10252037456064\\02-slide.png",
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "sha256": "ba64f06e18ec04768009045afe4f52f38590f0c59a62d15f654df43fd1f8c8d0"
+        },
+        {
+          "order": 3,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10252037456064\\03-product.png",
+          "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10252037456064\\03-slide.png",
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "sha256": "8e7cb3f031c48aa59e7c3576fd655ba658f064ed03c0f4add5f0fd105eef6ba4"
+        },
+        {
+          "order": 4,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10252037456064\\04-product.png",
+          "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10252037456064\\04-slide.png",
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "sha256": "13dd5f2bcd8116a8a250b64c590003f770bad5650f0da86abb1393ba2292d527"
+        },
+        {
+          "order": 5,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10252037456064\\05-product.png",
+          "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10252037456064\\01-slide.png",
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "sha256": "73ef09320ee5a39675465bad8853da4ff30b80e773d3874eb572938c8b58f269"
+        },
+        {
+          "order": 6,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10252037456064\\06-product.png",
+          "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10252037456064\\05-slide.png",
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "sha256": "2e45b08e7cad584e7bddd3d4dfebf41214c67f95ef65bf804972cd12918e57fb"
+        }
+      ],
+      "missing": [],
+      "state": "LOCAL_READY_NOT_UPLOADED",
+      "descriptionHtml": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10252037456064\\description.html"
+    },
+    {
+      "productId": "10253181026496",
+      "title": "Microfiber Cleaning Cloth",
+      "productUrl": "https://rozmiso.in/products/microfiber-cleaning-cloth-40x40",
+      "images": [
+        {
+          "order": 1,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253181026496\\01-product.png",
+          "source": "F:\\Dropshipping\\team\\reports\\T028\\generated\\10253181026496\\01-studio.png",
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "sha256": "54d6a6dec8eaeb5b4c77f09135b0ec0faf5c4481e961d0379ca1f849b1d3cd25"
+        },
+        {
+          "order": 2,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253181026496\\02-product.png",
+          "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253181026496\\02-slide.png",
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "sha256": "675bd846a0c88a361c63808ba04e19c8b45d0fd5205b81d55a2d2cbed2edb52b"
+        },
+        {
+          "order": 3,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253181026496\\03-product.png",
+          "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253181026496\\03-slide.png",
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "sha256": "7fb98e649930a9b7e0eefdf6656ec2ca6f43400533f6e0997fdde94cf9fe7ae8"
+        },
+        {
+          "order": 4,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253181026496\\04-product.png",
+          "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253181026496\\04-slide.png",
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "sha256": "ee919654f57517dd5b418c4653879f247def1ad0d184c95053611083a3f95eba"
+        },
+        {
+          "order": 5,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253181026496\\05-product.png",
+          "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253181026496\\01-slide.png",
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "sha256": "ddd3bb1b14a9ff74f1bb393e77f32e6907d8ff466b9b32785670e4335e1cb148"
+        },
+        {
+          "order": 6,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253181026496\\06-product.png",
+          "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253181026496\\05-slide.png",
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "sha256": "340b4a14968e3774871187f759f08fafbd7e296376e5199cb2cce5bec8e358b0"
+        }
+      ],
+      "missing": [],
+      "state": "LOCAL_READY_NOT_UPLOADED",
+      "descriptionHtml": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253181026496\\description.html"
+    },
+    {
+      "productId": "10253181092032",
+      "title": "Reusable Bag Locking Ties, Set of 3",
+      "productUrl": "https://rozmiso.in/products/reusable-bag-locking-ties-set-of-3",
+      "images": [
+        {
+          "order": 1,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253181092032\\01-product.png",
+          "source": "F:\\Dropshipping\\team\\reports\\T028\\generated\\10253181092032\\01-studio.png",
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "sha256": "923ea0a867c0aa6ab7838c773037d61ad7e3051d4a840f8cd132a9e8dbae248e"
+        },
+        {
+          "order": 2,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253181092032\\02-product.png",
+          "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253181092032\\02-slide.png",
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "sha256": "f55c0a14e86e574548eda1f849048ba281a8d4b9d8fba1ccb189295de251873a"
+        },
+        {
+          "order": 3,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253181092032\\03-product.png",
+          "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253181092032\\03-slide.png",
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "sha256": "829ff08dad03c16e1896ac6560254f5904754f6b8257e83822bf8b71e1b46fa9"
+        },
+        {
+          "order": 4,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253181092032\\04-product.png",
+          "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253181092032\\04-slide.png",
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "sha256": "aab555967eb7ce26c8e018b844fd6540e7c79c6c8f525ec04d3446e3667a8970"
+        },
+        {
+          "order": 5,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253181092032\\05-product.png",
+          "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253181092032\\01-slide.png",
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "sha256": "4d1674911255d4a4fa9b2c7efabdabcec09c636200bb486f636d2e5b4a2116bc"
+        },
+        {
+          "order": 6,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253181092032\\06-product.png",
+          "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253181092032\\05-slide.png",
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "sha256": "9ba33ee6386c86be7296356726de8e3dcc02ddd1cc4d18ecff54e83bbc571b9b"
+        }
+      ],
+      "missing": [],
+      "state": "LOCAL_READY_NOT_UPLOADED",
+      "descriptionHtml": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253181092032\\description.html"
+    },
+    {
+      "productId": "10253181255872",
+      "title": "Compact Cable Winder Case",
+      "productUrl": "https://rozmiso.in/products/compact-cable-winder-case",
+      "images": [
+        {
+          "order": 1,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253181255872\\01-product.png",
+          "source": "F:\\Dropshipping\\team\\reports\\T028\\generated\\10253181255872\\01-studio.png",
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "sha256": "08aa93a1b478b12947700b1b34130da9df71ee5ba704f8323a223dd1a8e3e869"
+        },
+        {
+          "order": 2,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253181255872\\02-product.png",
+          "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253181255872\\02-slide.png",
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "sha256": "23c715cd78d3cba49a38e588506337b6c751e26be2a5ab8b66bc20ef0fffb467"
+        },
+        {
+          "order": 3,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253181255872\\03-product.png",
+          "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253181255872\\03-slide.png",
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "sha256": "9338af45a2b1e8d137bb2cdab162037ca09b42ce3dd8a99fe83ec503de20a3fe"
+        },
+        {
+          "order": 4,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253181255872\\04-product.png",
+          "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253181255872\\04-slide.png",
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "sha256": "4ebe52a042dccc3953ac69c94f833097179b9f5fa31b31f763fe0b3c13b6d38a"
+        },
+        {
+          "order": 5,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253181255872\\05-product.png",
+          "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253181255872\\01-slide.png",
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "sha256": "99804c9e8b25b43de6418634ec6ac154fe0afae2312fb21f47ea87b06bde503b"
+        },
+        {
+          "order": 6,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253181255872\\06-product.png",
+          "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253181255872\\05-slide.png",
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "sha256": "167033aea4f35b316fe6f5c045be730b6dce6bf361a9e97a53abac7eb661ae6a"
+        }
+      ],
+      "missing": [],
+      "state": "LOCAL_READY_NOT_UPLOADED",
+      "descriptionHtml": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253181255872\\description.html"
+    },
+    {
+      "productId": "10253181321408",
+      "title": "Window Groove Cleaning Brush",
+      "productUrl": "https://rozmiso.in/products/window-groove-cleaning-brush",
+      "images": [
+        {
+          "order": 1,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253181321408\\01-product.png",
+          "source": "F:\\Dropshipping\\team\\reports\\T028\\generated\\10253181321408\\01-studio.png",
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "sha256": "a60f6d9a5486ce69720914025c06ea808abd976cd17f8ce279e06d36f7f94d8e"
+        },
+        {
+          "order": 2,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253181321408\\02-product.png",
+          "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253181321408\\02-slide.png",
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "sha256": "2e3e81691f3ee44e95c41415a83519503b151ece4ec23d387d9ddcf8353d882f"
+        },
+        {
+          "order": 3,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253181321408\\03-product.png",
+          "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253181321408\\03-slide.png",
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "sha256": "382ddef17c985e7ef3ae9dad71713ceddc417a4c2d28d326998c6e961e2aba39"
+        },
+        {
+          "order": 4,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253181321408\\04-product.png",
+          "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253181321408\\04-slide.png",
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "sha256": "7392676d5ead93af8d13c7b867f924c8871ed8761c36b283c477edb928bb4b78"
+        },
+        {
+          "order": 5,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253181321408\\05-product.png",
+          "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253181321408\\01-slide.png",
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "sha256": "d8a9dc3fa10475adf1aeb2950fcae6a6ebdfacd0410e2e7f946d8ced94c08e89"
+        },
+        {
+          "order": 6,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253181321408\\06-product.png",
+          "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253181321408\\05-slide.png",
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "sha256": "c16b552be6a3079de1fb5d156c6a376e72e9ea1315e156671df1e87874ae1494"
+        }
+      ],
+      "missing": [],
+      "state": "LOCAL_READY_NOT_UPLOADED",
+      "descriptionHtml": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253181321408\\description.html"
+    },
+    {
+      "productId": "10253181419712",
+      "title": "Handheld Upholstery Cleaning Brush",
+      "productUrl": "https://rozmiso.in/products/handheld-upholstery-cleaning-brush",
+      "images": [
+        {
+          "order": 1,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253181419712\\01-product.png",
+          "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253181419712\\00-studio-v4.png",
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "sha256": "4b05fe630c7dda6356a332c3f3c1da144c6e1ac7fa2658cce5408da8ffe65fc0"
+        },
+        {
+          "order": 2,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253181419712\\02-product.png",
+          "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253181419712\\02-slide.png",
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "sha256": "420c5383f9869214d7e6c04c3cc0581b2b3741a8901d8995d6b44431f5b5d305"
+        },
+        {
+          "order": 3,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253181419712\\03-product.png",
+          "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253181419712\\03-slide.png",
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "sha256": "7e18c1a8d6a045bbd55e8155e9da9fa894d8b8f3a3d20fc787eee46dd213a801"
+        },
+        {
+          "order": 4,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253181419712\\04-product.png",
+          "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253181419712\\04-slide.png",
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "sha256": "c815b71006d8af0f9016bed9e08a3570832d8f593ec7d849eb28e6b31e50ae22"
+        },
+        {
+          "order": 5,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253181419712\\05-product.png",
+          "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253181419712\\01-slide.png",
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "sha256": "396e785ff52fbbc736a3754c0f22b22a5ad435131aaad3de1ec7e3eda37f0c7e"
+        },
+        {
+          "order": 6,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253181419712\\06-product.png",
+          "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253181419712\\05-slide.png",
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "sha256": "ea08f497f4078e41f289841c7d41c5e31c298706d30516662f6799d3b1202c07"
+        }
+      ],
+      "missing": [],
+      "state": "LOCAL_READY_NOT_UPLOADED",
+      "descriptionHtml": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253181419712\\description.html"
+    },
+    {
+      "productId": "10253181518016",
+      "title": "Foldable Hanging Travel Organizer",
+      "productUrl": "https://rozmiso.in/products/foldable-hanging-travel-organizer",
+      "images": [
+        {
+          "order": 1,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253181518016\\01-product.png",
+          "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253181518016\\00-studio-v4.png",
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "sha256": "7ea2062c80d63a7dbb8eef4019bf557f3adcdd9775677be4ddaefb3b56edd852"
+        },
+        {
+          "order": 2,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253181518016\\02-product.png",
+          "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253181518016\\02-slide.png",
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "sha256": "bf5793724b977be23f4b26a02e8993ac7d4a6ec8cbe772adf50b730bba7d4e2f"
+        },
+        {
+          "order": 3,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253181518016\\03-product.png",
+          "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253181518016\\03-slide.png",
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "sha256": "b2fcc59413e3598fe2c39e75426cca68bbc372584ac96a496778e61f891a77f1"
+        },
+        {
+          "order": 4,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253181518016\\04-product.png",
+          "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253181518016\\04-slide.png",
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "sha256": "4c93f4c3ec0360733f86ebf2d49e9079e8ca68820d3bd7ba7bd3298ced4e6219"
+        },
+        {
+          "order": 5,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253181518016\\05-product.png",
+          "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253181518016\\01-slide.png",
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "sha256": "af13dc8b25c5f9c5678a7a759e63669dd1576d0800b2b2686eea4d0f48948e30"
+        },
+        {
+          "order": 6,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253181518016\\06-product.png",
+          "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253181518016\\05-slide.png",
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "sha256": "7e623100afad0045ffdd272c0cf29187cb400237ebccf959aa7569cc0a551dfb"
+        }
+      ],
+      "missing": [],
+      "state": "LOCAL_READY_NOT_UPLOADED",
+      "descriptionHtml": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253181518016\\description.html"
+    },
+    {
+      "productId": "10253181583552",
+      "title": "Flexible Flower-Shaped Drain Catcher",
+      "productUrl": "https://rozmiso.in/products/flexible-flower-shaped-drain-catcher",
+      "images": [
+        {
+          "order": 1,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253181583552\\01-product.png",
+          "source": "F:\\Dropshipping\\team\\reports\\T028\\generated\\10253181583552\\studio.png",
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "sha256": "d507a03193f4725539b437d26ad8d593505fe7ade9dcc0958e582c1af194627e"
+        },
+        {
+          "order": 2,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253181583552\\02-product.png",
+          "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253181583552\\02-slide.png",
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "sha256": "bce3545ec2c21e1236b3da731272291c9fb4332603c0dd4af10edbd65bfe3174"
+        },
+        {
+          "order": 3,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253181583552\\03-product.png",
+          "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253181583552\\03-slide.png",
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "sha256": "2b994501072f2cdc6ab98184d247f8acb7eeafbddbeda18b62d8e36f3a0fec07"
+        },
+        {
+          "order": 4,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253181583552\\04-product.png",
+          "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253181583552\\04-slide.png",
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "sha256": "f8a1d6960553790cc71d6aa19230e4a1c4512225802ad9392b5db2a67b62bd7f"
+        },
+        {
+          "order": 5,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253181583552\\05-product.png",
+          "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253181583552\\01-slide.png",
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "sha256": "6332988bad89685d6b2bd1a58ed9eef8011236b021caf9f87f121322a8de1382"
+        },
+        {
+          "order": 6,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253181583552\\06-product.png",
+          "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253181583552\\05-slide.png",
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "sha256": "46dd9b15bea4a70ef8eaa03d44455554d18b83f8c237079483784b220653d878"
+        }
+      ],
+      "missing": [],
+      "state": "LOCAL_READY_NOT_UPLOADED",
+      "descriptionHtml": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253181583552\\description.html"
+    },
+    {
+      "productId": "10253181681856",
+      "title": "3-in-1 Bottle Lid Cleaning Tool",
+      "productUrl": "https://rozmiso.in/products/3-in-1-bottle-lid-cleaning-tool",
+      "images": [
+        {
+          "order": 1,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253181681856\\01-product.png",
+          "source": "F:\\Dropshipping\\team\\reports\\T028\\generated\\10253181681856\\studio.png",
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "sha256": "0304152b39a887f67068e7892f90449ecca44bb6d3b79de04fe6cb59e42871b3"
+        },
+        {
+          "order": 2,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253181681856\\02-product.png",
+          "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253181681856\\02-slide.png",
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "sha256": "7e2f1f307b4dcbed290e5896608c2d7d12ba853a059191b5fc95038889208d35"
+        },
+        {
+          "order": 3,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253181681856\\03-product.png",
+          "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253181681856\\03-slide.png",
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "sha256": "f6c9ae809709f0a6c3ad7c4158f4dd2106c71caba8573c18cf1bfe9c126464e3"
+        },
+        {
+          "order": 4,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253181681856\\04-product.png",
+          "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253181681856\\04-slide.png",
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "sha256": "8b717304ba2974f80ff196dc47f690524607feaf5ee1604df1c8d646a4342cd4"
+        },
+        {
+          "order": 5,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253181681856\\05-product.png",
+          "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253181681856\\01-slide.png",
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "sha256": "88e7f31105ae3246f0c349c9889c4108f795958209ac03f3d7b9ab0229716a80"
+        },
+        {
+          "order": 6,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253181681856\\06-product.png",
+          "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253181681856\\05-slide.png",
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "sha256": "345ce799da8d02b1fad7551c173c4ea69bc8b9f45096f27d01ecae012e62325c"
+        }
+      ],
+      "missing": [],
+      "state": "LOCAL_READY_NOT_UPLOADED",
+      "descriptionHtml": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253181681856\\description.html"
+    },
+    {
+      "productId": "10253181845696",
+      "title": "Adhesive Cable Organizer Strips, Set of 20",
+      "productUrl": "https://rozmiso.in/products/adhesive-cable-organizer-clips-set-of-20",
+      "images": [
+        {
+          "order": 1,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253181845696\\01-product.png",
+          "source": "F:\\Dropshipping\\team\\reports\\T028\\generated\\10253181845696\\studio.png",
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "sha256": "f4b04f53224f05bb82dd904ed7a9a0df273ba45a2db0b771ca54a37cd70adcbe"
+        },
+        {
+          "order": 2,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253181845696\\02-product.png",
+          "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253181845696\\02-slide.png",
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "sha256": "af2d01fd37d608559e8d0fc47f22b288492c4c4cb6893f61e4c7a48c9392992d"
+        },
+        {
+          "order": 3,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253181845696\\03-product.png",
+          "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253181845696\\03-slide.png",
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "sha256": "cf83426953c665cc14a8d65e25745964acf4da5933c4b2ee2920db2afacfb5f0"
+        },
+        {
+          "order": 4,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253181845696\\04-product.png",
+          "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253181845696\\04-slide.png",
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "sha256": "34d074d6025c9a627d0a0b780d0fab3ed5ef68baf24166e652367b0cf60a4e7e"
+        },
+        {
+          "order": 5,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253181845696\\05-product.png",
+          "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253181845696\\01-slide.png",
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "sha256": "a30209a8461c5e9c49d782fef8531b801812fa5e299b98351f4afd33176b1f13"
+        },
+        {
+          "order": 6,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253181845696\\06-product.png",
+          "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253181845696\\05-slide.png",
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "sha256": "1d18807b38585226917cc13ab5ef5ce533142c6a2abccab6d5d0c7710e232140"
+        }
+      ],
+      "missing": [],
+      "state": "LOCAL_READY_NOT_UPLOADED",
+      "descriptionHtml": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253181845696\\description.html"
+    },
+    {
+      "productId": "10253181944000",
+      "title": "Household Wiping Cloths, Set of 3",
+      "productUrl": "https://rozmiso.in/products/household-wiping-cloths-set-of-3",
+      "images": [
+        {
+          "order": 1,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253181944000\\01-product.png",
+          "source": "F:\\Dropshipping\\team\\reports\\T028\\generated\\10253181944000\\studio.png",
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "sha256": "2cf1d36d9efbdd1301a2cb3d08e8675beea135d3bb08675c88399c6b7e5a3b56"
+        },
+        {
+          "order": 2,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253181944000\\02-product.png",
+          "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253181944000\\02-slide.png",
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "sha256": "c6615a22626f8a8761878b75cb3a2e0b0ab7eccc2bfd42f27d56ad7c8316aa60"
+        },
+        {
+          "order": 3,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253181944000\\03-product.png",
+          "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253181944000\\03-slide.png",
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "sha256": "526abd2d72b59d1db168a895ed8341902b81e3ea72a66d761f51a5de858b5db4"
+        },
+        {
+          "order": 4,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253181944000\\04-product.png",
+          "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253181944000\\04-slide.png",
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "sha256": "19981539c98e312c3cbbb5355ddd21b7400fee4c3fdd5ca3ed8e52fc9987f16b"
+        },
+        {
+          "order": 5,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253181944000\\05-product.png",
+          "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253181944000\\01-slide.png",
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "sha256": "17ec806e3e14fddb62eb1a9a6e798253448f8345f93f35a154d90ab5148fe143"
+        },
+        {
+          "order": 6,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253181944000\\06-product.png",
+          "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253181944000\\05-slide.png",
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "sha256": "0ea6bbea4f106b80b23a04fff9a9399c2389dc9ec7e434772683583601a76907"
+        }
+      ],
+      "missing": [],
+      "state": "LOCAL_READY_NOT_UPLOADED",
+      "descriptionHtml": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253181944000\\description.html"
+    },
+    {
+      "productId": "10253182009536",
+      "title": "Structured Mesh Laundry Wash Bag",
+      "productUrl": "https://rozmiso.in/products/structured-mesh-laundry-wash-bag",
+      "images": [
+        {
+          "order": 1,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253182009536\\01-product.png",
+          "source": "F:\\Dropshipping\\team\\reports\\T028\\generated\\10253182009536\\studio.png",
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "sha256": "1030a66fc836f7f8f09b3550c667003fe2b28decb5f94727c5fc090ce94a060f"
+        },
+        {
+          "order": 2,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253182009536\\02-product.png",
+          "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253182009536\\02-slide.png",
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "sha256": "1dc0ec6609bb8f1c7ad6060da4b79c233a7dd75e7a9c5fefda2bd89986fa11b8"
+        },
+        {
+          "order": 3,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253182009536\\03-product.png",
+          "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253182009536\\03-slide.png",
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "sha256": "396971b00e6b380c5a9a3631f6dd58821c4f400d28a9143454c4a0128869fb6e"
+        },
+        {
+          "order": 4,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253182009536\\04-product.png",
+          "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253182009536\\04-slide.png",
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "sha256": "025dd6a528b1e9df3e699909fe997b41004ddeef5f855b37ebca6b1f4dd2e798"
+        },
+        {
+          "order": 5,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253182009536\\05-product.png",
+          "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253182009536\\01-slide.png",
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "sha256": "dd5bc5b0639527fb8486bcfd49c3744b808e1bd3d67a37ece8743455a92e9796"
+        },
+        {
+          "order": 6,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253182009536\\06-product.png",
+          "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10253182009536\\05-slide.png",
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "sha256": "6309de90733b0927016a9e6d9cbcecf60683ef1d755f343bcce71af85b762fe7"
+        }
+      ],
+      "missing": [],
+      "state": "LOCAL_READY_NOT_UPLOADED",
+      "descriptionHtml": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253182009536\\description.html"
+    },
+    {
+      "productId": "10257843060928",
+      "title": "Keyboard Cover",
+      "productUrl": "https://rozmiso.in/products/6187-keyboard-cover-for-computer-pc-for-desktop-computer",
+      "images": [
+        {
+          "order": 1,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10257843060928\\01-product.png",
+          "source": "F:\\Dropshipping\\team\\reports\\T028\\generated\\10257843060928\\studio.png",
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "sha256": "96ee0a2271f91d29797df7241cfb204975ae938eecd512727332997c8b3fed5a"
+        },
+        {
+          "order": 2,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10257843060928\\02-product.png",
+          "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10257843060928\\02-slide.png",
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "sha256": "cbbe91d1f5a60f6bbae2725c0adb02385bfbfd052726ff4c5ddc5f1e5c751e5c"
+        },
+        {
+          "order": 3,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10257843060928\\03-product.png",
+          "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10257843060928\\03-slide.png",
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "sha256": "7b4209abc0ffdb5dd44b2c36834f12a70447bbf1b0dadc28a5351c202838c7f5"
+        },
+        {
+          "order": 4,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10257843060928\\04-product.png",
+          "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10257843060928\\04-slide.png",
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "sha256": "6eb9f3c46890449631d71aa3e08957f485f1966bfa33ce148dd6e0401653493b"
+        },
+        {
+          "order": 5,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10257843060928\\05-product.png",
+          "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10257843060928\\01-slide.png",
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "sha256": "0c1dd532d3db69a591636ceac3c5ffd400643d2ee7adf6cf71bfad95b1da67a4"
+        },
+        {
+          "order": 6,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10257843060928\\06-product.png",
+          "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10257843060928\\05-slide.png",
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "sha256": "5436e71a57b7139e44a69fc28fab5c008bc238d563b144083cf54749ea7ab11f"
+        }
+      ],
+      "missing": [],
+      "state": "LOCAL_READY_NOT_UPLOADED",
+      "descriptionHtml": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10257843060928\\description.html"
+    },
+    {
+      "productId": "10257843159232",
+      "title": "Two-Tier Kitchen Storage Rack",
+      "productUrl": "https://rozmiso.in/products/2796-2-layer-kitchen-rack-for-holding-and-placing-types-of-things",
+      "images": [
+        {
+          "order": 1,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10257843159232\\01-product.png",
+          "source": "F:\\Dropshipping\\team\\reports\\T028\\generated\\10257843159232\\studio.png",
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "sha256": "55ed7629e308f76649a919eb050dbd72962ae6d3a438b11b70a99eb56dd20e44"
+        },
+        {
+          "order": 2,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10257843159232\\02-product.png",
+          "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10257843159232\\02-slide.png",
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "sha256": "e3c4ee944d6c2460a07725f3968b0cd10bfa6e9237c36f81011532f25b3930c7"
+        },
+        {
+          "order": 3,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10257843159232\\03-product.png",
+          "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10257843159232\\03-slide.png",
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "sha256": "986221778483073850fb508b2acbc1a1ad536d75fcf90b44874067fb4a522f0a"
+        },
+        {
+          "order": 4,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10257843159232\\04-product.png",
+          "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10257843159232\\04-slide.png",
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "sha256": "0cb5fbb7c578b80afcf28cfda0efc306e4a98669f6402f5946b65a0a2561db17"
+        },
+        {
+          "order": 5,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10257843159232\\05-product.png",
+          "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10257843159232\\01-slide.png",
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "sha256": "2dcd66094c99ef8af570d6bf5f94a2da49a1ab66c224ce9f1cdb8624a19dcf28"
+        },
+        {
+          "order": 6,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10257843159232\\06-product.png",
+          "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10257843159232\\05-slide.png",
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "sha256": "b6adec12830242209fa66f569115770d8ca882337d9856a3f27c05076acbe15b"
+        }
+      ],
+      "missing": [],
+      "state": "LOCAL_READY_NOT_UPLOADED",
+      "descriptionHtml": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10257843159232\\description.html"
+    },
+    {
+      "productId": "10257843224768",
+      "title": "Electric Hair Straightening Brush",
+      "productUrl": "https://rozmiso.in/products/6168-hqt-909b-hair-straightener-used-while-massaging-hair-scalps-and-head-1",
+      "images": [
+        {
+          "order": 1,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10257843224768\\01-product.png",
+          "source": "F:\\Dropshipping\\team\\reports\\T028\\generated\\10257843224768\\studio.png",
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "sha256": "674ec4e14f361e430b5244c20f1a5dd60f98a3b44844396897d785477bccb1c9"
+        },
+        {
+          "order": 2,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10257843224768\\02-product.png",
+          "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10257843224768\\02-slide.png",
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "sha256": "ef508554a7bb1a49037b2209c8629b5b9184673353d08b68e1fa687378aba608"
+        },
+        {
+          "order": 3,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10257843224768\\03-product.png",
+          "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10257843224768\\03-slide.png",
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "sha256": "f905a464d7e0f6133cd427b0e807b961cb0b7bab6fcce705dad654b8010b41cf"
+        },
+        {
+          "order": 4,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10257843224768\\04-product.png",
+          "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10257843224768\\04-slide.png",
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "sha256": "f922a50b05143ccf7dfae6cb88e24ea38e31460147749f3882b8be3c3e496477"
+        },
+        {
+          "order": 5,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10257843224768\\05-product.png",
+          "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10257843224768\\01-slide.png",
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "sha256": "70b821fbdf2b5540c33ed9b81db85d843845542585991c0cef275db2a8bb9670"
+        },
+        {
+          "order": 6,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10257843224768\\06-product.png",
+          "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10257843224768\\05-slide.png",
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "sha256": "75a411fb79866e251dd5a8aa19ab5cae5139a0625ab113861e427b9d5e15ab5b"
+        }
+      ],
+      "missing": [],
+      "state": "LOCAL_READY_NOT_UPLOADED",
+      "descriptionHtml": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10257843224768\\description.html"
+    },
+    {
+      "productId": "10257843257536",
+      "title": "Stainless Steel Water Bottle",
+      "productUrl": "https://rozmiso.in/products/6422-stainless-steel-bottle-used-in-all-households-and-official-purposes-for-storing-water-and-beverages-etc-1",
+      "images": [
+        {
+          "order": 1,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10257843257536\\01-product.png",
+          "source": "F:\\Dropshipping\\team\\reports\\T028\\generated\\10257843257536\\studio.png",
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "sha256": "a5ab5572536409f780635b6062bc6a13a208906a993e04962dcc52b5d7821688"
+        },
+        {
+          "order": 2,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10257843257536\\02-product.png",
+          "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10257843257536\\02-slide.png",
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "sha256": "840082a39fce7a02c08d16f4826fa401184e14a03d95aa91f92427f5fba50110"
+        },
+        {
+          "order": 3,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10257843257536\\03-product.png",
+          "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10257843257536\\03-slide.png",
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "sha256": "c1098699c5d1e79eb6191302bbd54b506f29b6635b1a011cbdc646af21ded815"
+        },
+        {
+          "order": 4,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10257843257536\\04-product.png",
+          "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10257843257536\\04-slide.png",
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "sha256": "29d257cb803b0fdf42255c7525b68c3aa6743457905d8a28cf7ba909cb158a28"
+        },
+        {
+          "order": 5,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10257843257536\\05-product.png",
+          "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10257843257536\\01-slide.png",
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "sha256": "bb2ef67395eeb0026c7844f9d7548a0bab33cd762caf64c7b916f7b9875d1c34"
+        },
+        {
+          "order": 6,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10257843257536\\06-product.png",
+          "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10257843257536\\05-slide.png",
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "sha256": "1aedd9a757d91c30b0914c609be680188d12070b3aa033ed4472681f9a9a916f"
+        }
+      ],
+      "missing": [],
+      "state": "LOCAL_READY_NOT_UPLOADED",
+      "descriptionHtml": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10257843257536\\description.html"
+    },
+    {
+      "productId": "10257843355840",
+      "title": "Manual Citrus Juicer with Strainer",
+      "productUrl": "https://rozmiso.in/products/2793-manual-hand-juicer-for-making-juices-and-beverages-by-using-hands",
+      "images": [
+        {
+          "order": 1,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10257843355840\\01-product.png",
+          "source": "F:\\Dropshipping\\team\\reports\\T028\\generated\\10257843355840\\studio.png",
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "sha256": "f5745a9a2de72885354d04a6d96ae14bb5f2ccac5c77d2bae7bf92b1f4a81684"
+        },
+        {
+          "order": 2,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10257843355840\\02-product.png",
+          "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10257843355840\\02-slide.png",
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "sha256": "127e010b5036cbd30f9b9b3b9e3d6639c00cb6bb01ae28b9f1eb97a74d89453c"
+        },
+        {
+          "order": 3,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10257843355840\\03-product.png",
+          "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10257843355840\\03-slide.png",
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "sha256": "023e21f3ed97c3f335f920ed483cbea57fffaf94511df89ff1472fa6bc935aea"
+        },
+        {
+          "order": 4,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10257843355840\\04-product.png",
+          "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10257843355840\\04-slide.png",
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "sha256": "75f4a7dea25ed83f87d4a8a4ddf076f56c98536b20c63e3c5f85d11bd56bb175"
+        },
+        {
+          "order": 5,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10257843355840\\05-product.png",
+          "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10257843355840\\01-slide.png",
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "sha256": "3491ca034ebc75d8f59820ca270cd6894a5ad02ff4a10328d2abe69078e722fe"
+        },
+        {
+          "order": 6,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10257843355840\\06-product.png",
+          "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10257843355840\\05-slide.png",
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "sha256": "fe4e7152608b0681eff802a2e4d345d39a8c4548454e635e8f6a232e496ea1c9"
+        }
+      ],
+      "missing": [],
+      "state": "LOCAL_READY_NOT_UPLOADED",
+      "descriptionHtml": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10257843355840\\description.html"
+    },
+    {
+      "productId": "10257843454144",
+      "title": "Foldable Canvas Laundry and Storage Bag",
+      "productUrl": "https://rozmiso.in/products/6186-canvas-laundry-bag-toy-storage-laundry-storage",
+      "images": [
+        {
+          "order": 1,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10257843454144\\01-product.png",
+          "source": "F:\\Dropshipping\\team\\reports\\T028\\generated\\10257843454144\\studio.png",
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "sha256": "b4f8e5fa7130e2275f52e77a434ed74f17c9721cf5680b4c65700d6d110aeb87"
+        },
+        {
+          "order": 2,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10257843454144\\02-product.png",
+          "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10257843454144\\02-slide.png",
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "sha256": "208837fe4c4dd00cc9fb6a93cc08aa61c65a59f605247c08cc11510aa12bf3a8"
+        },
+        {
+          "order": 3,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10257843454144\\03-product.png",
+          "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10257843454144\\03-slide.png",
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "sha256": "34bb8689c1bcdc50915edabc2ebba133aa259cb957240c300241a39276ca9d7d"
+        },
+        {
+          "order": 4,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10257843454144\\04-product.png",
+          "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10257843454144\\04-slide.png",
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "sha256": "b1266e9f332eb263a837020eac425df6b182deec03e8764e143c9724f8084b93"
+        },
+        {
+          "order": 5,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10257843454144\\05-product.png",
+          "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10257843454144\\01-slide.png",
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "sha256": "fafd94f15c67ee01cae63bf419a7b89ead4b65a5731471acd1aa91b35b871bde"
+        },
+        {
+          "order": 6,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10257843454144\\06-product.png",
+          "source": "F:\\Dropshipping\\team\\reports\\T029\\social\\carousels\\10257843454144\\05-slide.png",
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "sha256": "314ddbf48e8002e575e488fa46aeeb70bc3f9b1fb7fb6dd6859806c2cb534dee"
+        }
+      ],
+      "missing": [],
+      "state": "LOCAL_READY_NOT_UPLOADED",
+      "descriptionHtml": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10257843454144\\description.html"
+    }
+  ]
+}

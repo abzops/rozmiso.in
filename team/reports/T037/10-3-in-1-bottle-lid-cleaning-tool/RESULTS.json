@@ -1,0 +1,107 @@
+{
+  "productId": 10253181681856,
+  "title": "3-in-1 Bottle Lid Cleaning Tool",
+  "checkedAt": "2026-10-29",
+  "queries": [
+    "\"3 in 1\" bottle lid cleaning brush site:instagram.com/reel",
+    "\"3 in 1\" bottle lid cleaning brush site:facebook.com video",
+    "\"6483\" \"cleaning brush\" video",
+    "\"3 in 1\" \"orange\" \"cleaning brush\" instagram",
+    "\"bottle lid\" \"cleaning brush\" site:youtube.com/shorts",
+    "\"carrot\" \"cup\" \"brush\" site:instagram.com/reel",
+    "\"carrot\" \"bottle\" \"brush\" site:youtube.com/shorts"
+  ],
+  "candidates": [
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/whatmore_1080p_e1546106-4f12-4146-abf4-de475e76f5d6.mp4?v=1749126826",
+      "platform": "DeoDap official supplier Shopify CDN / Whatmore",
+      "title": "Bottle cleaning brush official demo event 185917",
+      "downloadPath": "F:/Dropshipping/team/reports/T037/10-3-in-1-bottle-lid-cleaning-tool/videos/deodap-official-bottle-brush.mp4",
+      "downloadStatus": "DOWNLOADED",
+      "rightsStatus": "CLEARED_FOR_COMMERCIAL_REUSE",
+      "rightsEvidenceUrl": "https://deodap.in/blogs/news/earn-passive-income-online-in-india-with-deodap-dropshipping",
+      "rightsScope": "Official supplier permits downloading product visuals for website/social/marketplace and includes videos in copy-paste listings. Soundtrack rights not separately established; audio not auditioned.",
+      "matchStatus": "UNVERIFIED",
+      "matchEvidence": "Orange body, green bristles, white foldout scraper, white wire loop match family. Shown smooth face and round hanging hole differ from reference raised dots and carrot cutout; reverse face possible, but not established.",
+      "qualityNotes": "9:16 functional demo; DeoDap watermark retained. Full decode passed; sampled frames reviewed, no listening review.",
+      "videoMetadata": {
+        "width": 720,
+        "height": 1280,
+        "fps": 30,
+        "duration": 31.742608,
+        "sizeBytes": 6286646,
+        "videoCodec": "h264",
+        "audioCodec": "aac"
+      }
+    },
+    {
+      "url": "https://play.video.alibaba.com/play/u/2153292369/p/1/e/6/t/10300/406393934149.mp4",
+      "platform": "WisdomPioneering linked public media",
+      "title": "wisdom-alibaba.mp4",
+      "downloadPath": "F:/Dropshipping/team/reports/T037/10-3-in-1-bottle-lid-cleaning-tool/videos/wisdom-alibaba.mp4",
+      "downloadStatus": "DOWNLOADED",
+      "rightsStatus": "REFERENCE_ONLY_RIGHTS_UNCONFIRMED",
+      "rightsEvidenceUrl": null,
+      "sourcePage": "https://www.wisdompioneering.com/store/bottle-cleaning-brush/",
+      "matchStatus": "SIMILAR_NOT_EXACT",
+      "matchEvidence": "Green/blue/gray body with circular center and U-shaped silicone cleaner; different handle/attachments from reference orange folding tool.",
+      "qualityNotes": "Rejected identity. Sampled frames viewed; no listening review.",
+      "videoMetadata": {
+        "width": 1280,
+        "height": 720,
+        "duration": 42.837,
+        "sizeBytes": 5088569,
+        "fps": 25,
+        "videoCodec": "h264",
+        "audioCodec": "aac"
+      }
+    },
+    {
+      "url": "https://video.aliexpress-media.com/play/u/ae_sg_item/3000906674288/p/1/e/6/t/10301/5000127972704.mp4",
+      "platform": "WisdomPioneering linked public media",
+      "title": "wisdom-aliexpress-1.mp4",
+      "downloadPath": "F:/Dropshipping/team/reports/T037/10-3-in-1-bottle-lid-cleaning-tool/videos/wisdom-aliexpress-1.mp4",
+      "downloadStatus": "DOWNLOADED",
+      "rightsStatus": "REFERENCE_ONLY_RIGHTS_UNCONFIRMED",
+      "rightsEvidenceUrl": null,
+      "sourcePage": "https://www.wisdompioneering.com/store/bottle-cleaning-brush/",
+      "matchStatus": "SIMILAR_NOT_EXACT",
+      "matchEvidence": "Green/blue/gray body with circular center and U-shaped silicone cleaner; different handle/attachments from reference orange folding tool.",
+      "qualityNotes": "Rejected identity. Sampled frames viewed; no listening review.",
+      "videoMetadata": {
+        "width": 1280,
+        "height": 1280,
+        "duration": 10.541995,
+        "sizeBytes": 2176502,
+        "fps": 25,
+        "videoCodec": "h264",
+        "audioCodec": "aac"
+      }
+    },
+    {
+      "url": "https://video.aliexpress-media.com/play/u/ae_sg_item/2215527352415/p/1/e/6/t/10301/1100101111342.mp4",
+      "platform": "WisdomPioneering linked public media",
+      "title": "wisdom-aliexpress-2.mp4",
+      "downloadPath": "F:/Dropshipping/team/reports/T037/10-3-in-1-bottle-lid-cleaning-tool/videos/wisdom-aliexpress-2.mp4",
+      "downloadStatus": "DOWNLOADED",
+      "rightsStatus": "REFERENCE_ONLY_RIGHTS_UNCONFIRMED",
+      "rightsEvidenceUrl": null,
+      "sourcePage": "https://www.wisdompioneering.com/store/bottle-cleaning-brush/",
+      "matchStatus": "SIMILAR_NOT_EXACT",
+      "matchEvidence": "Green/blue/gray body with circular center and U-shaped silicone cleaner; different handle/attachments from reference orange folding tool.",
+      "qualityNotes": "Rejected identity. Sampled frames viewed; no listening review.",
+      "videoMetadata": {
+        "width": 720,
+        "height": 720,
+        "duration": 19.411995,
+        "sizeBytes": 3608165,
+        "fps": 25,
+        "videoCodec": "h264",
+        "audioCodec": "aac"
+      }
+    }
+  ],
+  "bestCandidate": "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/whatmore_1080p_e1546106-4f12-4146-abf4-de475e76f5d6.mp4?v=1749126826",
+  "outcome": "OFFICIAL_SUPPLIER_VIDEO_DOWNLOADED_EXACT_MODEL_UNVERIFIED",
+  "exact100Percent": false
+}

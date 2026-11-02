@@ -1,0 +1,39 @@
+{
+  "supplier_product_id": "10789019287862",
+  "source_api": "https://cdn-consumer.whatmore.live/v2/brand/78232846646/product-events?client_product_id=10789019287862&status=live,upcoming&event_type=video,image",
+  "permission_source": "https://deodap.in/blogs/news/earn-passive-income-online-in-india-with-deodap-dropshipping",
+  "rights": "SUPPLIER_REUSE_STATEMENT_PRESENT_MUSIC_AND_THIRD_PARTY_RIGHTS_NOT_VERIFIED",
+  "videos": [
+    {
+      "event_id": 421738,
+      "video_url": "https://cdn.shopify.com/videos/c/vp/7f2cfd04555844e0a53cb3ec095ae2dc/7f2cfd04555844e0a53cb3ec095ae2dc.HD-720p-1.6Mbps-97682158.mp4",
+      "downloadPath": "F:\\Dropshipping\\team\\reports\\T037\\12-foldable-hanging-travel-organizer\\videos\\supplier-421738.mp4",
+      "contactSheet": "F:\\Dropshipping\\team\\reports\\T037\\12-foldable-hanging-travel-organizer\\videos\\supplier-421738-frames.jpg",
+      "sha256": "d73e967c0b44b8db33adc1256583ebf24354ee3f3c74ea198447ae0ef6414b3e",
+      "metadata": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "h264",
+            "codec_type": "video",
+            "width": 404,
+            "height": 720
+          },
+          {
+            "codec_name": "aac",
+            "codec_type": "audio"
+          }
+        ],
+        "format": {
+          "duration": "25.216000",
+          "size": "5592945"
+        }
+      },
+      "supplier_event_active": false,
+      "matchStatus": "PENDING_FRAME_REVIEW",
+      "source_product_url": "https://deodap.in/products/premium-foldable-travel-pouch-bag-hanging-toiletry-organiser-kit-1-pc"
+    }
+  ],
+  "status": "DOWNLOADED_PENDING_IDENTITY_REVIEW"
+}

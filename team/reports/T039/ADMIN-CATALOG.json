@@ -1,0 +1,1365 @@
+{
+  "products": {
+    "edges": [
+      {
+        "node": {
+          "id": "gid://shopify/Product/10249094922432",
+          "title": "2-in-1 Cordless High-Power Car Vacuum Cleaner & Air Duster",
+          "handle": "cordless-car-vacuum-air-blower",
+          "status": "DRAFT",
+          "createdAt": "2026-10-01T12:41:00Z",
+          "updatedAt": "2026-10-08T19:32:32Z",
+          "productType": "Car Gadgets",
+          "vendor": "Rozmiso",
+          "tags": [
+            "bestseller",
+            "car",
+            "gadgets",
+            "problem-solver"
+          ],
+          "totalInventory": 300,
+          "description": "Keep your car interior showroom-clean in minutes! High-speed cyclone suction cleans crumbs and dirt, while the reverse air blower cleans AC vents a...",
+          "featuredMedia": null,
+          "priceRangeV2": {
+            "minVariantPrice": {
+              "amount": "999.0",
+              "currencyCode": "INR"
+            }
+          },
+          "variantsCount": {
+            "count": 3
+          },
+          "variants": {
+            "edges": [
+              {
+                "node": {
+                  "id": "gid://shopify/ProductVariant/50402719203520",
+                  "title": "1 Unit (Standard Pack)",
+                  "sku": "ROZ-VAC-01",
+                  "price": "999.00",
+                  "inventoryQuantity": 150
+                }
+              },
+              {
+                "node": {
+                  "id": "gid://shopify/ProductVariant/50402719236288",
+                  "title": "2 Units (Car + Home Bundle - Save ₹300!)",
+                  "sku": "ROZ-VAC-02",
+                  "price": "1699.00",
+                  "inventoryQuantity": 100
+                }
+              },
+              {
+                "node": {
+                  "id": "gid://shopify/ProductVariant/50402719269056",
+                  "title": "3 Units (Family Super Bundle - Save ₹700!)",
+                  "sku": "ROZ-VAC-03",
+                  "price": "2299.00",
+                  "inventoryQuantity": 50
+                }
+              }
+            ]
+          }
+        }
+      },
+      {
+        "node": {
+          "id": "gid://shopify/Product/10249094955200",
+          "title": "EMS Bio-Electric Acupoint Foot Massager Mat",
+          "handle": "ems-acupoint-foot-massager-mat",
+          "status": "DRAFT",
+          "createdAt": "2026-10-01T12:41:02Z",
+          "updatedAt": "2026-10-08T19:32:37Z",
+          "productType": "Wellness",
+          "vendor": "Rozmiso",
+          "tags": [
+            "bestseller",
+            "health",
+            "massage",
+            "pain-relief"
+          ],
+          "totalInventory": 320,
+          "description": "Instant relief from leg pain, heel ache, and varicose veins. Uses gentle bio-electric acupressure impulses to stimulate blood circulation and relie...",
+          "featuredMedia": null,
+          "priceRangeV2": {
+            "minVariantPrice": {
+              "amount": "799.0",
+              "currencyCode": "INR"
+            }
+          },
+          "variantsCount": {
+            "count": 2
+          },
+          "variants": {
+            "edges": [
+              {
+                "node": {
+                  "id": "gid://shopify/ProductVariant/50402719301824",
+                  "title": "1 Piece (Standard Therapy Mat)",
+                  "sku": "ROZ-FOOT-01",
+                  "price": "799.00",
+                  "inventoryQuantity": 200
+                }
+              },
+              {
+                "node": {
+                  "id": "gid://shopify/ProductVariant/50402719334592",
+                  "title": "2 Pieces (Self + Parents Care Bundle - Save ₹200!)",
+                  "sku": "ROZ-FOOT-02",
+                  "price": "1399.00",
+                  "inventoryQuantity": 120
+                }
+              }
+            ]
+          }
+        }
+      },
+      {
+        "node": {
+          "id": "gid://shopify/Product/10249094987968",
+          "title": "Mini Portable Bluetooth Inkless Pocket Printer",
+          "handle": "mini-pocket-thermal-printer",
+          "status": "DRAFT",
+          "createdAt": "2026-10-01T12:41:03Z",
+          "updatedAt": "2026-10-08T19:32:37Z",
+          "productType": "Gadgets",
+          "vendor": "Rozmiso",
+          "tags": [
+            "bestseller",
+            "electronics",
+            "gadgets",
+            "student"
+          ],
+          "totalInventory": 180,
+          "description": "No ink, no toner, no ribbons needed! Print notes, study diagrams, to-do lists, photos, and shipping labels instantly from your smartphone via Bluet...",
+          "featuredMedia": null,
+          "priceRangeV2": {
+            "minVariantPrice": {
+              "amount": "1499.0",
+              "currencyCode": "INR"
+            }
+          },
+          "variantsCount": {
+            "count": 2
+          },
+          "variants": {
+            "edges": [
+              {
+                "node": {
+                  "id": "gid://shopify/ProductVariant/50402719367360",
+                  "title": "Printer + 1 Free Roll",
+                  "sku": "ROZ-PRN-01",
+                  "price": "1499.00",
+                  "inventoryQuantity": 100
+                }
+              },
+              {
+                "node": {
+                  "id": "gid://shopify/ProductVariant/50402719400128",
+                  "title": "Printer + 5 Extra Thermal Paper Rolls Bundle",
+                  "sku": "ROZ-PRN-02",
+                  "price": "1899.00",
+                  "inventoryQuantity": 80
+                }
+              }
+            ]
+          }
+        }
+      },
+      {
+        "node": {
+          "id": "gid://shopify/Product/10249095053504",
+          "title": "USB Rechargeable Electric Fabric Shaver & Lint Remover",
+          "handle": "rechargeable-fabric-shaver-lint-remover",
+          "status": "DRAFT",
+          "createdAt": "2026-10-01T12:41:04Z",
+          "updatedAt": "2026-10-08T19:32:38Z",
+          "productType": "Home Care",
+          "vendor": "Rozmiso",
+          "tags": [
+            "bestseller",
+            "cleaning",
+            "clothing",
+            "home"
+          ],
+          "totalInventory": 400,
+          "description": "Make your old woolen sweaters, jackets, shawls, and sofa fabric look brand new in 30 seconds! High-speed 6-blade rotary head gently shaves pills, f...",
+          "featuredMedia": null,
+          "priceRangeV2": {
+            "minVariantPrice": {
+              "amount": "799.0",
+              "currencyCode": "INR"
+            }
+          },
+          "variantsCount": {
+            "count": 2
+          },
+          "variants": {
+            "edges": [
+              {
+                "node": {
+                  "id": "gid://shopify/ProductVariant/50402719465664",
+                  "title": "1 Unit (Standard Pack)",
+                  "sku": "ROZ-LINT-01",
+                  "price": "799.00",
+                  "inventoryQuantity": 250
+                }
+              },
+              {
+                "node": {
+                  "id": "gid://shopify/ProductVariant/50402719498432",
+                  "title": "2 Units (Home + Office Pack - Save ₹200!)",
+                  "sku": "ROZ-LINT-02",
+                  "price": "1399.00",
+                  "inventoryQuantity": 150
+                }
+              }
+            ]
+          }
+        }
+      },
+      {
+        "node": {
+          "id": "gid://shopify/Product/10249095086272",
+          "title": "Astronaut 360° Rotating Galaxy Nebula Night Projector",
+          "handle": "astronaut-galaxy-nebula-projector",
+          "status": "DRAFT",
+          "createdAt": "2026-10-01T12:41:05Z",
+          "updatedAt": "2026-10-08T19:32:41Z",
+          "productType": "Decor",
+          "vendor": "Rozmiso",
+          "tags": [
+            "bestseller",
+            "decor",
+            "gift",
+            "kids"
+          ],
+          "totalInventory": 150,
+          "description": "Transform your bedroom or living room into a magical starry universe! 8 breathtaking dynamic nebula colors with twinkling green laser stars. Featur...",
+          "featuredMedia": null,
+          "priceRangeV2": {
+            "minVariantPrice": {
+              "amount": "1099.0",
+              "currencyCode": "INR"
+            }
+          },
+          "variantsCount": {
+            "count": 2
+          },
+          "variants": {
+            "edges": [
+              {
+                "node": {
+                  "id": "gid://shopify/ProductVariant/50402719531200",
+                  "title": "1 Piece (Astronaut Projector)",
+                  "sku": "ROZ-ASTRO-01",
+                  "price": "1099.00",
+                  "inventoryQuantity": 90
+                }
+              },
+              {
+                "node": {
+                  "id": "gid://shopify/ProductVariant/50402719563968",
+                  "title": "2 Pieces (Bedroom + Gift Bundle - Save ₹300!)",
+                  "sku": "ROZ-ASTRO-02",
+                  "price": "1899.00",
+                  "inventoryQuantity": 60
+                }
+              }
+            ]
+          }
+        }
+      },
+      {
+        "node": {
+          "id": "gid://shopify/Product/10252037324992",
+          "title": "USB Rechargeable Fabric Shaver",
+          "handle": "usb-rechargeable-fabric-shaver",
+          "status": "ACTIVE",
+          "createdAt": "2026-10-05T12:56:07Z",
+          "updatedAt": "2026-10-13T18:15:26Z",
+          "productType": "Home care",
+          "vendor": "DeoDap",
+          "tags": [
+            "rozmiso-studio",
+            "supplier-confirmation-pending",
+            "supplier-deodap",
+            "test-candidate"
+          ],
+          "totalInventory": 0,
+          "description": "Give everyday fabrics a tidy finish. This compact rechargeable shaver removes surface lint and pilling from garments and upholstery. USB rechargeab...",
+          "featuredMedia": {
+            "preview": {
+              "image": {
+                "url": "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/rozmiso-fabric-shaver-ai-10252037324992-studio.png?v=1791872079"
+              }
+            }
+          },
+          "priceRangeV2": {
+            "minVariantPrice": {
+              "amount": "799.0",
+              "currencyCode": "INR"
+            }
+          },
+          "variantsCount": {
+            "count": 1
+          },
+          "variants": {
+            "edges": [
+              {
+                "node": {
+                  "id": "gid://shopify/ProductVariant/50418576883904",
+                  "title": "Default Title",
+                  "sku": "23469_electric_lint_remover_1pc_no5",
+                  "price": "799.00",
+                  "inventoryQuantity": 0
+                }
+              }
+            ]
+          }
+        }
+      },
+      {
+        "node": {
+          "id": "gid://shopify/Product/10252037357760",
+          "title": "5-in-1 Rechargeable Cleaning Brush",
+          "handle": "5-in-1-rechargeable-cleaning-brush",
+          "status": "ACTIVE",
+          "createdAt": "2026-10-05T12:56:09Z",
+          "updatedAt": "2026-10-13T08:24:29Z",
+          "productType": "Home care",
+          "vendor": "DeoDap",
+          "tags": [
+            "organic-or-addon",
+            "rozmiso-studio",
+            "supplier-confirmation-pending",
+            "supplier-deodap"
+          ],
+          "totalInventory": 0,
+          "description": "A compact cordless brush for everyday cleaning around sinks, tiles and bathroom surfaces. The interchangeable heads help you switch between cleanin...",
+          "featuredMedia": {
+            "preview": {
+              "image": {
+                "url": "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/01-studio-no-cable.png?v=1791877860"
+              }
+            }
+          },
+          "priceRangeV2": {
+            "minVariantPrice": {
+              "amount": "649.0",
+              "currencyCode": "INR"
+            }
+          },
+          "variantsCount": {
+            "count": 1
+          },
+          "variants": {
+            "edges": [
+              {
+                "node": {
+                  "id": "gid://shopify/ProductVariant/50418576916672",
+                  "title": "Default Title",
+                  "sku": "6329_5in1_magic_cleaning_brush",
+                  "price": "649.00",
+                  "inventoryQuantity": 0
+                }
+              }
+            ]
+          }
+        }
+      },
+      {
+        "node": {
+          "id": "gid://shopify/Product/10252037390528",
+          "title": "Everyday Travel Organizer Pouch",
+          "handle": "everyday-travel-organizer-pouch",
+          "status": "ACTIVE",
+          "createdAt": "2026-10-05T12:56:11Z",
+          "updatedAt": "2026-10-13T09:01:20Z",
+          "productType": "Travel essentials",
+          "vendor": "DeoDap",
+          "tags": [
+            "organic-or-addon",
+            "rozmiso-studio",
+            "supplier-confirmation-pending",
+            "supplier-deodap"
+          ],
+          "totalInventory": 0,
+          "description": "Keep the small things together on days away. A lightweight zippered pouch for organizing everyday travel essentials inside a larger bag. Zipper clo...",
+          "featuredMedia": {
+            "preview": {
+              "image": {
+                "url": "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/rozmiso-ai-10252037390528-01-studio.png?v=1791881412"
+              }
+            }
+          },
+          "priceRangeV2": {
+            "minVariantPrice": {
+              "amount": "349.0",
+              "currencyCode": "INR"
+            }
+          },
+          "variantsCount": {
+            "count": 1
+          },
+          "variants": {
+            "edges": [
+              {
+                "node": {
+                  "id": "gid://shopify/ProductVariant/50418576949440",
+                  "title": "Default Title",
+                  "sku": "0642_multipurpose_travel_organizer_bag_1pc_no1",
+                  "price": "349.00",
+                  "inventoryQuantity": 0
+                }
+              }
+            ]
+          }
+        }
+      },
+      {
+        "node": {
+          "id": "gid://shopify/Product/10252037456064",
+          "title": "2-in-1 Soap Dispensing Cleaning Brush",
+          "handle": "2-in-1-soap-dispensing-cleaning-brush",
+          "status": "ACTIVE",
+          "createdAt": "2026-10-05T12:56:13Z",
+          "updatedAt": "2026-10-07T03:50:07Z",
+          "productType": "Kitchen essentials",
+          "vendor": "DeoDap",
+          "tags": [
+            "organic-or-addon",
+            "rozmiso-studio",
+            "supplier-confirmation-pending",
+            "supplier-deodap"
+          ],
+          "totalInventory": 0,
+          "description": "Keep soap and scrubbing together. This compact brush combines firm bristles with a refillable liquid holder for sink and surface cleaning. Built-in...",
+          "featuredMedia": {
+            "preview": {
+              "image": {
+                "url": "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/rozmiso-22895_plastic_2in1_soap_dispenser_cleaning_brush.jpg?v=1791204947"
+              }
+            }
+          },
+          "priceRangeV2": {
+            "minVariantPrice": {
+              "amount": "299.0",
+              "currencyCode": "INR"
+            }
+          },
+          "variantsCount": {
+            "count": 1
+          },
+          "variants": {
+            "edges": [
+              {
+                "node": {
+                  "id": "gid://shopify/ProductVariant/50418577014976",
+                  "title": "Default Title",
+                  "sku": "22895_plastic_2in1_soap_dispenser_cleaning_brush",
+                  "price": "299.00",
+                  "inventoryQuantity": 0
+                }
+              }
+            ]
+          }
+        }
+      },
+      {
+        "node": {
+          "id": "gid://shopify/Product/10253181026496",
+          "title": "Microfiber Cleaning Cloth — 40 × 40 cm",
+          "handle": "microfiber-cleaning-cloth-40x40",
+          "status": "ACTIVE",
+          "createdAt": "2026-10-06T16:04:08Z",
+          "updatedAt": "2026-10-07T04:04:14Z",
+          "productType": "Home care",
+          "vendor": "DeoDap",
+          "tags": [
+            "prelaunch",
+            "rozmiso-catalog",
+            "supplier-confirmation-pending"
+          ],
+          "totalInventory": 0,
+          "description": "A reusable microfiber cloth for everyday wiping around the home. The supplier lists a 40 × 40 cm size.What is included1 cleaning cloth. Colour supp...",
+          "featuredMedia": {
+            "preview": {
+              "image": {
+                "url": "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/Microfiber_Cloth_1.jpg?v=1791302650"
+              }
+            }
+          },
+          "priceRangeV2": {
+            "minVariantPrice": {
+              "amount": "149.0",
+              "currencyCode": "INR"
+            }
+          },
+          "variantsCount": {
+            "count": 1
+          },
+          "variants": {
+            "edges": [
+              {
+                "node": {
+                  "id": "gid://shopify/ProductVariant/50427735212224",
+                  "title": "Default Title",
+                  "sku": "21974_cleaning_cloth_towel_40x40cm_1pc",
+                  "price": "149.00",
+                  "inventoryQuantity": 0
+                }
+              }
+            ]
+          }
+        }
+      },
+      {
+        "node": {
+          "id": "gid://shopify/Product/10253181092032",
+          "title": "Reusable Bag Locking Ties — Set of 3",
+          "handle": "reusable-bag-locking-ties-set-of-3",
+          "status": "ACTIVE",
+          "createdAt": "2026-10-06T16:04:09Z",
+          "updatedAt": "2026-10-07T04:04:16Z",
+          "productType": "Kitchen essentials",
+          "vendor": "DeoDap",
+          "tags": [
+            "prelaunch",
+            "rozmiso-catalog",
+            "supplier-confirmation-pending"
+          ],
+          "totalInventory": 0,
+          "description": "Three flexible locking ties for gathering opened packets or bundling small cords. The supplier describes a button-lock design.What is included3 loc...",
+          "featuredMedia": {
+            "preview": {
+              "image": {
+                "url": "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/01_food-clip.jpg?v=1791302652"
+              }
+            }
+          },
+          "priceRangeV2": {
+            "minVariantPrice": {
+              "amount": "149.0",
+              "currencyCode": "INR"
+            }
+          },
+          "variantsCount": {
+            "count": 1
+          },
+          "variants": {
+            "edges": [
+              {
+                "node": {
+                  "id": "gid://shopify/ProductVariant/50427735277760",
+                  "title": "Default Title",
+                  "sku": "11087_plastic_bag_clips_3pc",
+                  "price": "149.00",
+                  "inventoryQuantity": 0
+                }
+              }
+            ]
+          }
+        }
+      },
+      {
+        "node": {
+          "id": "gid://shopify/Product/10253181255872",
+          "title": "Compact Cable Winder Case",
+          "handle": "compact-cable-winder-case",
+          "status": "ACTIVE",
+          "createdAt": "2026-10-06T16:04:10Z",
+          "updatedAt": "2026-10-07T04:04:15Z",
+          "productType": "Travel essentials",
+          "vendor": "DeoDap",
+          "tags": [
+            "prelaunch",
+            "rozmiso-catalog",
+            "supplier-confirmation-pending"
+          ],
+          "totalInventory": 0,
+          "description": "A compact plastic case with a rotating spool for winding a suitable cable. Helps keep a cable together in a desk drawer or travel bag.What is inclu...",
+          "featuredMedia": {
+            "preview": {
+              "image": {
+                "url": "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/WhatsApp_Image_2026-08-25_at_5.27.07_PM_2ba39d14-0404-42f9-a349-886b2ac9aa9a.jpg?v=1791302653"
+              }
+            }
+          },
+          "priceRangeV2": {
+            "minVariantPrice": {
+              "amount": "149.0",
+              "currencyCode": "INR"
+            }
+          },
+          "variantsCount": {
+            "count": 1
+          },
+          "variants": {
+            "edges": [
+              {
+                "node": {
+                  "id": "gid://shopify/ProductVariant/50427735408832",
+                  "title": "Default Title",
+                  "sku": "21062_plastic_small_cable_holder_1pc",
+                  "price": "149.00",
+                  "inventoryQuantity": 0
+                }
+              }
+            ]
+          }
+        }
+      },
+      {
+        "node": {
+          "id": "gid://shopify/Product/10253181321408",
+          "title": "Window Groove Cleaning Brush",
+          "handle": "window-groove-cleaning-brush",
+          "status": "ACTIVE",
+          "createdAt": "2026-10-06T16:04:11Z",
+          "updatedAt": "2026-10-07T04:04:17Z",
+          "productType": "Home care",
+          "vendor": "DeoDap",
+          "tags": [
+            "prelaunch",
+            "rozmiso-catalog",
+            "supplier-confirmation-pending"
+          ],
+          "totalInventory": 0,
+          "description": "A slim handheld brush for accessible window grooves, sliding-door tracks and other small gaps. The supplier describes a polypropylene handle and br...",
+          "featuredMedia": {
+            "preview": {
+              "image": {
+                "url": "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/01_WindowSlotCleaner.jpg?v=1791302653"
+              }
+            }
+          },
+          "priceRangeV2": {
+            "minVariantPrice": {
+              "amount": "179.0",
+              "currencyCode": "INR"
+            }
+          },
+          "variantsCount": {
+            "count": 1
+          },
+          "variants": {
+            "edges": [
+              {
+                "node": {
+                  "id": "gid://shopify/ProductVariant/50427735474368",
+                  "title": "Default Title",
+                  "sku": "1484_window_slide_cleaner",
+                  "price": "179.00",
+                  "inventoryQuantity": 0
+                }
+              }
+            ]
+          }
+        }
+      },
+      {
+        "node": {
+          "id": "gid://shopify/Product/10253181419712",
+          "title": "Handheld Upholstery Cleaning Brush",
+          "handle": "handheld-upholstery-cleaning-brush",
+          "status": "ACTIVE",
+          "createdAt": "2026-10-06T16:04:12Z",
+          "updatedAt": "2026-10-07T04:04:20Z",
+          "productType": "Home care",
+          "vendor": "DeoDap",
+          "tags": [
+            "prelaunch",
+            "rozmiso-catalog",
+            "supplier-confirmation-pending"
+          ],
+          "totalInventory": 0,
+          "description": "A handled manual brush with long bristles for accessible upholstery, mats and suitable household surfaces. Includes a hanging hole for storage.What...",
+          "featuredMedia": {
+            "preview": {
+              "image": {
+                "url": "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/4864.png?v=1791302656"
+              }
+            }
+          },
+          "priceRangeV2": {
+            "minVariantPrice": {
+              "amount": "249.0",
+              "currencyCode": "INR"
+            }
+          },
+          "variantsCount": {
+            "count": 1
+          },
+          "variants": {
+            "edges": [
+              {
+                "node": {
+                  "id": "gid://shopify/ProductVariant/50427735605440",
+                  "title": "Default Title",
+                  "sku": "4864_cleaning_duster_brush",
+                  "price": "249.00",
+                  "inventoryQuantity": 0
+                }
+              }
+            ]
+          }
+        }
+      },
+      {
+        "node": {
+          "id": "gid://shopify/Product/10253181518016",
+          "title": "Foldable Hanging Travel Organizer",
+          "handle": "foldable-hanging-travel-organizer",
+          "status": "ACTIVE",
+          "createdAt": "2026-10-06T16:04:13Z",
+          "updatedAt": "2026-10-07T04:04:20Z",
+          "productType": "Travel essentials",
+          "vendor": "DeoDap",
+          "tags": [
+            "prelaunch",
+            "rozmiso-catalog",
+            "supplier-confirmation-pending"
+          ],
+          "totalInventory": 0,
+          "description": "A foldable travel organizer with multiple pockets and a hanging hook. Packs into a rectangular pouch and opens to keep personal items separated.Wha...",
+          "featuredMedia": {
+            "preview": {
+              "image": {
+                "url": "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/Toiletry-Bag-1.jpg?v=1791302656"
+              }
+            }
+          },
+          "priceRangeV2": {
+            "minVariantPrice": {
+              "amount": "399.0",
+              "currencyCode": "INR"
+            }
+          },
+          "variantsCount": {
+            "count": 1
+          },
+          "variants": {
+            "edges": [
+              {
+                "node": {
+                  "id": "gid://shopify/ProductVariant/50427735736512",
+                  "title": "Default Title",
+                  "sku": "20058_foldable_travel_storage_bag",
+                  "price": "399.00",
+                  "inventoryQuantity": 0
+                }
+              }
+            ]
+          }
+        }
+      },
+      {
+        "node": {
+          "id": "gid://shopify/Product/10253181583552",
+          "title": "Flexible Flower-Shaped Drain Catcher",
+          "handle": "flexible-flower-shaped-drain-catcher",
+          "status": "ACTIVE",
+          "createdAt": "2026-10-06T16:04:15Z",
+          "updatedAt": "2026-10-13T09:13:42Z",
+          "productType": "Kitchen essentials",
+          "vendor": "DeoDap",
+          "tags": [
+            "prelaunch",
+            "rozmiso-catalog",
+            "supplier-confirmation-pending"
+          ],
+          "totalInventory": 0,
+          "description": "A flexible flower-shaped silicone drain cover with perforations and a centre lifting knob. Designed to collect loose hair or scraps over a compatib...",
+          "featuredMedia": {
+            "preview": {
+              "image": {
+                "url": "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/rozmiso-10253181583552-ai-studio.png?v=1791445225"
+              }
+            }
+          },
+          "priceRangeV2": {
+            "minVariantPrice": {
+              "amount": "149.0",
+              "currencyCode": "INR"
+            }
+          },
+          "variantsCount": {
+            "count": 1
+          },
+          "variants": {
+            "edges": [
+              {
+                "node": {
+                  "id": "gid://shopify/ProductVariant/50427735834816",
+                  "title": "Default Title",
+                  "sku": "10624_flower_shape_kitchen_sink_strainer",
+                  "price": "149.00",
+                  "inventoryQuantity": 0
+                }
+              }
+            ]
+          }
+        }
+      },
+      {
+        "node": {
+          "id": "gid://shopify/Product/10253181681856",
+          "title": "3-in-1 Bottle Lid Cleaning Tool",
+          "handle": "3-in-1-bottle-lid-cleaning-tool",
+          "status": "ACTIVE",
+          "createdAt": "2026-10-06T16:04:16Z",
+          "updatedAt": "2026-10-08T19:41:20Z",
+          "productType": "Kitchen essentials",
+          "vendor": "DeoDap",
+          "tags": [
+            "prelaunch",
+            "rozmiso-catalog",
+            "supplier-confirmation-pending"
+          ],
+          "totalInventory": 0,
+          "description": "A compact hand cleaning tool combining a brush, narrow-opening brush and crevice hook. Useful for accessible lid grooves and small gaps on suitable...",
+          "featuredMedia": {
+            "preview": {
+              "image": {
+                "url": "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/rozmiso-10253181681856-ai-studio.png?v=1791445257"
+              }
+            }
+          },
+          "priceRangeV2": {
+            "minVariantPrice": {
+              "amount": "149.0",
+              "currencyCode": "INR"
+            }
+          },
+          "variantsCount": {
+            "count": 1
+          },
+          "variants": {
+            "edges": [
+              {
+                "node": {
+                  "id": "gid://shopify/ProductVariant/50427735900352",
+                  "title": "Default Title",
+                  "sku": "6483_3in1_cleaning_brush_1pc",
+                  "price": "149.00",
+                  "inventoryQuantity": 0
+                }
+              }
+            ]
+          }
+        }
+      },
+      {
+        "node": {
+          "id": "gid://shopify/Product/10253181845696",
+          "title": "Adhesive Cable Organizer Clips — Set of 20",
+          "handle": "adhesive-cable-organizer-clips-set-of-20",
+          "status": "ACTIVE",
+          "createdAt": "2026-10-06T16:04:17Z",
+          "updatedAt": "2026-10-07T04:04:24Z",
+          "productType": "Home care",
+          "vendor": "DeoDap",
+          "tags": [
+            "prelaunch",
+            "rozmiso-catalog",
+            "supplier-confirmation-pending"
+          ],
+          "totalInventory": 0,
+          "description": "A set of plastic clips for routing compatible everyday cables on a clean, smooth surface. Adhesive backing provides an installation option without ...",
+          "featuredMedia": {
+            "preview": {
+              "image": {
+                "url": "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/23602-1.jpg?v=1791302659"
+              }
+            }
+          },
+          "priceRangeV2": {
+            "minVariantPrice": {
+              "amount": "299.0",
+              "currencyCode": "INR"
+            }
+          },
+          "variantsCount": {
+            "count": 1
+          },
+          "variants": {
+            "edges": [
+              {
+                "node": {
+                  "id": "gid://shopify/ProductVariant/50427736064192",
+                  "title": "Default Title",
+                  "sku": "23602_plastic_wire_cable_clip_20pc",
+                  "price": "299.00",
+                  "inventoryQuantity": 0
+                }
+              }
+            ]
+          }
+        }
+      },
+      {
+        "node": {
+          "id": "gid://shopify/Product/10253181944000",
+          "title": "Household Wiping Cloths — Set of 3",
+          "handle": "household-wiping-cloths-set-of-3",
+          "status": "ACTIVE",
+          "createdAt": "2026-10-06T16:04:18Z",
+          "updatedAt": "2026-10-07T04:04:24Z",
+          "productType": "Home care",
+          "vendor": "DeoDap",
+          "tags": [
+            "prelaunch",
+            "rozmiso-catalog",
+            "supplier-confirmation-pending"
+          ],
+          "totalInventory": 0,
+          "description": "Three fabric wiping cloths with a textured terry-style surface and finished edges. Keep separate cloths for accessible glass and suitable kitchen s...",
+          "featuredMedia": {
+            "preview": {
+              "image": {
+                "url": "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/22402-glass-cloth-01.jpg?v=1791302660"
+              }
+            }
+          },
+          "priceRangeV2": {
+            "minVariantPrice": {
+              "amount": "199.0",
+              "currencyCode": "INR"
+            }
+          },
+          "variantsCount": {
+            "count": 1
+          },
+          "variants": {
+            "edges": [
+              {
+                "node": {
+                  "id": "gid://shopify/ProductVariant/50427736162496",
+                  "title": "Default Title",
+                  "sku": "22402_glass_cleaning_duster_cloth_3pc",
+                  "price": "199.00",
+                  "inventoryQuantity": 0
+                }
+              }
+            ]
+          }
+        }
+      },
+      {
+        "node": {
+          "id": "gid://shopify/Product/10253182009536",
+          "title": "Structured Mesh Laundry Wash Bag",
+          "handle": "structured-mesh-laundry-wash-bag",
+          "status": "ACTIVE",
+          "createdAt": "2026-10-06T16:04:19Z",
+          "updatedAt": "2026-10-07T04:04:25Z",
+          "productType": "Home care",
+          "vendor": "DeoDap",
+          "tags": [
+            "prelaunch",
+            "rozmiso-catalog",
+            "supplier-confirmation-pending"
+          ],
+          "totalInventory": 0,
+          "description": "A cylindrical mesh-and-fabric laundry bag with a zip closure for separating suitable small garments in a wash load. Mesh panels allow water to circ...",
+          "featuredMedia": {
+            "preview": {
+              "image": {
+                "url": "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/23306-mesh-underwear-wash-bag-1.jpg?v=1791302661"
+              }
+            }
+          },
+          "priceRangeV2": {
+            "minVariantPrice": {
+              "amount": "349.0",
+              "currencyCode": "INR"
+            }
+          },
+          "variantsCount": {
+            "count": 1
+          },
+          "variants": {
+            "edges": [
+              {
+                "node": {
+                  "id": "gid://shopify/ProductVariant/50427736260800",
+                  "title": "Default Title",
+                  "sku": "23306_mesh_underwear_wash_bag",
+                  "price": "349.00",
+                  "inventoryQuantity": 0
+                }
+              }
+            ]
+          }
+        }
+      },
+      {
+        "node": {
+          "id": "gid://shopify/Product/10257843060928",
+          "title": "Keyboard Cover",
+          "handle": "6187-keyboard-cover-for-computer-pc-for-desktop-computer",
+          "status": "ACTIVE",
+          "createdAt": "2026-10-08T06:25:38Z",
+          "updatedAt": "2026-10-08T18:25:45Z",
+          "productType": "",
+          "vendor": "Simply Smart",
+          "tags": [
+            "Computer Accessories"
+          ],
+          "totalInventory": 0,
+          "description": "A keyboard cover for placing over the keys of a compatible keyboard.Check the shape and key layout against your keyboard before choosing this cover...",
+          "featuredMedia": {
+            "preview": {
+              "image": {
+                "url": "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/1_0577705c-1ed8-415d-a9a9-4879d0ece7b2.jpg?v=1791440741"
+              }
+            }
+          },
+          "priceRangeV2": {
+            "minVariantPrice": {
+              "amount": "40.0",
+              "currencyCode": "INR"
+            }
+          },
+          "variantsCount": {
+            "count": 1
+          },
+          "variants": {
+            "edges": [
+              {
+                "node": {
+                  "id": "gid://shopify/ProductVariant/50443620843712",
+                  "title": "Default Title",
+                  "sku": "6187_laptop_keyboard_cover",
+                  "price": "40.00",
+                  "inventoryQuantity": 0
+                }
+              }
+            ]
+          }
+        }
+      },
+      {
+        "node": {
+          "id": "gid://shopify/Product/10257843159232",
+          "title": "Two-Tier Kitchen Storage Rack",
+          "handle": "2796-2-layer-kitchen-rack-for-holding-and-placing-types-of-things",
+          "status": "ACTIVE",
+          "createdAt": "2026-10-08T06:25:39Z",
+          "updatedAt": "2026-10-08T18:25:45Z",
+          "productType": "Kitchen Storage, Container & Rack",
+          "vendor": "ediscountshops.com",
+          "tags": [
+            "Shelves & Racks"
+          ],
+          "totalInventory": 0,
+          "description": "Arrange jars, bottles and other everyday kitchen items on two raised shelves. The freestanding rack adds storage levels above a counter or shelf.Pl...",
+          "featuredMedia": {
+            "preview": {
+              "image": {
+                "url": "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/1_24d14f09-4c56-4988-a814-5afdb63f5e33.jpg?v=1791440741"
+              }
+            }
+          },
+          "priceRangeV2": {
+            "minVariantPrice": {
+              "amount": "496.0",
+              "currencyCode": "INR"
+            }
+          },
+          "variantsCount": {
+            "count": 1
+          },
+          "variants": {
+            "edges": [
+              {
+                "node": {
+                  "id": "gid://shopify/ProductVariant/50443620909248",
+                  "title": "Default Title",
+                  "sku": "2796_2layer_kitchen_rack",
+                  "price": "496.00",
+                  "inventoryQuantity": 0
+                }
+              }
+            ]
+          }
+        }
+      },
+      {
+        "node": {
+          "id": "gid://shopify/Product/10257843224768",
+          "title": "Electric Hair Straightening Brush",
+          "handle": "6168-hqt-909b-hair-straightener-used-while-massaging-hair-scalps-and-head-1",
+          "status": "ACTIVE",
+          "createdAt": "2026-10-08T06:25:40Z",
+          "updatedAt": "2026-10-09T07:00:13Z",
+          "productType": "Beauty, Health & Personal Care",
+          "vendor": "ediscountshops.com",
+          "tags": [
+            "Personal Care"
+          ],
+          "totalInventory": 0,
+          "description": "An electric straightening brush with a bristled styling head and handle-mounted temperature adjustment buttons.Follow the instructions supplied wit...",
+          "featuredMedia": {
+            "preview": {
+              "image": {
+                "url": "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/01_d6c9b631-b50a-4d1f-9957-e2150aea1eba.jpg?v=1791440743"
+              }
+            }
+          },
+          "priceRangeV2": {
+            "minVariantPrice": {
+              "amount": "770.0",
+              "currencyCode": "INR"
+            }
+          },
+          "variantsCount": {
+            "count": 1
+          },
+          "variants": {
+            "edges": [
+              {
+                "node": {
+                  "id": "gid://shopify/ProductVariant/50443621761216",
+                  "title": "Default Title",
+                  "sku": "6168_hqt_909b_hair_straightner",
+                  "price": "770.00",
+                  "inventoryQuantity": 0
+                }
+              }
+            ]
+          }
+        }
+      },
+      {
+        "node": {
+          "id": "gid://shopify/Product/10257843257536",
+          "title": "Stainless Steel Water Bottle — Approx. 360 ml",
+          "handle": "6422-stainless-steel-bottle-used-in-all-households-and-official-purposes-for-storing-water-and-beverages-etc-1",
+          "status": "ACTIVE",
+          "createdAt": "2026-10-08T06:25:41Z",
+          "updatedAt": "2026-10-08T18:25:48Z",
+          "productType": "",
+          "vendor": "ediscountshops.com",
+          "tags": [
+            "Kitchen Storage/Water Bottle"
+          ],
+          "totalInventory": 0,
+          "description": "A stainless steel water bottle with an approximate 360 ml capacity and a cylindrical design for everyday use.Clean with mild dishwashing liquid and...",
+          "featuredMedia": {
+            "preview": {
+              "image": {
+                "url": "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/1_b02c8f7a-8e68-4034-9e25-b090d98c3b26.jpg?v=1791440743"
+              }
+            }
+          },
+          "priceRangeV2": {
+            "minVariantPrice": {
+              "amount": "416.0",
+              "currencyCode": "INR"
+            }
+          },
+          "variantsCount": {
+            "count": 1
+          },
+          "variants": {
+            "edges": [
+              {
+                "node": {
+                  "id": "gid://shopify/ProductVariant/50443621793984",
+                  "title": "Default Title",
+                  "sku": "6422_ss_fancy_btl_360ml_approx",
+                  "price": "416.00",
+                  "inventoryQuantity": 0
+                }
+              }
+            ]
+          }
+        }
+      },
+      {
+        "node": {
+          "id": "gid://shopify/Product/10257843355840",
+          "title": "Manual Citrus Juicer with Strainer",
+          "handle": "2793-manual-hand-juicer-for-making-juices-and-beverages-by-using-hands",
+          "status": "ACTIVE",
+          "createdAt": "2026-10-08T06:25:42Z",
+          "updatedAt": "2026-10-13T06:47:15Z",
+          "productType": "Kitchen",
+          "vendor": "ediscountshops.com",
+          "tags": [
+            "Kitchen  Tools"
+          ],
+          "totalInventory": 0,
+          "description": "Juice citrus fruit by hand with this compact bowl-style juicer. The central reamer presses the fruit, while the removable strainer separates seeds ...",
+          "featuredMedia": {
+            "preview": {
+              "image": {
+                "url": "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/rozmiso-manual-citrus-juicer-ai-studio_1b464d70-00ff-4406-9d3d-f7fb662d6aff.png?v=1791444824"
+              }
+            }
+          },
+          "priceRangeV2": {
+            "minVariantPrice": {
+              "amount": "46.0",
+              "currencyCode": "INR"
+            }
+          },
+          "variantsCount": {
+            "count": 1
+          },
+          "variants": {
+            "edges": [
+              {
+                "node": {
+                  "id": "gid://shopify/ProductVariant/50443621859520",
+                  "title": "Default Title",
+                  "sku": "2793_manual_hand_juicer",
+                  "price": "46.00",
+                  "inventoryQuantity": 0
+                }
+              }
+            ]
+          }
+        }
+      },
+      {
+        "node": {
+          "id": "gid://shopify/Product/10257843421376",
+          "title": "Wired Earphones with Microphone",
+          "handle": "7271-phone-earphones-with-microphone",
+          "status": "DRAFT",
+          "createdAt": "2026-10-08T06:25:43Z",
+          "updatedAt": "2026-10-09T19:00:15Z",
+          "productType": "Mobile Accessories",
+          "vendor": "ediscountshops.com",
+          "tags": [
+            "Mobile Accessories",
+            "Mobile Headphones"
+          ],
+          "totalInventory": 0,
+          "description": "A wired pair of earphones with an inline microphone for listening and calls.Check the connector matches your device before use. Keep the earphones ...",
+          "featuredMedia": null,
+          "priceRangeV2": {
+            "minVariantPrice": {
+              "amount": "78.0",
+              "currencyCode": "INR"
+            }
+          },
+          "variantsCount": {
+            "count": 1
+          },
+          "variants": {
+            "edges": [
+              {
+                "node": {
+                  "id": "gid://shopify/ProductVariant/50443621957824",
+                  "title": "Default Title",
+                  "sku": "7271_cnh_sport_earphone_no1",
+                  "price": "78.00",
+                  "inventoryQuantity": 0
+                }
+              }
+            ]
+          }
+        }
+      },
+      {
+        "node": {
+          "id": "gid://shopify/Product/10257843454144",
+          "title": "Foldable Canvas Laundry and Storage Bag",
+          "handle": "6186-canvas-laundry-bag-toy-storage-laundry-storage",
+          "status": "ACTIVE",
+          "createdAt": "2026-10-08T06:25:43Z",
+          "updatedAt": "2026-10-08T18:25:51Z",
+          "productType": "Home Improvement",
+          "vendor": "ediscountshops.com",
+          "tags": [
+            "Household"
+          ],
+          "totalInventory": 0,
+          "description": "Keep laundry, toys and everyday household items together in a foldable canvas storage bag. The cylindrical bag has carrying handles and a zipped to...",
+          "featuredMedia": {
+            "preview": {
+              "image": {
+                "url": "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/1_4ce9d265-46d8-4ffb-b2f2-3dbcb907d655.jpg?v=1791440746"
+              }
+            }
+          },
+          "priceRangeV2": {
+            "minVariantPrice": {
+              "amount": "270.0",
+              "currencyCode": "INR"
+            }
+          },
+          "variantsCount": {
+            "count": 1
+          },
+          "variants": {
+            "edges": [
+              {
+                "node": {
+                  "id": "gid://shopify/ProductVariant/50443621990592",
+                  "title": "Default Title",
+                  "sku": "6186_15in_foldable_laundry_bag",
+                  "price": "270.00",
+                  "inventoryQuantity": 0
+                }
+              }
+            ]
+          }
+        }
+      },
+      {
+        "node": {
+          "id": "gid://shopify/Product/10257843519680",
+          "title": "Coffee Mug Warmer",
+          "handle": "2792-coffee-mug-and-warmer-for-having-coffee-along-with-the-warmer-that-keeps-it-hot",
+          "status": "DRAFT",
+          "createdAt": "2026-10-08T06:25:44Z",
+          "updatedAt": "2026-10-09T19:00:16Z",
+          "productType": "Kitchen",
+          "vendor": "ediscountshops.com",
+          "tags": [
+            "Kitchen  Tools",
+            "Kitchen Accessories"
+          ],
+          "totalInventory": 0,
+          "description": "A desktop warming base intended for use with a compatible coffee mug.Follow the instructions supplied with the unit for use and cleaning.",
+          "featuredMedia": null,
+          "priceRangeV2": {
+            "minVariantPrice": {
+              "amount": "896.0",
+              "currencyCode": "INR"
+            }
+          },
+          "variantsCount": {
+            "count": 1
+          },
+          "variants": {
+            "edges": [
+              {
+                "node": {
+                  "id": "gid://shopify/ProductVariant/50443622056128",
+                  "title": "Default Title",
+                  "sku": "2792_coffee_mug_and_warmer",
+                  "price": "896.00",
+                  "inventoryQuantity": 0
+                }
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "pageInfo": {
+      "hasNextPage": false,
+      "endCursor": "eyJsYXN0X2lkIjoxMDI1Nzg0MzUxOTY4MCwibGFzdF92YWx1ZSI6IjIwMjYtMTAtMDggMDY6MjU6NDQuMDAwMDAwIn0="
+    }
+  },
+  "productsCount": {
+    "count": 28,
+    "precision": "EXACT"
+  }
+}

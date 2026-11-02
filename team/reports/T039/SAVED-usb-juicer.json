@@ -1,0 +1,27 @@
+{
+  "id": "gid://shopify/Product/10310413418688",
+  "title": "Portable USB Rechargeable Blender — 380 ml",
+  "vendor": "Rozmiso",
+  "status": "DRAFT",
+  "productType": "Kitchen",
+  "descriptionHtml": "<p>A compact USB rechargeable blender for single-serving fruit drinks and shakes. The clear 380 ml jar sits on a pink motor base, and the lid has a carry strap.</p><ul>\n<li>380 ml jar capacity.</li>\n<li>USB rechargeable design and carry strap.</li>\n</ul><p>Use small pieces of soft fruit with sufficient liquid and follow the supplied instructions. Keep hands away from the blades, switch off before cleaning, and keep the motor base and charging port dry. Do not use hot liquids.</p>",
+  "tags": [
+    "final-v5",
+    "launch-review",
+    "T039"
+  ],
+  "totalInventory": 0,
+  "featuredImageUrl": null,
+  "images": [],
+  "totalVariants": 1,
+  "variants": [
+    {
+      "id": "gid://shopify/ProductVariant/50665316352192",
+      "title": "Default Title",
+      "sku": "0133_usb_juicer_6blade",
+      "price": "749.00",
+      "inventoryQuantity": 0
+    }
+  ],
+  "currencyCode": "INR"
+}

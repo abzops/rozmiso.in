@@ -1,0 +1,381 @@
+{
+  "checked_at_utc": "2026-10-22T09:52:47.253603+00:00",
+  "kind": "Anonymous public HTTP read-only diagnostics, not rendered UI or checkout verification",
+  "catalog_status": 200,
+  "product_count": 21,
+  "available_product_count": 0,
+  "products": [
+    {
+      "id": 10257843454144,
+      "handle": "6186-canvas-laundry-bag-toy-storage-laundry-storage",
+      "title": "Foldable Canvas Laundry and Storage Bag",
+      "images": 10,
+      "description_chars": 461,
+      "variants": [
+        {
+          "id": 50443621990592,
+          "available": false,
+          "price": "270.00"
+        }
+      ]
+    },
+    {
+      "id": 10257843355840,
+      "handle": "2793-manual-hand-juicer-for-making-juices-and-beverages-by-using-hands",
+      "title": "Manual Citrus Juicer with Strainer",
+      "images": 6,
+      "description_chars": 392,
+      "variants": [
+        {
+          "id": 50443621859520,
+          "available": false,
+          "price": "46.00"
+        }
+      ]
+    },
+    {
+      "id": 10257843257536,
+      "handle": "6422-stainless-steel-bottle-used-in-all-households-and-official-purposes-for-storing-water-and-beverages-etc-1",
+      "title": "Stainless Steel Water Bottle \u2014 Approx. 360 ml",
+      "images": 8,
+      "description_chars": 248,
+      "variants": [
+        {
+          "id": 50443621793984,
+          "available": false,
+          "price": "416.00"
+        }
+      ]
+    },
+    {
+      "id": 10257843224768,
+      "handle": "6168-hqt-909b-hair-straightener-used-while-massaging-hair-scalps-and-head-1",
+      "title": "Electric Hair Straightening Brush",
+      "images": 9,
+      "description_chars": 301,
+      "variants": [
+        {
+          "id": 50443621761216,
+          "available": false,
+          "price": "770.00"
+        }
+      ]
+    },
+    {
+      "id": 10257843159232,
+      "handle": "2796-2-layer-kitchen-rack-for-holding-and-placing-types-of-things",
+      "title": "Two-Tier Kitchen Storage Rack",
+      "images": 11,
+      "description_chars": 260,
+      "variants": [
+        {
+          "id": 50443620909248,
+          "available": false,
+          "price": "496.00"
+        }
+      ]
+    },
+    {
+      "id": 10257843060928,
+      "handle": "6187-keyboard-cover-for-computer-pc-for-desktop-computer",
+      "title": "Keyboard Cover",
+      "images": 8,
+      "description_chars": 211,
+      "variants": [
+        {
+          "id": 50443620843712,
+          "available": false,
+          "price": "40.00"
+        }
+      ]
+    },
+    {
+      "id": 10253182009536,
+      "handle": "structured-mesh-laundry-wash-bag",
+      "title": "Structured Mesh Laundry Wash Bag",
+      "images": 4,
+      "description_chars": 604,
+      "variants": [
+        {
+          "id": 50427736260800,
+          "available": false,
+          "price": "349.00"
+        }
+      ]
+    },
+    {
+      "id": 10253181944000,
+      "handle": "household-wiping-cloths-set-of-3",
+      "title": "Household Wiping Cloths \u2014 Set of 3",
+      "images": 4,
+      "description_chars": 554,
+      "variants": [
+        {
+          "id": 50427736162496,
+          "available": false,
+          "price": "199.00"
+        }
+      ]
+    },
+    {
+      "id": 10253181845696,
+      "handle": "adhesive-cable-organizer-clips-set-of-20",
+      "title": "Adhesive Cable Organizer Clips \u2014 Set of 20",
+      "images": 4,
+      "description_chars": 614,
+      "variants": [
+        {
+          "id": 50427736064192,
+          "available": false,
+          "price": "299.00"
+        }
+      ]
+    },
+    {
+      "id": 10253181681856,
+      "handle": "3-in-1-bottle-lid-cleaning-tool",
+      "title": "3-in-1 Bottle Lid Cleaning Tool",
+      "images": 2,
+      "description_chars": 617,
+      "variants": [
+        {
+          "id": 50427735900352,
+          "available": false,
+          "price": "149.00"
+        }
+      ]
+    },
+    {
+      "id": 10253181583552,
+      "handle": "flexible-flower-shaped-drain-catcher",
+      "title": "Flexible Flower-Shaped Drain Catcher",
+      "images": 6,
+      "description_chars": 593,
+      "variants": [
+        {
+          "id": 50427735834816,
+          "available": false,
+          "price": "149.00"
+        }
+      ]
+    },
+    {
+      "id": 10253181518016,
+      "handle": "foldable-hanging-travel-organizer",
+      "title": "Foldable Hanging Travel Organizer",
+      "images": 4,
+      "description_chars": 593,
+      "variants": [
+        {
+          "id": 50427735736512,
+          "available": false,
+          "price": "399.00"
+        }
+      ]
+    },
+    {
+      "id": 10253181419712,
+      "handle": "handheld-upholstery-cleaning-brush",
+      "title": "Handheld Upholstery Cleaning Brush",
+      "images": 4,
+      "description_chars": 645,
+      "variants": [
+        {
+          "id": 50427735605440,
+          "available": false,
+          "price": "249.00"
+        }
+      ]
+    },
+    {
+      "id": 10253181321408,
+      "handle": "window-groove-cleaning-brush",
+      "title": "Window Groove Cleaning Brush",
+      "images": 4,
+      "description_chars": 586,
+      "variants": [
+        {
+          "id": 50427735474368,
+          "available": false,
+          "price": "179.00"
+        }
+      ]
+    },
+    {
+      "id": 10253181255872,
+      "handle": "compact-cable-winder-case",
+      "title": "Compact Cable Winder Case",
+      "images": 4,
+      "description_chars": 570,
+      "variants": [
+        {
+          "id": 50427735408832,
+          "available": false,
+          "price": "149.00"
+        }
+      ]
+    },
+    {
+      "id": 10253181092032,
+      "handle": "reusable-bag-locking-ties-set-of-3",
+      "title": "Reusable Bag Locking Ties \u2014 Set of 3",
+      "images": 4,
+      "description_chars": 523,
+      "variants": [
+        {
+          "id": 50427735277760,
+          "available": false,
+          "price": "149.00"
+        }
+      ]
+    },
+    {
+      "id": 10253181026496,
+      "handle": "microfiber-cleaning-cloth-40x40",
+      "title": "Microfiber Cleaning Cloth \u2014 40 \u00d7 40 cm",
+      "images": 4,
+      "description_chars": 524,
+      "variants": [
+        {
+          "id": 50427735212224,
+          "available": false,
+          "price": "149.00"
+        }
+      ]
+    },
+    {
+      "id": 10252037456064,
+      "handle": "2-in-1-soap-dispensing-cleaning-brush",
+      "title": "2-in-1 Soap Dispensing Cleaning Brush",
+      "images": 9,
+      "description_chars": 354,
+      "variants": [
+        {
+          "id": 50418577014976,
+          "available": false,
+          "price": "299.00"
+        }
+      ]
+    },
+    {
+      "id": 10252037390528,
+      "handle": "everyday-travel-organizer-pouch",
+      "title": "Everyday Travel Organizer Pouch",
+      "images": 6,
+      "description_chars": 379,
+      "variants": [
+        {
+          "id": 50418576949440,
+          "available": false,
+          "price": "349.00"
+        }
+      ]
+    },
+    {
+      "id": 10252037357760,
+      "handle": "5-in-1-rechargeable-cleaning-brush",
+      "title": "5-in-1 Rechargeable Cleaning Brush",
+      "images": 6,
+      "description_chars": 395,
+      "variants": [
+        {
+          "id": 50418576916672,
+          "available": false,
+          "price": "649.00"
+        }
+      ]
+    },
+    {
+      "id": 10252037324992,
+      "handle": "usb-rechargeable-fabric-shaver",
+      "title": "USB Rechargeable Fabric Shaver",
+      "images": 6,
+      "description_chars": 411,
+      "variants": [
+        {
+          "id": 50418576883904,
+          "available": false,
+          "price": "799.00"
+        }
+      ]
+    }
+  ],
+  "routes": [
+    {
+      "route": "/",
+      "status": 200,
+      "bytes": 85325,
+      "error": null,
+      "title": "Rozmiso | Home Care, Kitchen &amp; Travel Essentials",
+      "placeholder_markers": []
+    },
+    {
+      "route": "/collections/all",
+      "status": 200,
+      "bytes": 122203,
+      "error": null,
+      "title": "Products \u2014 Rozmiso",
+      "placeholder_markers": []
+    },
+    {
+      "route": "/search?q=brush&type=product",
+      "status": 200,
+      "bytes": 86814,
+      "error": null,
+      "title": "Search: 8 results found for &quot;brush&quot; \u2014 Rozmiso",
+      "placeholder_markers": [
+        "orders are not open"
+      ]
+    },
+    {
+      "route": "/pages/contact",
+      "status": 200,
+      "bytes": 73280,
+      "error": null,
+      "title": "Contact \u2014 Rozmiso",
+      "placeholder_markers": [
+        "[email]"
+      ]
+    },
+    {
+      "route": "/policies/shipping-policy",
+      "status": 404,
+      "bytes": 0,
+      "error": "HTTP Error 404: Not Found",
+      "title": null,
+      "placeholder_markers": []
+    },
+    {
+      "route": "/policies/refund-policy",
+      "status": 404,
+      "bytes": 0,
+      "error": "HTTP Error 404: Not Found",
+      "title": null,
+      "placeholder_markers": []
+    },
+    {
+      "route": "/policies/privacy-policy",
+      "status": 200,
+      "bytes": 85637,
+      "error": null,
+      "title": "Privacy policy \u2014 Rozmiso",
+      "placeholder_markers": []
+    },
+    {
+      "route": "/policies/terms-of-service",
+      "status": 404,
+      "bytes": 0,
+      "error": "HTTP Error 404: Not Found",
+      "title": null,
+      "placeholder_markers": []
+    },
+    {
+      "route": "/cart.js",
+      "status": 200,
+      "bytes": 303,
+      "error": null,
+      "title": null,
+      "placeholder_markers": []
+    }
+  ]
+}

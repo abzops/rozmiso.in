@@ -1,0 +1,36 @@
+{
+  "index": 13,
+  "id": 10253181419712,
+  "title": "Handheld Upholstery Cleaning Brush",
+  "handle": "handheld-upholstery-cleaning-brush",
+  "variant_skus": [
+    "4864_cleaning_duster_brush"
+  ],
+  "source_reference_images": [
+    "F:\\Dropshipping\\team\\reports\\T028\\reference-review\\10253181419712\\reference-1.png",
+    "F:\\Dropshipping\\team\\reports\\T028\\reference-review\\10253181419712\\reference-2.png"
+  ],
+  "physical_invariants": "Long narrow burgundy/red glossy brush head and tapered handle, cream end cap with hanging hole, dense dark brown bristles in linear rows. One brush.",
+  "supplier_leads": [
+    {
+      "title": "Handheld Upholstery Cleaning Brush",
+      "url": "https://deodap.in/products/car-cleaning-duster-brush-multi-purpose-home",
+      "sku": "4864_cleaning_duster_brush",
+      "title_similarity": 1.0
+    },
+    {
+      "title": "5-in-1 Rechargeable Cleaning Brush",
+      "url": "https://deodap.in/products/5-in-1-electric-cleaning-brush-rechargeable-spin-scrubber-for-bathroom-1-set",
+      "sku": "6329_5in1_magic_cleaning_brush",
+      "title_similarity": 0.6
+    }
+  ],
+  "live_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/4864.png?v=1791302656",
+    "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/20671.png?v=1791303448",
+    "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/20704.png?v=1791305217",
+    "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/03_6f48a549-f94e-4e18-ba9b-3d9ef8e9b96a.jpg?v=1791305226"
+  ],
+  "folder": "F:\\Dropshipping\\team\\reports\\T037\\13-handheld-upholstery-cleaning-brush",
+  "status": "READY"
+}

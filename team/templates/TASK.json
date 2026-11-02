@@ -1,0 +1,18 @@
+{
+  "id": "T000",
+  "goal": "",
+  "department": "",
+  "owner_lane": "A/B/Codex",
+  "reviewer": "different author, assigned by Codex",
+  "status": "READY",
+  "inputs": [],
+  "depends_on": [],
+  "allowed_actions": [],
+  "allowed_write_paths": [],
+  "acceptance_criteria": [],
+  "deliverables": [],
+  "execution_evidence": null,
+  "blockers": [],
+  "accepted_at": null,
+  "dependency_condition": "ALL_ACCEPTED"
+}

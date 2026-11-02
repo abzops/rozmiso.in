@@ -1,0 +1,161 @@
+{
+  "guide": "F:\\Dropshipping\\Brand Guidelines\\ROZMISO-BRAND-GUIDELINES.md",
+  "missing_links": [],
+  "files": [
+    {
+      "path": "ROZMISO-BRAND-GUIDELINES.md",
+      "bytes": 17864,
+      "sha256": "759a8b7ce1da1b8a577bcfbbfa7f775507fdc8058967dd4da0b3cabfe53270dd"
+    },
+    {
+      "path": "licenses/DM-SANS-FONT-LICENSE.txt",
+      "bytes": 4482,
+      "sha256": "9af36190332437f5ecd09974de43c1f7c77a310a996cdd8ceb25628b458840e1"
+    },
+    {
+      "path": "licenses/FONT-LICENSE.txt",
+      "bytes": 4387,
+      "sha256": "58172e0c0fac2cda8a37b348164bb55e44b0e69051e557e92b1d3f6910141f7b"
+    },
+    {
+      "path": "logos/favicon-16.png",
+      "bytes": 346,
+      "sha256": "30efb3537cb7f27282678850a5a770e4144d57d84d92dc50543f3ebff0fa2a2d"
+    },
+    {
+      "path": "logos/favicon-180.png",
+      "bytes": 3489,
+      "sha256": "49df2f1236a6e0961cb8179e964a9c804ac1a9de736517209bedd53952887873"
+    },
+    {
+      "path": "logos/favicon-192.png",
+      "bytes": 3687,
+      "sha256": "be28fc6fc4e7921e0234352312be945d5ec46c3a89d10736d6c54176cb9ef9e9"
+    },
+    {
+      "path": "logos/favicon-32.png",
+      "bytes": 556,
+      "sha256": "0892c17cdd758d8bc048d893ff6be07cea2cd0829aec961651984f1acbdddda7"
+    },
+    {
+      "path": "logos/favicon-512.png",
+      "bytes": 14799,
+      "sha256": "d5075137319e8572e52719d8cb8edcc15b9a0f1655f412dadd1dd4936c84c9ea"
+    },
+    {
+      "path": "logos/favicon.ico",
+      "bytes": 1787,
+      "sha256": "dafb79fd68bfc2603d3230c12a67a7e04d7336a8194405ea9779fb3773e2d271"
+    },
+    {
+      "path": "logos/rozmiso-mark-black.png",
+      "bytes": 12302,
+      "sha256": "71397297fe58642baefad24cbc80f2cd8305089316e10df8d83ecab374c55a9f"
+    },
+    {
+      "path": "logos/rozmiso-mark-black.svg",
+      "bytes": 399,
+      "sha256": "c06c2902b31d62fe7a4e8ed6ef6b56ac9eb53ca8d183eff16ae2aa2743fde82f"
+    },
+    {
+      "path": "logos/rozmiso-mark-reversed.png",
+      "bytes": 14752,
+      "sha256": "86d54b1f2483d53ce180162d8ab0926cf99dd089eeb51f545d7cccfa7af2447e"
+    },
+    {
+      "path": "logos/rozmiso-mark-reversed.svg",
+      "bytes": 408,
+      "sha256": "8e4740049d52a1718c312dd3d1f9096789182bc659f9737dd1bf6c6360de03e5"
+    },
+    {
+      "path": "logos/rozmiso-mark.png",
+      "bytes": 14799,
+      "sha256": "d5075137319e8572e52719d8cb8edcc15b9a0f1655f412dadd1dd4936c84c9ea"
+    },
+    {
+      "path": "logos/rozmiso-mark.svg",
+      "bytes": 408,
+      "sha256": "f7ec199253b35e0d201b1b710f04edda6c8bcfc068727d9a37126e0b60df94d3"
+    },
+    {
+      "path": "logos/rozmiso-primary-black.png",
+      "bytes": 26282,
+      "sha256": "7545e8637199da0f20fab8a869773c4eecea5a484cc73bfc1ceb84766ecbeb0b"
+    },
+    {
+      "path": "logos/rozmiso-primary-black.svg",
+      "bytes": 8980,
+      "sha256": "3fc2f0b63fbfd62e8deb3e1cec71187518232500e445ed2d05d3b2b753fad38b"
+    },
+    {
+      "path": "logos/rozmiso-primary-reversed.png",
+      "bytes": 31810,
+      "sha256": "8f1ebb681f6b027775cfb3d43024e761433be3bb59b803440e6a4c14ecbdda7c"
+    },
+    {
+      "path": "logos/rozmiso-primary-reversed.svg",
+      "bytes": 8992,
+      "sha256": "b2ef0c5a8d44f084098b4ddd93777bf35f4c621af666f7ccf01a6f6da9a3f2c0"
+    },
+    {
+      "path": "logos/rozmiso-primary-white.png",
+      "bytes": 25133,
+      "sha256": "f184d8989ce3b8b90050d7cac82da434055e4fc8e15b42e25c3f381afc4ae045"
+    },
+    {
+      "path": "logos/rozmiso-primary-white.svg",
+      "bytes": 8980,
+      "sha256": "ae4e9e77e3bb9670af86613f2c567041805c6cd905d3ddf60a93489e2cef5142"
+    },
+    {
+      "path": "logos/rozmiso-primary.png",
+      "bytes": 32159,
+      "sha256": "0ee0a9bc76252df5f970f93723a7217eee2e7574be871345e93b751b9298b379"
+    },
+    {
+      "path": "logos/rozmiso-primary.svg",
+      "bytes": 8992,
+      "sha256": "4a65b24211573f23877efe73750efee3455b1188a29dd89905c9eee288c7c141"
+    },
+    {
+      "path": "logos/rozmiso-stacked-reversed.png",
+      "bytes": 51630,
+      "sha256": "a7ba487b808ac8ed4bbc8331d7e4b7583943737c0bbdaefdd2f0b40891b6eaf4"
+    },
+    {
+      "path": "logos/rozmiso-stacked-reversed.svg",
+      "bytes": 8605,
+      "sha256": "df619bd5b52ad5a8103ff558c001022ffe607a8fe2a1f263e5fd50880ee9d1ec"
+    },
+    {
+      "path": "logos/rozmiso-stacked.png",
+      "bytes": 52470,
+      "sha256": "c94aab3ddbe1a4e9f3120318fd23bfee8a84f38b9e5f852922b361af9415e5dd"
+    },
+    {
+      "path": "logos/rozmiso-stacked.svg",
+      "bytes": 8605,
+      "sha256": "29008e1828ebd1139301c62a3836f4827cb4838603b1ad4fe46f654a8dd2087d"
+    },
+    {
+      "path": "logos/rozmiso-wordmark-reversed.png",
+      "bytes": 31997,
+      "sha256": "a2619323b958faf0e287942a6658821104be0a6c07a9e01593d65ac0a4270314"
+    },
+    {
+      "path": "logos/rozmiso-wordmark-reversed.svg",
+      "bytes": 8743,
+      "sha256": "03148d1b0916d3f0e5517e4afa9ef5f5be2000955b1bb77445bdf4b1820e1bb1"
+    },
+    {
+      "path": "logos/rozmiso-wordmark.png",
+      "bytes": 32675,
+      "sha256": "55ae4aadf522ed0a9d43db47875fbc36f6bd53ce41bed6805ee94d55c85fcc47"
+    },
+    {
+      "path": "logos/rozmiso-wordmark.svg",
+      "bytes": 8743,
+      "sha256": "ec3e12f750a8a82ec917be6e47d563b8e6e1681614d5fc5c544a9ddb0cc528c7"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "index": 8,
+  "id": 10253181944000,
+  "title": "Household Wiping Cloths — Set of 3",
+  "handle": "household-wiping-cloths-set-of-3",
+  "variant_skus": [
+    "22402_glass_cleaning_duster_cloth_3pc"
+  ],
+  "source_reference_images": [
+    "F:\\Dropshipping\\team\\reports\\T028\\reference-review\\10253181944000\\reference-1.jpg",
+    "F:\\Dropshipping\\team\\reports\\T028\\reference-review\\10253181944000\\reference-2.jpg"
+  ],
+  "physical_invariants": "Three rectangular woven wiping cloths: pink/red stripes, green/yellow stripes, cream/brown flower motif, white bound edges. Visible first-image inset shows two pink-dominant and one green-dominant cloth.",
+  "supplier_leads": [
+    {
+      "title": "Household Wiping Cloths — Set of 3",
+      "url": "https://deodap.in/products/glass-cleaning-duster-cloth-set-for-kitchen-and-window-cleaning-3-pc-50x33-cm",
+      "sku": "22402_glass_cleaning_duster_cloth_3pc",
+      "title_similarity": 1.0
+    },
+    {
+      "title": "Reusable Bag Locking Ties — Set of 3",
+      "url": "https://deodap.in/products/silicone-food-bag-clips-reusable-sealing-lock",
+      "sku": "11087_plastic_bag_clips_3pc",
+      "title_similarity": 0.545
+    }
+  ],
+  "live_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/22402-glass-cloth-01.jpg?v=1791302660",
+    "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/22402-glass-cloth-22402.jpg?v=1791303180",
+    "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/22402-glass-cloth-03.jpg?v=1791303189",
+    "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/22402-glass-cloth-04.jpg?v=1791303198"
+  ],
+  "folder": "F:\\Dropshipping\\team\\reports\\T037\\08-household-wiping-cloths-set-of-3",
+  "status": "READY"
+}

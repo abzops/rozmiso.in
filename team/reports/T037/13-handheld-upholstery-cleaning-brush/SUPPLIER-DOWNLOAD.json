@@ -1,0 +1,39 @@
+{
+  "supplier_product_id": "8427264246070",
+  "source_api": "https://cdn-consumer.whatmore.live/v2/brand/78232846646/product-events?client_product_id=8427264246070&status=live,upcoming&event_type=video,image",
+  "permission_source": "https://deodap.in/blogs/news/earn-passive-income-online-in-india-with-deodap-dropshipping",
+  "rights": "SUPPLIER_REUSE_STATEMENT_PRESENT_MUSIC_AND_THIRD_PARTY_RIGHTS_NOT_VERIFIED",
+  "videos": [
+    {
+      "event_id": 325383,
+      "video_url": "https://cdn.shopify.com/videos/c/vp/dd1b0790e7094bdd8d93ea6be286dd18/dd1b0790e7094bdd8d93ea6be286dd18.HD-720p-1.6Mbps-77814382.mp4",
+      "downloadPath": "F:\\Dropshipping\\team\\reports\\T037\\13-handheld-upholstery-cleaning-brush\\videos\\supplier-325383.mp4",
+      "contactSheet": "F:\\Dropshipping\\team\\reports\\T037\\13-handheld-upholstery-cleaning-brush\\videos\\supplier-325383-frames.jpg",
+      "sha256": "20c5ac71ca32cf53ea9e2ef2c2807bec8030c3b81f1ac8a778b880be057a7fe1",
+      "metadata": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "h264",
+            "codec_type": "video",
+            "width": 404,
+            "height": 720
+          },
+          {
+            "codec_name": "aac",
+            "codec_type": "audio"
+          }
+        ],
+        "format": {
+          "duration": "14.266667",
+          "size": "3125390"
+        }
+      },
+      "supplier_event_active": true,
+      "matchStatus": "PENDING_FRAME_REVIEW",
+      "source_product_url": "https://deodap.in/products/car-cleaning-duster-brush-multi-purpose-home"
+    }
+  ],
+  "status": "DOWNLOADED_PENDING_IDENTITY_REVIEW"
+}

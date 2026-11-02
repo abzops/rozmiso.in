@@ -1,0 +1,58 @@
+{
+  "productId": 10257843257536,
+  "title": "Stainless Steel Water Bottle — Approx. 360 ml",
+  "checkedAt": "2026-10-29T00:28:16.8709543+05:30",
+  "queries": [
+    "\"6422\" \"360ml\" bottle video",
+    "site.instagram.com \"Deodap\" \"360\" bottle",
+    "\"6422_ss_fancy_btl_360ml_approx\"",
+    "\"6422\" \"bottle\" site:youtube.com",
+    "\"6422\" \"bottle\" site:facebook.com",
+    "\"JIAQI\" \"360\" bottle video",
+    "\"6422\" \"bottle\" site:instagram.com",
+    "Deodap 360ml stainless bottle video youtube",
+    "\"6422\" \"bottle\" video Deodap",
+    "site.instagram.com/reel \"360ml\" \"bottle\"",
+    "site.tiktok.com \"jiaqi\" bottle"
+  ],
+  "candidates": [
+    {
+      "url": "https://www.youtube.com/watch?v=TxgfS8YKZh4",
+      "platform": "YouTube",
+      "title": "Make hydration personal with our customized stainless steel smart water bottle!",
+      "downloadPath": null,
+      "downloadStatus": "DOWNLOAD_NOT_AVAILABLE",
+      "rightsStatus": "REFERENCE_ONLY_RIGHTS_UNCONFIRMED",
+      "rightsEvidenceUrl": null,
+      "matchStatus": "UNVERIFIED",
+      "matchEvidence": "Search result identifies a DeoDap smart bottle video; no sampled actual frames, SKU 6422 link, or 360ml confirmation. Cannot establish identical lid, neck seam, bottom band or JIAQI marking.",
+      "qualityNotes": "Resolution, aspect ratio, overlays, watermark, hook and demo quality unreviewed. Search metadata only.",
+      "videoMetadata": null
+    },
+    {
+      "url": "https://vimeo.com/1086254796",
+      "platform": "Vimeo",
+      "title": "Keeps Drinks Ice-Cold!",
+      "downloadPath": null,
+      "downloadStatus": "DOWNLOAD_NOT_AVAILABLE",
+      "rightsStatus": "REFERENCE_ONLY_RIGHTS_UNCONFIRMED",
+      "rightsEvidenceUrl": null,
+      "matchStatus": "UNVERIFIED",
+      "matchEvidence": "Search result links to supplier 350ml vacuum bottle, whereas reference is approx360ml SKU6422. Metadata difference raises mismatch concern; actual frames not reviewed, so no exact or visually similar claim.",
+      "qualityNotes": "Uploader search result shows Judge.me; testimonial wording has not been verified and must not be reused as a claim. All video quality unreviewed.",
+      "videoMetadata": null
+    }
+  ],
+  "bestCandidate": null,
+  "outcome": "NO_VERIFIED_EXACT_REUSABLE_VIDEO",
+  "supplierEvidence": {
+    "checkedAt": "2026-10-29",
+    "doesNotProve": "Advertising reuse rights, exact video availability, present stock, or absence of a video elsewhere.",
+    "proves": "Supplier page explicitly lists exact SKU6422_ss_fancy_btl_360ml_approx. Ordinary public HTML has zero video tags and no direct mp4/webm/mov links found.",
+    "url": "https://amd.deodap.com/products/6422-stainless-steel-bottle-used-in-all-households-and-official-purposes-for-storing-water-and-beverages-etc-1"
+  },
+  "referenceImagesViewed": [
+    "F:\\Dropshipping\\team\\reports\\T028\\reference-review\\10257843257536\\reference-1.jpg",
+    "F:\\Dropshipping\\team\\reports\\T028\\reference-review\\10257843257536\\reference-2.jpg"
+  ]
+}

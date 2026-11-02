@@ -1,0 +1,73 @@
+{
+  "products": [
+    {
+      "width": 1080,
+      "height": 1920,
+      "sourceVideo": "C:/Users/Abhinand/Downloads/final-v5/1-heating-belt.mp4",
+      "heroTimestampSeconds": 10.5,
+      "note": "Lit digital panel closeup; original USB/wrap subtitle remains.",
+      "heroSHA256": "64a6c776e9da2d27525a88ae08c49fb2b904df4acd8cfb5ddb91c24d0e990207",
+      "key": "heating-belt",
+      "secondaryImages": [
+        "F:\\Dropshipping\\team\\reports\\T039\\video-review\\gallery-final\\heating-belt\\secondary-01.jpg",
+        "F:\\Dropshipping\\team\\reports\\T039\\video-review\\gallery-final\\heating-belt\\secondary-02.jpg"
+      ],
+      "hero": "F:\\Dropshipping\\team\\reports\\T039\\video-review\\gallery-final\\heating-belt\\hero.jpg"
+    },
+    {
+      "width": 1080,
+      "height": 1920,
+      "sourceVideo": "C:/Users/Abhinand/Downloads/final-v5/2-scalp-massager.mp4",
+      "heroTimestampSeconds": 10.5,
+      "note": "White massager closeup; original silicone/comfort subtitle remains.",
+      "heroSHA256": "0c26737a2cb0a7fec9253f4e5bf1065e69756e32502148b2f98df6fb59da734a",
+      "key": "scalp-massager",
+      "secondaryImages": [
+        "F:\\Dropshipping\\team\\reports\\T039\\video-review\\gallery-final\\scalp-massager\\secondary-01.jpg",
+        "F:\\Dropshipping\\team\\reports\\T039\\video-review\\gallery-final\\scalp-massager\\secondary-02.jpg"
+      ],
+      "hero": "F:\\Dropshipping\\team\\reports\\T039\\video-review\\gallery-final\\scalp-massager\\hero.jpg"
+    },
+    {
+      "width": 1080,
+      "height": 1920,
+      "sourceVideo": "C:/Users/Abhinand/Downloads/final-v5/3-tyre-booster.mp4",
+      "heroTimestampSeconds": 23.5,
+      "note": "Full tabletop cradle without COD or subtitle text; original faint strip remains.",
+      "heroSHA256": "6c9a8f513bd0299c2a286831e17e3e486af71c7886a7568bfed98c751c996895",
+      "key": "tyre-booster",
+      "secondaryImages": [
+        "F:\\Dropshipping\\team\\reports\\T039\\video-review\\gallery-final\\tyre-booster\\secondary-01.jpg",
+        "F:\\Dropshipping\\team\\reports\\T039\\video-review\\gallery-final\\tyre-booster\\secondary-02.jpg"
+      ],
+      "hero": "F:\\Dropshipping\\team\\reports\\T039\\video-review\\gallery-final\\tyre-booster\\hero.jpg"
+    },
+    {
+      "width": 1080,
+      "height": 1920,
+      "sourceVideo": "C:/Users/Abhinand/Downloads/final-v5/4-galaxy-projector.mp4",
+      "heroTimestampSeconds": 5.5,
+      "note": "Clear tabletop astronaut; original bedside-table subtitle remains. Other distinct non-effect scene only partly reveals product; excluded.",
+      "heroSHA256": "707b97a08b071ab9dae7ab1290ce4aaec973a139a991f02557ddfe46a831cef6",
+      "key": "galaxy-projector",
+      "secondaryImages": [],
+      "hero": "F:\\Dropshipping\\team\\reports\\T039\\video-review\\gallery-final\\galaxy-projector\\hero.jpg"
+    },
+    {
+      "width": 1080,
+      "height": 1920,
+      "sourceVideo": "C:/Users/Abhinand/Downloads/final-v5/5-usb-juicer.mp4",
+      "heroTimestampSeconds": 23.5,
+      "note": "Clear empty pink blender bottle; no subtitle text or COD, faint original strip remains.",
+      "heroSHA256": "4187cb3949c96b074bba199032ed257296a28f4de67bc856996236a858095b2e",
+      "key": "usb-juicer",
+      "secondaryImages": [
+        "F:\\Dropshipping\\team\\reports\\T039\\video-review\\gallery-final\\usb-juicer\\secondary-01.jpg",
+        "F:\\Dropshipping\\team\\reports\\T039\\video-review\\gallery-final\\usb-juicer\\secondary-02.jpg"
+      ],
+      "hero": "F:\\Dropshipping\\team\\reports\\T039\\video-review\\gallery-final\\usb-juicer\\hero.jpg"
+    }
+  ],
+  "method": "Exact 1080x1920 video-frame extraction, visually inspected. Original video bytes unchanged. Selected JPEGs copied without further image modification. No upload.",
+  "status": "SUBMITTED"
+}

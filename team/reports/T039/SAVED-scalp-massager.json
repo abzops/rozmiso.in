@@ -1,0 +1,27 @@
+{
+  "id": "gid://shopify/Product/10310413254848",
+  "title": "USB Rechargeable Scalp Massager with Four Heads",
+  "vendor": "Rozmiso",
+  "status": "DRAFT",
+  "productType": "Personal care",
+  "descriptionHtml": "<p>A compact rechargeable scalp massager with four rotating silicone heads and a handheld shape. A top button controls operation, while the detachable heads allow access for cleaning.</p><ul>\n<li>Four rotating silicone massage heads.</li>\n<li>USB rechargeable for cordless use.</li>\n<li>Detachable heads and one-button control.</li>\n</ul><p>Use gently and follow the supplied instructions for operation and cleaning. Keep the charging connection dry. Stop use if it causes discomfort.</p>",
+  "tags": [
+    "final-v5",
+    "launch-review",
+    "T039"
+  ],
+  "totalInventory": 0,
+  "featuredImageUrl": null,
+  "images": [],
+  "totalVariants": 1,
+  "variants": [
+    {
+      "id": "gid://shopify/ProductVariant/50665315926208",
+      "title": "Default Title",
+      "sku": "13556_smart_scalp_massager_1pc",
+      "price": "999.00",
+      "inventoryQuantity": 0
+    }
+  ],
+  "currencyCode": "INR"
+}

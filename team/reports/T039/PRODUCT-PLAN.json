@@ -1,0 +1,215 @@
+{
+  "date": "2026-11-01",
+  "decision": "DRAFT only. Owner confirms COD unavailable. Do not implement false PIN-code failures. Prices from owner videos. No supplier stock adopted. Originals unchanged.",
+  "products": [
+    {
+      "key": "heating-belt",
+      "title": "Rechargeable Heating Belt with Vibration",
+      "bodyHtml": "<p>A rechargeable waist belt that combines adjustable warmth with a gentle vibration setting. The compact front unit sits on an adjustable strap for use around the waist.</p><ul><li>Rechargeable design for cordless use.</li><li>Heating and vibration functions.</li><li>Adjustable waist strap and digital display.</li></ul><p>Follow the supplied instructions for charging, temperature settings and safe use. Keep the electronic unit dry. Colour and packed accessories should be confirmed before ordering.</p>",
+      "supplierUrl": "https://deodap.in/products/menstrual-cramp-relief-belt-rechargeable-heating-pad",
+      "supplierSku": "13483_smart_warm_belt_1pc",
+      "supplierPriceINR": "332.00",
+      "supplierPriceEvidence": "menstrual-cramp-relief-belt-rechargeable-heating-pad.json",
+      "supplierPriceStatus": "Indicative public listing price only; not supplier quote or landed cost.",
+      "videoPriceINR": 999,
+      "suggestedRetailPriceINR": 999,
+      "retailPriceBasis": "Visible in owner-supplied final-v5 creative; root must decide whether instruction to add these supplied creatives authorizes matching price.",
+      "geometryEvidence": "Lavender oval front with stitched-look outline, black rounded digital display near top center and grey waist strap match video. Supplier image0 repeats video sofa scene; image4 is the isolated product.",
+      "identityConfidence": "High visual reference match; not physical sample verification",
+      "existingProductId": null,
+      "duplicateAction": "No match in fresh28-product Admin snapshot; new record may be created",
+      "imageSource": "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/05_7dbbb4d3-7b75-40d2-b21d-141cc334a909.jpg?v=1763972293",
+      "imageIndexZeroBased": 4,
+      "referenceImages": [
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/13483_1500x1500_6836d22f-8402-4927-ac2f-db7db915837a.jpg?v=1786169132",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/20229.png?v=1763972293",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/20228.png?v=1763972293",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/20230.png?v=1763972293",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/05_7dbbb4d3-7b75-40d2-b21d-141cc334a909.jpg?v=1763972293",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/warm-belt-04.jpg?v=1763972293",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/02_baf6b05d-1cb4-48bc-be6b-c060d3206a18.jpg?v=1763972293",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/03_02abc829-66c4-4211-8cf0-159eca86e530.jpg?v=1763972293",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/04_ead1dff3-26bf-45b5-a6f0-a0377240461e.jpg?v=1763972293",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/sku_f2febee2-84b0-491b-b213-7bc2283f3a5f.jpg?v=1763972293",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/06_66bdb24e-b47a-43eb-94a9-497ad5ead0fd.jpg?v=1763972280"
+      ],
+      "inventoryQuantity": null,
+      "stockEvidence": "Not verified; do not adopt old draft or supplier stock claims. Preserve zero inventory and deny overselling.",
+      "unverified": [
+        "Current exact-SKU availability/dispatch",
+        "Sample quality and actual supplied appearance",
+        "Full landed costs and retail margin",
+        "COD availability and checkout readiness"
+      ],
+      "excludedClaims": [
+        "Medical pain relief, increased blood circulation, certified safe prolonged wear",
+        "Exact heat levels/range or washable electronic unit."
+      ]
+    },
+    {
+      "key": "scalp-massager",
+      "title": "USB Rechargeable Scalp Massager with Four Heads",
+      "bodyHtml": "<p>A compact rechargeable scalp massager with four rotating silicone heads and a handheld shape. A top button controls operation, while the detachable heads allow access for cleaning.</p><ul><li>Four rotating silicone massage heads.</li><li>USB rechargeable for cordless use.</li><li>Detachable heads and one-button control.</li></ul><p>Use gently and follow the supplied instructions for operation and cleaning. Keep the charging connection dry. Stop use if it causes discomfort.</p>",
+      "supplierUrl": "https://deodap.in/products/smart-electric-scalp-massager-1-pc",
+      "supplierSku": "13556_smart_scalp_massager_1pc",
+      "supplierPriceINR": "377.00",
+      "supplierPriceEvidence": "smart-electric-scalp-massager-1-pc.json",
+      "supplierPriceStatus": "Indicative public listing price only; not supplier quote or landed cost.",
+      "videoPriceINR": 999,
+      "suggestedRetailPriceINR": 999,
+      "retailPriceBasis": "Visible in owner-supplied final-v5 creative; root must decide whether instruction to add these supplied creatives authorizes matching price.",
+      "geometryEvidence": "White rounded triangular shell, silver perimeter band, single grey top button and four grey silicone heads exactly match video; image0 repeats the candle/table setup. Red MZ22683 is a different candidate and is rejected.",
+      "identityConfidence": "High visual reference match; not physical sample verification",
+      "existingProductId": null,
+      "duplicateAction": "No match in fresh28-product Admin snapshot; new record may be created",
+      "imageSource": "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/SmartScalpMassager-04.jpg?v=1793000116",
+      "imageIndexZeroBased": 4,
+      "referenceImages": [
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/SmartScalpMassager-01.jpg?v=1793000109",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/SmartScalpMassager-03.jpg?v=1793000111",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/SmartScalpMassager-size.jpg?v=1793000113",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/SmartScalpMassager-02.jpg?v=1793000114",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/SmartScalpMassager-04.jpg?v=1793000116",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/SmartScalpMassager-05.jpg?v=1793000117",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/SmartScalpMassager-06.jpg?v=1793000119",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/sku_121c0536-8084-4219-837c-5d45c94b8495.jpg?v=1793000120",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/SmartScalpMassager-live.jpg?v=1793000122"
+      ],
+      "inventoryQuantity": null,
+      "stockEvidence": "Not verified; do not adopt old draft or supplier stock claims. Preserve zero inventory and deny overselling.",
+      "unverified": [
+        "Current exact-SKU availability/dispatch",
+        "Sample quality and actual supplied appearance",
+        "Full landed costs and retail margin",
+        "COD availability and checkout readiness"
+      ],
+      "excludedClaims": [
+        "Supplier text IPX6 versus original graphic IPX7 contradiction; omit waterproof rating and wet-use promise.",
+        "Battery runtime/week, hair growth, pain/headache relief."
+      ]
+    },
+    {
+      "key": "tyre-booster",
+      "title": "Motorcycle Flat-Tyre Support Dolly",
+      "bodyHtml": "<p>A compact wheeled support designed to help reposition a two-wheeler with a flat tyre. The metal cradle supports the tyre while its small wheels help it roll during careful manual movement.</p><ul><li>Galvanized steel support frame.</li><li>Compact wheeled cradle.</li><li>Intended as a temporary movement aid for a flat tyre.</li></ul><p>Check tyre fit and follow the supplied instructions before use. Push manually on a suitable level surface. Do not ride the vehicle with the dolly fitted. This tool does not repair or inflate a tyre.</p>",
+      "supplierUrl": "https://deodap.in/products/motorcycle-flat-tire-booster-emergency-two-wheeler",
+      "supplierSku": "1683_emergency_wheel_puller",
+      "supplierPriceINR": "298.00",
+      "supplierPriceEvidence": "motorcycle-flat-tire-booster-emergency-two-wheeler.json",
+      "supplierPriceStatus": "Indicative public listing price only; not supplier quote or landed cost.",
+      "videoPriceINR": 899,
+      "suggestedRetailPriceINR": 899,
+      "retailPriceBasis": "Visible in owner-supplied final-v5 creative; root must decide whether instruction to add these supplied creatives authorizes matching price.",
+      "geometryEvidence": "Galvanized silver cradle, white rollers with pink hubs and small end caster match video. Supplier image6 is the same marble-floor reference visible in video.",
+      "identityConfidence": "High visual reference match; not physical sample verification",
+      "existingProductId": null,
+      "duplicateAction": "No match in fresh28-product Admin snapshot; new record may be created",
+      "imageSource": "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/05_4cf5e467-51cd-4d8d-989d-9fbbaf9085fc.jpg?v=1749890254",
+      "imageIndexZeroBased": 4,
+      "referenceImages": [
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/2788a70d-56f1-4960-9af9-b6d43a1bf25d.jpg?v=1788331916",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/02_c659a1db-d62d-477e-a7d6-a1b493edc4ce.jpg?v=1749890245",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/03_d511f4e1-e2a9-4a2c-be22-6f387538b869.jpg?v=1749890255",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/04_acadc60f-c7e7-4df6-ad81-114c71736566.jpg?v=1749890254",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/05_4cf5e467-51cd-4d8d-989d-9fbbaf9085fc.jpg?v=1749890254",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/sku_cd0806be-0e8a-48fc-8540-97d20603cb7a.jpg?v=1749890255",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/a66b08b4-eba0-4c03-9dae-98b8018eb6bf.jpg?v=1749890269"
+      ],
+      "inventoryQuantity": null,
+      "stockEvidence": "Not verified; do not adopt old draft or supplier stock claims. Preserve zero inventory and deny overselling.",
+      "unverified": [
+        "Current exact-SKU availability/dispatch",
+        "Sample quality and actual supplied appearance",
+        "Full landed costs and retail margin",
+        "COD availability and checkout readiness"
+      ],
+      "excludedClaims": [
+        "500kg load limit not independently established.",
+        "Supplier says4wheels but images show differing wheel arrangements; omit count.",
+        "Road riding, travel distance or universal tyre fit claims."
+      ]
+    },
+    {
+      "key": "galaxy-projector",
+      "title": "Astronaut Galaxy Projector with Remote",
+      "bodyHtml": "<p>A tabletop galaxy projector in a standing astronaut design. It creates decorative star and nebula lighting, with an adjustable head to change the direction of the projection.</p><ul><li>Standing astronaut body on a moon-style base.</li><li>Adjustable projection angle.</li><li>Remote control for lighting settings.</li></ul><p>Place on a stable surface and follow the supplied power and operating instructions. Keep dry and avoid looking directly into the light source. Projection images are illustrative; the effect depends on the room and ambient light.</p>",
+      "supplierUrl": "https://deodap.in/products/4530-robot-sky-space-stars-light-astronaut-galaxy-projector-night-lamp-bedroom-kids-projector-remote-control-star-projector-will-take-childrens-to-explore-the-vast-starry-sky-for-adults-raksha-bandhan-diwali-gift",
+      "supplierSku": "4530_astronaut_star_projector",
+      "supplierPriceINR": "528.00",
+      "supplierPriceEvidence": "4530-robot-sky-space-stars-light-astronaut-galaxy-projector-night.json",
+      "supplierPriceStatus": "Indicative public listing price only; not supplier quote or landed cost.",
+      "videoPriceINR": 1299,
+      "suggestedRetailPriceINR": 1299,
+      "retailPriceBasis": "Visible in owner-supplied final-v5 creative; root must decide whether instruction to add these supplied creatives authorizes matching price.",
+      "geometryEvidence": "Standing astronaut with black visor, hose and textured moon base matches video, including same table/pencil scene in supplier image1. Seated14523 is rejected.",
+      "identityConfidence": "High visual reference match; not physical sample verification",
+      "existingProductId": "gid://shopify/Product/10249095086272",
+      "duplicateAction": "Update existing draft; no new product",
+      "imageSource": "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/2_944bdf08-2bca-4174-b2d6-341c319accf5.jpg?v=1792842105",
+      "imageIndexZeroBased": 3,
+      "referenceImages": [
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/1_2e8e0661-46ce-4e65-93ce-4e868382bd72.jpg?v=1792842100",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/6_e106c24d-bb19-460c-8b78-b0ef32e8dd9d.jpg?v=1792842102",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/3_f271d3d6-e000-4533-86d1-4a384d50e99f.jpg?v=1792842103",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/2_944bdf08-2bca-4174-b2d6-341c319accf5.jpg?v=1792842105",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/4_72bb36f3-e210-4bad-830a-7260af3d7b7f.jpg?v=1792842107"
+      ],
+      "inventoryQuantity": null,
+      "stockEvidence": "Not verified; do not adopt old draft or supplier stock claims. Preserve zero inventory and deny overselling.",
+      "unverified": [
+        "Current exact-SKU availability/dispatch",
+        "Sample quality and actual supplied appearance",
+        "Full landed costs and retail margin",
+        "COD availability and checkout readiness"
+      ],
+      "existingPriceConflict": "Existing draft single1099/pair1899; supplied video single1299. Legacy quantities90/60 not fulfillment evidence; old descriptions contain unverified claims.",
+      "excludedClaims": [
+        "Photorealistic galaxies/moonscapes, accurate projected celestial scenes.",
+        "Battery-powered or rechargeable; supplier USB power wording is qualified.",
+        "Exact color/mode count or timer without actual model/manual verification."
+      ]
+    },
+    {
+      "key": "usb-juicer",
+      "title": "Portable USB Rechargeable Blender — 380 ml",
+      "bodyHtml": "<p>A compact USB rechargeable blender for single-serving fruit drinks and shakes. The clear 380 ml jar sits on a pink motor base, and the lid has a carry strap.</p><ul><li>380 ml jar capacity.</li><li>USB rechargeable design and carry strap.</li></ul><p>Use small pieces of soft fruit with sufficient liquid and follow the supplied instructions. Keep hands away from the blades, switch off before cleaning, and keep the motor base and charging port dry. Do not use hot liquids.</p>",
+      "supplierUrl": "https://deodap.in/products/portable-usb-electric-juicer-blender-mixer-protein-shaker-380ml",
+      "supplierSku": "0133_usb_juicer_6blade",
+      "supplierPriceINR": "240.00",
+      "supplierPriceEvidence": "portable-usb-electric-juicer-blender-mixer-protein-shaker-380ml.json",
+      "supplierPriceStatus": "Indicative public listing price only; not supplier quote or landed cost.",
+      "videoPriceINR": 749,
+      "suggestedRetailPriceINR": 749,
+      "retailPriceBasis": "Visible in owner-supplied final-v5 creative; root must decide whether instruction to add these supplied creatives authorizes matching price.",
+      "geometryEvidence": "Pink cylindrical base, clear jar, flat pink lid with side strap, black ON/OFF panel and outlined horizontal USB port match video. Supplier image0 repeats woman/cardigan smoothie scene.",
+      "identityConfidence": "High visual reference match; not physical sample verification",
+      "existingProductId": null,
+      "duplicateAction": "No match in fresh28-product Admin snapshot; new record may be created",
+      "imageSource": "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/Portable-USB-Electric-Juicer_4.jpg?v=1790231635",
+      "imageIndexZeroBased": 3,
+      "referenceImages": [
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/Portable-USB-Electric-Juicer_2.jpg?v=1790231635",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/Portable-USB-Electric-Juicer_3.jpg?v=1790231635",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/Portable-USB-Electric-Juicer_7.jpg?v=1790231635",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/Portable-USB-Electric-Juicer_4.jpg?v=1790231635",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/Portable-USB-Electric-Juicer_5.jpg?v=1790231635",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/Portable-USB-Electric-Juicer_6.jpg?v=1790231635",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/0133.jpg?v=1790231635",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/Portable-USB-Electric-Juicer_8.jpg?v=1790231635"
+      ],
+      "inventoryQuantity": null,
+      "stockEvidence": "Not verified; do not adopt old draft or supplier stock claims. Preserve zero inventory and deny overselling.",
+      "unverified": [
+        "Current exact-SKU availability/dispatch",
+        "Sample quality and actual supplied appearance",
+        "Full landed costs and retail margin",
+        "COD availability and checkout readiness"
+      ],
+      "priceConflict": "SameSKU0133 alternate path usb-rechargeable-juicer-blender-for-home-and-kitchen-6-blade-380-ml-1-pc returns269.00 vs canonical240.00. Search crawls225/249 stale. Confirm quote before margin approval.",
+      "excludedClaims": [
+        "Ice crushing, BPA-free or steel grade certification without evidence",
+        "Charge cycles/runtime and leak-proof travel promise."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "index": 19,
+  "id": 10252037390528,
+  "title": "Everyday Travel Organizer Pouch",
+  "handle": "everyday-travel-organizer-pouch",
+  "variant_skus": [
+    "0642_multipurpose_travel_organizer_bag_1pc_no1"
+  ],
+  "source_reference_images": [
+    "F:\\Dropshipping\\team\\reports\\T028\\reference-review\\10252037390528\\reference-1.jpg",
+    "F:\\Dropshipping\\team\\reports\\T028\\reference-review\\10252037390528\\reference-2.jpg"
+  ],
+  "physical_invariants": "Rectangular soft zippered pouch, blue-gray cartoon animal print with yellow/orange accents, black piping/zipper, tan horizontal webbing handle, silver reflective grid lining. One pouch.",
+  "supplier_leads": [
+    {
+      "title": "Everyday Travel Organizer Pouch",
+      "url": "https://deodap.in/products/multipurpose-travel-organizer-bag-lightweight-storage-pouch-for-travel-1-pc",
+      "sku": "0642_multipurpose_travel_organizer_bag_1pc_no1",
+      "title_similarity": 1.0
+    },
+    {
+      "title": "Foldable Hanging Travel Organizer",
+      "url": "https://deodap.in/products/premium-foldable-travel-pouch-bag-hanging-toiletry-organiser-kit-1-pc",
+      "sku": "20058_foldable_travel_storage_bag",
+      "title_similarity": 0.586
+    }
+  ],
+  "live_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/rozmiso-ai-10252037390528-01-studio.png?v=1791881412",
+    "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/rozmiso-ai-10252037390528-03-usecase.png?v=1791881411",
+    "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/rozmiso-ai-10252037390528-04-use-context.png?v=1791881412",
+    "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/rozmiso-ai-10252037390528-05-title-features.png?v=1791881410",
+    "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/rozmiso-ai-10252037390528-06-care-v2.png?v=1791881411",
+    "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/rozmiso-ai-10252037390528-02-detail-v2.png?v=1791881413"
+  ],
+  "folder": "F:\\Dropshipping\\team\\reports\\T037\\19-everyday-travel-organizer-pouch",
+  "status": "READY"
+}

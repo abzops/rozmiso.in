@@ -1,0 +1,34 @@
+[
+  {
+    "name": "theme_info",
+    "theme_name": "Rozmiso Studio",
+    "theme_version": "2.0.0",
+    "theme_author": "Rozmiso",
+    "theme_documentation_url": "https://help.shopify.com/en/manual/online-store/themes",
+    "theme_support_url": "https://help.shopify.com/"
+  },
+  {
+    "name": "Brand",
+    "settings": [
+      {
+        "type": "textarea",
+        "id": "brand_description",
+        "label": "Brand description",
+        "default": "Practical finds for a little more ease in your everyday."
+      },
+      {
+        "type": "checkbox",
+        "id": "prelaunch_mode",
+        "label": "Pause cart and checkout",
+        "default": true,
+        "info": "Blocks purchase actions independently of inventory. Turn off only after stock, payments and fulfillment have been verified."
+      },
+      {
+        "type": "image_picker",
+        "id": "favicon",
+        "label": "Custom favicon",
+        "info": "Optional. The Rozmiso R mark is used when no custom image is selected."
+      }
+    ]
+  }
+]

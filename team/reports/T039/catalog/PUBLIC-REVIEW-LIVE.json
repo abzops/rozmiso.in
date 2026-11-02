@@ -1,0 +1,88 @@
+[
+  {
+    "url": "https://rozmiso.myshopify.com/products/rechargeable-heating-belt-with-vibration",
+    "id": 10310413156544,
+    "title": "Rechargeable Heating Belt with Vibration",
+    "tags": "final-v5, launch-review, T039",
+    "imageCount": 3,
+    "variants": [
+      {
+        "title": "Default Title",
+        "sku": "13483_smart_warm_belt_1pc",
+        "price": "999.00",
+        "available": null
+      }
+    ],
+    "CODNotice": true
+  },
+  {
+    "url": "https://rozmiso.myshopify.com/products/usb-rechargeable-scalp-massager-with-four-heads",
+    "id": 10310413254848,
+    "title": "USB Rechargeable Scalp Massager with Four Heads",
+    "tags": "final-v5, launch-review, T039",
+    "imageCount": 3,
+    "variants": [
+      {
+        "title": "Default Title",
+        "sku": "13556_smart_scalp_massager_1pc",
+        "price": "999.00",
+        "available": null
+      }
+    ],
+    "CODNotice": true
+  },
+  {
+    "url": "https://rozmiso.myshopify.com/products/motorcycle-flat-tyre-support-dolly",
+    "id": 10310413320384,
+    "title": "Motorcycle Flat-Tyre Support Dolly",
+    "tags": "final-v5, launch-review, T039",
+    "imageCount": 3,
+    "variants": [
+      {
+        "title": "Default Title",
+        "sku": "1683_emergency_wheel_puller",
+        "price": "899.00",
+        "available": null
+      }
+    ],
+    "CODNotice": true
+  },
+  {
+    "url": "https://rozmiso.myshopify.com/products/astronaut-galaxy-nebula-projector",
+    "id": 10249095086272,
+    "title": "Astronaut Galaxy Projector with Remote",
+    "tags": "decor, gift, kids",
+    "imageCount": 1,
+    "variants": [
+      {
+        "title": "1 Piece (Astronaut Projector)",
+        "sku": "ROZ-ASTRO-01",
+        "price": "1299.00",
+        "available": null
+      },
+      {
+        "title": "2 Pieces",
+        "sku": "ROZ-ASTRO-02",
+        "price": "1899.00",
+        "available": null
+      }
+    ],
+    "CODNotice": true
+  },
+  {
+    "url": "https://rozmiso.myshopify.com/products/portable-usb-rechargeable-blender-380-ml",
+    "id": 10310413418688,
+    "title": "Portable USB Rechargeable Blender \u2014 380 ml",
+    "tags": "final-v5, launch-review, T039",
+    "imageCount": 3,
+    "variants": [
+      {
+        "title": "Default Title",
+        "sku": "0133_usb_juicer_6blade",
+        "price": "749.00",
+        "available": null
+      }
+    ],
+    "CODNotice": true
+  }
+]

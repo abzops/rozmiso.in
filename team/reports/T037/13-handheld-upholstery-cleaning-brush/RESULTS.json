@@ -1,0 +1,49 @@
+{
+  "productId": 10253181419712,
+  "title": "Handheld Upholstery Cleaning Brush",
+  "checkedAt": "2026-10-29",
+  "queries": [
+    "site:instagram.com deodap \"4864\" brush",
+    "site:youtube.com \"deodap\" \"cleaning duster brush\"",
+    "\"4864_cleaning_duster_brush\" video",
+    "site:facebook.com \"Deodap\" \"duster brush\""
+  ],
+  "candidates": [
+    {
+      "url": "https://cdn.shopify.com/videos/c/vp/dd1b0790e7094bdd8d93ea6be286dd18/dd1b0790e7094bdd8d93ea6be286dd18.HD-720p-1.6Mbps-77814382.mp4",
+      "platform": "DeoDap supplier / Whatmore feed",
+      "title": "Cleaning Duster Brush - supplier event 325383",
+      "downloadPath": "F:\\Dropshipping\\team\\reports\\T037\\13-handheld-upholstery-cleaning-brush\\videos\\supplier-325383.mp4",
+      "downloadStatus": "DOWNLOADED",
+      "rightsStatus": "REFERENCE_ONLY_RIGHTS_UNCONFIRMED",
+      "rightsEvidenceUrl": "https://deodap.in/blogs/news/earn-passive-income-online-in-india-with-deodap-dropshipping",
+      "matchStatus": "EXACT_VISIBLE_MODEL",
+      "matchEvidence": "Compared eight sampled video frames with original supplier photo 03_6f48a549-f94e-4e18-ba9b-3d9ef8e9b96a.jpg. Long narrow burgundy head, curved tapered glossy handle, cream cap with hanging hole, dark burgundy/brown long linear bristles and one-brush configuration match. Unseen manufacturing details not verified; no unconditional 100-percent guarantee.",
+      "qualityNotes": "Vertical 404x720, 14.27 seconds. Handheld rotation and bristle-flex demonstration; large Cleaning Duster Brush text and baked Rs.52.00 price, decorative background. Price is supplier historical overlay, not Rozmiso pricing. Audio stream present but not auditioned or cleared. No social-platform source discovered in indexed searches.",
+      "videoMetadata": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "h264",
+            "codec_type": "video",
+            "width": 404,
+            "height": 720
+          },
+          {
+            "codec_name": "aac",
+            "codec_type": "audio"
+          }
+        ],
+        "format": {
+          "duration": "14.266667",
+          "size": "3125390"
+        }
+      },
+      "sha256": "20c5ac71ca32cf53ea9e2ef2c2807bec8030c3b81f1ac8a778b880be057a7fe1"
+    }
+  ],
+  "bestCandidate": "https://cdn.shopify.com/videos/c/vp/dd1b0790e7094bdd8d93ea6be286dd18/dd1b0790e7094bdd8d93ea6be286dd18.HD-720p-1.6Mbps-77814382.mp4",
+  "outcome": "DOWNLOADED_EXACT_VISIBLE_MODEL_REFERENCE_ONLY",
+  "socialSearchOutcome": "No indexed Instagram/YouTube/Facebook candidate returned; exact SKU search identified supplier product and unrelated catalog PDFs."
+}

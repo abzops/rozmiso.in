@@ -1,0 +1,1020 @@
+{
+  "date": "2026-10-22",
+  "source": "team/reports/T030/catalog-ready/manifest.json",
+  "scope": "Local file integrity only. No external upload or visual re-review. Source manifest left unchanged.",
+  "products": [
+    {
+      "productId": "10252037324992",
+      "title": "USB Rechargeable Fabric Shaver",
+      "images": [
+        {
+          "order": 1,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10252037324992\\01-product.png",
+          "exists": true,
+          "sha256MatchesManifest": true
+        },
+        {
+          "order": 2,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10252037324992\\02-product.png",
+          "exists": true,
+          "sha256MatchesManifest": true
+        },
+        {
+          "order": 3,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10252037324992\\03-product.png",
+          "exists": true,
+          "sha256MatchesManifest": true
+        },
+        {
+          "order": 4,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10252037324992\\04-product.png",
+          "exists": true,
+          "sha256MatchesManifest": true
+        },
+        {
+          "order": 5,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10252037324992\\05-product.png",
+          "exists": true,
+          "sha256MatchesManifest": true
+        },
+        {
+          "order": 6,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10252037324992\\06-product.png",
+          "exists": true,
+          "sha256MatchesManifest": true
+        }
+      ],
+      "descriptionExists": true,
+      "uploadState": "LOCAL_BYTES_VERIFIED_VISUAL_REVIEW_NOT_REPEATED",
+      "liveState": "NOT_CHECKED_BY_THIS_LANE"
+    },
+    {
+      "productId": "10252037357760",
+      "title": "5-in-1 Rechargeable Cleaning Brush",
+      "images": [
+        {
+          "order": 1,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10252037357760\\01-product.png",
+          "exists": true,
+          "sha256MatchesManifest": true
+        },
+        {
+          "order": 2,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10252037357760\\02-product.png",
+          "exists": true,
+          "sha256MatchesManifest": true
+        },
+        {
+          "order": 3,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10252037357760\\03-product.png",
+          "exists": true,
+          "sha256MatchesManifest": true
+        },
+        {
+          "order": 4,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10252037357760\\04-product.png",
+          "exists": true,
+          "sha256MatchesManifest": true
+        },
+        {
+          "order": 5,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10252037357760\\05-product.png",
+          "exists": true,
+          "sha256MatchesManifest": true
+        },
+        {
+          "order": 6,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10252037357760\\06-product.png",
+          "exists": true,
+          "sha256MatchesManifest": true
+        }
+      ],
+      "descriptionExists": true,
+      "uploadState": "LOCAL_BYTES_VERIFIED_VISUAL_REVIEW_NOT_REPEATED",
+      "liveState": "NOT_CHECKED_BY_THIS_LANE"
+    },
+    {
+      "productId": "10252037390528",
+      "title": "Everyday Travel Organizer Pouch",
+      "images": [
+        {
+          "order": 1,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10252037390528\\01-product.png",
+          "exists": true,
+          "sha256MatchesManifest": true
+        },
+        {
+          "order": 2,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10252037390528\\02-product.png",
+          "exists": true,
+          "sha256MatchesManifest": true
+        },
+        {
+          "order": 3,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10252037390528\\03-product.png",
+          "exists": true,
+          "sha256MatchesManifest": true
+        },
+        {
+          "order": 4,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10252037390528\\04-product.png",
+          "exists": true,
+          "sha256MatchesManifest": true
+        },
+        {
+          "order": 5,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10252037390528\\05-product.png",
+          "exists": true,
+          "sha256MatchesManifest": true
+        },
+        {
+          "order": 6,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10252037390528\\06-product.png",
+          "exists": true,
+          "sha256MatchesManifest": true
+        }
+      ],
+      "descriptionExists": true,
+      "uploadState": "LOCAL_BYTES_VERIFIED_VISUAL_REVIEW_NOT_REPEATED",
+      "liveState": "NOT_CHECKED_BY_THIS_LANE"
+    },
+    {
+      "productId": "10252037456064",
+      "title": "2-in-1 Soap Dispensing Cleaning Brush",
+      "images": [
+        {
+          "order": 1,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10252037456064\\01-product.png",
+          "exists": true,
+          "sha256MatchesManifest": true
+        },
+        {
+          "order": 2,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10252037456064\\02-product.png",
+          "exists": true,
+          "sha256MatchesManifest": true
+        },
+        {
+          "order": 3,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10252037456064\\03-product.png",
+          "exists": true,
+          "sha256MatchesManifest": true
+        },
+        {
+          "order": 4,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10252037456064\\04-product.png",
+          "exists": true,
+          "sha256MatchesManifest": true
+        },
+        {
+          "order": 5,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10252037456064\\05-product.png",
+          "exists": true,
+          "sha256MatchesManifest": true
+        },
+        {
+          "order": 6,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10252037456064\\06-product.png",
+          "exists": true,
+          "sha256MatchesManifest": true
+        }
+      ],
+      "descriptionExists": true,
+      "uploadState": "HOLD_OBSOLETE_SOAP_MEDIA",
+      "liveState": "NOT_CHECKED_BY_THIS_LANE"
+    },
+    {
+      "productId": "10253181026496",
+      "title": "Microfiber Cleaning Cloth",
+      "images": [
+        {
+          "order": 1,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253181026496\\01-product.png",
+          "exists": true,
+          "sha256MatchesManifest": true
+        },
+        {
+          "order": 2,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253181026496\\02-product.png",
+          "exists": true,
+          "sha256MatchesManifest": true
+        },
+        {
+          "order": 3,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253181026496\\03-product.png",
+          "exists": true,
+          "sha256MatchesManifest": true
+        },
+        {
+          "order": 4,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253181026496\\04-product.png",
+          "exists": true,
+          "sha256MatchesManifest": true
+        },
+        {
+          "order": 5,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253181026496\\05-product.png",
+          "exists": true,
+          "sha256MatchesManifest": true
+        },
+        {
+          "order": 6,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253181026496\\06-product.png",
+          "exists": true,
+          "sha256MatchesManifest": true
+        }
+      ],
+      "descriptionExists": true,
+      "uploadState": "LOCAL_BYTES_VERIFIED_VISUAL_REVIEW_NOT_REPEATED",
+      "liveState": "NOT_CHECKED_BY_THIS_LANE"
+    },
+    {
+      "productId": "10253181092032",
+      "title": "Reusable Bag Locking Ties, Set of 3",
+      "images": [
+        {
+          "order": 1,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253181092032\\01-product.png",
+          "exists": true,
+          "sha256MatchesManifest": true
+        },
+        {
+          "order": 2,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253181092032\\02-product.png",
+          "exists": true,
+          "sha256MatchesManifest": true
+        },
+        {
+          "order": 3,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253181092032\\03-product.png",
+          "exists": true,
+          "sha256MatchesManifest": true
+        },
+        {
+          "order": 4,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253181092032\\04-product.png",
+          "exists": true,
+          "sha256MatchesManifest": true
+        },
+        {
+          "order": 5,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253181092032\\05-product.png",
+          "exists": true,
+          "sha256MatchesManifest": true
+        },
+        {
+          "order": 6,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253181092032\\06-product.png",
+          "exists": true,
+          "sha256MatchesManifest": true
+        }
+      ],
+      "descriptionExists": true,
+      "uploadState": "LOCAL_BYTES_VERIFIED_VISUAL_REVIEW_NOT_REPEATED",
+      "liveState": "NOT_CHECKED_BY_THIS_LANE"
+    },
+    {
+      "productId": "10253181255872",
+      "title": "Compact Cable Winder Case",
+      "images": [
+        {
+          "order": 1,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253181255872\\01-product.png",
+          "exists": true,
+          "sha256MatchesManifest": true
+        },
+        {
+          "order": 2,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253181255872\\02-product.png",
+          "exists": true,
+          "sha256MatchesManifest": true
+        },
+        {
+          "order": 3,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253181255872\\03-product.png",
+          "exists": true,
+          "sha256MatchesManifest": true
+        },
+        {
+          "order": 4,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253181255872\\04-product.png",
+          "exists": true,
+          "sha256MatchesManifest": true
+        },
+        {
+          "order": 5,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253181255872\\05-product.png",
+          "exists": true,
+          "sha256MatchesManifest": true
+        },
+        {
+          "order": 6,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253181255872\\06-product.png",
+          "exists": true,
+          "sha256MatchesManifest": true
+        }
+      ],
+      "descriptionExists": true,
+      "uploadState": "LOCAL_BYTES_VERIFIED_VISUAL_REVIEW_NOT_REPEATED",
+      "liveState": "NOT_CHECKED_BY_THIS_LANE"
+    },
+    {
+      "productId": "10253181321408",
+      "title": "Window Groove Cleaning Brush",
+      "images": [
+        {
+          "order": 1,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253181321408\\01-product.png",
+          "exists": true,
+          "sha256MatchesManifest": true
+        },
+        {
+          "order": 2,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253181321408\\02-product.png",
+          "exists": true,
+          "sha256MatchesManifest": true
+        },
+        {
+          "order": 3,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253181321408\\03-product.png",
+          "exists": true,
+          "sha256MatchesManifest": true
+        },
+        {
+          "order": 4,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253181321408\\04-product.png",
+          "exists": true,
+          "sha256MatchesManifest": true
+        },
+        {
+          "order": 5,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253181321408\\05-product.png",
+          "exists": true,
+          "sha256MatchesManifest": true
+        },
+        {
+          "order": 6,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253181321408\\06-product.png",
+          "exists": true,
+          "sha256MatchesManifest": true
+        }
+      ],
+      "descriptionExists": true,
+      "uploadState": "LOCAL_BYTES_VERIFIED_VISUAL_REVIEW_NOT_REPEATED",
+      "liveState": "NOT_CHECKED_BY_THIS_LANE"
+    },
+    {
+      "productId": "10253181419712",
+      "title": "Handheld Upholstery Cleaning Brush",
+      "images": [
+        {
+          "order": 1,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253181419712\\01-product.png",
+          "exists": true,
+          "sha256MatchesManifest": true
+        },
+        {
+          "order": 2,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253181419712\\02-product.png",
+          "exists": true,
+          "sha256MatchesManifest": true
+        },
+        {
+          "order": 3,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253181419712\\03-product.png",
+          "exists": true,
+          "sha256MatchesManifest": true
+        },
+        {
+          "order": 4,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253181419712\\04-product.png",
+          "exists": true,
+          "sha256MatchesManifest": true
+        },
+        {
+          "order": 5,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253181419712\\05-product.png",
+          "exists": true,
+          "sha256MatchesManifest": true
+        },
+        {
+          "order": 6,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253181419712\\06-product.png",
+          "exists": true,
+          "sha256MatchesManifest": true
+        }
+      ],
+      "descriptionExists": true,
+      "uploadState": "LOCAL_BYTES_VERIFIED_VISUAL_REVIEW_NOT_REPEATED",
+      "liveState": "NOT_CHECKED_BY_THIS_LANE"
+    },
+    {
+      "productId": "10253181518016",
+      "title": "Foldable Hanging Travel Organizer",
+      "images": [
+        {
+          "order": 1,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253181518016\\01-product.png",
+          "exists": true,
+          "sha256MatchesManifest": true
+        },
+        {
+          "order": 2,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253181518016\\02-product.png",
+          "exists": true,
+          "sha256MatchesManifest": true
+        },
+        {
+          "order": 3,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253181518016\\03-product.png",
+          "exists": true,
+          "sha256MatchesManifest": true
+        },
+        {
+          "order": 4,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253181518016\\04-product.png",
+          "exists": true,
+          "sha256MatchesManifest": true
+        },
+        {
+          "order": 5,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253181518016\\05-product.png",
+          "exists": true,
+          "sha256MatchesManifest": true
+        },
+        {
+          "order": 6,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253181518016\\06-product.png",
+          "exists": true,
+          "sha256MatchesManifest": true
+        }
+      ],
+      "descriptionExists": true,
+      "uploadState": "LOCAL_BYTES_VERIFIED_VISUAL_REVIEW_NOT_REPEATED",
+      "liveState": "NOT_CHECKED_BY_THIS_LANE"
+    },
+    {
+      "productId": "10253181583552",
+      "title": "Flexible Flower-Shaped Drain Catcher",
+      "images": [
+        {
+          "order": 1,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253181583552\\01-product.png",
+          "exists": true,
+          "sha256MatchesManifest": true
+        },
+        {
+          "order": 2,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253181583552\\02-product.png",
+          "exists": true,
+          "sha256MatchesManifest": true
+        },
+        {
+          "order": 3,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253181583552\\03-product.png",
+          "exists": true,
+          "sha256MatchesManifest": true
+        },
+        {
+          "order": 4,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253181583552\\04-product.png",
+          "exists": true,
+          "sha256MatchesManifest": true
+        },
+        {
+          "order": 5,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253181583552\\05-product.png",
+          "exists": true,
+          "sha256MatchesManifest": true
+        },
+        {
+          "order": 6,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253181583552\\06-product.png",
+          "exists": true,
+          "sha256MatchesManifest": true
+        }
+      ],
+      "descriptionExists": true,
+      "uploadState": "LOCAL_BYTES_VERIFIED_VISUAL_REVIEW_NOT_REPEATED",
+      "liveState": "NOT_CHECKED_BY_THIS_LANE"
+    },
+    {
+      "productId": "10253181681856",
+      "title": "3-in-1 Bottle Lid Cleaning Tool",
+      "images": [
+        {
+          "order": 1,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253181681856\\01-product.png",
+          "exists": true,
+          "sha256MatchesManifest": true
+        },
+        {
+          "order": 2,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253181681856\\02-product.png",
+          "exists": true,
+          "sha256MatchesManifest": true
+        },
+        {
+          "order": 3,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253181681856\\03-product.png",
+          "exists": true,
+          "sha256MatchesManifest": true
+        },
+        {
+          "order": 4,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253181681856\\04-product.png",
+          "exists": true,
+          "sha256MatchesManifest": true
+        },
+        {
+          "order": 5,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253181681856\\05-product.png",
+          "exists": true,
+          "sha256MatchesManifest": true
+        },
+        {
+          "order": 6,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253181681856\\06-product.png",
+          "exists": true,
+          "sha256MatchesManifest": true
+        }
+      ],
+      "descriptionExists": true,
+      "uploadState": "LOCAL_BYTES_VERIFIED_VISUAL_REVIEW_NOT_REPEATED",
+      "liveState": "NOT_CHECKED_BY_THIS_LANE"
+    },
+    {
+      "productId": "10253181845696",
+      "title": "Adhesive Cable Organizer Strips, Set of 20",
+      "images": [
+        {
+          "order": 1,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253181845696\\01-product.png",
+          "exists": true,
+          "sha256MatchesManifest": true
+        },
+        {
+          "order": 2,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253181845696\\02-product.png",
+          "exists": true,
+          "sha256MatchesManifest": true
+        },
+        {
+          "order": 3,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253181845696\\03-product.png",
+          "exists": true,
+          "sha256MatchesManifest": true
+        },
+        {
+          "order": 4,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253181845696\\04-product.png",
+          "exists": true,
+          "sha256MatchesManifest": true
+        },
+        {
+          "order": 5,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253181845696\\05-product.png",
+          "exists": true,
+          "sha256MatchesManifest": true
+        },
+        {
+          "order": 6,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253181845696\\06-product.png",
+          "exists": true,
+          "sha256MatchesManifest": true
+        }
+      ],
+      "descriptionExists": true,
+      "uploadState": "LOCAL_BYTES_VERIFIED_VISUAL_REVIEW_NOT_REPEATED",
+      "liveState": "NOT_CHECKED_BY_THIS_LANE"
+    },
+    {
+      "productId": "10253181944000",
+      "title": "Household Wiping Cloths, Set of 3",
+      "images": [
+        {
+          "order": 1,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253181944000\\01-product.png",
+          "exists": true,
+          "sha256MatchesManifest": true
+        },
+        {
+          "order": 2,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253181944000\\02-product.png",
+          "exists": true,
+          "sha256MatchesManifest": true
+        },
+        {
+          "order": 3,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253181944000\\03-product.png",
+          "exists": true,
+          "sha256MatchesManifest": true
+        },
+        {
+          "order": 4,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253181944000\\04-product.png",
+          "exists": true,
+          "sha256MatchesManifest": true
+        },
+        {
+          "order": 5,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253181944000\\05-product.png",
+          "exists": true,
+          "sha256MatchesManifest": true
+        },
+        {
+          "order": 6,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253181944000\\06-product.png",
+          "exists": true,
+          "sha256MatchesManifest": true
+        }
+      ],
+      "descriptionExists": true,
+      "uploadState": "LOCAL_BYTES_VERIFIED_VISUAL_REVIEW_NOT_REPEATED",
+      "liveState": "NOT_CHECKED_BY_THIS_LANE"
+    },
+    {
+      "productId": "10253182009536",
+      "title": "Structured Mesh Laundry Wash Bag",
+      "images": [
+        {
+          "order": 1,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253182009536\\01-product.png",
+          "exists": true,
+          "sha256MatchesManifest": true
+        },
+        {
+          "order": 2,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253182009536\\02-product.png",
+          "exists": true,
+          "sha256MatchesManifest": true
+        },
+        {
+          "order": 3,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253182009536\\03-product.png",
+          "exists": true,
+          "sha256MatchesManifest": true
+        },
+        {
+          "order": 4,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253182009536\\04-product.png",
+          "exists": true,
+          "sha256MatchesManifest": true
+        },
+        {
+          "order": 5,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253182009536\\05-product.png",
+          "exists": true,
+          "sha256MatchesManifest": true
+        },
+        {
+          "order": 6,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10253182009536\\06-product.png",
+          "exists": true,
+          "sha256MatchesManifest": true
+        }
+      ],
+      "descriptionExists": true,
+      "uploadState": "LOCAL_BYTES_VERIFIED_VISUAL_REVIEW_NOT_REPEATED",
+      "liveState": "NOT_CHECKED_BY_THIS_LANE"
+    },
+    {
+      "productId": "10257843060928",
+      "title": "Keyboard Cover",
+      "images": [
+        {
+          "order": 1,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10257843060928\\01-product.png",
+          "exists": true,
+          "sha256MatchesManifest": true
+        },
+        {
+          "order": 2,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10257843060928\\02-product.png",
+          "exists": true,
+          "sha256MatchesManifest": true
+        },
+        {
+          "order": 3,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10257843060928\\03-product.png",
+          "exists": true,
+          "sha256MatchesManifest": true
+        },
+        {
+          "order": 4,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10257843060928\\04-product.png",
+          "exists": true,
+          "sha256MatchesManifest": true
+        },
+        {
+          "order": 5,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10257843060928\\05-product.png",
+          "exists": true,
+          "sha256MatchesManifest": true
+        },
+        {
+          "order": 6,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10257843060928\\06-product.png",
+          "exists": true,
+          "sha256MatchesManifest": true
+        }
+      ],
+      "descriptionExists": true,
+      "uploadState": "LOCAL_BYTES_VERIFIED_VISUAL_REVIEW_NOT_REPEATED",
+      "liveState": "NOT_CHECKED_BY_THIS_LANE"
+    },
+    {
+      "productId": "10257843159232",
+      "title": "Two-Tier Kitchen Storage Rack",
+      "images": [
+        {
+          "order": 1,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10257843159232\\01-product.png",
+          "exists": true,
+          "sha256MatchesManifest": true
+        },
+        {
+          "order": 2,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10257843159232\\02-product.png",
+          "exists": true,
+          "sha256MatchesManifest": true
+        },
+        {
+          "order": 3,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10257843159232\\03-product.png",
+          "exists": true,
+          "sha256MatchesManifest": true
+        },
+        {
+          "order": 4,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10257843159232\\04-product.png",
+          "exists": true,
+          "sha256MatchesManifest": true
+        },
+        {
+          "order": 5,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10257843159232\\05-product.png",
+          "exists": true,
+          "sha256MatchesManifest": true
+        },
+        {
+          "order": 6,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10257843159232\\06-product.png",
+          "exists": true,
+          "sha256MatchesManifest": true
+        }
+      ],
+      "descriptionExists": true,
+      "uploadState": "LOCAL_BYTES_VERIFIED_VISUAL_REVIEW_NOT_REPEATED",
+      "liveState": "NOT_CHECKED_BY_THIS_LANE"
+    },
+    {
+      "productId": "10257843224768",
+      "title": "Electric Hair Straightening Brush",
+      "images": [
+        {
+          "order": 1,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10257843224768\\01-product.png",
+          "exists": true,
+          "sha256MatchesManifest": true
+        },
+        {
+          "order": 2,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10257843224768\\02-product.png",
+          "exists": true,
+          "sha256MatchesManifest": true
+        },
+        {
+          "order": 3,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10257843224768\\03-product.png",
+          "exists": true,
+          "sha256MatchesManifest": true
+        },
+        {
+          "order": 4,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10257843224768\\04-product.png",
+          "exists": true,
+          "sha256MatchesManifest": true
+        },
+        {
+          "order": 5,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10257843224768\\05-product.png",
+          "exists": true,
+          "sha256MatchesManifest": true
+        },
+        {
+          "order": 6,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10257843224768\\06-product.png",
+          "exists": true,
+          "sha256MatchesManifest": true
+        }
+      ],
+      "descriptionExists": true,
+      "uploadState": "LOCAL_BYTES_VERIFIED_VISUAL_REVIEW_NOT_REPEATED",
+      "liveState": "NOT_CHECKED_BY_THIS_LANE"
+    },
+    {
+      "productId": "10257843257536",
+      "title": "Stainless Steel Water Bottle",
+      "images": [
+        {
+          "order": 1,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10257843257536\\01-product.png",
+          "exists": true,
+          "sha256MatchesManifest": true
+        },
+        {
+          "order": 2,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10257843257536\\02-product.png",
+          "exists": true,
+          "sha256MatchesManifest": true
+        },
+        {
+          "order": 3,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10257843257536\\03-product.png",
+          "exists": true,
+          "sha256MatchesManifest": true
+        },
+        {
+          "order": 4,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10257843257536\\04-product.png",
+          "exists": true,
+          "sha256MatchesManifest": true
+        },
+        {
+          "order": 5,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10257843257536\\05-product.png",
+          "exists": true,
+          "sha256MatchesManifest": true
+        },
+        {
+          "order": 6,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10257843257536\\06-product.png",
+          "exists": true,
+          "sha256MatchesManifest": true
+        }
+      ],
+      "descriptionExists": true,
+      "uploadState": "LOCAL_BYTES_VERIFIED_VISUAL_REVIEW_NOT_REPEATED",
+      "liveState": "NOT_CHECKED_BY_THIS_LANE"
+    },
+    {
+      "productId": "10257843355840",
+      "title": "Manual Citrus Juicer with Strainer",
+      "images": [
+        {
+          "order": 1,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10257843355840\\01-product.png",
+          "exists": true,
+          "sha256MatchesManifest": true
+        },
+        {
+          "order": 2,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10257843355840\\02-product.png",
+          "exists": true,
+          "sha256MatchesManifest": true
+        },
+        {
+          "order": 3,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10257843355840\\03-product.png",
+          "exists": true,
+          "sha256MatchesManifest": true
+        },
+        {
+          "order": 4,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10257843355840\\04-product.png",
+          "exists": true,
+          "sha256MatchesManifest": true
+        },
+        {
+          "order": 5,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10257843355840\\05-product.png",
+          "exists": true,
+          "sha256MatchesManifest": true
+        },
+        {
+          "order": 6,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10257843355840\\06-product.png",
+          "exists": true,
+          "sha256MatchesManifest": true
+        }
+      ],
+      "descriptionExists": true,
+      "uploadState": "LOCAL_BYTES_VERIFIED_VISUAL_REVIEW_NOT_REPEATED",
+      "liveState": "NOT_CHECKED_BY_THIS_LANE"
+    },
+    {
+      "productId": "10257843454144",
+      "title": "Foldable Canvas Laundry and Storage Bag",
+      "images": [
+        {
+          "order": 1,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10257843454144\\01-product.png",
+          "exists": true,
+          "sha256MatchesManifest": true
+        },
+        {
+          "order": 2,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10257843454144\\02-product.png",
+          "exists": true,
+          "sha256MatchesManifest": true
+        },
+        {
+          "order": 3,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10257843454144\\03-product.png",
+          "exists": true,
+          "sha256MatchesManifest": true
+        },
+        {
+          "order": 4,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10257843454144\\04-product.png",
+          "exists": true,
+          "sha256MatchesManifest": true
+        },
+        {
+          "order": 5,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10257843454144\\05-product.png",
+          "exists": true,
+          "sha256MatchesManifest": true
+        },
+        {
+          "order": 6,
+          "path": "F:\\Dropshipping\\team\\reports\\T030\\catalog-ready\\10257843454144\\06-product.png",
+          "exists": true,
+          "sha256MatchesManifest": true
+        }
+      ],
+      "descriptionExists": true,
+      "uploadState": "LOCAL_BYTES_VERIFIED_VISUAL_REVIEW_NOT_REPEATED",
+      "liveState": "NOT_CHECKED_BY_THIS_LANE"
+    }
+  ],
+  "summary": {
+    "products": 21,
+    "images": 126,
+    "fileProblems": [],
+    "missingDescriptions": []
+  },
+  "soapCorrection": {
+    "productId": "10252037456064",
+    "obsoleteManifestMustNotBeBlindlyUploaded": true,
+    "replacementSource": "team/reports/T033/MEDIA.json",
+    "replacementImages": [
+      {
+        "order": 1,
+        "name": "use",
+        "path": "F:\\Dropshipping\\rozmiso-studio-theme\\assets\\bento-soap-use.webp",
+        "exists": true,
+        "sha256": "c71edbd41b0362e42fb99bfe197c6dd1af7a78e890a2b178bb6ca5485cbea788",
+        "sha256MatchesT033": true,
+        "recordedReview": "ROOT_AND_INDEPENDENT_VISIBLE_IDENTITY_PASS"
+      },
+      {
+        "order": 2,
+        "name": "studio",
+        "path": "F:\\Dropshipping\\rozmiso-studio-theme\\assets\\bento-soap-studio.webp",
+        "exists": true,
+        "sha256": "0444a000bb9d3dc655f47da06f14846cbea0f34dcf96bb451310657536ebff6b",
+        "sha256MatchesT033": true,
+        "recordedReview": "ROOT_VISIBLE_GEOMETRY_PASS"
+      },
+      {
+        "order": 3,
+        "name": "rinse",
+        "path": "F:\\Dropshipping\\rozmiso-studio-theme\\assets\\bento-soap-rinse.webp",
+        "exists": true,
+        "sha256": "0a48bcb41155ef8e58eef177f7cc794e73a6bab272862a28e4307a5572e9fa43",
+        "sha256MatchesT033": true,
+        "recordedReview": "ROOT_VISIBLE_GEOMETRY_PASS"
+      },
+      {
+        "order": 4,
+        "name": "rear",
+        "path": "F:\\Dropshipping\\rozmiso-studio-theme\\assets\\bento-soap-rear.webp",
+        "exists": true,
+        "sha256": "08aa576344b4246076edcc11a0a4d0e12a962f7e6d8830bbb0ee89000ab885cd",
+        "sha256MatchesT033": true,
+        "recordedReview": "ROOT_VISIBLE_GEOMETRY_PASS"
+      },
+      {
+        "order": 5,
+        "name": "cap",
+        "path": "F:\\Dropshipping\\rozmiso-studio-theme\\assets\\bento-soap-cap.webp",
+        "exists": true,
+        "sha256": "53f1ebb0e2667139bcf6fdf71c1328e450fe8be5e83b4d48471b5ba6be3bd8ba",
+        "sha256MatchesT033": true,
+        "recordedReview": "ROOT_VISIBLE_GEOMETRY_PASS"
+      },
+      {
+        "order": 6,
+        "name": "context",
+        "path": "F:\\Dropshipping\\rozmiso-studio-theme\\assets\\bento-soap-context.webp",
+        "exists": true,
+        "sha256": "0590e6352a9c57e21ac3ca4c208db291f4a55167cd4e10fc6af206c325933dcc",
+        "sha256MatchesT033": true,
+        "recordedReview": "ROOT_VISIBLE_GEOMETRY_PASS"
+      }
+    ],
+    "nextAction": "Root to accept overlay into catalog upload plan, verify live product/variant identity and actual saved gallery. This file authorizes no upload."
+  }
+}

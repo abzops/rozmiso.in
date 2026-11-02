@@ -1,0 +1,39 @@
+{
+  "supplier_product_id": "10465255096630",
+  "source_api": "https://cdn-consumer.whatmore.live/v2/brand/78232846646/product-events?client_product_id=10465255096630&status=live,upcoming&event_type=video,image",
+  "permission_source": "https://deodap.in/blogs/news/earn-passive-income-online-in-india-with-deodap-dropshipping",
+  "rights": "SUPPLIER_REUSE_STATEMENT_PRESENT_MUSIC_AND_THIRD_PARTY_RIGHTS_NOT_VERIFIED",
+  "videos": [
+    {
+      "event_id": 409077,
+      "video_url": "https://cdn.shopify.com/videos/c/vp/4f605d856cf946e3b426d1157ef9ad81/4f605d856cf946e3b426d1157ef9ad81.HD-720p-3.0Mbps-95034669.mp4",
+      "downloadPath": "F:\\Dropshipping\\team\\reports\\T037\\11-flexible-flower-shaped-drain-catcher\\videos\\supplier-409077.mp4",
+      "contactSheet": "F:\\Dropshipping\\team\\reports\\T037\\11-flexible-flower-shaped-drain-catcher\\videos\\supplier-409077-frames.jpg",
+      "sha256": "1ec89c6e0e0323d8d882a0429d51affb6ffb456c50d54bff506feb6289d281bf",
+      "metadata": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "h264",
+            "codec_type": "video",
+            "width": 404,
+            "height": 720
+          },
+          {
+            "codec_name": "aac",
+            "codec_type": "audio"
+          }
+        ],
+        "format": {
+          "duration": "23.040000",
+          "size": "8984149"
+        }
+      },
+      "supplier_event_active": false,
+      "matchStatus": "PENDING_FRAME_REVIEW",
+      "source_product_url": "https://deodap.in/products/flexible-silicone-sink-strainer-drain-hair-catcher"
+    }
+  ],
+  "status": "DOWNLOADED_PENDING_IDENTITY_REVIEW"
+}

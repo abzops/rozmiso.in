@@ -1,0 +1,122 @@
+[
+  {
+    "asset": "landing-category-home.webp",
+    "source": "F:\\Dropshipping\\team\\reports\\T028\\generated\\10252037357760\\04-use-context.png",
+    "dimensions": [
+      800,
+      800
+    ],
+    "bytes": 54654,
+    "sha256": "e989b69791e1bd493109b9bb8a001bb62395de6f0e53e365bb9acbaae860a7f0"
+  },
+  {
+    "asset": "landing-category-kitchen.webp",
+    "source": "F:\\Dropshipping\\team\\reports\\T028\\generated\\10257843355840\\context.png",
+    "dimensions": [
+      800,
+      800
+    ],
+    "bytes": 83734,
+    "sha256": "706de62c489f1f5821d30906bbb0201fbb35712ad1f62a7375953032eefe4c48"
+  },
+  {
+    "asset": "landing-category-travel.webp",
+    "source": "F:\\Dropshipping\\team\\reports\\T028\\generated\\10252037390528\\04-use-context.png",
+    "dimensions": [
+      800,
+      800
+    ],
+    "bytes": 155194,
+    "sha256": "42e1cd7bad37caba5bfd0fe2ab049e30ac310fc7b891596aaf5896d4a8f0bb70"
+  },
+  {
+    "asset": "landing-category-personal.webp",
+    "source": "F:\\Dropshipping\\team\\reports\\T028\\generated\\10252037324992\\10252037324992-studio.png",
+    "dimensions": [
+      800,
+      800
+    ],
+    "bytes": 40328,
+    "sha256": "403e927836e1cf1e3685b1ad492a1692de72fb0c661fec0392f444e06cb0d2c1"
+  },
+  {
+    "asset": "landing-category-other.webp",
+    "source": "F:\\Dropshipping\\team\\reports\\T028\\generated\\10253181845696\\usecase.png",
+    "dimensions": [
+      800,
+      800
+    ],
+    "bytes": 31894,
+    "sha256": "53bb111dd3858de6299827ab8049f8c39aca3b6829ef46f7d0adff2ca581132d"
+  },
+  {
+    "asset": "landing-product-soap.webp",
+    "source": "F:\\Dropshipping\\team\\reports\\T031\\generated\\soap-corrected.png",
+    "dimensions": [
+      800,
+      800
+    ],
+    "bytes": 64666,
+    "sha256": "1957aa2f996c20d79ff184b0a2a28b579f707c4e55e3ef9603ae9a6c42103684"
+  },
+  {
+    "asset": "landing-product-lid.webp",
+    "source": "F:\\Dropshipping\\team\\reports\\T028\\generated\\10253181681856\\studio.png",
+    "dimensions": [
+      800,
+      800
+    ],
+    "bytes": 22710,
+    "sha256": "b1ddaba237f6bcaf772a7295213909f21ed868d1bd5ce4bf80c4bf570fd777fd"
+  },
+  {
+    "asset": "landing-product-brush.webp",
+    "source": "F:\\Dropshipping\\team\\reports\\T028\\generated\\10252037357760\\01-studio-no-cable.png",
+    "dimensions": [
+      800,
+      800
+    ],
+    "bytes": 18014,
+    "sha256": "d2fe144bd7e1dce644c79443c74e89cacea56110121a610be6def93a9b169f74"
+  },
+  {
+    "asset": "landing-product-cable.webp",
+    "source": "F:\\Dropshipping\\team\\reports\\T028\\generated\\10253181845696\\usecase.png",
+    "dimensions": [
+      800,
+      800
+    ],
+    "bytes": 31894,
+    "sha256": "53bb111dd3858de6299827ab8049f8c39aca3b6829ef46f7d0adff2ca581132d"
+  },
+  {
+    "asset": "landing-hero.webp",
+    "source": "F:\\Dropshipping\\team\\reports\\T031\\generated\\hero.png",
+    "dimensions": [
+      1983,
+      793
+    ],
+    "bytes": 88752,
+    "sha256": "e5844550ead52d93b95976522da5cc5547819e59dda8d4dfecd0c7b1f33db7a2"
+  },
+  {
+    "asset": "landing-home.webp",
+    "source": "F:\\Dropshipping\\team\\reports\\T031\\generated\\home.png",
+    "dimensions": [
+      2172,
+      724
+    ],
+    "bytes": 153592,
+    "sha256": "8293f5bbd13c5a6f30355eb4693f87d6b3327ed2b278ec8a10820d8c6946338e"
+  },
+  {
+    "asset": "landing-travel.webp",
+    "source": "F:\\Dropshipping\\team\\reports\\T031\\generated\\travel.png",
+    "dimensions": [
+      2172,
+      724
+    ],
+    "bytes": 208540,
+    "sha256": "282aeb31fbd4738b2c94c68be4b817e157734071792fde4f2707da110d0ecc7d"
+  }
+]

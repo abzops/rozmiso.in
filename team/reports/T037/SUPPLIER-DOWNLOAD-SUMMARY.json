@@ -1,0 +1,102 @@
+[
+  {
+    "index": 1,
+    "status": "DOWNLOADED_PENDING_IDENTITY_REVIEW",
+    "downloads": 1
+  },
+  {
+    "index": 2,
+    "status": "NO_RESOLVED_SUPPLIER_PRODUCT"
+  },
+  {
+    "index": 3,
+    "status": "NO_RESOLVED_SUPPLIER_PRODUCT"
+  },
+  {
+    "index": 4,
+    "status": "NO_RESOLVED_SUPPLIER_PRODUCT"
+  },
+  {
+    "index": 5,
+    "status": "NO_RESOLVED_SUPPLIER_PRODUCT"
+  },
+  {
+    "index": 6,
+    "status": "NO_RESOLVED_SUPPLIER_PRODUCT"
+  },
+  {
+    "index": 7,
+    "status": "NO_TAGGED_DIRECT_MP4",
+    "downloads": 0
+  },
+  {
+    "index": 8,
+    "status": "NO_TAGGED_DIRECT_MP4",
+    "downloads": 0
+  },
+  {
+    "index": 9,
+    "status": "NO_TAGGED_DIRECT_MP4",
+    "downloads": 0
+  },
+  {
+    "index": 10,
+    "status": "DOWNLOADED_PENDING_IDENTITY_REVIEW",
+    "downloads": 1
+  },
+  {
+    "index": 11,
+    "status": "DOWNLOADED_PENDING_IDENTITY_REVIEW",
+    "downloads": 1
+  },
+  {
+    "index": 12,
+    "status": "DOWNLOADED_PENDING_IDENTITY_REVIEW",
+    "downloads": 1
+  },
+  {
+    "index": 13,
+    "status": "DOWNLOADED_PENDING_IDENTITY_REVIEW",
+    "downloads": 1
+  },
+  {
+    "index": 14,
+    "status": "DOWNLOADED_PENDING_IDENTITY_REVIEW",
+    "downloads": 1
+  },
+  {
+    "index": 15,
+    "status": "NO_TAGGED_DIRECT_MP4",
+    "downloads": 0
+  },
+  {
+    "index": 16,
+    "status": "DOWNLOADED_PENDING_IDENTITY_REVIEW",
+    "downloads": 1
+  },
+  {
+    "index": 17,
+    "status": "NO_TAGGED_DIRECT_MP4",
+    "downloads": 0
+  },
+  {
+    "index": 18,
+    "status": "NO_TAGGED_DIRECT_MP4",
+    "downloads": 0
+  },
+  {
+    "index": 19,
+    "status": "DOWNLOADED_PENDING_IDENTITY_REVIEW",
+    "downloads": 1
+  },
+  {
+    "index": 20,
+    "status": "NO_TAGGED_DIRECT_MP4",
+    "downloads": 0
+  },
+  {
+    "index": 21,
+    "status": "NO_TAGGED_DIRECT_MP4",
+    "downloads": 0
+  }
+]

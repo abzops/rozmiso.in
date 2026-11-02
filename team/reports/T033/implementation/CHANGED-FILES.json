@@ -1,0 +1,18 @@
+[
+  {
+    "path": "sections/studio-product.liquid",
+    "sha256": "6e6244d30c13f158aed75e4b4a1772538e17b8f434958b30c74118a8eaf59964"
+  },
+  {
+    "path": "assets/product-bento.css",
+    "sha256": "8f4323e25af469a4085f3bea1eba05c5981e8c70f8575bd57d3988171b341897"
+  },
+  {
+    "path": "assets/product-bento.js",
+    "sha256": "05f715f1da3d458cd253eeb578f44d8dccf733a4515b935e279828087d84babc"
+  },
+  {
+    "path": "snippets/bento-icon.liquid",
+    "sha256": "defb29d0c5217f254284152d422ffa6e7f3505f790c23a8df38186a538966b93"
+  }
+]

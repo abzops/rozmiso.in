@@ -1,0 +1,7 @@
+{
+  "scope": "Local source only; excludes dynamic locale/render/asset expressions and external routes. Not live or browser acceptance.",
+  "literalTranslationReferences": 161,
+  "missingLocaleKeys": [],
+  "missingLiteralSnippets": [],
+  "missingLiteralAssets": []
+}

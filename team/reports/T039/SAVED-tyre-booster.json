@@ -1,0 +1,27 @@
+{
+  "id": "gid://shopify/Product/10310413320384",
+  "title": "Motorcycle Flat-Tyre Support Dolly",
+  "vendor": "Rozmiso",
+  "status": "DRAFT",
+  "productType": "Travel essentials",
+  "descriptionHtml": "<p>A compact wheeled support designed to help reposition a two-wheeler with a flat tyre. The metal cradle supports the tyre while its small wheels help it roll during careful manual movement.</p><ul>\n<li>Galvanized steel support frame.</li>\n<li>Compact wheeled cradle.</li>\n<li>Intended as a temporary movement aid for a flat tyre.</li>\n</ul><p>Check tyre fit and follow the supplied instructions before use. Push manually on a suitable level surface. Do not ride the vehicle with the dolly fitted. This tool does not repair or inflate a tyre.</p>",
+  "tags": [
+    "final-v5",
+    "launch-review",
+    "T039"
+  ],
+  "totalInventory": 0,
+  "featuredImageUrl": null,
+  "images": [],
+  "totalVariants": 1,
+  "variants": [
+    {
+      "id": "gid://shopify/ProductVariant/50665316057280",
+      "title": "Default Title",
+      "sku": "1683_emergency_wheel_puller",
+      "price": "899.00",
+      "inventoryQuantity": 0
+    }
+  ],
+  "currencyCode": "INR"
+}

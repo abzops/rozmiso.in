@@ -1,0 +1,39 @@
+{
+  "supplier_product_id": "9074408620342",
+  "source_api": "https://cdn-consumer.whatmore.live/v2/brand/78232846646/product-events?client_product_id=9074408620342&status=live,upcoming&event_type=video,image",
+  "permission_source": "https://deodap.in/blogs/news/earn-passive-income-online-in-india-with-deodap-dropshipping",
+  "rights": "SUPPLIER_REUSE_STATEMENT_PRESENT_MUSIC_AND_THIRD_PARTY_RIGHTS_NOT_VERIFIED",
+  "videos": [
+    {
+      "event_id": 185917,
+      "video_url": "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/whatmore_1080p_e1546106-4f12-4146-abf4-de475e76f5d6.mp4?v=1749126826",
+      "downloadPath": "F:\\Dropshipping\\team\\reports\\T037\\10-3-in-1-bottle-lid-cleaning-tool\\videos\\supplier-185917.mp4",
+      "contactSheet": "F:\\Dropshipping\\team\\reports\\T037\\10-3-in-1-bottle-lid-cleaning-tool\\videos\\supplier-185917-frames.jpg",
+      "sha256": "99ed3349395a3fe5b863ee27c0d798fb471c5c97d81f2d9b9cc8858eb3499fa0",
+      "metadata": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "h264",
+            "codec_type": "video",
+            "width": 720,
+            "height": 1280
+          },
+          {
+            "codec_name": "aac",
+            "codec_type": "audio"
+          }
+        ],
+        "format": {
+          "duration": "31.742608",
+          "size": "6286646"
+        }
+      },
+      "supplier_event_active": false,
+      "matchStatus": "PENDING_FRAME_REVIEW",
+      "source_product_url": "https://deodap.in/products/3-in-1-multifunctional-cleaning-brush"
+    }
+  ],
+  "status": "DOWNLOADED_PENDING_IDENTITY_REVIEW"
+}

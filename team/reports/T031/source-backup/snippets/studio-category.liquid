@@ -1,0 +1,9 @@
+{%- comment -%}Customer-facing category key. Unknown or blank supplier types retain an explicit fallback.{%- endcomment -%}
+{%- assign supplier_type = item.type | remove: ',' | strip | downcase -%}
+{%- case supplier_type -%}
+{%- when 'home care', 'home improvement' -%}home-care
+{%- when 'kitchen', 'kitchen essentials', 'kitchen storage container & rack' -%}kitchen-essentials
+{%- when 'travel essentials' -%}travel-essentials
+{%- when 'beauty health & personal care' -%}personal-care
+{%- else -%}other-essentials
+{%- endcase -%}

@@ -1,0 +1,60 @@
+{
+  "events": [
+    {
+      "event_id": 325383,
+      "storyset_id": null,
+      "storyset_name": null,
+      "storyset_thumbnail_image": null,
+      "storyset_event_rank": null,
+      "storyset_event_map_id": null,
+      "storyset_dynamic_thumbnail": false,
+      "meta_actions": null,
+      "products": [
+        {
+          "product_id": 258020,
+          "brand": "DeoDap",
+          "product_link": "https://deodap.in/products/car-cleaning-duster-brush-multi-purpose-home",
+          "client_product_id": "8427264246070",
+          "price": "73.00",
+          "currency": "INR",
+          "title": "Car Cleaning Duster Brush \u2013 Multi-Purpose for Home & Upholstery | Velvet Wipe",
+          "description": "",
+          "thumbnail_image": "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/4864.png?v=1786597329",
+          "compare_price": "149.00",
+          "product_metadata": null,
+          "product_status": "active"
+        }
+      ],
+      "cta": [
+        {
+          "cta_id": 1893,
+          "cta_link": "https://whatmore.ai",
+          "client_cta_id": "https://whatmore.ai",
+          "cta_title": "",
+          "thumbnail_image": "",
+          "cta_type": ""
+        }
+      ],
+      "title": "",
+      "brand": "DeoDap",
+      "scheduled_date": "2026-03-13",
+      "status": "upcoming",
+      "thumbnail_image": "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/tn_7c1002f0-b7fa-4441-8d40-369015799e06.mp4?v=1773405417",
+      "event_hls_url": "https://cdn.shopify.com/videos/c/vp/dd1b0790e7094bdd8d93ea6be286dd18/dd1b0790e7094bdd8d93ea6be286dd18.HD-720p-1.6Mbps-77814382.mp4",
+      "event_type": "video",
+      "is_active": true,
+      "rank": 529,
+      "event_state": "ready",
+      "expiration_date": null,
+      "poster_image": "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/poster_7c1002f0-b7fa-4441-8d40-369015799e06.webp?v=1773405422",
+      "gif_image": "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/gif_7c1002f0-b7fa-4441-8d40-369015799e06.gif?v=1773405428",
+      "event_m3u8_url": "https://cdn.shopify.com/videos/c/vp/dd1b0790e7094bdd8d93ea6be286dd18/dd1b0790e7094bdd8d93ea6be286dd18.m3u8",
+      "hd_video_url": "https://cdn.shopify.com/videos/c/vp/dd1b0790e7094bdd8d93ea6be286dd18/dd1b0790e7094bdd8d93ea6be286dd18.HD-1080p-2.5Mbps-77814382.mp4",
+      "total_views": 16275,
+      "total_like": 163,
+      "total_share": 5,
+      "total_whatsapp": 0,
+      "in_stock": true
+    }
+  ]
+}

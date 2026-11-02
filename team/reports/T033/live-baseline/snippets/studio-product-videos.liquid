@@ -1,0 +1,11 @@
+{% doc %}
+Renders only real video media attached to the current Shopify product. No external lookup or placeholder demonstrations.
+@param {product} item - Product
+{% enddoc %}
+{% assign hosted_videos = item.media | where: 'media_type', 'video' %}
+{% assign external_videos = item.media | where: 'media_type', 'external_video' %}
+{% assign video_count = hosted_videos.size | plus: external_videos.size %}
+{% if video_count > 0 %}<section class="product-videos" aria-labelledby="ProductVideoHeading"><h2 id="ProductVideoHeading">{{ 'product.videos' | t }}</h2>
+{% for media in item.media %}{% if media.media_type == 'video' or media.media_type == 'external_video' %}<figure class="product-video-frame">
+{% if media.media_type == 'video' %}{{ media | video_tag: image_size: '900x', controls: true, autoplay: false, loop: false, preload: 'none', class: 'product-video' }}{% else %}{{ media | external_video_url: autoplay: '0' | external_video_tag: loading: 'lazy', class: 'product-video' }}{% endif %}
+{% if media.alt != blank %}<figcaption>{{ media.alt | escape }}</figcaption>{% endif %}</figure>{% endif %}{% endfor %}</section>{% endif %}

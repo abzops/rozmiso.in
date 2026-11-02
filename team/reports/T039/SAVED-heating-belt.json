@@ -1,0 +1,27 @@
+{
+  "id": "gid://shopify/Product/10310413156544",
+  "title": "Rechargeable Heating Belt with Vibration",
+  "vendor": "Rozmiso",
+  "status": "DRAFT",
+  "productType": "Personal care",
+  "descriptionHtml": "<p>A rechargeable waist belt that combines adjustable warmth with a gentle vibration setting. The compact front unit sits on an adjustable strap for use around the waist.</p><ul>\n<li>Rechargeable design for cordless use.</li>\n<li>Heating and vibration functions.</li>\n<li>Adjustable waist strap and digital display.</li>\n</ul><p>Follow the supplied instructions for charging, temperature settings and safe use. Keep the electronic unit dry. Colour and packed accessories should be confirmed before ordering.</p>",
+  "tags": [
+    "final-v5",
+    "launch-review",
+    "T039"
+  ],
+  "totalInventory": 0,
+  "featuredImageUrl": null,
+  "images": [],
+  "totalVariants": 1,
+  "variants": [
+    {
+      "id": "gid://shopify/ProductVariant/50665315696832",
+      "title": "Default Title",
+      "sku": "13483_smart_warm_belt_1pc",
+      "price": "999.00",
+      "inventoryQuantity": 0
+    }
+  ],
+  "currencyCode": "INR"
+}

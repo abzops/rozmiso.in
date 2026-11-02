@@ -1,0 +1,158 @@
+{
+  "data": {
+    "nodes": [
+      {
+        "id": "gid://shopify/Product/10310413156544",
+        "status": "ACTIVE",
+        "onlineStoreUrl": "https://rozmiso.myshopify.com/products/rechargeable-heating-belt-with-vibration",
+        "publishedOnPublication": true,
+        "media": {
+          "nodes": [
+            {
+              "id": "gid://shopify/MediaImage/49470066950336",
+              "mediaContentType": "IMAGE"
+            },
+            {
+              "id": "gid://shopify/MediaImage/49470078255296",
+              "mediaContentType": "IMAGE"
+            },
+            {
+              "id": "gid://shopify/MediaImage/49470081401024",
+              "mediaContentType": "IMAGE"
+            }
+          ]
+        },
+        "variants": {
+          "nodes": [
+            {
+              "id": "gid://shopify/ProductVariant/50665315696832",
+              "inventoryQuantity": 0,
+              "inventoryPolicy": "DENY"
+            }
+          ]
+        }
+      },
+      {
+        "id": "gid://shopify/Product/10310413254848",
+        "status": "ACTIVE",
+        "onlineStoreUrl": "https://rozmiso.myshopify.com/products/usb-rechargeable-scalp-massager-with-four-heads",
+        "publishedOnPublication": true,
+        "media": {
+          "nodes": [
+            {
+              "id": "gid://shopify/MediaImage/49470081761472",
+              "mediaContentType": "IMAGE"
+            },
+            {
+              "id": "gid://shopify/MediaImage/49470084776128",
+              "mediaContentType": "IMAGE"
+            },
+            {
+              "id": "gid://shopify/MediaImage/49470086742208",
+              "mediaContentType": "IMAGE"
+            }
+          ]
+        },
+        "variants": {
+          "nodes": [
+            {
+              "id": "gid://shopify/ProductVariant/50665315926208",
+              "inventoryQuantity": 0,
+              "inventoryPolicy": "DENY"
+            }
+          ]
+        }
+      },
+      {
+        "id": "gid://shopify/Product/10310413320384",
+        "status": "ACTIVE",
+        "onlineStoreUrl": "https://rozmiso.myshopify.com/products/motorcycle-flat-tyre-support-dolly",
+        "publishedOnPublication": true,
+        "media": {
+          "nodes": [
+            {
+              "id": "gid://shopify/MediaImage/49470086480064",
+              "mediaContentType": "IMAGE"
+            },
+            {
+              "id": "gid://shopify/MediaImage/49470087168192",
+              "mediaContentType": "IMAGE"
+            },
+            {
+              "id": "gid://shopify/MediaImage/49470087463104",
+              "mediaContentType": "IMAGE"
+            }
+          ]
+        },
+        "variants": {
+          "nodes": [
+            {
+              "id": "gid://shopify/ProductVariant/50665316057280",
+              "inventoryQuantity": 0,
+              "inventoryPolicy": "DENY"
+            }
+          ]
+        }
+      },
+      {
+        "id": "gid://shopify/Product/10249095086272",
+        "status": "ACTIVE",
+        "onlineStoreUrl": "https://rozmiso.myshopify.com/products/astronaut-galaxy-nebula-projector",
+        "publishedOnPublication": true,
+        "media": {
+          "nodes": [
+            {
+              "id": "gid://shopify/MediaImage/49470088937664",
+              "mediaContentType": "IMAGE"
+            }
+          ]
+        },
+        "variants": {
+          "nodes": [
+            {
+              "id": "gid://shopify/ProductVariant/50402719531200",
+              "inventoryQuantity": 0,
+              "inventoryPolicy": "DENY"
+            },
+            {
+              "id": "gid://shopify/ProductVariant/50402719563968",
+              "inventoryQuantity": 0,
+              "inventoryPolicy": "DENY"
+            }
+          ]
+        }
+      },
+      {
+        "id": "gid://shopify/Product/10310413418688",
+        "status": "ACTIVE",
+        "onlineStoreUrl": "https://rozmiso.myshopify.com/products/portable-usb-rechargeable-blender-380-ml",
+        "publishedOnPublication": true,
+        "media": {
+          "nodes": [
+            {
+              "id": "gid://shopify/MediaImage/49470090674368",
+              "mediaContentType": "IMAGE"
+            },
+            {
+              "id": "gid://shopify/MediaImage/49470093623488",
+              "mediaContentType": "IMAGE"
+            },
+            {
+              "id": "gid://shopify/MediaImage/49470093951168",
+              "mediaContentType": "IMAGE"
+            }
+          ]
+        },
+        "variants": {
+          "nodes": [
+            {
+              "id": "gid://shopify/ProductVariant/50665316352192",
+              "inventoryQuantity": 0,
+              "inventoryPolicy": "DENY"
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

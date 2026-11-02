@@ -1,0 +1,49 @@
+{
+  "productId": 10257843159232,
+  "title": "Two-Tier Kitchen Storage Rack",
+  "checkedAt": "2026-10-29",
+  "queries": [
+    "\"2796\" \"kitchen rack\" video",
+    "site.instagram.com \"2 layer\" \"kitchen rack\" deodap",
+    "site.youtube.com \"DeoDap\" \"kitchen rack\"",
+    "\"2796_2layer_kitchen_rack\"",
+    "\"2 layer kitchen rack\" \"video\"",
+    "site.instagram.com/reel \"stackable\" \"kitchen\" \"shelf\" wire",
+    "site.youtube.com/watch \"2 Layer Kitchen Rack\"",
+    "\"kitchen rack\" \"2796\" deodap instagram facebook youtube",
+    "\"foldable kitchen shelf\" site.instagram.com/reel",
+    "\"stackable kitchen shelf\" site.youtube.com/shorts"
+  ],
+  "candidates": [
+    {
+      "url": "https://www.lazada.com.ph/videodetail/?video_id=8000046496027",
+      "platform": "Lazada Product Video",
+      "title": "2-Layer Kitchen Rack | Organizer Rack | Countertop Rack",
+      "downloadPath": null,
+      "downloadStatus": "DOWNLOAD_NOT_AVAILABLE",
+      "rightsStatus": "REFERENCE_ONLY_RIGHTS_UNCONFIRMED",
+      "rightsEvidenceUrl": null,
+      "matchStatus": "UNVERIFIED",
+      "matchEvidence": "Opened video landing page. Page exposes title and Play Video label but returns deleted-file error in product content. No actual video frames inspected; title does not establish geometry or SKU.",
+      "qualityNotes": "Resolution, aspect ratio, hook, overlays, watermark and actual playback unverified.",
+      "videoMetadata": null
+    },
+    {
+      "url": "https://aapkaessentials.in/products/2796-2-layer-kitchen-rack-for-holding-and-placing-types-of-things",
+      "platform": "Supplier/reseller product listing",
+      "title": "2796 2 Layer Kitchen Rack For Holding And Placing Types Of Things.",
+      "downloadPath": null,
+      "downloadStatus": "DOWNLOAD_NOT_AVAILABLE",
+      "rightsStatus": "REFERENCE_ONLY_RIGHTS_UNCONFIRMED",
+      "rightsEvidenceUrl": null,
+      "matchStatus": "UNVERIFIED",
+      "matchEvidence": "Indexed listing explicitly repeats SKU2796 and shows 11 image entries, not a video. Useful sourcing lead only; no video frames verified.",
+      "qualityNotes": "Still-image listing; not a usable video candidate.",
+      "videoMetadata": null
+    }
+  ],
+  "bestCandidate": null,
+  "outcome": "NO_VERIFIED_EXACT_REUSABLE_VIDEO",
+  "sourceReferenceReview": "Viewed both local authoritative original reference images; dark brown rectangular lattice platforms, shiny bent wire legs; white stacked version has two raised platforms and open space beneath.",
+  "supplierScan": "SUPPLIER-MEDIA-SCAN.json records exact DeoDap URL404; no directly offered original video located."
+}

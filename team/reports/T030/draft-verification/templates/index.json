@@ -1,0 +1,137 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "hero": {
+      "type": "studio-hero",
+      "settings": {
+        "eyebrow": "THE EVERYDAY EDIT",
+        "heading": "Home care. Kitchen. Travel.",
+        "description": "Explore the products below. Open a product to see its details and care guidance.",
+        "button_label": "View all products",
+        "note": "Home care · Kitchen essentials · Travel",
+        "image_url": "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/rozmiso-23469_electric_lint_remover_1pc_no5.jpg?v=1791204936",
+        "image_alt": "USB Rechargeable Fabric Shaver",
+        "image_label": "A fresh start for your favourite fabrics",
+        "catalog_first": true
+      }
+    },
+    "edit": {
+      "type": "studio-edit",
+      "settings": {
+        "eyebrow": "EXPLORE ROZMISO",
+        "heading": "Browse products",
+        "description": ""
+      },
+      "blocks": {
+        "item0": {
+          "type": "product_preview",
+          "settings": {
+            "title": "USB Rechargeable Fabric Shaver",
+            "category": "Home care",
+            "price": "₹799",
+            "image_url": "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/rozmiso-23469_electric_lint_remover_1pc_no5.jpg?v=1791204936",
+            "product": "usb-rechargeable-fabric-shaver"
+          }
+        },
+        "item1": {
+          "type": "product_preview",
+          "settings": {
+            "title": "5-in-1 Rechargeable Cleaning Brush",
+            "category": "Home care",
+            "price": "₹649",
+            "image_url": "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/rozmiso-6329_5in1_magic_cleaning_brush.jpg?v=1791204940",
+            "product": "5-in-1-rechargeable-cleaning-brush"
+          }
+        },
+        "item2": {
+          "type": "product_preview",
+          "settings": {
+            "title": "Everyday Travel Organizer Pouch",
+            "category": "Travel essentials",
+            "price": "₹349",
+            "image_url": "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/rozmiso-0642_multipurpose_travel_organizer_bag_1pc_no1.jpg?v=1791204944",
+            "product": "everyday-travel-organizer-pouch"
+          }
+        },
+        "item3": {
+          "type": "product_preview",
+          "settings": {
+            "title": "2-in-1 Soap Dispensing Cleaning Brush",
+            "category": "Kitchen essentials",
+            "price": "₹299",
+            "image_url": "https://cdn.shopify.com/s/files/1/0784/8971/4880/files/rozmiso-22895_plastic_2in1_soap_dispenser_cleaning_brush.jpg?v=1791204947",
+            "product": "2-in-1-soap-dispensing-cleaning-brush"
+          }
+        }
+      },
+      "block_order": [
+        "item0",
+        "item2",
+        "item3",
+        "item1"
+      ]
+    },
+    "story": {
+      "type": "studio-story",
+      "settings": {
+        "eyebrow": "OUR APPROACH",
+        "heading": "Useful things, clearly explained.",
+        "body": "Thoughtful finds for home care, kitchen routines and travel. Explore the product details, materials and care guidance to choose what fits your everyday."
+      }
+    },
+    "faq": {
+      "type": "studio-faq",
+      "settings": {},
+      "blocks": {
+        "q0": {
+          "type": "question",
+          "settings": {
+            "question": "Where can I see delivery options?",
+            "answer": "<p>Check the delivery options and total charges at checkout before placing an order. Product availability is shown on each product page. Contact us with delivery questions.</p>"
+          }
+        },
+        "q1": {
+          "type": "question",
+          "settings": {
+            "question": "Which payment methods can I use?",
+            "answer": "<p>Review the payment methods shown at checkout before completing a purchase. Contact us if you have a payment question; never send card details or payment passwords through the contact form.</p>"
+          }
+        },
+        "q2": {
+          "type": "question",
+          "settings": {
+            "question": "How do I choose the right product?",
+            "answer": "<p>Read the product description and care details, then select the option you need before adding it to your bag.</p>"
+          }
+        },
+        "q3": {
+          "type": "question",
+          "settings": {
+            "question": "How can I ask about an order?",
+            "answer": "<p>Use our contact form and include your order number and question. Never include payment passwords or card details.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "q0",
+        "q1",
+        "q2",
+        "q3"
+      ]
+    }
+  },
+  "order": [
+    "hero",
+    "edit",
+    "story",
+    "faq"
+  ]
+}

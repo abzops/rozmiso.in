@@ -1,0 +1,56 @@
+{
+  "event_id": 185917,
+  "storyset_id": null,
+  "storyset_name": null,
+  "storyset_thumbnail_image": null,
+  "storyset_event_rank": null,
+  "storyset_event_map_id": null,
+  "storyset_dynamic_thumbnail": false,
+  "meta_actions": null,
+  "products": [
+    {
+      "product_id": 156817,
+      "brand": "DeoDap",
+      "product_link": "https://deodap.in/products/3-in-1-multifunctional-cleaning-brush",
+      "client_product_id": "9074408620342",
+      "price": "28.00",
+      "currency": null,
+      "title": "Bottle Cleaning Brush – 3-in-1 Multifunctional | SparkleTidy",
+      "description": "",
+      "thumbnail_image": "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/WhatsApp_Image_2026-08-25_at_5.27.07_PM_bf327462-e598-4a71-97b6-e003434c69bd.jpg?v=1787735076",
+      "compare_price": "199.00",
+      "product_metadata": null,
+      "product_status": "active"
+    }
+  ],
+  "cta": [
+    {
+      "cta_id": 1893,
+      "cta_link": "https://whatmore.ai",
+      "client_cta_id": "https://whatmore.ai",
+      "cta_title": "",
+      "thumbnail_image": "",
+      "cta_type": ""
+    }
+  ],
+  "title": "",
+  "brand": "DeoDap",
+  "scheduled_date": "2025-06-05",
+  "status": "upcoming",
+  "thumbnail_image": "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/whatmore_tn_e1546106-4f12-4146-abf4-de475e76f5d6.mp4?v=1749126833",
+  "event_hls_url": "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/whatmore_1080p_e1546106-4f12-4146-abf4-de475e76f5d6.mp4?v=1749126826",
+  "event_type": "video",
+  "is_active": false,
+  "rank": 2934,
+  "event_state": "ready",
+  "expiration_date": null,
+  "poster_image": "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/whatmore_poster_e1546106-4f12-4146-abf4-de475e76f5d6.webp?v=1749126849",
+  "gif_image": "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/whatmore_gif_e1546106-4f12-4146-abf4-de475e76f5d6.gif?v=1749126843",
+  "event_m3u8_url": null,
+  "hd_video_url": "",
+  "total_views": "9026",
+  "total_like": "127",
+  "total_share": "14",
+  "total_whatsapp": "0",
+  "in_stock": true
+}
